@@ -61,22 +61,13 @@ body::before{
   justify-content:space-between;
   gap:24px;
 }
+:root{--logo-img:url("data:image/png;base64,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")}
 .logo-mark{
-  font-family:var(--font-display);
-  font-weight:900;
-  font-size:26px;
-  color:var(--rosewood);
-  letter-spacing:-0.04em;
-  line-height:1;
-  position:relative;
+  width:46px;height:31px;
+  background:var(--logo-img) left center / contain no-repeat;
+  font-size:0;color:transparent;line-height:1;position:relative;
 }
-.logo-mark::after{
-  content:'®';
-  font-size:10px;
-  vertical-align:super;
-  margin-left:1px;
-  opacity:.7;
-}
+.logo-mark::after{content:none}
 .header-meta{display:flex;flex-direction:column;gap:2px}
 .header-title{font-weight:700;font-size:13px;color:var(--ivory);letter-spacing:.02em;text-transform:uppercase}
 .header-sub{font-family:var(--font-mono);font-size:10px;color:var(--clay);letter-spacing:.1em;text-transform:uppercase}
@@ -560,9 +551,10 @@ body::before{
 }
 @keyframes gateIn{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
 .gate-logo{
-  font-weight:900;font-size:40px;color:var(--rosewood);letter-spacing:-.04em;line-height:1;margin-bottom:6px;
+  width:132px;height:89px;margin:0 auto 6px;
+  background:var(--logo-img) center / contain no-repeat;font-size:0;color:transparent;line-height:1;
 }
-.gate-logo span{font-size:14px;vertical-align:super;opacity:.7}
+.gate-logo span{display:none}
 .gate-eyebrow{
   font-family:var(--font-mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;
   color:var(--clay);margin-bottom:28px;
@@ -2316,13 +2308,9 @@ function chColor(ch) {
   return "var(--burgundy)";
 }
 
-// Barra controlli (modifica/duplica/elimina) per ogni elemento editabile
+// Tre puntini → menu (modifica / duplica / elimina) per ogni elemento
 function ecBar(coll, idx){
-  return `<div class="ec-bar">
-    <button class="ec-btn" title="Modifica" onclick="editItem('${coll}',${idx},event)">✎</button>
-    <button class="ec-btn" title="Duplica" onclick="dupItem('${coll}',${idx},event)">⧉</button>
-    <button class="ec-btn ec-del" title="Elimina" onclick="delItem('${coll}',${idx},event)">🗑</button>
-  </div>`;
+  return `<button class="ec-dots" title="Opzioni" onclick="openItemMenu('${coll}',${idx},event)">⋯</button>`;
 }
 
 function renderRubriche() {
@@ -2407,7 +2395,7 @@ function renderCalendar() {
   const content = document.getElementById("calendar-content");
   const active = document.querySelector(".month-btn.active")?.dataset.month || "0";
   switcher.innerHTML = calData.map((m,i)=>`
-    <button class="month-btn${String(i)===active?" active":""}" data-month="${i}">${m.month}<span class="ec-inline" onclick="editMonth(${i},event)">✎</span><span class="ec-inline ec-del" onclick="delMonth(${i},event)">🗑</span></button>`).join("")
+    <button class="month-btn${String(i)===active?" active":""}" data-month="${i}">${m.month}<span class="ec-dots ec-dots-inline" title="Opzioni mese" onclick="openMonthMenu(${i},event)">⋯</span></button>`).join("")
     + `<button class="edit-add-btn edit-inline-add" data-add="month">＋ Mese</button>`;
   content.innerHTML = calData.map((m,i)=>`
     <div class="month-content${String(i)===active?" active":""}" id="month-${i}">
@@ -2416,10 +2404,7 @@ function renderCalendar() {
           <div class="week-header">
             <div class="week-title">${w.week}</div>
             <span class="tag" style="color:var(--plum);border-color:var(--plum)">${w.theme}</span>
-            <div class="ec-bar ec-bar-inline">
-              <button class="ec-btn" title="Modifica settimana" onclick="editWeek(${i},${wi},event)">✎</button>
-              <button class="ec-btn ec-del" title="Elimina settimana" onclick="delWeek(${i},${wi},event)">🗑</button>
-            </div>
+            <span class="ec-dots ec-dots-inline" title="Opzioni settimana" style="margin-left:auto" onclick="openWeekMenu(${i},${wi},event)">⋯</span>
           </div>
           <div class="table-scroll">
             <table class="cal-table">
@@ -2436,9 +2421,7 @@ function renderCalendar() {
                   <td class="cal-goal">${d.goal}</td>
                   <td class="cal-cta">${d.cta}</td>
                   <td class="ec-cell">
-                    <button class="ec-btn" title="Modifica" onclick="editDay(${i},${wi},${di},event)">✎</button>
-                    <button class="ec-btn" title="Duplica" onclick="dupDay(${i},${wi},${di},event)">⧉</button>
-                    <button class="ec-btn ec-del" title="Elimina" onclick="delDay(${i},${wi},${di},event)">🗑</button>
+                    <button class="ec-dots" title="Opzioni" onclick="openDayMenu(${i},${wi},${di},event)">⋯</button>
                   </td>
                 </tr>`).join("")}
               </tbody>
@@ -2450,7 +2433,7 @@ function renderCalendar() {
     </div>`).join("");
   switcher.addEventListener("click",e=>{
     const btn=e.target.closest(".month-btn");
-    if(!btn||e.target.closest(".ec-inline"))return;
+    if(!btn||e.target.closest(".ec-dots"))return;
     const idx=btn.dataset.month;
     document.querySelectorAll(".month-btn").forEach(b=>b.classList.remove("active"));
     document.querySelectorAll(".month-content").forEach(c=>c.classList.remove("active"));
@@ -3437,43 +3420,36 @@ renderQueue();
 (function(){
   const css = `
   .ec-host{position:relative}
-  body.edit-mode .ec-host{outline:1px dashed rgba(230,59,46,.40);outline-offset:3px;transition:outline .15s}
-  .ec-bar{position:absolute;top:6px;right:6px;display:none;gap:4px;z-index:6}
-  body.edit-mode .ec-bar{display:flex}
-  .ec-bar-inline{position:static;display:none}
-  body.edit-mode .ec-bar-inline{display:flex;margin-left:auto}
-  .ec-btn{font-size:13px;line-height:1;padding:5px 7px;border-radius:4px;cursor:pointer;
-    background:rgba(20,16,16,.88);color:var(--ivory);border:1px solid rgba(255,255,255,.25);
-    font-family:var(--font-mono);transition:transform .1s,background .15s}
-  .ec-btn:hover{transform:translateY(-1px);background:var(--rosewood);border-color:var(--rosewood)}
-  .ec-btn.ec-del:hover{background:#b3271c;border-color:#b3271c}
-  .ec-cell{display:none;white-space:nowrap}
-  body.edit-mode th.ec-cell,body.edit-mode td.ec-cell{display:table-cell}
-  body.edit-mode td.ec-cell{padding:6px 4px}
-  td.ec-cell .ec-btn{padding:4px 6px;margin:0 1px}
-  .ec-inline{display:none;margin-left:6px;cursor:pointer;font-size:11px;opacity:.65}
-  .ec-inline:hover{opacity:1}
-  body.edit-mode .ec-inline{display:inline-flex}
-  .edit-add-wrap{display:none;justify-content:center;margin:14px 0 4px;grid-column:1/-1}
-  body.edit-mode .edit-add-wrap{display:flex}
-  .edit-inline-add{display:none}
-  body.edit-mode .edit-inline-add{display:inline-flex;margin-left:8px}
+  /* tre puntini sempre presenti su ogni elemento */
+  .ec-dots{position:absolute;top:8px;right:8px;z-index:6;display:flex;align-items:center;justify-content:center;
+    width:28px;height:24px;border-radius:6px;cursor:pointer;font-size:17px;line-height:1;font-weight:700;
+    background:rgba(120,120,120,.13);color:inherit;border:1px solid rgba(120,120,120,.22);
+    opacity:.5;transition:opacity .15s,background .15s,color .15s}
+  .ec-host:hover>.ec-dots{opacity:1}
+  .ec-dots:hover{background:var(--rosewood);color:#fff;border-color:var(--rosewood);opacity:1}
+  .card-dark>.ec-dots,.accordion-item>.ec-dots,.linkedin-card>.ec-dots{color:var(--ivory);background:rgba(255,255,255,.13);border-color:rgba(255,255,255,.22)}
+  .ec-dots-inline{position:static;display:inline-flex;width:22px;height:20px;margin-left:6px;font-size:14px;vertical-align:middle;opacity:.65;border-radius:5px}
+  .ec-host-pad{padding-right:42px}
+  /* colonna azioni nelle tabelle calendario */
+  .ec-cell{white-space:nowrap;width:42px;text-align:center;padding:6px 4px}
+  td.ec-cell .ec-dots{position:static;opacity:.55;margin:0 auto}
+  tr:hover td.ec-cell .ec-dots{opacity:1}
+  /* menu a tendina */
+  .ec-popup{position:fixed;z-index:5000;min-width:172px;background:#fff;border:1px solid var(--ash);
+    border-radius:10px;box-shadow:0 16px 44px rgba(0,0,0,.30);padding:6px;animation:fadeUp .14s ease both}
+  .ec-popup-item{display:flex;width:100%;align-items:center;gap:9px;box-sizing:border-box;
+    background:none;border:none;text-align:left;cursor:pointer;font-family:inherit;font-size:13.5px;
+    color:var(--obsidian);padding:10px 12px;border-radius:7px;line-height:1}
+  .ec-popup-item:hover{background:var(--ash)}
+  .ec-popup-item.danger{color:#c0271c}
+  .ec-popup-item.danger:hover{background:#fbe7e4}
+  /* pulsanti aggiungi (sempre visibili) */
+  .edit-add-wrap{display:flex;justify-content:center;margin:16px 0 4px;grid-column:1/-1}
+  .edit-inline-add{display:inline-flex;margin-left:8px;vertical-align:middle}
   .edit-add-btn{font-family:var(--font-mono);font-size:12px;letter-spacing:.04em;cursor:pointer;
     background:transparent;color:var(--rosewood);border:1px dashed var(--rosewood);
-    padding:9px 18px;border-radius:5px;transition:background .15s,color .15s}
+    padding:10px 20px;border-radius:6px;transition:background .15s,color .15s}
   .edit-add-btn:hover{background:var(--rosewood);color:#fff}
-  body.edit-mode .ec-host-pad{padding-right:96px}
-  /* toggle flottante */
-  #edit-toggle{position:fixed;right:18px;bottom:18px;z-index:900;cursor:pointer;
-    font-family:var(--font-mono);font-size:13px;letter-spacing:.03em;font-weight:700;
-    padding:13px 20px;border-radius:40px;border:none;color:#fff;background:var(--obsidian);
-    box-shadow:0 8px 24px rgba(0,0,0,.35);transition:transform .12s,background .2s}
-  #edit-toggle:hover{transform:translateY(-2px)}
-  #edit-toggle.on{background:var(--rosewood)}
-  #edit-hint{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);z-index:899;
-    display:none;font-family:var(--font-mono);font-size:11.5px;color:var(--ivory);
-    background:rgba(20,16,16,.92);border:1px solid rgba(255,255,255,.15);padding:8px 16px;border-radius:30px}
-  body.edit-mode #edit-hint{display:block}
   /* modale */
   #ed-overlay{position:fixed;inset:0;z-index:4000;display:none;align-items:flex-start;justify-content:center;
     background:rgba(10,8,8,.72);backdrop-filter:blur(4px);padding:40px 16px;overflow-y:auto}
@@ -3503,12 +3479,7 @@ renderQueue();
   `;
   const st=document.createElement("style");st.textContent=css;document.head.appendChild(st);
 
-  // toggle + hint + overlay nel DOM
-  const tgl=document.createElement("button");tgl.id="edit-toggle";tgl.textContent="✎  Modifica contenuti";
-  tgl.onclick=toggleEditMode;document.body.appendChild(tgl);
-  const hint=document.createElement("div");hint.id="edit-hint";
-  hint.textContent="Modalità modifica attiva — usa ✎ duplica ⧉ elimina 🗑 e i pulsanti ＋ Aggiungi";
-  document.body.appendChild(hint);
+  // modale editor nel DOM
   const ov=document.createElement("div");ov.id="ed-overlay";
   ov.innerHTML=`<div class="ed-panel">
     <div class="ed-head"><h3 id="ed-title">Modifica</h3><button class="ed-close" onclick="closeEditor()">×</button></div>
@@ -3520,11 +3491,55 @@ renderQueue();
   ov.addEventListener("click",e=>{if(e.target===ov)closeEditor();});
 })();
 
-function toggleEditMode(){
-  const on=document.body.classList.toggle("edit-mode");
-  const t=document.getElementById("edit-toggle");
-  t.classList.toggle("on",on);
-  t.textContent=on?"✓  Fine modifica":"✎  Modifica contenuti";
+// ── Menu a tendina (tre puntini) ─────────────────────────
+let _ecMenuEl=null;
+function ecCloseMenu(){ if(_ecMenuEl){_ecMenuEl.remove();_ecMenuEl=null;document.removeEventListener("click",ecCloseMenu);window.removeEventListener("scroll",ecCloseMenu,true);} }
+function ecShowMenu(anchor,items){
+  ecCloseMenu();
+  const m=document.createElement("div");m.className="ec-popup";
+  items.forEach(it=>{
+    const b=document.createElement("button");
+    b.className="ec-popup-item"+(it.danger?" danger":"");
+    b.textContent=it.label;
+    b.onclick=e=>{e.stopPropagation();ecCloseMenu();it.fn();};
+    m.appendChild(b);
+  });
+  document.body.appendChild(m);
+  const r=anchor.getBoundingClientRect();
+  const mw=m.offsetWidth||172, mh=m.offsetHeight||120;
+  let left=r.right-mw; if(left<8)left=8; if(left+mw>window.innerWidth-8)left=window.innerWidth-mw-8;
+  let top=r.bottom+6; if(top+mh>window.innerHeight-8)top=r.top-mh-6; if(top<8)top=8;
+  m.style.left=left+"px";m.style.top=top+"px";
+  _ecMenuEl=m;
+  setTimeout(()=>{document.addEventListener("click",ecCloseMenu);window.addEventListener("scroll",ecCloseMenu,true);},0);
+}
+function openItemMenu(coll,idx,ev){ ev.stopPropagation();
+  ecShowMenu(ev.currentTarget,[
+    {label:"✎  Modifica",fn:()=>editItem(coll,idx)},
+    {label:"⧉  Duplica",fn:()=>dupItem(coll,idx)},
+    {label:"🗑  Elimina",fn:()=>delItem(coll,idx),danger:true},
+  ]);
+}
+function openDayMenu(mi,wi,di,ev){ ev.stopPropagation();
+  ecShowMenu(ev.currentTarget,[
+    {label:"✎  Modifica",fn:()=>editDay(mi,wi,di)},
+    {label:"⧉  Duplica",fn:()=>dupDay(mi,wi,di)},
+    {label:"🗑  Elimina",fn:()=>delDay(mi,wi,di),danger:true},
+  ]);
+}
+function openWeekMenu(mi,wi,ev){ ev.stopPropagation();
+  ecShowMenu(ev.currentTarget,[
+    {label:"✎  Modifica settimana",fn:()=>editWeek(mi,wi)},
+    {label:"➕  Aggiungi giorno",fn:()=>addDay(mi,wi)},
+    {label:"🗑  Elimina settimana",fn:()=>delWeek(mi,wi),danger:true},
+  ]);
+}
+function openMonthMenu(mi,ev){ ev.stopPropagation();
+  ecShowMenu(ev.currentTarget,[
+    {label:"✎  Rinomina mese",fn:()=>editMonth(mi)},
+    {label:"➕  Aggiungi settimana",fn:()=>addWeek(mi)},
+    {label:"🗑  Elimina mese",fn:()=>delMonth(mi),danger:true},
+  ]);
 }
 
 // ── Palette colori disponibili ───────────────────────────
