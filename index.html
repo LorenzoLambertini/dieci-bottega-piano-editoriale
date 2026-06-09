@@ -1352,38 +1352,8 @@ body.locked footer{filter:blur(8px);pointer-events:none;user-select:none}
     <div class="section-inner">
       <div class="section-eyebrow">Analisi del brand</div>
       <h2 class="section-title">6 Differenzianti<br>Narrativi</h2>
-      <div class="grid-3">
-        <div class="card">
-          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">01</div>
-          <div style="font-weight:700;font-size:16px;margin-bottom:10px">Il prezzo è pubblico</div>
-          <div style="font-size:13px;line-height:1.7;color:var(--plum)">800–3.500€. Zero sovraprezzi. In un settore dove tutti nascondono i prezzi, la trasparenza radicale è un differenziante enorme da comunicare ogni settimana.</div>
-        </div>
-        <div class="card">
-          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">02</div>
-          <div style="font-weight:700;font-size:16px;margin-bottom:10px">10 giorni, promessa pubblica</div>
-          <div style="font-size:13px;line-height:1.7;color:var(--plum)">Non "2-3 settimane indicative". Dieci giorni. Punto. Un claim verificabile, auditabile, attaccabile — ed è esattamente per questo che funziona.</div>
-        </div>
-        <div class="card">
-          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">03</div>
-          <div style="font-weight:700;font-size:16px;margin-bottom:10px">Artigiani, non agenti</div>
-          <div style="font-size:13px;line-height:1.7;color:var(--plum)">Lorenzo fa il codice. Tommaso chiude i clienti. Due persone reali. Il contrario dell'agenzia senza volto: va sfruttato al massimo nei contenuti.</div>
-        </div>
-        <div class="card">
-          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">04</div>
-          <div style="font-weight:700;font-size:16px;margin-bottom:10px">Bologna come asset</div>
-          <div style="font-size:13px;line-height:1.7;color:var(--plum)">Non "Italian style" generico. Bologna. La città più foodie d'Italia, BNI, tessuto PMI denso. La prossimità geografica è vantaggio competitivo.</div>
-        </div>
-        <div class="card">
-          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">05</div>
-          <div style="font-weight:700;font-size:16px;margin-bottom:10px">AI senza fare i guru</div>
-          <div style="font-size:13px;line-height:1.7;color:var(--plum)">Usano n8n, Supabase, prompt strutturati — ma mostrano l'output, non la filosofia. Niente "thought leader". Questo è raro e credibile.</div>
-        </div>
-        <div class="card">
-          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">06</div>
-          <div style="font-weight:700;font-size:16px;margin-bottom:10px">Il gap di mercato visibile</div>
-          <div style="font-size:13px;line-height:1.7;color:var(--plum)">Tra Wix (fai da te) e agenzia (6k€) c'è un vuoto enorme. Renderlo visivo, quantificabile e ripetuto diventa il manifesto del brand.</div>
-        </div>
-      </div>
+      <div class="grid-3" id="diff-grid"></div>
+      <div class="edit-add-wrap"><button class="edit-add-btn" data-add="diff">＋ Aggiungi differenziante</button></div>
     </div>
   </div>
 
@@ -1392,53 +1362,8 @@ body.locked footer{filter:blur(8px);pointer-events:none;user-select:none}
     <div class="section-inner">
       <div class="section-eyebrow">Funnel editoriale</div>
       <h2 class="section-title">TOFU / MOFU / BOFU</h2>
-      <div class="grid-3-strict">
-        <div class="card-dark" style="border-color:var(--rosewood)">
-          <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px">
-            <span class="mono" style="color:var(--rosewood);font-size:13px;letter-spacing:.1em">TOFU</span>
-            <span style="font-weight:900;font-size:48px;color:var(--rosewood);line-height:1">60%</span>
-          </div>
-          <div class="funnel-bar" style="background:var(--rosewood)"></div>
-          <div style="font-weight:700;font-size:15px;color:var(--ivory);margin-bottom:14px">Consapevolezza</div>
-          <div style="font-size:12px;color:var(--peach);line-height:1.9">
-            — Analisi siti di PMI reali<br>
-            — Errori comuni (educativi)<br>
-            — Prima/Dopo spettacolari<br>
-            — TikTok veloci, hook forte<br>
-            — "Il sito di Mario non funziona perché..."
-          </div>
-        </div>
-        <div class="card-dark" style="border-color:var(--clay)">
-          <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px">
-            <span class="mono" style="color:var(--clay);font-size:13px;letter-spacing:.1em">MOFU</span>
-            <span style="font-weight:900;font-size:48px;color:var(--clay);line-height:1">25%</span>
-          </div>
-          <div class="funnel-bar" style="background:var(--clay)"></div>
-          <div style="font-weight:700;font-size:15px;color:var(--ivory);margin-bottom:14px">Considerazione</div>
-          <div style="font-size:12px;color:var(--peach);line-height:1.9">
-            — Il processo in 10 giorni<br>
-            — Pricing spiegato chiaramente<br>
-            — Case study con numeri reali<br>
-            — Carousel framework decisionali<br>
-            — FAQ brutalmente oneste
-          </div>
-        </div>
-        <div class="card-dark" style="border-color:var(--burgundy)">
-          <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px">
-            <span class="mono" style="color:var(--peach);font-size:13px;letter-spacing:.1em">BOFU</span>
-            <span style="font-weight:900;font-size:48px;color:var(--peach);line-height:1">15%</span>
-          </div>
-          <div class="funnel-bar" style="background:var(--burgundy)"></div>
-          <div style="font-weight:700;font-size:15px;color:var(--ivory);margin-bottom:14px">Conversione</div>
-          <div style="font-size:12px;color:var(--peach);line-height:1.9">
-            — Testimonianze clienti reali<br>
-            — Prima/Dopo con ROI esplicito<br>
-            — Offerta limitata in modo credibile<br>
-            — CTA diretta alla call<br>
-            — Stories con link diretto
-          </div>
-        </div>
-      </div>
+      <div class="grid-3-strict" id="funnel-grid"></div>
+      <div class="edit-add-wrap"><button class="edit-add-btn" data-add="funnel">＋ Aggiungi stadio funnel</button></div>
     </div>
   </div>
 
@@ -1447,35 +1372,8 @@ body.locked footer{filter:blur(8px);pointer-events:none;user-select:none}
     <div class="section-inner">
       <div class="section-eyebrow">Volume & frequenza</div>
       <h2 class="section-title">Piano Piattaforme</h2>
-      <div class="grid-3">
-        <div class="card" style="border-color:var(--rosewood)">
-          <div style="font-weight:900;font-size:22px;color:var(--rosewood);margin-bottom:6px">TIKTOK</div>
-          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:16px">4–5 contenuti / settimana</div>
-          <div style="font-size:13px;line-height:1.9">· Reel analisi siti<br>· Before/After veloce<br>· Tip in 30 secondi<br>· POV: cliente PMI</div>
-          <div style="margin-top:16px;padding:10px 14px;background:var(--obsidian);border-radius:3px">
-            <span class="mono-xs" style="color:var(--rosewood)">Obiettivo: </span>
-            <span class="mono-xs" style="color:var(--ivory)">Reach &amp; awareness</span>
-          </div>
-        </div>
-        <div class="card" style="border-color:var(--clay)">
-          <div style="font-weight:900;font-size:22px;color:var(--clay);margin-bottom:6px">INSTAGRAM</div>
-          <div class="mono-xs" style="color:var(--clay);display:block;margin-bottom:16px">7–9 contenuti / settimana</div>
-          <div style="font-size:13px;line-height:1.9">· 4 Reel<br>· 2 Carousel<br>· 3 Stories / giorno<br>· 1 post statico</div>
-          <div style="margin-top:16px;padding:10px 14px;background:var(--obsidian);border-radius:3px">
-            <span class="mono-xs" style="color:var(--clay)">Obiettivo: </span>
-            <span class="mono-xs" style="color:var(--ivory)">Engagement &amp; fiducia</span>
-          </div>
-        </div>
-        <div class="card" style="border-color:var(--plum)">
-          <div style="font-weight:900;font-size:22px;color:var(--plum);margin-bottom:6px">LINKEDIN</div>
-          <div class="mono-xs" style="color:var(--plum);display:block;margin-bottom:16px">2 contenuti / settimana</div>
-          <div style="font-size:13px;line-height:1.9">· Post long-form<br>· Carosello PDF<br>· Case study con numeri<br>· Opinion diretta</div>
-          <div style="margin-top:16px;padding:10px 14px;background:var(--obsidian);border-radius:3px">
-            <span class="mono-xs" style="color:var(--peach)">Obiettivo: </span>
-            <span class="mono-xs" style="color:var(--ivory)">Lead B2B qualificati</span>
-          </div>
-        </div>
-      </div>
+      <div class="grid-3" id="platform-grid"></div>
+      <div class="edit-add-wrap"><button class="edit-add-btn" data-add="platform">＋ Aggiungi piattaforma</button></div>
     </div>
   </div>
 </div>
@@ -1487,91 +1385,8 @@ body.locked footer{filter:blur(8px);pointer-events:none;user-select:none}
       <div class="section-eyebrow">Content pillars</div>
       <h2 class="section-title">I 5 Pilastri<br>Editoriali</h2>
 
-      <div id="pillars-list">
-        <!-- P1 -->
-        <div class="pillar-row" style="margin-bottom:12px">
-          <div class="pillar-num-block" style="background:var(--rosewood)">
-            <div><div class="pillar-code">P1</div><div class="pillar-pct">30%</div></div>
-          </div>
-          <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
-            <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">DIAGNOSI PUBBLICA</div>
-            <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">Analizziamo siti reali di PMI italiane. Mostriamo cosa non funziona, perché costa clienti, come si risolve. È il formato più virale perché tutti riconoscono qualcuno.</div>
-            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Il ristorante senza menu online"</span>
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Il trainer con sito del 2017"</span>
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"L'agente senza WhatsApp"</span>
-            </div>
-            <span class="tag" style="color:var(--rosewood);border-color:var(--rosewood)">TikTok</span>
-            <span class="tag" style="color:var(--rosewood);border-color:var(--rosewood)">Instagram Reel</span>
-          </div>
-        </div>
-        <!-- P2 -->
-        <div class="pillar-row" style="margin-bottom:12px">
-          <div class="pillar-num-block" style="background:var(--clay)">
-            <div><div class="pillar-code">P2</div><div class="pillar-pct">25%</div></div>
-          </div>
-          <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
-            <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">EDUCAZIONE AL MESTIERE</div>
-            <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">Framework concreti, numeri reali, zero teoria vuota. Insegniamo cosa fa la differenza tra un sito che converte e uno che non serve a niente.</div>
-            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"3 secondi per convincere"</span>
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Perché il PDF è un errore"</span>
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"CTA: il bottone ignorato"</span>
-            </div>
-            <span class="tag" style="color:var(--clay);border-color:var(--clay)">Instagram Carousel</span>
-            <span class="tag" style="color:var(--clay);border-color:var(--clay)">LinkedIn</span>
-          </div>
-        </div>
-        <!-- P3 -->
-        <div class="pillar-row" style="margin-bottom:12px">
-          <div class="pillar-num-block" style="background:var(--burgundy)">
-            <div><div class="pillar-code">P3</div><div class="pillar-pct">20%</div></div>
-          </div>
-          <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
-            <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">PROCESSO &amp; BACKSTAGE</div>
-            <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">Brief → build → consegna. Il dietro le quinte crea fiducia e differenzia da chi nasconde il processo. La bottega aperta come vantaggio narrativo.</div>
-            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Day 1: il brief"</span>
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Come usiamo l'AI"</span>
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Checklist pre-consegna"</span>
-            </div>
-            <span class="tag" style="color:var(--burgundy);border-color:var(--burgundy)">TikTok</span>
-            <span class="tag" style="color:var(--burgundy);border-color:var(--burgundy)">Stories</span>
-          </div>
-        </div>
-        <!-- P4 -->
-        <div class="pillar-row" style="margin-bottom:12px">
-          <div class="pillar-num-block" style="background:var(--plum)">
-            <div><div class="pillar-code">P4</div><div class="pillar-pct">15%</div></div>
-          </div>
-          <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
-            <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">CASE STUDY &amp; RISULTATI</div>
-            <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">Prima/Dopo con numeri reali. Non "siamo migliorati" ma "+187% prenotazioni". La prova che funziona, raccontata con la stessa cura del sito consegnato.</div>
-            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Trattoria: +187% prenotazioni"</span>
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Trainer: 45 lead/mese"</span>
-            </div>
-            <span class="tag" style="color:var(--plum);border-color:var(--plum)">Instagram</span>
-            <span class="tag" style="color:var(--plum);border-color:var(--plum)">LinkedIn</span>
-          </div>
-        </div>
-        <!-- P5 -->
-        <div class="pillar-row">
-          <div class="pillar-num-block" style="background:#2a1e1e">
-            <div><div class="pillar-code">P5</div><div class="pillar-pct" style="font-size:30px">10%</div></div>
-          </div>
-          <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
-            <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">BRAND &amp; POSITIONING</div>
-            <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">Chi siamo, perché lo facciamo, il manifesto. Con parsimonia — troppo brand-talking uccide il feed. Una volta ogni 10 contenuti: necessario, non di più.</div>
-            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Perché Bologna, non Milano"</span>
-              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Cosa significa bottega nel 2026"</span>
-            </div>
-            <span class="tag" style="color:var(--obsidian);border-color:var(--obsidian)">Instagram</span>
-            <span class="tag" style="color:var(--obsidian);border-color:var(--obsidian)">LinkedIn</span>
-          </div>
-        </div>
-      </div>
+      <div id="pillars-list"></div>
+      <div class="edit-add-wrap"><button class="edit-add-btn" data-add="pillars">＋ Aggiungi pilastro</button></div>
     </div>
   </div>
 </div>
@@ -2462,6 +2277,36 @@ const motionSpecs = [
   { r:"Captions", v:"Sempre. Font Archivo Bold, bianco su shadow scura." },
 ];
 
+// ── STRATEGIA (differenzianti / funnel / piattaforme) ───────────────────────────
+const diffData = [
+  { num:"01", title:"Il prezzo è pubblico", desc:"800–3.500€. Zero sovraprezzi. In un settore dove tutti nascondono i prezzi, la trasparenza radicale è un differenziante enorme da comunicare ogni settimana." },
+  { num:"02", title:"10 giorni, promessa pubblica", desc:"Non \"2-3 settimane indicative\". Dieci giorni. Punto. Un claim verificabile, auditabile, attaccabile — ed è esattamente per questo che funziona." },
+  { num:"03", title:"Artigiani, non agenti", desc:"Lorenzo fa il codice. Tommaso chiude i clienti. Due persone reali. Il contrario dell'agenzia senza volto: va sfruttato al massimo nei contenuti." },
+  { num:"04", title:"Bologna come asset", desc:"Non \"Italian style\" generico. Bologna. La città più foodie d'Italia, BNI, tessuto PMI denso. La prossimità geografica è vantaggio competitivo." },
+  { num:"05", title:"AI senza fare i guru", desc:"Usano n8n, Supabase, prompt strutturati — ma mostrano l'output, non la filosofia. Niente \"thought leader\". Questo è raro e credibile." },
+  { num:"06", title:"Il gap di mercato visibile", desc:"Tra Wix (fai da te) e agenzia (6k€) c'è un vuoto enorme. Renderlo visivo, quantificabile e ripetuto diventa il manifesto del brand." },
+];
+
+const funnelData = [
+  { stage:"TOFU", pct:"60%", label:"Consapevolezza", color:"var(--rosewood)", lines:["Analisi siti di PMI reali","Errori comuni (educativi)","Prima/Dopo spettacolari","TikTok veloci, hook forte","\"Il sito di Mario non funziona perché...\""] },
+  { stage:"MOFU", pct:"25%", label:"Considerazione", color:"var(--clay)", lines:["Il processo in 10 giorni","Pricing spiegato chiaramente","Case study con numeri reali","Carousel framework decisionali","FAQ brutalmente oneste"] },
+  { stage:"BOFU", pct:"15%", label:"Conversione", color:"var(--burgundy)", lines:["Testimonianze clienti reali","Prima/Dopo con ROI esplicito","Offerta limitata in modo credibile","CTA diretta alla call","Stories con link diretto"] },
+];
+
+const platformData = [
+  { name:"TIKTOK", freq:"4–5 contenuti / settimana", color:"var(--rosewood)", lines:["Reel analisi siti","Before/After veloce","Tip in 30 secondi","POV: cliente PMI"], goal:"Reach & awareness" },
+  { name:"INSTAGRAM", freq:"7–9 contenuti / settimana", color:"var(--clay)", lines:["4 Reel","2 Carousel","3 Stories / giorno","1 post statico"], goal:"Engagement & fiducia" },
+  { name:"LINKEDIN", freq:"2 contenuti / settimana", color:"var(--plum)", lines:["Post long-form","Carosello PDF","Case study con numeri","Opinion diretta"], goal:"Lead B2B qualificati" },
+];
+
+const pillarsData = [
+  { code:"P1", pct:"30%", title:"DIAGNOSI PUBBLICA", color:"var(--rosewood)", desc:"Analizziamo siti reali di PMI italiane. Mostriamo cosa non funziona, perché costa clienti, come si risolve. È il formato più virale perché tutti riconoscono qualcuno.", examples:["\"Il ristorante senza menu online\"","\"Il trainer con sito del 2017\"","\"L'agente senza WhatsApp\""], tags:["TikTok","Instagram Reel"] },
+  { code:"P2", pct:"25%", title:"EDUCAZIONE AL MESTIERE", color:"var(--clay)", desc:"Framework concreti, numeri reali, zero teoria vuota. Insegniamo cosa fa la differenza tra un sito che converte e uno che non serve a niente.", examples:["\"3 secondi per convincere\"","\"Perché il PDF è un errore\"","\"CTA: il bottone ignorato\""], tags:["Instagram Carousel","LinkedIn"] },
+  { code:"P3", pct:"20%", title:"PROCESSO & BACKSTAGE", color:"var(--burgundy)", desc:"Brief → build → consegna. Il dietro le quinte crea fiducia e differenzia da chi nasconde il processo. La bottega aperta come vantaggio narrativo.", examples:["\"Day 1: il brief\"","\"Come usiamo l'AI\"","\"Checklist pre-consegna\""], tags:["TikTok","Stories"] },
+  { code:"P4", pct:"15%", title:"CASE STUDY & RISULTATI", color:"var(--plum)", desc:"Prima/Dopo con numeri reali. Non \"siamo migliorati\" ma \"+187% prenotazioni\". La prova che funziona, raccontata con la stessa cura del sito consegnato.", examples:["\"Trattoria: +187% prenotazioni\"","\"Trainer: 45 lead/mese\""], tags:["Instagram","LinkedIn"] },
+  { code:"P5", pct:"10%", title:"BRAND & POSITIONING", color:"#2a1e1e", desc:"Chi siamo, perché lo facciamo, il manifesto. Con parsimonia — troppo brand-talking uccide il feed. Una volta ogni 10 contenuti: necessario, non di più.", examples:["\"Perché Bologna, non Milano\"","\"Cosa significa bottega nel 2026\""], tags:["Instagram","LinkedIn"] },
+];
+
 // ── RENDER FUNCTIONS ──────────────────────────────────────────────────────────
 
 function chColor(ch) {
@@ -2471,10 +2316,20 @@ function chColor(ch) {
   return "var(--burgundy)";
 }
 
+// Barra controlli (modifica/duplica/elimina) per ogni elemento editabile
+function ecBar(coll, idx){
+  return `<div class="ec-bar">
+    <button class="ec-btn" title="Modifica" onclick="editItem('${coll}',${idx},event)">✎</button>
+    <button class="ec-btn" title="Duplica" onclick="dupItem('${coll}',${idx},event)">⧉</button>
+    <button class="ec-btn ec-del" title="Elimina" onclick="delItem('${coll}',${idx},event)">🗑</button>
+  </div>`;
+}
+
 function renderRubriche() {
   const grid = document.getElementById("rubriche-grid");
-  grid.innerHTML = rubriche.map(r => `
-    <div class="card-dark" style="border-color:${r.color}">
+  grid.innerHTML = rubriche.map((r,idx) => `
+    <div class="card-dark ec-host" style="border-color:${r.color}">
+      ${ecBar('rubriche',idx)}
       <div style="font-size:22px;margin-bottom:10px">${r.emoji}</div>
       <div style="font-weight:900;font-size:15px;color:var(--ivory);margin-bottom:12px;letter-spacing:-.01em">${r.title}</div>
       <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px">
@@ -2485,45 +2340,117 @@ function renderRubriche() {
       <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:8px">Struttura</div>
       ${r.steps.map(s=>`<div style="font-size:12px;color:var(--peach);line-height:1.75;margin-bottom:4px;padding-left:10px;border-left:2px solid rgba(255,255,255,.1)">${s}</div>`).join("")}
       <div style="margin-top:14px;padding:12px;background:rgba(0,0,0,.25);border-radius:3px;font-size:12px;color:var(--ash);font-style:italic;line-height:1.6">📌 ${r.note}</div>
+    </div>`).join("")
+    + `<div class="edit-add-wrap edit-add-span"><button class="edit-add-btn" data-add="rubriche">＋ Aggiungi rubrica</button></div>`;
+}
+
+function renderDiff(){
+  document.getElementById("diff-grid").innerHTML = diffData.map((d,idx)=>`
+    <div class="card ec-host">
+      ${ecBar('diff',idx)}
+      <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">${d.num}</div>
+      <div style="font-weight:700;font-size:16px;margin-bottom:10px">${d.title}</div>
+      <div style="font-size:13px;line-height:1.7;color:var(--plum)">${d.desc}</div>
+    </div>`).join("");
+}
+
+function renderFunnel(){
+  document.getElementById("funnel-grid").innerHTML = funnelData.map((f,idx)=>`
+    <div class="card-dark ec-host" style="border-color:${f.color}">
+      ${ecBar('funnel',idx)}
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px">
+        <span class="mono" style="color:${f.color};font-size:13px;letter-spacing:.1em">${f.stage}</span>
+        <span style="font-weight:900;font-size:48px;color:${f.color};line-height:1">${f.pct}</span>
+      </div>
+      <div class="funnel-bar" style="background:${f.color}"></div>
+      <div style="font-weight:700;font-size:15px;color:var(--ivory);margin-bottom:14px">${f.label}</div>
+      <div style="font-size:12px;color:var(--peach);line-height:1.9">
+        ${f.lines.map(l=>`— ${l}`).join("<br>")}
+      </div>
+    </div>`).join("");
+}
+
+function renderPlatform(){
+  document.getElementById("platform-grid").innerHTML = platformData.map((p,idx)=>`
+    <div class="card ec-host" style="border-color:${p.color}">
+      ${ecBar('platform',idx)}
+      <div style="font-weight:900;font-size:22px;color:${p.color};margin-bottom:6px">${p.name}</div>
+      <div class="mono-xs" style="color:${p.color};display:block;margin-bottom:16px">${p.freq}</div>
+      <div style="font-size:13px;line-height:1.9">${p.lines.map(l=>`· ${l}`).join("<br>")}</div>
+      <div style="margin-top:16px;padding:10px 14px;background:var(--obsidian);border-radius:3px">
+        <span class="mono-xs" style="color:${p.color}">Obiettivo: </span>
+        <span class="mono-xs" style="color:var(--ivory)">${p.goal}</span>
+      </div>
+    </div>`).join("");
+}
+
+function renderPillars(){
+  document.getElementById("pillars-list").innerHTML = pillarsData.map((p,idx)=>`
+    <div class="pillar-row ec-host" style="margin-bottom:12px">
+      ${ecBar('pillars',idx)}
+      <div class="pillar-num-block" style="background:${p.color}">
+        <div><div class="pillar-code">${p.code}</div><div class="pillar-pct">${p.pct}</div></div>
+      </div>
+      <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
+        <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">${p.title}</div>
+        <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">${p.desc}</div>
+        <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+          ${p.examples.map(e=>`<span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">${e}</span>`).join("")}
+        </div>
+        ${p.tags.map(t=>`<span class="tag" style="color:${p.color};border-color:${p.color}">${t}</span>`).join("")}
+      </div>
     </div>`).join("");
 }
 
 function renderCalendar() {
   const switcher = document.getElementById("month-switcher");
   const content = document.getElementById("calendar-content");
+  const active = document.querySelector(".month-btn.active")?.dataset.month || "0";
   switcher.innerHTML = calData.map((m,i)=>`
-    <button class="month-btn${i===0?" active":""}" data-month="${i}">${m.month}</button>`).join("");
+    <button class="month-btn${String(i)===active?" active":""}" data-month="${i}">${m.month}<span class="ec-inline" onclick="editMonth(${i},event)">✎</span><span class="ec-inline ec-del" onclick="delMonth(${i},event)">🗑</span></button>`).join("")
+    + `<button class="edit-add-btn edit-inline-add" data-add="month">＋ Mese</button>`;
   content.innerHTML = calData.map((m,i)=>`
-    <div class="month-content${i===0?" active":""}" id="month-${i}">
-      ${m.weeks.map(w=>`
-        <div class="week-block">
+    <div class="month-content${String(i)===active?" active":""}" id="month-${i}">
+      ${m.weeks.map((w,wi)=>`
+        <div class="week-block ec-host">
           <div class="week-header">
             <div class="week-title">${w.week}</div>
             <span class="tag" style="color:var(--plum);border-color:var(--plum)">${w.theme}</span>
+            <div class="ec-bar ec-bar-inline">
+              <button class="ec-btn" title="Modifica settimana" onclick="editWeek(${i},${wi},event)">✎</button>
+              <button class="ec-btn ec-del" title="Elimina settimana" onclick="delWeek(${i},${wi},event)">🗑</button>
+            </div>
           </div>
           <div class="table-scroll">
             <table class="cal-table">
               <thead><tr>
                 <th>Giorno</th><th>Canale</th><th>Format</th>
-                <th>Titolo / Hook</th><th>Obiettivo</th><th>CTA</th>
+                <th>Titolo / Hook</th><th>Obiettivo</th><th>CTA</th><th class="ec-cell"></th>
               </tr></thead>
               <tbody>
-                ${w.days.map(d=>`<tr>
+                ${w.days.map((d,di)=>`<tr>
                   <td><span class="cal-day">${d.day}</span></td>
                   <td><span class="tag" style="color:${chColor(d.ch)};border-color:${chColor(d.ch)}">${d.ch}</span></td>
                   <td><span class="mono-xs" style="color:var(--plum)">${d.fmt}</span></td>
                   <td class="cal-title">${d.title}</td>
                   <td class="cal-goal">${d.goal}</td>
                   <td class="cal-cta">${d.cta}</td>
+                  <td class="ec-cell">
+                    <button class="ec-btn" title="Modifica" onclick="editDay(${i},${wi},${di},event)">✎</button>
+                    <button class="ec-btn" title="Duplica" onclick="dupDay(${i},${wi},${di},event)">⧉</button>
+                    <button class="ec-btn ec-del" title="Elimina" onclick="delDay(${i},${wi},${di},event)">🗑</button>
+                  </td>
                 </tr>`).join("")}
               </tbody>
             </table>
           </div>
+          <div class="edit-add-wrap"><button class="edit-add-btn" onclick="addDay(${i},${wi})">＋ Aggiungi giorno</button></div>
         </div>`).join("")}
+      <div class="edit-add-wrap"><button class="edit-add-btn" onclick="addWeek(${i})">＋ Aggiungi settimana</button></div>
     </div>`).join("");
   switcher.addEventListener("click",e=>{
     const btn=e.target.closest(".month-btn");
-    if(!btn)return;
+    if(!btn||e.target.closest(".ec-inline"))return;
     const idx=btn.dataset.month;
     document.querySelectorAll(".month-btn").forEach(b=>b.classList.remove("active"));
     document.querySelectorAll(".month-content").forEach(c=>c.classList.remove("active"));
@@ -2532,10 +2459,11 @@ function renderCalendar() {
   });
 }
 
-function buildAccordion(s, dark=false) {
-  const id = `acc-${s.num}`;
+function buildAccordion(s, coll, idx, dark=false) {
+  const id = `acc-${coll}-${idx}`;
   return `
-    <div class="accordion-item">
+    <div class="accordion-item ec-host">
+      ${ecBar(coll,idx)}
       <button class="accordion-trigger" data-target="${id}">
         <div class="accordion-trigger-left">
           <span class="accordion-num">${s.num}</span>
@@ -2543,7 +2471,7 @@ function buildAccordion(s, dark=false) {
         </div>
         <div class="accordion-trigger-right">
           <span class="tag" style="color:var(--peach);border-color:var(--peach)">${s.series}</span>
-          <span class="tag" style="color:rgba(255,255,255,.4);border-color:rgba(255,255,255,.2)">${s.dur}</span>
+          ${s.dur?`<span class="tag" style="color:rgba(255,255,255,.4);border-color:rgba(255,255,255,.2)">${s.dur}</span>`:""}
           <span class="accordion-arrow">↓</span>
         </div>
       </button>
@@ -2561,33 +2489,41 @@ function buildAccordion(s, dark=false) {
 }
 
 function renderScripts() {
-  document.getElementById("scripts-reels").innerHTML = scriptsData.map(s=>buildAccordion(s)).join("");
-  document.getElementById("scripts-carousels").innerHTML = carouselsData.map(s=>buildAccordion(s,true)).join("");
+  document.getElementById("scripts-reels").innerHTML = scriptsData.map((s,idx)=>buildAccordion(s,'scriptsData',idx)).join("")
+    + `<div class="edit-add-wrap"><button class="edit-add-btn" data-add="scriptsData">＋ Aggiungi script Reel/TikTok</button></div>`;
+  document.getElementById("scripts-carousels").innerHTML = carouselsData.map((s,idx)=>buildAccordion(s,'carouselsData',idx,true)).join("")
+    + `<div class="edit-add-wrap"><button class="edit-add-btn" data-add="carouselsData">＋ Aggiungi carousel</button></div>`;
 }
 
 function renderLinkedin() {
-  document.getElementById("linkedin-posts").innerHTML = linkedinData.map(p=>`
-    <div class="linkedin-card">
+  document.getElementById("linkedin-posts").innerHTML = linkedinData.map((p,idx)=>`
+    <div class="linkedin-card ec-host">
+      ${ecBar('linkedinData',idx)}
       <div class="linkedin-header">
         <span class="mono-xs" style="color:var(--peach)">${p.num}</span>
         <span style="font-weight:700;font-size:15px;color:var(--ivory)">${p.title}</span>
       </div>
       <div class="linkedin-body">${p.body}</div>
       <div class="linkedin-cta">CTA → ${p.cta}</div>
-    </div>`).join("");
+    </div>`).join("")
+    + `<div class="edit-add-wrap"><button class="edit-add-btn" data-add="linkedinData">＋ Aggiungi post LinkedIn</button></div>`;
 }
 
 function renderVisual() {
-  document.getElementById("format-specs").innerHTML = formatSpecs.map(i=>`
-    <div style="margin-bottom:12px">
+  document.getElementById("format-specs").innerHTML = formatSpecs.map((i,idx)=>`
+    <div class="ec-host ec-host-pad" style="margin-bottom:12px">
+      ${ecBar('formatSpecs',idx)}
       <span class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:3px">${i.f}</span>
       <span style="font-size:12px;color:rgba(255,255,255,.5);line-height:1.5">${i.r}</span>
-    </div>`).join("");
-  document.getElementById("motion-specs").innerHTML = motionSpecs.map(i=>`
-    <div style="margin-bottom:12px">
+    </div>`).join("")
+    + `<div class="edit-add-wrap"><button class="edit-add-btn" data-add="formatSpecs">＋ Aggiungi formato</button></div>`;
+  document.getElementById("motion-specs").innerHTML = motionSpecs.map((i,idx)=>`
+    <div class="ec-host ec-host-pad" style="margin-bottom:12px">
+      ${ecBar('motionSpecs',idx)}
       <span class="mono-xs" style="color:var(--clay);display:block;margin-bottom:3px">${i.r}</span>
       <span style="font-size:12px;color:rgba(255,255,255,.5);line-height:1.5">${i.v}</span>
-    </div>`).join("");
+    </div>`).join("")
+    + `<div class="edit-add-wrap"><button class="edit-add-btn" data-add="motionSpecs">＋ Aggiungi regola</button></div>`;
 }
 
 // ── TABS ──────────────────────────────────────────────────────────────────────
@@ -2625,11 +2561,19 @@ document.addEventListener("click",e=>{
 });
 
 // ── INIT ──────────────────────────────────────────────────────────────────────
-renderRubriche();
-renderCalendar();
-renderScripts();
-renderLinkedin();
-renderVisual();
+function renderAllContent(){
+  renderDiff();
+  renderFunnel();
+  renderPlatform();
+  renderPillars();
+  renderRubriche();
+  renderCalendar();
+  renderScripts();
+  renderLinkedin();
+  renderVisual();
+}
+loadContent();          // overlay eventuali contenuti salvati prima del primo render
+renderAllContent();
 
 // ══════════════════════════════════════════════════════════
 // TAB 08 · GENERA — CONTENT GENERATOR ENGINE
@@ -3367,6 +3311,7 @@ function initSupabase(url,key,silent){
     syncPullAll().then(()=>{
       renderQueue();
     });
+    syncPullContent();
     startSyncPolling();
     if(!silent){
       const fb=document.getElementById("gen-sync-feedback");
@@ -3444,6 +3389,7 @@ function startSyncPolling(){
     if(!syncEnabled)return;
     await syncPullAll();
     if(genMode==="queue")renderQueue();
+    await syncPullContent();
   },12000);
 }
 
@@ -3482,6 +3428,322 @@ renderQueue();
     setTimeout(()=>initSupabase(cfg.url,cfg.key,true),300);
   }
 })();
+
+// ══════════════════════════════════════════════════════════
+// EDITOR CONTENUTI — modifica / duplica / elimina / aggiungi
+// ══════════════════════════════════════════════════════════
+
+// ── Stili iniettati ──────────────────────────────────────
+(function(){
+  const css = `
+  .ec-host{position:relative}
+  body.edit-mode .ec-host{outline:1px dashed rgba(230,59,46,.40);outline-offset:3px;transition:outline .15s}
+  .ec-bar{position:absolute;top:6px;right:6px;display:none;gap:4px;z-index:6}
+  body.edit-mode .ec-bar{display:flex}
+  .ec-bar-inline{position:static;display:none}
+  body.edit-mode .ec-bar-inline{display:flex;margin-left:auto}
+  .ec-btn{font-size:13px;line-height:1;padding:5px 7px;border-radius:4px;cursor:pointer;
+    background:rgba(20,16,16,.88);color:var(--ivory);border:1px solid rgba(255,255,255,.25);
+    font-family:var(--font-mono);transition:transform .1s,background .15s}
+  .ec-btn:hover{transform:translateY(-1px);background:var(--rosewood);border-color:var(--rosewood)}
+  .ec-btn.ec-del:hover{background:#b3271c;border-color:#b3271c}
+  .ec-cell{display:none;white-space:nowrap}
+  body.edit-mode th.ec-cell,body.edit-mode td.ec-cell{display:table-cell}
+  body.edit-mode td.ec-cell{padding:6px 4px}
+  td.ec-cell .ec-btn{padding:4px 6px;margin:0 1px}
+  .ec-inline{display:none;margin-left:6px;cursor:pointer;font-size:11px;opacity:.65}
+  .ec-inline:hover{opacity:1}
+  body.edit-mode .ec-inline{display:inline-flex}
+  .edit-add-wrap{display:none;justify-content:center;margin:14px 0 4px;grid-column:1/-1}
+  body.edit-mode .edit-add-wrap{display:flex}
+  .edit-inline-add{display:none}
+  body.edit-mode .edit-inline-add{display:inline-flex;margin-left:8px}
+  .edit-add-btn{font-family:var(--font-mono);font-size:12px;letter-spacing:.04em;cursor:pointer;
+    background:transparent;color:var(--rosewood);border:1px dashed var(--rosewood);
+    padding:9px 18px;border-radius:5px;transition:background .15s,color .15s}
+  .edit-add-btn:hover{background:var(--rosewood);color:#fff}
+  body.edit-mode .ec-host-pad{padding-right:96px}
+  /* toggle flottante */
+  #edit-toggle{position:fixed;right:18px;bottom:18px;z-index:900;cursor:pointer;
+    font-family:var(--font-mono);font-size:13px;letter-spacing:.03em;font-weight:700;
+    padding:13px 20px;border-radius:40px;border:none;color:#fff;background:var(--obsidian);
+    box-shadow:0 8px 24px rgba(0,0,0,.35);transition:transform .12s,background .2s}
+  #edit-toggle:hover{transform:translateY(-2px)}
+  #edit-toggle.on{background:var(--rosewood)}
+  #edit-hint{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);z-index:899;
+    display:none;font-family:var(--font-mono);font-size:11.5px;color:var(--ivory);
+    background:rgba(20,16,16,.92);border:1px solid rgba(255,255,255,.15);padding:8px 16px;border-radius:30px}
+  body.edit-mode #edit-hint{display:block}
+  /* modale */
+  #ed-overlay{position:fixed;inset:0;z-index:4000;display:none;align-items:flex-start;justify-content:center;
+    background:rgba(10,8,8,.72);backdrop-filter:blur(4px);padding:40px 16px;overflow-y:auto}
+  #ed-overlay.show{display:flex}
+  .ed-panel{width:100%;max-width:580px;background:var(--ivory);border-radius:10px;overflow:hidden;
+    box-shadow:0 30px 80px rgba(0,0,0,.5);animation:fadeUp .25s ease both}
+  .ed-head{display:flex;justify-content:space-between;align-items:center;padding:18px 22px;
+    background:var(--obsidian);color:var(--ivory)}
+  .ed-head h3{margin:0;font-size:16px;font-weight:800;letter-spacing:-.01em}
+  .ed-close{background:none;border:none;color:var(--ivory);font-size:22px;cursor:pointer;line-height:1;opacity:.7}
+  .ed-close:hover{opacity:1}
+  .ed-body{padding:20px 22px;max-height:64vh;overflow-y:auto}
+  .ed-field{margin-bottom:16px}
+  .ed-field label{display:block;font-family:var(--font-mono);font-size:10px;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--plum);margin-bottom:6px}
+  .ed-field input,.ed-field textarea,.ed-field select{width:100%;box-sizing:border-box;
+    font-family:inherit;font-size:13.5px;color:var(--obsidian);background:#fff;
+    border:1px solid var(--ash);border-radius:6px;padding:10px 12px;line-height:1.5}
+  .ed-field textarea{resize:vertical}
+  .ed-field input:focus,.ed-field textarea:focus,.ed-field select:focus{outline:none;border-color:var(--rosewood)}
+  .ed-hintline{font-size:10.5px;color:var(--plum);opacity:.7;margin-top:4px}
+  .ed-foot{display:flex;gap:10px;justify-content:flex-end;padding:16px 22px;border-top:1px solid var(--ash);background:#fff}
+  .ed-btn{font-family:var(--font-mono);font-size:12px;letter-spacing:.04em;cursor:pointer;
+    padding:11px 22px;border-radius:6px;border:1px solid var(--obsidian);background:transparent;color:var(--obsidian)}
+  .ed-btn.primary{background:var(--rosewood);border-color:var(--rosewood);color:#fff;font-weight:700}
+  .ed-btn:hover{opacity:.85}
+  `;
+  const st=document.createElement("style");st.textContent=css;document.head.appendChild(st);
+
+  // toggle + hint + overlay nel DOM
+  const tgl=document.createElement("button");tgl.id="edit-toggle";tgl.textContent="✎  Modifica contenuti";
+  tgl.onclick=toggleEditMode;document.body.appendChild(tgl);
+  const hint=document.createElement("div");hint.id="edit-hint";
+  hint.textContent="Modalità modifica attiva — usa ✎ duplica ⧉ elimina 🗑 e i pulsanti ＋ Aggiungi";
+  document.body.appendChild(hint);
+  const ov=document.createElement("div");ov.id="ed-overlay";
+  ov.innerHTML=`<div class="ed-panel">
+    <div class="ed-head"><h3 id="ed-title">Modifica</h3><button class="ed-close" onclick="closeEditor()">×</button></div>
+    <div class="ed-body" id="ed-body"></div>
+    <div class="ed-foot"><button class="ed-btn" onclick="closeEditor()">Annulla</button>
+      <button class="ed-btn primary" id="ed-save">Salva</button></div>
+  </div>`;
+  document.body.appendChild(ov);
+  ov.addEventListener("click",e=>{if(e.target===ov)closeEditor();});
+})();
+
+function toggleEditMode(){
+  const on=document.body.classList.toggle("edit-mode");
+  const t=document.getElementById("edit-toggle");
+  t.classList.toggle("on",on);
+  t.textContent=on?"✓  Fine modifica":"✎  Modifica contenuti";
+}
+
+// ── Palette colori disponibili ───────────────────────────
+const PALETTE=[["Rosewood","var(--rosewood)"],["Clay","var(--clay)"],["Burgundy","var(--burgundy)"],
+  ["Plum","var(--plum)"],["Peach","var(--peach)"],["Obsidian","var(--obsidian)"],["Scuro","#2a1e1e"]];
+
+// ── Registro collezioni editabili (sezioni a lista) ──────
+const COLLECTIONS={
+  diff:{arr:()=>diffData,render:renderDiff,label:"Differenziante",
+    fields:[{k:"num",l:"Numero",t:"text"},{k:"title",l:"Titolo",t:"text"},{k:"desc",l:"Descrizione",t:"textarea"}],
+    blank:()=>({num:"00",title:"Nuovo differenziante",desc:""})},
+  funnel:{arr:()=>funnelData,render:renderFunnel,label:"Stadio funnel",
+    fields:[{k:"stage",l:"Stadio (TOFU/MOFU/BOFU)",t:"text"},{k:"pct",l:"Percentuale",t:"text"},{k:"label",l:"Etichetta",t:"text"},{k:"color",l:"Colore",t:"color"},{k:"lines",l:"Voci (una per riga)",t:"lines"}],
+    blank:()=>({stage:"NEW",pct:"0%",label:"Nuovo stadio",color:"var(--rosewood)",lines:[]})},
+  platform:{arr:()=>platformData,render:renderPlatform,label:"Piattaforma",
+    fields:[{k:"name",l:"Nome",t:"text"},{k:"freq",l:"Frequenza",t:"text"},{k:"color",l:"Colore",t:"color"},{k:"lines",l:"Contenuti (uno per riga)",t:"lines"},{k:"goal",l:"Obiettivo",t:"text"}],
+    blank:()=>({name:"NUOVA",freq:"",color:"var(--rosewood)",lines:[],goal:""})},
+  pillars:{arr:()=>pillarsData,render:renderPillars,label:"Pilastro",
+    fields:[{k:"code",l:"Codice",t:"text"},{k:"pct",l:"Percentuale",t:"text"},{k:"title",l:"Titolo",t:"text"},{k:"color",l:"Colore",t:"color"},{k:"desc",l:"Descrizione",t:"textarea"},{k:"examples",l:"Esempi (uno per riga)",t:"lines"},{k:"tags",l:"Tag (uno per riga)",t:"lines"}],
+    blank:()=>({code:"P?",pct:"0%",title:"NUOVO PILASTRO",color:"var(--rosewood)",desc:"",examples:[],tags:[]})},
+  rubriche:{arr:()=>rubriche,render:renderRubriche,label:"Rubrica",
+    fields:[{k:"emoji",l:"Emoji",t:"text"},{k:"title",l:"Titolo",t:"text"},{k:"freq",l:"Frequenza",t:"text"},{k:"dur",l:"Durata",t:"text"},{k:"fmt",l:"Formato",t:"text"},{k:"color",l:"Colore",t:"color"},{k:"steps",l:"Struttura (una per riga)",t:"lines"},{k:"note",l:"Nota",t:"textarea"}],
+    blank:()=>({emoji:"⭐",title:"NUOVA RUBRICA",freq:"1× settimana",dur:"30–60 sec",fmt:"TikTok / Reel",color:"var(--rosewood)",steps:[],note:""})},
+  scriptsData:{arr:()=>scriptsData,render:renderScripts,label:"Script Reel/TikTok",
+    fields:[{k:"num",l:"Numero",t:"text"},{k:"type",l:"Tipo",t:"text"},{k:"dur",l:"Durata",t:"text"},{k:"series",l:"Serie",t:"text"},{k:"title",l:"Titolo",t:"text"},{k:"hook",l:"Hook",t:"textarea"},{k:"body",l:"Sviluppo scena per scena (una per riga)",t:"lines"},{k:"cta",l:"CTA finale",t:"textarea"}],
+    blank:()=>({num:"00",type:"REEL / TIKTOK",dur:"60s",series:"",title:"Nuovo script",hook:"",body:[],cta:""})},
+  carouselsData:{arr:()=>carouselsData,render:renderScripts,label:"Carousel",
+    fields:[{k:"num",l:"Numero",t:"text"},{k:"series",l:"Serie",t:"text"},{k:"dur",l:"Durata (opzionale)",t:"text"},{k:"title",l:"Titolo",t:"text"},{k:"hook",l:"Hook / Slide 1",t:"textarea"},{k:"body",l:"Slide (una per riga)",t:"lines"},{k:"cta",l:"CTA finale",t:"textarea"}],
+    blank:()=>({num:"C0",series:"",dur:"",title:"Nuovo carousel",hook:"",body:[],cta:""})},
+  linkedinData:{arr:()=>linkedinData,render:renderLinkedin,label:"Post LinkedIn",
+    fields:[{k:"num",l:"Numero",t:"text"},{k:"title",l:"Titolo",t:"text"},{k:"body",l:"Testo del post",t:"big"},{k:"cta",l:"CTA",t:"text"}],
+    blank:()=>({num:"L0",title:"Nuovo post",body:"",cta:""})},
+  formatSpecs:{arr:()=>formatSpecs,render:renderVisual,label:"Formato",
+    fields:[{k:"f",l:"Formato",t:"text"},{k:"r",l:"Specifiche",t:"textarea"}],
+    blank:()=>({f:"Nuovo formato",r:""})},
+  motionSpecs:{arr:()=>motionSpecs,render:renderVisual,label:"Regola motion",
+    fields:[{k:"r",l:"Regola",t:"text"},{k:"v",l:"Valore",t:"textarea"}],
+    blank:()=>({r:"Nuova regola",v:""})},
+};
+
+// ── Operazioni generiche su collezioni ───────────────────
+function afterChange(coll){ COLLECTIONS[coll].render(); saveContent(); }
+
+function editItem(coll,idx,ev){ if(ev)ev.stopPropagation();
+  const c=COLLECTIONS[coll];const item=c.arr()[idx];
+  openEditor("Modifica · "+c.label,c.fields,item,vals=>{Object.assign(item,vals);afterChange(coll);});
+}
+function dupItem(coll,idx,ev){ if(ev)ev.stopPropagation();
+  const a=COLLECTIONS[coll].arr();a.splice(idx+1,0,JSON.parse(JSON.stringify(a[idx])));afterChange(coll);
+}
+function delItem(coll,idx,ev){ if(ev)ev.stopPropagation();
+  const c=COLLECTIONS[coll];if(!confirm("Eliminare questo elemento ("+c.label+")?"))return;
+  c.arr().splice(idx,1);afterChange(coll);
+}
+function addItem(coll){ const c=COLLECTIONS[coll];const item=c.blank();
+  openEditor("Nuovo · "+c.label,c.fields,item,vals=>{Object.assign(item,vals);c.arr().push(item);afterChange(coll);});
+}
+
+// ── Calendario (struttura annidata) ──────────────────────
+const DAY_FIELDS=[
+  {k:"day",l:"Giorno",t:"select",options:["LUN","MAR","MER","GIO","VEN","SAB","DOM"]},
+  {k:"ch",l:"Canale",t:"text"},{k:"fmt",l:"Format",t:"text"},
+  {k:"title",l:"Titolo / Hook",t:"textarea"},{k:"goal",l:"Obiettivo",t:"text"},{k:"cta",l:"CTA",t:"text"}];
+function afterCalChange(){ renderCalendar(); QUEUE_DATA=buildQueueData(); if(genMode==="queue")renderQueue(); saveContent(); }
+
+function editDay(mi,wi,di,ev){ if(ev)ev.stopPropagation();
+  const d=calData[mi].weeks[wi].days[di];
+  openEditor("Modifica giorno",DAY_FIELDS,d,vals=>{Object.assign(d,vals);afterCalChange();});
+}
+function dupDay(mi,wi,di,ev){ if(ev)ev.stopPropagation();
+  const days=calData[mi].weeks[wi].days;days.splice(di+1,0,JSON.parse(JSON.stringify(days[di])));afterCalChange();
+}
+function delDay(mi,wi,di,ev){ if(ev)ev.stopPropagation();
+  if(!confirm("Eliminare questo giorno?"))return;calData[mi].weeks[wi].days.splice(di,1);afterCalChange();
+}
+function addDay(mi,wi){ const d={day:"LUN",ch:"TikTok + IG Reel",fmt:"Reel 30s",title:"Nuovo contenuto",goal:"",cta:""};
+  openEditor("Nuovo giorno",DAY_FIELDS,d,vals=>{Object.assign(d,vals);calData[mi].weeks[wi].days.push(d);afterCalChange();});
+}
+const WEEK_FIELDS=[{k:"week",l:"Etichetta settimana",t:"text"},{k:"theme",l:"Tema",t:"text"}];
+function editWeek(mi,wi,ev){ if(ev)ev.stopPropagation();
+  const w=calData[mi].weeks[wi];openEditor("Modifica settimana",WEEK_FIELDS,w,vals=>{Object.assign(w,vals);afterCalChange();});
+}
+function delWeek(mi,wi,ev){ if(ev)ev.stopPropagation();
+  if(!confirm("Eliminare l'intera settimana e i suoi giorni?"))return;calData[mi].weeks.splice(wi,1);afterCalChange();
+}
+function addWeek(mi){ const w={week:"NUOVA SETTIMANA",theme:"",days:[]};
+  openEditor("Nuova settimana",WEEK_FIELDS,w,vals=>{Object.assign(w,vals);calData[mi].weeks.push(w);afterCalChange();});
+}
+function editMonth(mi,ev){ if(ev)ev.stopPropagation();
+  const m=calData[mi];openEditor("Modifica mese",[{k:"month",l:"Nome del mese",t:"text"}],m,vals=>{Object.assign(m,vals);afterCalChange();});
+}
+function delMonth(mi,ev){ if(ev)ev.stopPropagation();
+  if(!confirm("Eliminare l'intero mese?"))return;calData.splice(mi,1);
+  document.querySelectorAll(".month-btn").forEach(b=>b.classList.remove("active"));
+  afterCalChange();
+  const first=document.querySelector(".month-btn");if(first){first.classList.add("active");document.getElementById("month-0")?.classList.add("active");}
+}
+function addMonth(){ const m={month:"NUOVO MESE",weeks:[]};
+  openEditor("Nuovo mese",[{k:"month",l:"Nome del mese",t:"text"}],m,vals=>{Object.assign(m,vals);calData.push(m);afterCalChange();});
+}
+
+// ── Listener pulsanti "Aggiungi" (data-add) ──────────────
+document.addEventListener("click",e=>{
+  const add=e.target.closest("[data-add]");
+  if(!add)return;
+  const what=add.dataset.add;
+  if(what==="month")addMonth();
+  else if(COLLECTIONS[what])addItem(what);
+});
+
+// ══════════════════════════════════════════════════════════
+// MODALE EDITOR GENERICA
+// ══════════════════════════════════════════════════════════
+let _edSave=null;
+function openEditor(title,fields,data,onSave){
+  document.getElementById("ed-title").textContent=title;
+  const body=document.getElementById("ed-body");
+  body.innerHTML=fields.map(f=>{
+    const v=data[f.k];
+    if(f.t==="textarea") return fieldWrap(f,`<textarea rows="3" data-k="${f.k}">${esc(v||"")}</textarea>`);
+    if(f.t==="big") return fieldWrap(f,`<textarea rows="11" data-k="${f.k}">${esc(v||"")}</textarea>`);
+    if(f.t==="lines") return fieldWrap(f,`<textarea rows="5" data-k="${f.k}" data-lines="1">${esc((v||[]).join("\n"))}</textarea>`,"Una voce per riga.");
+    if(f.t==="color"){
+      let opts=PALETTE.slice();
+      if(v&&!opts.some(o=>o[1]===v))opts.unshift([v,v]);
+      return fieldWrap(f,`<select data-k="${f.k}">${opts.map(o=>`<option value="${o[1]}"${o[1]===v?" selected":""}>${o[0]}</option>`).join("")}</select>`);
+    }
+    if(f.t==="select")
+      return fieldWrap(f,`<select data-k="${f.k}">${f.options.map(o=>`<option value="${o}"${o===v?" selected":""}>${o}</option>`).join("")}</select>`);
+    return fieldWrap(f,`<input type="text" data-k="${f.k}" value="${esc(v||"")}"/>`);
+  }).join("");
+  _edSave=()=>{
+    const vals={};
+    body.querySelectorAll("[data-k]").forEach(el=>{
+      const k=el.dataset.k;
+      if(el.dataset.lines) vals[k]=el.value.split("\n").map(s=>s.trim()).filter(Boolean);
+      else vals[k]=el.value;
+    });
+    onSave(vals);closeEditor();
+  };
+  document.getElementById("ed-save").onclick=_edSave;
+  document.getElementById("ed-overlay").classList.add("show");
+}
+function fieldWrap(f,inner,hint){
+  return `<div class="ed-field"><label>${f.l}</label>${inner}${hint?`<div class="ed-hintline">${hint}</div>`:""}</div>`;
+}
+function closeEditor(){ document.getElementById("ed-overlay").classList.remove("show");_edSave=null; }
+function esc(s){ return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
+document.addEventListener("keydown",e=>{
+  if(e.key==="Escape")closeEditor();
+  if((e.metaKey||e.ctrlKey)&&e.key==="Enter"&&_edSave)_edSave();
+});
+
+// ══════════════════════════════════════════════════════════
+// PERSISTENZA CONTENUTI (localStorage + Supabase)
+// ══════════════════════════════════════════════════════════
+const CONTENT_KEY="db_content_v1";
+let contentTS=0;   // timestamp ms dell'ultima versione applicata
+
+function collectContent(){
+  return {diffData,funnelData,platformData,pillarsData,rubriche,calData,
+    scriptsData,carouselsData,linkedinData,formatSpecs,motionSpecs};
+}
+function replaceArr(target,src){ if(!Array.isArray(src))return; target.length=0; src.forEach(x=>target.push(x)); }
+function applyContent(obj){
+  if(!obj)return;
+  replaceArr(diffData,obj.diffData);replaceArr(funnelData,obj.funnelData);
+  replaceArr(platformData,obj.platformData);replaceArr(pillarsData,obj.pillarsData);
+  replaceArr(rubriche,obj.rubriche);replaceArr(calData,obj.calData);
+  replaceArr(scriptsData,obj.scriptsData);replaceArr(carouselsData,obj.carouselsData);
+  replaceArr(linkedinData,obj.linkedinData);replaceArr(formatSpecs,obj.formatSpecs);
+  replaceArr(motionSpecs,obj.motionSpecs);
+}
+function loadContent(){
+  try{
+    const raw=localStorage.getItem(CONTENT_KEY);
+    if(!raw)return;
+    const parsed=JSON.parse(raw);
+    if(parsed&&parsed.payload){applyContent(parsed.payload);contentTS=parsed.ts||0;}
+  }catch(e){console.warn("loadContent",e);}
+}
+function saveContent(){
+  contentTS=Date.now();
+  const payload=collectContent();
+  try{localStorage.setItem(CONTENT_KEY,JSON.stringify({payload,ts:contentTS}));}catch(e){}
+  syncPushContent(payload);
+}
+
+// Supabase: scrive l'intero blob contenuti (riga singola "shared")
+async function syncPushContent(payload){
+  if(!syncEnabled||!sb)return;
+  const owner=(document.getElementById("sel-team")||{}).value||"";
+  try{
+    const {error}=await sb.from("db_content_state").upsert({
+      id:"shared",payload:payload,updated_by:owner,updated_at:new Date(contentTS).toISOString()
+    },{onConflict:"id"});
+    if(error){console.warn("content push",error.message);setSyncStatus("error","Errore salvataggio contenuti · riprovo");}
+    else setSyncStatus("online","<b>Sync attiva</b> · contenuti salvati ora");
+  }catch(e){console.warn(e);}
+}
+// Supabase: legge i contenuti condivisi e applica se più recenti
+async function syncPullContent(){
+  if(!syncEnabled||!sb)return;
+  try{
+    const {data,error}=await sb.from("db_content_state").select("payload,updated_at").eq("id","shared").maybeSingle();
+    if(error){console.warn("content pull",error.message);return;}
+    if(data&&data.payload){
+      const remoteTS=data.updated_at?Date.parse(data.updated_at):0;
+      if(remoteTS>contentTS){
+        applyContent(data.payload);
+        contentTS=remoteTS;
+        try{localStorage.setItem(CONTENT_KEY,JSON.stringify({payload:collectContent(),ts:contentTS}));}catch(e){}
+        renderAllContent();
+        QUEUE_DATA=buildQueueData();
+        if(genMode==="queue")renderQueue();
+      }
+    }
+  }catch(e){console.warn(e);}
+}
 </script>
 </body>
 </html>
