@@ -1,0 +1,3487 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Piano Editoriale · Dieci Bottega · 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,75..125,100..900;1,75..125,100..900&family=Cardo:ital@0;1&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet"/>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --rosewood:#E63B2E;
+  --obsidian:#1A1414;
+  --ivory:#F4EFE6;
+  --ash:#E8E2D6;
+  --plum:#4A3838;
+  --burgundy:#7A1818;
+  --clay:#C44A38;
+  --peach:#F2B8A2;
+  --font-display:'Archivo',sans-serif;
+  --font-serif:'Cardo',serif;
+  --font-mono:'JetBrains Mono',monospace;
+}
+html{scroll-behavior:smooth}
+body{
+  font-family:var(--font-display);
+  background:var(--ash);
+  color:var(--obsidian);
+  min-height:100vh;
+  -webkit-font-smoothing:antialiased;
+}
+
+/* ── NOISE TEXTURE OVERLAY ── */
+body::before{
+  content:'';
+  position:fixed;
+  inset:0;
+  background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+  pointer-events:none;
+  z-index:9999;
+  opacity:.4;
+}
+
+/* ── HEADER ── */
+#site-header{
+  background:var(--obsidian);
+  border-bottom:3px solid var(--rosewood);
+  position:sticky;
+  top:0;
+  z-index:200;
+  padding:0 40px;
+}
+.header-inner{
+  max-width:1440px;
+  margin:0 auto;
+  height:68px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:24px;
+}
+.logo-mark{
+  font-family:var(--font-display);
+  font-weight:900;
+  font-size:26px;
+  color:var(--rosewood);
+  letter-spacing:-0.04em;
+  line-height:1;
+  position:relative;
+}
+.logo-mark::after{
+  content:'®';
+  font-size:10px;
+  vertical-align:super;
+  margin-left:1px;
+  opacity:.7;
+}
+.header-meta{display:flex;flex-direction:column;gap:2px}
+.header-title{font-weight:700;font-size:13px;color:var(--ivory);letter-spacing:.02em;text-transform:uppercase}
+.header-sub{font-family:var(--font-mono);font-size:10px;color:var(--clay);letter-spacing:.1em;text-transform:uppercase}
+.header-left{display:flex;align-items:center;gap:20px}
+.header-tagline{font-family:var(--font-serif);font-style:italic;font-size:15px;color:var(--peach);opacity:.85}
+
+/* ── NAV TABS ── */
+#nav-tabs{
+  background:var(--plum);
+  border-bottom:1px solid rgba(255,255,255,.06);
+  overflow-x:auto;
+  scrollbar-width:none;
+  -ms-overflow-style:none;
+}
+#nav-tabs::-webkit-scrollbar{display:none}
+.tabs-inner{
+  max-width:1440px;
+  margin:0 auto;
+  display:flex;
+  padding:0 40px;
+}
+.tab-btn{
+  font-family:var(--font-mono);
+  font-size:10px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  padding:16px 22px;
+  border:none;
+  border-bottom:3px solid transparent;
+  background:transparent;
+  color:rgba(255,255,255,.38);
+  cursor:pointer;
+  white-space:nowrap;
+  transition:color .2s, border-color .2s;
+  position:relative;
+}
+.tab-btn:hover{color:rgba(255,255,255,.65)}
+.tab-btn.active{color:var(--ivory);border-bottom-color:var(--rosewood)}
+
+/* ── MAIN CONTENT ── */
+#content{
+  max-width:1440px;
+  margin:0 auto;
+  padding:40px 40px 100px;
+}
+
+/* ── SECTION ── */
+.section{
+  border-radius:6px;
+  margin-bottom:16px;
+  overflow:hidden;
+}
+.section-light{background:var(--ivory)}
+.section-dark{background:var(--obsidian);color:var(--ivory)}
+.section-inner{padding:52px 48px}
+.section-eyebrow{
+  font-family:var(--font-mono);
+  font-size:10px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--rosewood);
+  margin-bottom:10px;
+}
+.section-title{
+  font-weight:900;
+  font-size:clamp(30px,4vw,52px);
+  line-height:1;
+  letter-spacing:-.03em;
+  text-transform:uppercase;
+  margin-bottom:40px;
+}
+
+/* ── GRID UTILITIES ── */
+.grid-2{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}
+.grid-3{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px}
+.grid-3-strict{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+
+/* ── CARDS ── */
+.card{
+  background:var(--ash);
+  border-radius:4px;
+  padding:28px;
+  border-left:3px solid var(--rosewood);
+  transition:transform .18s, box-shadow .18s;
+}
+.card:hover{transform:translateY(-2px);box-shadow:0 8px 32px rgba(26,20,20,.08)}
+.card-dark{
+  background:var(--plum);
+  border-radius:4px;
+  padding:28px;
+  border-left:3px solid var(--rosewood);
+  transition:transform .18s;
+}
+.card-dark:hover{transform:translateY(-2px)}
+.card-obsidian{
+  background:var(--obsidian);
+  border-radius:4px;
+  padding:28px;
+  border-left:3px solid var(--rosewood);
+}
+
+/* ── TAGS ── */
+.tag{
+  font-family:var(--font-mono);
+  font-size:9px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  border:1px solid;
+  padding:3px 9px;
+  border-radius:2px;
+  display:inline-block;
+  margin-right:6px;
+  margin-bottom:5px;
+  line-height:1.6;
+}
+
+/* ── MONO TEXT ── */
+.mono{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em}
+.mono-sm{font-family:var(--font-mono);font-size:10px;letter-spacing:.1em}
+.mono-xs{font-family:var(--font-mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase}
+
+/* ── TABS CONTENT ── */
+.tab-panel{display:none;animation:fadeUp .3s ease both}
+.tab-panel.active{display:block}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+
+/* ── ACCORDION ── */
+.accordion-item{margin-bottom:10px;border-radius:4px;overflow:hidden}
+.accordion-trigger{
+  width:100%;
+  background:var(--obsidian);
+  color:var(--ivory);
+  border:none;
+  padding:18px 26px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  cursor:pointer;
+  text-align:left;
+  transition:background .2s;
+  gap:16px;
+}
+.accordion-trigger:hover{background:#2a1e1e}
+.accordion-trigger.open{background:var(--rosewood)}
+.accordion-trigger-left{display:flex;align-items:center;gap:14px;min-width:0}
+.accordion-trigger-right{display:flex;align-items:center;gap:8px;flex-shrink:0}
+.accordion-num{font-family:var(--font-mono);font-size:11px;color:var(--rosewood);flex-shrink:0}
+.accordion-trigger.open .accordion-num{color:rgba(255,255,255,.6)}
+.accordion-title{font-weight:700;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.accordion-arrow{
+  width:20px;height:20px;
+  border:1.5px solid rgba(255,255,255,.3);
+  border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  flex-shrink:0;
+  transition:transform .25s;
+  font-size:10px;
+}
+.accordion-trigger.open .accordion-arrow{transform:rotate(180deg);border-color:rgba(255,255,255,.5)}
+.accordion-body{
+  display:none;
+  background:var(--ash);
+  border-left:3px solid var(--rosewood);
+  padding:28px 32px;
+  animation:fadeUp .2s ease both;
+}
+.accordion-body.open{display:block}
+
+/* ── SCRIPT SECTIONS ── */
+.script-section-label{
+  font-family:var(--font-mono);
+  font-size:9px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--rosewood);
+  margin-bottom:8px;
+  display:block;
+}
+.script-hook{
+  font-family:var(--font-serif);
+  font-style:italic;
+  font-size:16px;
+  line-height:1.65;
+  color:var(--obsidian);
+  margin-bottom:20px;
+  padding-left:16px;
+  border-left:3px solid var(--peach);
+}
+.script-step{
+  font-size:13px;
+  line-height:1.75;
+  padding:10px 14px;
+  border-left:2px solid var(--ash);
+  margin-bottom:8px;
+  color:var(--plum);
+}
+.script-cta{
+  background:var(--rosewood);
+  padding:14px 18px;
+  border-radius:3px;
+  margin-top:16px;
+  font-size:13px;
+  font-weight:700;
+  color:var(--ivory);
+}
+
+/* ── CALENDAR TABLE ── */
+.cal-table{width:100%;border-collapse:separate;border-spacing:0;font-size:12px;min-width:800px}
+.cal-table th{
+  font-family:var(--font-mono);
+  font-size:9px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  padding:12px 14px;
+  background:var(--obsidian);
+  color:var(--peach);
+  text-align:left;
+  position:sticky;
+  top:136px;
+}
+.cal-table th:first-child{border-radius:4px 0 0 0}
+.cal-table th:last-child{border-radius:0 4px 0 0}
+.cal-table td{
+  padding:12px 14px;
+  vertical-align:top;
+  border-bottom:1px solid rgba(0,0,0,.06);
+  line-height:1.5;
+}
+.cal-table tr:nth-child(odd) td{background:var(--ivory)}
+.cal-table tr:nth-child(even) td{background:var(--ash)}
+.cal-table tr:hover td{background:rgba(230,59,46,.04)}
+.cal-day{font-weight:900;font-size:11px;white-space:nowrap;letter-spacing:.05em}
+.cal-title{max-width:320px;line-height:1.45;color:var(--obsidian)}
+.cal-goal{color:var(--burgundy);font-size:11px;white-space:nowrap}
+.cal-cta{font-weight:700;font-size:11px;color:var(--rosewood);white-space:nowrap}
+
+/* ── WEEK HEADER ── */
+.week-header{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  margin-bottom:14px;
+  padding-bottom:14px;
+  border-bottom:1px solid rgba(0,0,0,.08);
+}
+.week-title{font-weight:900;font-size:18px;text-transform:uppercase;letter-spacing:-.01em}
+.week-theme{font-family:var(--font-mono);font-size:10px;color:var(--plum);letter-spacing:.08em}
+.week-block{margin-bottom:36px}
+.table-scroll{overflow-x:auto;border-radius:4px;box-shadow:0 2px 16px rgba(0,0,0,.07)}
+
+/* ── MONTH SWITCHER ── */
+.month-switcher{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:28px}
+.month-btn{
+  font-family:var(--font-mono);
+  font-size:10px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  padding:10px 20px;
+  border:2px solid var(--ash);
+  background:transparent;
+  color:var(--plum);
+  cursor:pointer;
+  border-radius:3px;
+  transition:all .2s;
+}
+.month-btn:hover{border-color:var(--clay);color:var(--obsidian)}
+.month-btn.active{border-color:var(--rosewood);background:var(--rosewood);color:var(--ivory)}
+
+/* ── MONTH CONTENT ── */
+.month-content{display:none}
+.month-content.active{display:block;animation:fadeUp .25s ease both}
+
+/* ── PILLAR ROW ── */
+.pillar-row{
+  display:grid;
+  grid-template-columns:110px 1fr;
+  border-radius:4px;
+  overflow:hidden;
+  margin-bottom:12px;
+  transition:transform .18s;
+}
+.pillar-row:hover{transform:translateX(4px)}
+.pillar-num-block{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  padding:28px 16px;
+}
+.pillar-pct{font-weight:900;font-size:36px;color:#fff;line-height:1}
+.pillar-code{font-family:var(--font-mono);font-size:9px;color:rgba(255,255,255,.55);letter-spacing:.1em;margin-bottom:4px}
+
+/* ── FUNNEL BAR ── */
+.funnel-bar{
+  height:6px;
+  border-radius:3px;
+  margin-bottom:12px;
+  opacity:.85;
+}
+
+/* ── COLOR SWATCH ── */
+.swatch{width:20px;height:20px;border-radius:3px;display:inline-block;flex-shrink:0;border:1px solid rgba(255,255,255,.15)}
+
+/* ── LINKEDIN POSTS ── */
+.linkedin-card{
+  background:var(--ash);
+  border-radius:6px;
+  overflow:hidden;
+  margin-bottom:16px;
+  transition:box-shadow .2s;
+}
+.linkedin-card:hover{box-shadow:0 8px 40px rgba(26,20,20,.12)}
+.linkedin-header{
+  background:var(--plum);
+  padding:18px 28px;
+  display:flex;
+  align-items:center;
+  gap:14px;
+}
+.linkedin-body{padding:28px;white-space:pre-line;font-size:13px;line-height:1.85;color:var(--obsidian)}
+.linkedin-cta{
+  margin:0 28px 28px;
+  background:var(--rosewood);
+  padding:11px 18px;
+  border-radius:3px;
+  font-family:var(--font-mono);
+  font-size:10px;
+  letter-spacing:.08em;
+  color:var(--ivory);
+  display:inline-block;
+}
+
+/* ── STAT BLOCKS ── */
+.stat-block{
+  display:flex;
+  flex-direction:column;
+  gap:4px;
+  padding:24px;
+  background:var(--ivory);
+  border-radius:4px;
+  border-top:3px solid var(--rosewood);
+}
+.stat-number{font-weight:900;font-size:42px;line-height:1;letter-spacing:-.03em;color:var(--rosewood)}
+.stat-label{font-family:var(--font-mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--plum)}
+.stat-desc{font-size:12px;color:var(--plum);line-height:1.5;margin-top:4px}
+
+/* ── DIVIDER ── */
+.divider{height:1px;background:rgba(0,0,0,.08);margin:32px 0}
+.divider-red{height:2px;background:var(--rosewood);margin:32px 0;opacity:.3}
+
+/* ── HERO SECTION ── */
+.hero{
+  background:var(--obsidian);
+  border-radius:6px;
+  padding:64px 48px;
+  margin-bottom:16px;
+  position:relative;
+  overflow:hidden;
+}
+.hero::before{
+  content:'';
+  position:absolute;
+  top:-80px;right:-80px;
+  width:360px;height:360px;
+  border-radius:50%;
+  background:var(--rosewood);
+  opacity:.06;
+}
+.hero::after{
+  content:'10/B';
+  position:absolute;
+  bottom:-20px;right:40px;
+  font-weight:900;
+  font-size:180px;
+  line-height:1;
+  color:rgba(255,255,255,.025);
+  letter-spacing:-.05em;
+  pointer-events:none;
+  user-select:none;
+}
+.hero-eyebrow{font-family:var(--font-mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--rosewood);margin-bottom:16px}
+.hero-title{font-weight:900;font-size:clamp(42px,6vw,80px);line-height:.95;letter-spacing:-.04em;color:var(--ivory);text-transform:uppercase;margin-bottom:24px}
+.hero-title em{font-style:italic;font-family:var(--font-serif);font-weight:400;font-size:.7em;color:var(--peach);letter-spacing:-.01em}
+.hero-desc{font-size:15px;line-height:1.7;color:rgba(244,239,230,.6);max-width:560px}
+.hero-stats{display:flex;gap:40px;margin-top:40px;flex-wrap:wrap}
+.hero-stat{display:flex;flex-direction:column;gap:4px}
+.hero-stat-n{font-weight:900;font-size:32px;color:var(--rosewood);line-height:1}
+.hero-stat-l{font-family:var(--font-mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4)}
+
+/* ── VISUAL GUIDE ── */
+.do-dont{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.do-block{background:rgba(230,59,46,.06);border:1px solid rgba(230,59,46,.2);border-radius:4px;padding:20px}
+.dont-block{background:rgba(26,20,20,.06);border:1px solid rgba(26,20,20,.12);border-radius:4px;padding:20px}
+.do-label{font-family:var(--font-mono);font-size:9px;letter-spacing:.12em;color:var(--rosewood);margin-bottom:12px;display:block}
+.dont-label{font-family:var(--font-mono);font-size:9px;letter-spacing:.12em;color:var(--plum);margin-bottom:12px;display:block}
+
+/* ── RESPONSIVE ── */
+@media(max-width:768px){
+  #site-header,#nav-tabs .tabs-inner{padding-left:20px;padding-right:20px}
+  #content{padding:24px 20px 80px}
+  .section-inner{padding:36px 24px}
+  .header-tagline{display:none}
+  .grid-3-strict{grid-template-columns:1fr}
+  .do-dont{grid-template-columns:1fr}
+  .pillar-row{grid-template-columns:1fr}
+  .pillar-num-block{padding:16px;flex-direction:row;justify-content:flex-start;gap:12px}
+  .hero{padding:40px 24px}
+  .hero::after{display:none}
+}
+
+/* ── SCROLLBAR ── */
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:var(--ash)}
+::-webkit-scrollbar-thumb{background:var(--plum);border-radius:3px}
+::-webkit-scrollbar-thumb:hover{background:var(--rosewood)}
+
+/* ── SELECTION ── */
+::selection{background:var(--rosewood);color:var(--ivory)}
+
+/* ── PRINT ── */
+@media print{
+  #site-header,#nav-tabs{position:static}
+  .tab-panel{display:block!important}
+  .accordion-body{display:block!important}
+}
+
+/* ══════════════════════════════════════════════
+   TAB 08 · GENERA — CONTENT GENERATOR
+══════════════════════════════════════════════ */
+
+/* New tab highlight */
+.tab-btn--new{
+  color:var(--peach) !important;
+  position:relative;
+}
+.tab-btn--new::before{
+  content:'';
+  position:absolute;
+  top:10px; right:10px;
+  width:5px; height:5px;
+  border-radius:50%;
+  background:var(--rosewood);
+  animation:pulse-dot 2s ease infinite;
+}
+@keyframes pulse-dot{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(1.4)}}
+.tab-btn--new.active{color:var(--ivory) !important}
+
+/* ══════════════════════════════════════════════
+   PASSWORD GATE
+══════════════════════════════════════════════ */
+#gate{
+  position:fixed;
+  inset:0;
+  z-index:10000;
+  background:var(--obsidian);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:24px;
+}
+#gate.hidden{display:none}
+#gate::before{
+  content:'';
+  position:absolute;
+  top:-120px;left:50%;transform:translateX(-50%);
+  width:500px;height:500px;border-radius:50%;
+  background:var(--rosewood);opacity:.05;pointer-events:none;
+}
+#gate::after{
+  content:'10/B';
+  position:absolute;
+  bottom:6%;left:50%;transform:translateX(-50%);
+  font-weight:900;font-size:clamp(120px,22vw,260px);line-height:1;
+  color:rgba(255,255,255,.02);letter-spacing:-.05em;pointer-events:none;user-select:none;
+}
+.gate-box{
+  position:relative;
+  width:100%;max-width:380px;
+  text-align:center;
+  animation:gateIn .4s cubic-bezier(.2,.8,.2,1) both;
+}
+@keyframes gateIn{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+.gate-logo{
+  font-weight:900;font-size:40px;color:var(--rosewood);letter-spacing:-.04em;line-height:1;margin-bottom:6px;
+}
+.gate-logo span{font-size:14px;vertical-align:super;opacity:.7}
+.gate-eyebrow{
+  font-family:var(--font-mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--clay);margin-bottom:28px;
+}
+.gate-title{
+  font-weight:900;font-size:24px;color:var(--ivory);text-transform:uppercase;letter-spacing:-.02em;margin-bottom:8px;
+}
+.gate-sub{font-size:13px;color:rgba(244,239,230,.5);line-height:1.6;margin-bottom:28px}
+.gate-input-wrap{position:relative;margin-bottom:14px}
+.gate-input{
+  width:100%;
+  font-family:var(--font-display);font-size:15px;font-weight:600;
+  background:#2a1e1e;color:var(--ivory);
+  border:1.5px solid var(--plum);border-radius:4px;
+  padding:15px 18px;text-align:center;letter-spacing:.05em;
+  transition:border-color .2s;
+}
+.gate-input:focus{outline:none;border-color:var(--rosewood)}
+.gate-input::placeholder{color:rgba(255,255,255,.25);letter-spacing:normal}
+.gate-btn{
+  width:100%;
+  font-family:var(--font-mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;
+  background:var(--rosewood);color:var(--ivory);
+  border:none;border-radius:4px;padding:15px;cursor:pointer;
+  transition:background .2s, transform .15s;
+}
+.gate-btn:hover{background:var(--clay);transform:translateY(-1px)}
+.gate-btn:active{transform:translateY(0)}
+.gate-error{
+  font-family:var(--font-mono);font-size:11px;letter-spacing:.04em;
+  color:var(--rosewood);margin-top:14px;min-height:16px;
+  opacity:0;transition:opacity .2s;
+}
+.gate-error.show{opacity:1}
+.gate-shake{animation:shake .35s}
+@keyframes shake{0%,100%{transform:translateX(0)}20%{transform:translateX(-8px)}40%{transform:translateX(8px)}60%{transform:translateX(-5px)}80%{transform:translateX(5px)}}
+.gate-foot{
+  margin-top:32px;font-family:var(--font-mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;
+  color:rgba(255,255,255,.25);
+}
+.gate-remember{
+  display:flex;align-items:center;justify-content:center;gap:8px;
+  margin-top:16px;cursor:pointer;
+}
+.gate-remember-box{
+  width:16px;height:16px;border:1.5px solid var(--plum);border-radius:3px;
+  display:flex;align-items:center;justify-content:center;transition:all .2s;
+}
+.gate-remember.on .gate-remember-box{background:var(--rosewood);border-color:var(--rosewood)}
+.gate-remember.on .gate-remember-box::after{content:'✓';color:#fff;font-size:10px;font-weight:700}
+.gate-remember-label{font-family:var(--font-mono);font-size:10px;letter-spacing:.06em;color:rgba(255,255,255,.45)}
+
+/* Hide page until unlocked */
+body.locked{overflow:hidden}
+body.locked #site-header,
+body.locked #nav-tabs,
+body.locked #content,
+body.locked footer{filter:blur(8px);pointer-events:none;user-select:none}
+
+/* ── GENERA: SETUP PANEL ── */
+.gen-setup{
+  background:var(--obsidian);
+  border-radius:6px;
+  padding:56px 48px;
+  margin-bottom:16px;
+  position:relative;
+  overflow:hidden;
+}
+.gen-setup::after{
+  content:'GENERA';
+  position:absolute;
+  right:-20px; bottom:-30px;
+  font-weight:900;
+  font-size:140px;
+  line-height:1;
+  color:rgba(255,255,255,.025);
+  letter-spacing:-.05em;
+  pointer-events:none;
+  user-select:none;
+}
+.gen-setup-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr auto;
+  gap:16px;
+  align-items:end;
+}
+@media(max-width:900px){.gen-setup-grid{grid-template-columns:1fr 1fr;}}
+@media(max-width:560px){.gen-setup-grid{grid-template-columns:1fr;}}
+
+.gen-field{display:flex;flex-direction:column;gap:8px}
+.gen-label{
+  font-family:var(--font-mono);
+  font-size:9px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--peach);
+}
+.gen-select{
+  font-family:var(--font-display);
+  font-size:13px;
+  font-weight:600;
+  background:#2a1e1e;
+  color:var(--ivory);
+  border:1.5px solid var(--plum);
+  border-radius:3px;
+  padding:12px 16px;
+  appearance:none;
+  -webkit-appearance:none;
+  cursor:pointer;
+  transition:border-color .2s;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='7' viewBox='0 0 12 7'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23F2B8A2' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;
+  background-position:right 14px center;
+  padding-right:36px;
+}
+.gen-select:focus{outline:none;border-color:var(--rosewood)}
+.gen-select:hover{border-color:var(--clay)}
+
+.gen-btn{
+  font-family:var(--font-mono);
+  font-size:10px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  background:var(--rosewood);
+  color:var(--ivory);
+  border:none;
+  border-radius:3px;
+  padding:13px 28px;
+  cursor:pointer;
+  white-space:nowrap;
+  transition:background .2s, transform .15s;
+  font-weight:700;
+  position:relative;
+  overflow:hidden;
+}
+.gen-btn::before{
+  content:'';
+  position:absolute;
+  inset:0;
+  background:rgba(255,255,255,0);
+  transition:background .2s;
+}
+.gen-btn:hover{background:var(--clay);transform:translateY(-1px)}
+.gen-btn:active{transform:translateY(0)}
+.gen-btn:disabled{background:var(--plum);cursor:not-allowed;transform:none}
+.gen-btn-loading{animation:btn-shimmer 1.2s ease infinite}
+@keyframes btn-shimmer{0%,100%{opacity:1}50%{opacity:.5}}
+
+/* ── GENERA: STATS BAR ── */
+.gen-statsbar{
+  display:flex;
+  gap:0;
+  background:var(--plum);
+  border-radius:4px;
+  overflow:hidden;
+  margin-bottom:16px;
+}
+.gen-stat-item{
+  flex:1;
+  padding:16px 20px;
+  border-right:1px solid rgba(255,255,255,.08);
+  display:flex;
+  flex-direction:column;
+  gap:3px;
+}
+.gen-stat-item:last-child{border-right:none}
+.gen-stat-n{font-weight:900;font-size:26px;color:var(--rosewood);line-height:1}
+.gen-stat-l{font-family:var(--font-mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:rgba(255,255,255,.35)}
+
+/* ── GENERA: FILTER BAR ── */
+.gen-filterbar{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  margin-bottom:20px;
+  flex-wrap:wrap;
+}
+.gen-filter-btn{
+  font-family:var(--font-mono);
+  font-size:9px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  padding:6px 14px;
+  border:1px solid var(--ash);
+  background:transparent;
+  color:var(--plum);
+  border-radius:2px;
+  cursor:pointer;
+  transition:all .15s;
+}
+.gen-filter-btn:hover{border-color:var(--clay);color:var(--obsidian)}
+.gen-filter-btn.active{background:var(--obsidian);color:var(--ivory);border-color:var(--obsidian)}
+.gen-clear-btn{
+  margin-left:auto;
+  font-family:var(--font-mono);
+  font-size:9px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  padding:6px 14px;
+  border:1px solid var(--rosewood);
+  background:transparent;
+  color:var(--rosewood);
+  border-radius:2px;
+  cursor:pointer;
+  transition:all .15s;
+}
+.gen-clear-btn:hover{background:var(--rosewood);color:var(--ivory)}
+
+/* ── GENERA: EMPTY STATE ── */
+.gen-empty{
+  background:var(--ivory);
+  border-radius:6px;
+  padding:80px 40px;
+  text-align:center;
+}
+.gen-empty-icon{font-size:48px;margin-bottom:20px;opacity:.4}
+.gen-empty-title{font-weight:900;font-size:24px;text-transform:uppercase;letter-spacing:-.02em;margin-bottom:8px;color:var(--obsidian)}
+.gen-empty-sub{font-size:13px;color:var(--plum);line-height:1.6;max-width:360px;margin:0 auto}
+
+/* ── GENERA: VIDEO CARDS ── */
+.gen-cards-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(460px,1fr));
+  gap:16px;
+}
+@media(max-width:560px){.gen-cards-grid{grid-template-columns:1fr}}
+
+.gen-card{
+  background:var(--ivory);
+  border-radius:6px;
+  overflow:hidden;
+  box-shadow:0 2px 20px rgba(26,20,20,.07);
+  transition:box-shadow .2s, transform .2s;
+  animation:cardIn .35s cubic-bezier(.2,.8,.2,1) both;
+}
+.gen-card:hover{box-shadow:0 8px 40px rgba(26,20,20,.13);transform:translateY(-2px)}
+@keyframes cardIn{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+
+/* Card header */
+.gen-card-header{
+  background:var(--obsidian);
+  padding:20px 24px;
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:12px;
+}
+.gen-card-header-left{display:flex;flex-direction:column;gap:6px;min-width:0}
+.gen-card-num{font-family:var(--font-mono);font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:var(--rosewood)}
+.gen-card-title{font-weight:900;font-size:16px;color:var(--ivory);letter-spacing:-.01em;line-height:1.2}
+.gen-card-type-badge{
+  display:inline-flex;
+  align-items:center;
+  gap:5px;
+  font-family:var(--font-mono);
+  font-size:9px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--peach);
+  border:1px solid rgba(242,184,162,.3);
+  padding:3px 8px;
+  border-radius:2px;
+  white-space:nowrap;
+}
+.gen-card-progress{
+  display:flex;
+  flex-direction:column;
+  align-items:flex-end;
+  gap:4px;
+  flex-shrink:0;
+}
+.gen-card-pct{font-weight:900;font-size:22px;color:var(--rosewood);line-height:1}
+.gen-card-pct-label{font-family:var(--font-mono);font-size:8px;letter-spacing:.1em;text-transform:uppercase;color:rgba(255,255,255,.3)}
+.gen-progress-bar{
+  width:60px;height:3px;
+  background:rgba(255,255,255,.1);
+  border-radius:2px;
+  overflow:hidden;
+}
+.gen-progress-fill{height:100%;background:var(--rosewood);border-radius:2px;transition:width .4s ease}
+
+/* Card sections tabs */
+.gen-card-tabs{
+  display:flex;
+  border-bottom:1px solid var(--ash);
+  background:var(--ivory);
+}
+.gen-card-tab{
+  font-family:var(--font-mono);
+  font-size:9px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  padding:10px 16px;
+  border:none;
+  background:transparent;
+  color:var(--plum);
+  cursor:pointer;
+  border-bottom:2px solid transparent;
+  transition:color .15s, border-color .15s;
+  white-space:nowrap;
+}
+.gen-card-tab:hover{color:var(--obsidian)}
+.gen-card-tab.active{color:var(--rosewood);border-bottom-color:var(--rosewood)}
+
+/* Card panels */
+.gen-card-panel{display:none;padding:20px 24px}
+.gen-card-panel.active{display:block;animation:fadeUp .2s ease both}
+
+/* Idea panel */
+.gen-hook-block{
+  background:var(--obsidian);
+  border-radius:4px;
+  padding:16px 18px;
+  margin-bottom:14px;
+  position:relative;
+}
+.gen-hook-label{font-family:var(--font-mono);font-size:8px;letter-spacing:.14em;text-transform:uppercase;color:var(--rosewood);margin-bottom:6px;display:block}
+.gen-hook-text{font-family:var(--font-serif);font-style:italic;font-size:15px;color:var(--ivory);line-height:1.5}
+.gen-copy-btn{
+  position:absolute;
+  top:10px;right:10px;
+  font-family:var(--font-mono);
+  font-size:8px;letter-spacing:.1em;text-transform:uppercase;
+  background:rgba(255,255,255,.08);
+  color:rgba(255,255,255,.5);
+  border:none;border-radius:2px;
+  padding:4px 8px;cursor:pointer;
+  transition:all .15s;
+}
+.gen-copy-btn:hover{background:rgba(255,255,255,.15);color:var(--ivory)}
+.gen-copy-btn.copied{background:rgba(230,59,46,.3);color:var(--peach)}
+
+.gen-info-row{display:flex;justify-content:space-between;align-items:baseline;padding:8px 0;border-bottom:1px solid var(--ash)}
+.gen-info-row:last-child{border-bottom:none}
+.gen-info-key{font-family:var(--font-mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--plum)}
+.gen-info-val{font-size:12px;color:var(--obsidian);font-weight:600;text-align:right;max-width:60%}
+
+/* Script panel */
+.gen-script-block{
+  background:#f9f5ef;
+  border-radius:4px;
+  padding:18px;
+  margin-bottom:10px;
+  border-left:3px solid var(--ash);
+  position:relative;
+}
+.gen-script-block.highlight{border-color:var(--rosewood);background:rgba(230,59,46,.04)}
+.gen-scene-num{font-family:var(--font-mono);font-size:8px;letter-spacing:.12em;text-transform:uppercase;color:var(--rosewood);margin-bottom:5px;display:block}
+.gen-scene-title{font-weight:700;font-size:12px;color:var(--plum);margin-bottom:6px;text-transform:uppercase;letter-spacing:.02em}
+.gen-scene-text{font-size:13px;line-height:1.75;color:var(--obsidian)}
+.gen-overlay-pill{
+  display:inline-block;
+  background:var(--obsidian);
+  color:var(--peach);
+  font-family:var(--font-mono);
+  font-size:10px;
+  padding:4px 10px;
+  border-radius:2px;
+  margin-top:8px;
+  letter-spacing:.05em;
+}
+
+/* Social panel */
+.gen-caption-area{
+  background:#f9f5ef;
+  border-radius:4px;
+  padding:16px;
+  font-size:13px;
+  line-height:1.75;
+  color:var(--obsidian);
+  white-space:pre-wrap;
+  margin-bottom:12px;
+  border:1px solid var(--ash);
+  cursor:text;
+}
+.gen-hashtags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.gen-hashtag{
+  font-family:var(--font-mono);
+  font-size:9px;
+  letter-spacing:.06em;
+  color:var(--rosewood);
+  background:rgba(230,59,46,.08);
+  padding:4px 8px;
+  border-radius:2px;
+  cursor:pointer;
+  transition:background .15s;
+}
+.gen-hashtag:hover{background:rgba(230,59,46,.16)}
+.gen-cta-box{
+  background:var(--rosewood);
+  border-radius:3px;
+  padding:12px 16px;
+  font-weight:700;
+  font-size:13px;
+  color:var(--ivory);
+}
+
+/* Checklist panel */
+.gen-checklist{display:flex;flex-direction:column;gap:0}
+.gen-check-item{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  padding:12px 0;
+  border-bottom:1px solid var(--ash);
+  cursor:pointer;
+  transition:background .15s;
+  border-radius:2px;
+}
+.gen-check-item:last-child{border-bottom:none}
+.gen-check-item:hover{background:rgba(230,59,46,.04);padding-left:6px}
+
+.gen-checkbox{
+  width:20px;height:20px;
+  border:2px solid var(--ash);
+  border-radius:3px;
+  display:flex;align-items:center;justify-content:center;
+  flex-shrink:0;
+  transition:all .2s;
+  background:transparent;
+}
+.gen-check-item.checked .gen-checkbox{
+  background:var(--rosewood);
+  border-color:var(--rosewood);
+}
+.gen-check-item.checked .gen-checkbox::after{
+  content:'✓';
+  color:#fff;
+  font-size:11px;
+  font-weight:700;
+}
+.gen-check-label{
+  font-size:13px;
+  font-weight:600;
+  color:var(--obsidian);
+  flex:1;
+  transition:color .2s;
+}
+.gen-check-item.checked .gen-check-label{
+  text-decoration:line-through;
+  color:var(--plum);
+  font-weight:400;
+}
+.gen-check-phase{
+  font-family:var(--font-mono);
+  font-size:8px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--plum);
+  opacity:.5;
+}
+.gen-checklist-done{
+  margin-top:14px;
+  padding:10px 14px;
+  background:rgba(230,59,46,.08);
+  border-radius:3px;
+  font-family:var(--font-mono);
+  font-size:9px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--rosewood);
+  text-align:center;
+  display:none;
+}
+.gen-checklist-done.visible{display:block;animation:fadeUp .2s ease both}
+
+/* ── CARD COMPLETED STATE ── */
+.gen-card.card-completed .gen-card-header{background:var(--burgundy)}
+.gen-card.card-completed .gen-card-num{color:var(--peach)}
+
+/* ── RESPONSIVE TWEAKS ── */
+@media(max-width:768px){
+  .gen-setup{padding:36px 24px}
+  .gen-card-tabs{overflow-x:auto;scrollbar-width:none}
+  .gen-card-tabs::-webkit-scrollbar{display:none}
+}
+
+/* ── ROLE HINT ── */
+.gen-role-hint{
+  margin-top:24px;
+  background:rgba(242,184,162,.07);
+  border:1px solid rgba(242,184,162,.18);
+  border-left:3px solid var(--rosewood);
+  border-radius:4px;
+  padding:16px 20px;
+  font-size:13px;
+  line-height:1.6;
+  color:rgba(244,239,230,.8);
+  display:flex;
+  gap:14px;
+  align-items:flex-start;
+}
+.gen-role-hint .role-avatar{
+  width:40px;height:40px;
+  border-radius:50%;
+  flex-shrink:0;
+  display:flex;align-items:center;justify-content:center;
+  font-weight:900;font-size:15px;
+  color:var(--ivory);
+}
+.gen-role-hint b{color:var(--peach)}
+
+/* ── SYNC BAR ── */
+.gen-sync-bar{
+  margin-top:14px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:14px;
+  flex-wrap:wrap;
+  padding:12px 18px;
+  background:rgba(255,255,255,.04);
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:4px;
+}
+.gen-sync-status{display:flex;align-items:center;gap:10px;min-width:0}
+.gen-sync-dot{
+  width:9px;height:9px;border-radius:50%;flex-shrink:0;
+  background:var(--plum);
+  box-shadow:0 0 0 0 rgba(0,0,0,0);
+}
+.gen-sync-dot.online{background:#3ECF8E;animation:syncPulse 2s ease infinite}
+.gen-sync-dot.error{background:var(--rosewood)}
+@keyframes syncPulse{0%,100%{box-shadow:0 0 0 0 rgba(62,207,142,.5)}50%{box-shadow:0 0 0 5px rgba(62,207,142,0)}}
+.gen-sync-label{font-family:var(--font-mono);font-size:10px;letter-spacing:.06em;color:rgba(255,255,255,.5)}
+.gen-sync-label b{color:var(--peach)}
+.gen-sync-config-btn{
+  font-family:var(--font-mono);font-size:9px;letter-spacing:.08em;text-transform:uppercase;
+  background:transparent;color:var(--peach);
+  border:1px solid rgba(242,184,162,.3);border-radius:2px;
+  padding:7px 14px;cursor:pointer;white-space:nowrap;transition:all .15s;
+}
+.gen-sync-config-btn:hover{background:rgba(242,184,162,.1);border-color:var(--peach)}
+
+/* ── SYNC PANEL ── */
+.gen-sync-panel{
+  margin-top:12px;
+  background:rgba(0,0,0,.25);
+  border:1px solid rgba(242,184,162,.18);
+  border-radius:6px;
+  padding:22px;
+}
+.gen-sync-panel-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.gen-sync-close{background:none;border:none;color:rgba(255,255,255,.4);font-size:16px;cursor:pointer;line-height:1}
+.gen-sync-close:hover{color:var(--ivory)}
+.gen-sync-desc{font-size:12px;line-height:1.6;color:rgba(255,255,255,.55);margin-bottom:16px}
+.gen-sync-desc b{color:var(--peach)}
+.gen-sync-fields{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:14px}
+@media(max-width:560px){.gen-sync-fields{grid-template-columns:1fr}}
+.gen-sync-input{
+  font-family:var(--font-mono);font-size:12px;
+  background:#2a1e1e;color:var(--ivory);
+  border:1.5px solid var(--plum);border-radius:3px;
+  padding:11px 14px;width:100%;
+}
+.gen-sync-input:focus{outline:none;border-color:var(--rosewood)}
+.gen-sync-input::placeholder{color:rgba(255,255,255,.25)}
+.gen-sync-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.gen-sync-disconnect{
+  font-family:var(--font-mono);font-size:9px;letter-spacing:.08em;text-transform:uppercase;
+  background:transparent;color:rgba(255,255,255,.4);
+  border:1px solid rgba(255,255,255,.15);border-radius:2px;
+  padding:9px 16px;cursor:pointer;transition:all .15s;
+}
+.gen-sync-disconnect:hover{color:var(--rosewood);border-color:var(--rosewood)}
+.gen-sync-feedback{margin-top:12px;font-size:12px;line-height:1.5;min-height:0}
+.gen-sync-feedback.ok{color:#3ECF8E}
+.gen-sync-feedback.err{color:var(--peach)}
+.gen-sync-help{margin-top:16px;font-size:12px;color:rgba(255,255,255,.5)}
+.gen-sync-help summary{cursor:pointer;font-family:var(--font-mono);font-size:10px;letter-spacing:.06em;color:var(--peach);text-transform:uppercase}
+.gen-sync-help ol{margin:12px 0 0 18px;line-height:1.7}
+.gen-sync-help li{margin-bottom:6px}
+.gen-sync-help b{color:var(--peach)}
+
+/* ── QUEUE ITEM: sync byline ── */
+.gen-q-syncby{font-family:var(--font-mono);font-size:8px;letter-spacing:.06em;color:var(--plum);opacity:.7}
+
+/* ── MODE SWITCHER ── */
+.gen-mode-switch{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:12px;
+  margin-bottom:20px;
+}
+@media(max-width:560px){.gen-mode-switch{grid-template-columns:1fr}}
+.gen-mode-btn{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  background:var(--ivory);
+  border:2px solid var(--ash);
+  border-radius:6px;
+  padding:18px 22px;
+  cursor:pointer;
+  text-align:left;
+  transition:border-color .2s, transform .15s, box-shadow .2s;
+}
+.gen-mode-btn:hover{border-color:var(--clay);transform:translateY(-1px)}
+.gen-mode-btn.active{border-color:var(--rosewood);background:#fff;box-shadow:0 4px 24px rgba(230,59,46,.1)}
+.gen-mode-icon{font-size:24px;flex-shrink:0}
+.gen-mode-text{display:flex;flex-direction:column;gap:2px;min-width:0}
+.gen-mode-text b{font-weight:900;font-size:14px;color:var(--obsidian);text-transform:uppercase;letter-spacing:-.01em}
+.gen-mode-text small{font-size:11px;color:var(--plum);line-height:1.4}
+.gen-mode-btn.active .gen-mode-text b{color:var(--rosewood)}
+
+/* ── PRODUCTION QUEUE ── */
+.gen-queue-head{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  margin-bottom:18px;
+  flex-wrap:wrap;
+  gap:14px;
+}
+.gen-queue-title{font-weight:900;font-size:28px;letter-spacing:-.02em;text-transform:uppercase;line-height:1}
+.gen-queue-legend{display:flex;align-items:center;gap:4px}
+.gen-prio-dot{width:9px;height:9px;border-radius:50%;display:inline-block}
+
+.gen-queue-filters{display:flex;gap:8px;margin-bottom:18px;flex-wrap:wrap}
+
+.gen-queue-list{display:flex;flex-direction:column;gap:10px}
+
+/* Queue item */
+.gen-queue-item{
+  display:grid;
+  grid-template-columns:auto 64px 1fr auto;
+  align-items:stretch;
+  background:var(--ivory);
+  border-radius:6px;
+  overflow:hidden;
+  box-shadow:0 2px 14px rgba(26,20,20,.05);
+  transition:box-shadow .2s, transform .15s;
+  animation:cardIn .3s cubic-bezier(.2,.8,.2,1) both;
+}
+.gen-queue-item:hover{box-shadow:0 6px 30px rgba(26,20,20,.1);transform:translateX(3px)}
+.gen-queue-item.done{opacity:.55}
+.gen-queue-item.done .gen-q-title{text-decoration:line-through}
+
+/* priority spine */
+.gen-q-spine{width:5px;flex-shrink:0}
+
+/* date block */
+.gen-q-date{
+  background:var(--obsidian);
+  color:var(--ivory);
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  padding:14px 8px;
+  gap:2px;
+}
+.gen-q-date-day{font-family:var(--font-mono);font-size:9px;letter-spacing:.1em;color:var(--peach);text-transform:uppercase}
+.gen-q-date-num{font-weight:900;font-size:22px;line-height:1}
+.gen-q-date-mon{font-family:var(--font-mono);font-size:8px;letter-spacing:.1em;color:rgba(255,255,255,.4);text-transform:uppercase}
+
+/* body */
+.gen-q-body{padding:14px 18px;display:flex;flex-direction:column;gap:7px;min-width:0}
+.gen-q-toprow{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.gen-q-prio-tag{
+  font-family:var(--font-mono);font-size:8px;letter-spacing:.1em;text-transform:uppercase;
+  padding:2px 7px;border-radius:2px;color:var(--ivory);font-weight:700;
+}
+.gen-q-title{font-weight:700;font-size:14px;color:var(--obsidian);line-height:1.35}
+.gen-q-meta{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.gen-q-owner-pill{
+  display:inline-flex;align-items:center;gap:5px;
+  font-family:var(--font-mono);font-size:9px;letter-spacing:.06em;text-transform:uppercase;
+  padding:3px 9px;border-radius:20px;font-weight:700;
+}
+.gen-q-owner-dot{width:6px;height:6px;border-radius:50%;display:inline-block}
+
+/* action */
+.gen-q-action{
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  padding:14px 18px;border-left:1px solid var(--ash);gap:8px;
+}
+.gen-q-check{
+  width:26px;height:26px;border:2px solid var(--ash);border-radius:6px;
+  display:flex;align-items:center;justify-content:center;cursor:pointer;
+  transition:all .2s;flex-shrink:0;
+}
+.gen-q-check:hover{border-color:var(--rosewood)}
+.gen-queue-item.done .gen-q-check{background:var(--rosewood);border-color:var(--rosewood)}
+.gen-queue-item.done .gen-q-check::after{content:'✓';color:#fff;font-size:14px;font-weight:700}
+.gen-q-check-label{font-family:var(--font-mono);font-size:8px;letter-spacing:.08em;text-transform:uppercase;color:var(--plum);white-space:nowrap}
+
+/* week divider */
+.gen-q-week-divider{
+  display:flex;align-items:center;gap:12px;
+  margin:22px 0 8px;
+}
+.gen-q-week-divider:first-child{margin-top:0}
+.gen-q-week-label{
+  font-family:var(--font-mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--rosewood);font-weight:700;white-space:nowrap;
+}
+.gen-q-week-line{flex:1;height:1px;background:var(--ash)}
+.gen-q-week-count{font-family:var(--font-mono);font-size:9px;color:var(--plum);white-space:nowrap}
+
+@media(max-width:680px){
+  .gen-queue-item{grid-template-columns:auto 56px 1fr}
+  .gen-q-action{grid-column:1/-1;flex-direction:row;justify-content:space-between;border-left:none;border-top:1px solid var(--ash);padding:10px 18px}
+}
+
+/* ── EMPTY QUEUE ── */
+.gen-queue-empty{
+  background:var(--ivory);border-radius:6px;padding:60px 40px;text-align:center;
+}
+.gen-queue-empty-icon{font-size:40px;margin-bottom:16px;opacity:.4}
+.gen-queue-empty-title{font-weight:900;font-size:20px;text-transform:uppercase;margin-bottom:6px;color:var(--obsidian)}
+.gen-queue-empty-sub{font-size:13px;color:var(--plum);line-height:1.6;max-width:340px;margin:0 auto}
+</style>
+</head>
+<body class="locked">
+
+<!-- ═══════════════════════════════════════════════════════ PASSWORD GATE -->
+<div id="gate">
+  <div class="gate-box">
+    <div class="gate-logo">10/B<span>®</span></div>
+    <div class="gate-eyebrow">Documento riservato</div>
+    <div class="gate-title">Area protetta</div>
+    <div class="gate-sub">Questo piano editoriale è riservato al team Dieci Bottega. Inserisci la password per accedere.</div>
+    <div class="gate-input-wrap">
+      <input type="password" id="gate-input" class="gate-input" placeholder="Password" autocomplete="off" autofocus/>
+    </div>
+    <button class="gate-btn" id="gate-btn">Entra →</button>
+    <div class="gate-remember" id="gate-remember">
+      <div class="gate-remember-box"></div>
+      <span class="gate-remember-label">Resta connesso su questo dispositivo</span>
+    </div>
+    <div class="gate-error" id="gate-error"></div>
+    <div class="gate-foot">Dieci Bottega · Bologna · 2026</div>
+  </div>
+</div>
+
+
+<!-- HEADER -->
+<header id="site-header">
+  <div class="header-inner">
+    <div class="header-left">
+      <div class="logo-mark">10/B</div>
+      <div class="header-meta">
+        <div class="header-title">Piano Editoriale · 3 Mesi</div>
+        <div class="header-sub">Instagram · TikTok · LinkedIn · 2026</div>
+      </div>
+    </div>
+    <div class="header-tagline">È tutto nei dettagli.</div>
+  </div>
+</header>
+
+<!-- NAV -->
+<nav id="nav-tabs">
+  <div class="tabs-inner">
+    <button class="tab-btn active" data-tab="strategia">01 · Strategia</button>
+    <button class="tab-btn" data-tab="pilastri">02 · Pilastri</button>
+    <button class="tab-btn" data-tab="rubriche">03 · Rubriche</button>
+    <button class="tab-btn" data-tab="calendario">04 · Calendario</button>
+    <button class="tab-btn" data-tab="script">05 · Script</button>
+    <button class="tab-btn" data-tab="linkedin">06 · LinkedIn</button>
+    <button class="tab-btn" data-tab="visuale">07 · Visuale</button>
+    <button class="tab-btn tab-btn--new" data-tab="genera">08 · Genera ✦</button>
+  </div>
+</nav>
+
+<!-- MAIN -->
+<main id="content">
+
+<!-- ═══════════════════════════════════════════════════════ TAB: STRATEGIA -->
+<div class="tab-panel active" id="tab-strategia">
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-eyebrow">Dieci Bottega · Bologna · Est. 2026</div>
+    <h1 class="hero-title">Piano<br>Editoriale<br><em>Q2–Q3 2026</em></h1>
+    <p class="hero-desc">Posizionare Dieci Bottega come la bottega digitale di riferimento per le PMI italiane che vogliono un sito web fatto bene, veloce e a prezzo onesto.</p>
+    <div class="hero-stats">
+      <div class="hero-stat"><span class="hero-stat-n">3</span><span class="hero-stat-l">Mesi</span></div>
+      <div class="hero-stat"><span class="hero-stat-n">84+</span><span class="hero-stat-l">Contenuti</span></div>
+      <div class="hero-stat"><span class="hero-stat-n">3</span><span class="hero-stat-l">Piattaforme</span></div>
+      <div class="hero-stat"><span class="hero-stat-n">8</span><span class="hero-stat-l">Rubriche</span></div>
+    </div>
+  </div>
+
+  <!-- DIFFERENZIANTI -->
+  <div class="section section-light">
+    <div class="section-inner">
+      <div class="section-eyebrow">Analisi del brand</div>
+      <h2 class="section-title">6 Differenzianti<br>Narrativi</h2>
+      <div class="grid-3">
+        <div class="card">
+          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">01</div>
+          <div style="font-weight:700;font-size:16px;margin-bottom:10px">Il prezzo è pubblico</div>
+          <div style="font-size:13px;line-height:1.7;color:var(--plum)">800–3.500€. Zero sovraprezzi. In un settore dove tutti nascondono i prezzi, la trasparenza radicale è un differenziante enorme da comunicare ogni settimana.</div>
+        </div>
+        <div class="card">
+          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">02</div>
+          <div style="font-weight:700;font-size:16px;margin-bottom:10px">10 giorni, promessa pubblica</div>
+          <div style="font-size:13px;line-height:1.7;color:var(--plum)">Non "2-3 settimane indicative". Dieci giorni. Punto. Un claim verificabile, auditabile, attaccabile — ed è esattamente per questo che funziona.</div>
+        </div>
+        <div class="card">
+          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">03</div>
+          <div style="font-weight:700;font-size:16px;margin-bottom:10px">Artigiani, non agenti</div>
+          <div style="font-size:13px;line-height:1.7;color:var(--plum)">Lorenzo fa il codice. Tommaso chiude i clienti. Due persone reali. Il contrario dell'agenzia senza volto: va sfruttato al massimo nei contenuti.</div>
+        </div>
+        <div class="card">
+          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">04</div>
+          <div style="font-weight:700;font-size:16px;margin-bottom:10px">Bologna come asset</div>
+          <div style="font-size:13px;line-height:1.7;color:var(--plum)">Non "Italian style" generico. Bologna. La città più foodie d'Italia, BNI, tessuto PMI denso. La prossimità geografica è vantaggio competitivo.</div>
+        </div>
+        <div class="card">
+          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">05</div>
+          <div style="font-weight:700;font-size:16px;margin-bottom:10px">AI senza fare i guru</div>
+          <div style="font-size:13px;line-height:1.7;color:var(--plum)">Usano n8n, Supabase, prompt strutturati — ma mostrano l'output, non la filosofia. Niente "thought leader". Questo è raro e credibile.</div>
+        </div>
+        <div class="card">
+          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:10px">06</div>
+          <div style="font-weight:700;font-size:16px;margin-bottom:10px">Il gap di mercato visibile</div>
+          <div style="font-size:13px;line-height:1.7;color:var(--plum)">Tra Wix (fai da te) e agenzia (6k€) c'è un vuoto enorme. Renderlo visivo, quantificabile e ripetuto diventa il manifesto del brand.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FUNNEL -->
+  <div class="section section-dark">
+    <div class="section-inner">
+      <div class="section-eyebrow">Funnel editoriale</div>
+      <h2 class="section-title">TOFU / MOFU / BOFU</h2>
+      <div class="grid-3-strict">
+        <div class="card-dark" style="border-color:var(--rosewood)">
+          <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px">
+            <span class="mono" style="color:var(--rosewood);font-size:13px;letter-spacing:.1em">TOFU</span>
+            <span style="font-weight:900;font-size:48px;color:var(--rosewood);line-height:1">60%</span>
+          </div>
+          <div class="funnel-bar" style="background:var(--rosewood)"></div>
+          <div style="font-weight:700;font-size:15px;color:var(--ivory);margin-bottom:14px">Consapevolezza</div>
+          <div style="font-size:12px;color:var(--peach);line-height:1.9">
+            — Analisi siti di PMI reali<br>
+            — Errori comuni (educativi)<br>
+            — Prima/Dopo spettacolari<br>
+            — TikTok veloci, hook forte<br>
+            — "Il sito di Mario non funziona perché..."
+          </div>
+        </div>
+        <div class="card-dark" style="border-color:var(--clay)">
+          <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px">
+            <span class="mono" style="color:var(--clay);font-size:13px;letter-spacing:.1em">MOFU</span>
+            <span style="font-weight:900;font-size:48px;color:var(--clay);line-height:1">25%</span>
+          </div>
+          <div class="funnel-bar" style="background:var(--clay)"></div>
+          <div style="font-weight:700;font-size:15px;color:var(--ivory);margin-bottom:14px">Considerazione</div>
+          <div style="font-size:12px;color:var(--peach);line-height:1.9">
+            — Il processo in 10 giorni<br>
+            — Pricing spiegato chiaramente<br>
+            — Case study con numeri reali<br>
+            — Carousel framework decisionali<br>
+            — FAQ brutalmente oneste
+          </div>
+        </div>
+        <div class="card-dark" style="border-color:var(--burgundy)">
+          <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px">
+            <span class="mono" style="color:var(--peach);font-size:13px;letter-spacing:.1em">BOFU</span>
+            <span style="font-weight:900;font-size:48px;color:var(--peach);line-height:1">15%</span>
+          </div>
+          <div class="funnel-bar" style="background:var(--burgundy)"></div>
+          <div style="font-weight:700;font-size:15px;color:var(--ivory);margin-bottom:14px">Conversione</div>
+          <div style="font-size:12px;color:var(--peach);line-height:1.9">
+            — Testimonianze clienti reali<br>
+            — Prima/Dopo con ROI esplicito<br>
+            — Offerta limitata in modo credibile<br>
+            — CTA diretta alla call<br>
+            — Stories con link diretto
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PIATTAFORME -->
+  <div class="section section-light">
+    <div class="section-inner">
+      <div class="section-eyebrow">Volume & frequenza</div>
+      <h2 class="section-title">Piano Piattaforme</h2>
+      <div class="grid-3">
+        <div class="card" style="border-color:var(--rosewood)">
+          <div style="font-weight:900;font-size:22px;color:var(--rosewood);margin-bottom:6px">TIKTOK</div>
+          <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:16px">4–5 contenuti / settimana</div>
+          <div style="font-size:13px;line-height:1.9">· Reel analisi siti<br>· Before/After veloce<br>· Tip in 30 secondi<br>· POV: cliente PMI</div>
+          <div style="margin-top:16px;padding:10px 14px;background:var(--obsidian);border-radius:3px">
+            <span class="mono-xs" style="color:var(--rosewood)">Obiettivo: </span>
+            <span class="mono-xs" style="color:var(--ivory)">Reach &amp; awareness</span>
+          </div>
+        </div>
+        <div class="card" style="border-color:var(--clay)">
+          <div style="font-weight:900;font-size:22px;color:var(--clay);margin-bottom:6px">INSTAGRAM</div>
+          <div class="mono-xs" style="color:var(--clay);display:block;margin-bottom:16px">7–9 contenuti / settimana</div>
+          <div style="font-size:13px;line-height:1.9">· 4 Reel<br>· 2 Carousel<br>· 3 Stories / giorno<br>· 1 post statico</div>
+          <div style="margin-top:16px;padding:10px 14px;background:var(--obsidian);border-radius:3px">
+            <span class="mono-xs" style="color:var(--clay)">Obiettivo: </span>
+            <span class="mono-xs" style="color:var(--ivory)">Engagement &amp; fiducia</span>
+          </div>
+        </div>
+        <div class="card" style="border-color:var(--plum)">
+          <div style="font-weight:900;font-size:22px;color:var(--plum);margin-bottom:6px">LINKEDIN</div>
+          <div class="mono-xs" style="color:var(--plum);display:block;margin-bottom:16px">2 contenuti / settimana</div>
+          <div style="font-size:13px;line-height:1.9">· Post long-form<br>· Carosello PDF<br>· Case study con numeri<br>· Opinion diretta</div>
+          <div style="margin-top:16px;padding:10px 14px;background:var(--obsidian);border-radius:3px">
+            <span class="mono-xs" style="color:var(--peach)">Obiettivo: </span>
+            <span class="mono-xs" style="color:var(--ivory)">Lead B2B qualificati</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ TAB: PILASTRI -->
+<div class="tab-panel" id="tab-pilastri">
+  <div class="section section-light">
+    <div class="section-inner">
+      <div class="section-eyebrow">Content pillars</div>
+      <h2 class="section-title">I 5 Pilastri<br>Editoriali</h2>
+
+      <div id="pillars-list">
+        <!-- P1 -->
+        <div class="pillar-row" style="margin-bottom:12px">
+          <div class="pillar-num-block" style="background:var(--rosewood)">
+            <div><div class="pillar-code">P1</div><div class="pillar-pct">30%</div></div>
+          </div>
+          <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
+            <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">DIAGNOSI PUBBLICA</div>
+            <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">Analizziamo siti reali di PMI italiane. Mostriamo cosa non funziona, perché costa clienti, come si risolve. È il formato più virale perché tutti riconoscono qualcuno.</div>
+            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Il ristorante senza menu online"</span>
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Il trainer con sito del 2017"</span>
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"L'agente senza WhatsApp"</span>
+            </div>
+            <span class="tag" style="color:var(--rosewood);border-color:var(--rosewood)">TikTok</span>
+            <span class="tag" style="color:var(--rosewood);border-color:var(--rosewood)">Instagram Reel</span>
+          </div>
+        </div>
+        <!-- P2 -->
+        <div class="pillar-row" style="margin-bottom:12px">
+          <div class="pillar-num-block" style="background:var(--clay)">
+            <div><div class="pillar-code">P2</div><div class="pillar-pct">25%</div></div>
+          </div>
+          <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
+            <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">EDUCAZIONE AL MESTIERE</div>
+            <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">Framework concreti, numeri reali, zero teoria vuota. Insegniamo cosa fa la differenza tra un sito che converte e uno che non serve a niente.</div>
+            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"3 secondi per convincere"</span>
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Perché il PDF è un errore"</span>
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"CTA: il bottone ignorato"</span>
+            </div>
+            <span class="tag" style="color:var(--clay);border-color:var(--clay)">Instagram Carousel</span>
+            <span class="tag" style="color:var(--clay);border-color:var(--clay)">LinkedIn</span>
+          </div>
+        </div>
+        <!-- P3 -->
+        <div class="pillar-row" style="margin-bottom:12px">
+          <div class="pillar-num-block" style="background:var(--burgundy)">
+            <div><div class="pillar-code">P3</div><div class="pillar-pct">20%</div></div>
+          </div>
+          <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
+            <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">PROCESSO &amp; BACKSTAGE</div>
+            <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">Brief → build → consegna. Il dietro le quinte crea fiducia e differenzia da chi nasconde il processo. La bottega aperta come vantaggio narrativo.</div>
+            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Day 1: il brief"</span>
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Come usiamo l'AI"</span>
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Checklist pre-consegna"</span>
+            </div>
+            <span class="tag" style="color:var(--burgundy);border-color:var(--burgundy)">TikTok</span>
+            <span class="tag" style="color:var(--burgundy);border-color:var(--burgundy)">Stories</span>
+          </div>
+        </div>
+        <!-- P4 -->
+        <div class="pillar-row" style="margin-bottom:12px">
+          <div class="pillar-num-block" style="background:var(--plum)">
+            <div><div class="pillar-code">P4</div><div class="pillar-pct">15%</div></div>
+          </div>
+          <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
+            <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">CASE STUDY &amp; RISULTATI</div>
+            <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">Prima/Dopo con numeri reali. Non "siamo migliorati" ma "+187% prenotazioni". La prova che funziona, raccontata con la stessa cura del sito consegnato.</div>
+            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Trattoria: +187% prenotazioni"</span>
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Trainer: 45 lead/mese"</span>
+            </div>
+            <span class="tag" style="color:var(--plum);border-color:var(--plum)">Instagram</span>
+            <span class="tag" style="color:var(--plum);border-color:var(--plum)">LinkedIn</span>
+          </div>
+        </div>
+        <!-- P5 -->
+        <div class="pillar-row">
+          <div class="pillar-num-block" style="background:#2a1e1e">
+            <div><div class="pillar-code">P5</div><div class="pillar-pct" style="font-size:30px">10%</div></div>
+          </div>
+          <div class="card" style="border-radius:0;border-left:none;background:var(--ash)">
+            <div style="font-weight:900;font-size:17px;margin-bottom:8px;text-transform:uppercase;letter-spacing:-.01em">BRAND &amp; POSITIONING</div>
+            <div style="font-size:13px;line-height:1.7;color:var(--plum);margin-bottom:14px">Chi siamo, perché lo facciamo, il manifesto. Con parsimonia — troppo brand-talking uccide il feed. Una volta ogni 10 contenuti: necessario, non di più.</div>
+            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px">
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Perché Bologna, non Milano"</span>
+              <span style="font-size:11px;background:var(--ivory);padding:4px 10px;border-radius:2px">"Cosa significa bottega nel 2026"</span>
+            </div>
+            <span class="tag" style="color:var(--obsidian);border-color:var(--obsidian)">Instagram</span>
+            <span class="tag" style="color:var(--obsidian);border-color:var(--obsidian)">LinkedIn</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ TAB: RUBRICHE -->
+<div class="tab-panel" id="tab-rubriche">
+  <div class="section section-dark">
+    <div class="section-inner">
+      <div class="section-eyebrow">Serie ricorrenti</div>
+      <h2 class="section-title">8 Rubriche<br>Riconoscibili</h2>
+      <div class="grid-2" id="rubriche-grid"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ TAB: CALENDARIO -->
+<div class="tab-panel" id="tab-calendario">
+  <div class="section section-light">
+    <div class="section-inner">
+      <div class="section-eyebrow">12 settimane di contenuti pianificati</div>
+      <h2 class="section-title">Calendario<br>Editoriale</h2>
+      <div class="month-switcher" id="month-switcher"></div>
+      <div id="calendar-content"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ TAB: SCRIPT -->
+<div class="tab-panel" id="tab-script">
+  <div class="section section-light">
+    <div class="section-inner">
+      <div class="section-eyebrow">Pronti da girare</div>
+      <h2 class="section-title">Script Reel<br>&amp; TikTok</h2>
+      <div id="scripts-reels"></div>
+    </div>
+  </div>
+  <div class="section section-dark">
+    <div class="section-inner">
+      <div class="section-eyebrow">Slide per slide</div>
+      <h2 class="section-title">Carousel<br>Completi</h2>
+      <div id="scripts-carousels"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ TAB: LINKEDIN -->
+<div class="tab-panel" id="tab-linkedin">
+  <div class="section section-light">
+    <div class="section-inner">
+      <div class="section-eyebrow">Pronti da pubblicare</div>
+      <h2 class="section-title">5 Post LinkedIn<br>Completi</h2>
+      <div id="linkedin-posts"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ TAB: VISUALE -->
+<div class="tab-panel" id="tab-visuale">
+  <div class="section section-dark">
+    <div class="section-inner">
+      <div class="section-eyebrow">Brand guidelines applicati ai social</div>
+      <h2 class="section-title">Linee Guida<br>Visive</h2>
+
+      <!-- PALETTE -->
+      <div style="margin-bottom:40px">
+        <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:16px">01 · Palette colori</div>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px">
+          <div class="card-dark" style="border:none;text-align:center;padding:20px 16px">
+            <div style="height:60px;background:var(--rosewood);border-radius:3px;margin-bottom:10px"></div>
+            <div style="font-weight:700;font-size:13px;color:var(--ivory)">Rosewood</div>
+            <div class="mono-xs" style="color:var(--peach)">#E63B2E</div>
+            <div class="mono-xs" style="color:rgba(255,255,255,.3);margin-top:4px">Brand · Primario</div>
+          </div>
+          <div class="card-dark" style="border:none;text-align:center;padding:20px 16px">
+            <div style="height:60px;background:var(--obsidian);border-radius:3px;margin-bottom:10px;border:1px solid rgba(255,255,255,.1)"></div>
+            <div style="font-weight:700;font-size:13px;color:var(--ivory)">Obsidian</div>
+            <div class="mono-xs" style="color:var(--peach)">#1A1414</div>
+            <div class="mono-xs" style="color:rgba(255,255,255,.3);margin-top:4px">Testo · Dark bg</div>
+          </div>
+          <div class="card-dark" style="border:none;text-align:center;padding:20px 16px">
+            <div style="height:60px;background:var(--ivory);border-radius:3px;margin-bottom:10px"></div>
+            <div style="font-weight:700;font-size:13px;color:var(--ivory)">Ivory</div>
+            <div class="mono-xs" style="color:var(--peach)">#F4EFE6</div>
+            <div class="mono-xs" style="color:rgba(255,255,255,.3);margin-top:4px">Background</div>
+          </div>
+          <div class="card-dark" style="border:none;text-align:center;padding:20px 16px">
+            <div style="height:60px;background:var(--peach);border-radius:3px;margin-bottom:10px"></div>
+            <div style="font-weight:700;font-size:13px;color:var(--ivory)">Peach</div>
+            <div class="mono-xs" style="color:var(--peach)">#F2B8A2</div>
+            <div class="mono-xs" style="color:rgba(255,255,255,.3);margin-top:4px">Accent · Soft</div>
+          </div>
+          <div class="card-dark" style="border:none;text-align:center;padding:20px 16px">
+            <div style="height:60px;background:var(--burgundy);border-radius:3px;margin-bottom:10px"></div>
+            <div style="font-weight:700;font-size:13px;color:var(--ivory)">Burgundy</div>
+            <div class="mono-xs" style="color:var(--peach)">#7A1818</div>
+            <div class="mono-xs" style="color:rgba(255,255,255,.3);margin-top:4px">Deep · Editorial</div>
+          </div>
+          <div class="card-dark" style="border:none;text-align:center;padding:20px 16px">
+            <div style="height:60px;background:var(--plum);border-radius:3px;margin-bottom:10px"></div>
+            <div style="font-weight:700;font-size:13px;color:var(--ivory)">Plum</div>
+            <div class="mono-xs" style="color:var(--peach)">#4A3838</div>
+            <div class="mono-xs" style="color:rgba(255,255,255,.3);margin-top:4px">Secondario</div>
+          </div>
+          <div class="card-dark" style="border:none;text-align:center;padding:20px 16px">
+            <div style="height:60px;background:var(--clay);border-radius:3px;margin-bottom:10px"></div>
+            <div style="font-weight:700;font-size:13px;color:var(--ivory)">Clay</div>
+            <div class="mono-xs" style="color:var(--peach)">#C44A38</div>
+            <div class="mono-xs" style="color:rgba(255,255,255,.3);margin-top:4px">Earth · Warm</div>
+          </div>
+          <div class="card-dark" style="border:none;text-align:center;padding:20px 16px">
+            <div style="height:60px;background:var(--ash);border-radius:3px;margin-bottom:10px"></div>
+            <div style="font-weight:700;font-size:13px;color:var(--ivory)">Ash</div>
+            <div class="mono-xs" style="color:var(--peach)">#E8E2D6</div>
+            <div class="mono-xs" style="color:rgba(255,255,255,.3);margin-top:4px">Neutral</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TIPOGRAFIA -->
+      <div style="margin-bottom:40px">
+        <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:16px">02 · Tipografia</div>
+        <div class="grid-3">
+          <div class="card-dark">
+            <div class="mono-xs" style="color:var(--peach);display:block;margin-bottom:12px">Display / Headline</div>
+            <div style="font-family:var(--font-display);font-weight:900;font-size:36px;color:var(--ivory);line-height:1;letter-spacing:-.04em;text-transform:uppercase;margin-bottom:12px">Archivo</div>
+            <div style="font-size:12px;color:rgba(255,255,255,.4);line-height:1.7">Weight: 900 Black<br>Case: UPPERCASE<br>Tracking: -3% to -4%<br>Uso: titoli, claim, numeri grandi</div>
+          </div>
+          <div class="card-dark">
+            <div class="mono-xs" style="color:var(--peach);display:block;margin-bottom:12px">Editorial / Quote</div>
+            <div style="font-family:var(--font-serif);font-style:italic;font-size:32px;color:var(--ivory);line-height:1;margin-bottom:12px">Cardo</div>
+            <div style="font-size:12px;color:rgba(255,255,255,.4);line-height:1.7">Weight: 400 Italic<br>Case: Sentence case<br>Uso: tagline, citazioni, accenti<br>Mai per titoli principali</div>
+          </div>
+          <div class="card-dark">
+            <div class="mono-xs" style="color:var(--peach);display:block;margin-bottom:12px">Metadata / Tag</div>
+            <div style="font-family:var(--font-mono);font-weight:500;font-size:22px;color:var(--ivory);line-height:1;margin-bottom:12px">JetBrains</div>
+            <div style="font-size:12px;color:rgba(255,255,255,.4);line-height:1.7">Weight: 400–500<br>Case: UPPERCASE<br>Tracking: +10%<br>Uso: etichette, tag, footer, codice</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- FORMAT -->
+      <div style="margin-bottom:40px">
+        <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:16px">03 · Format per piattaforma</div>
+        <div class="grid-2">
+          <div class="card-dark">
+            <div style="font-weight:700;font-size:14px;color:var(--ivory);margin-bottom:16px">📱 Specifiche tecniche</div>
+            <div id="format-specs"></div>
+          </div>
+          <div class="card-dark">
+            <div style="font-weight:700;font-size:14px;color:var(--ivory);margin-bottom:16px">⚡ Motion & animazioni</div>
+            <div id="motion-specs"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- DO / DON'T -->
+      <div>
+        <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:16px">04 · Do &amp; Don't</div>
+        <div class="do-dont">
+          <div class="do-block">
+            <span class="do-label">✓ Sempre</span>
+            <div style="font-size:13px;color:var(--obsidian);line-height:1.9">
+              ✓ Colori solidi dalla palette — mai gradients<br>
+              ✓ Solo Archivo + Cardo + JetBrains Mono<br>
+              ✓ Logo con safety zone rispettata<br>
+              ✓ Foto originali: mani, schermi, studio<br>
+              ✓ Captions sempre attive nei Reel<br>
+              ✓ Testo min 24px sui formati video<br>
+              ✓ 1 sola idea per frame/slide<br>
+              ✓ CTA chiara e diretta
+            </div>
+          </div>
+          <div class="dont-block">
+            <span class="dont-label">✕ Mai</span>
+            <div style="font-size:13px;color:var(--plum);line-height:1.9">
+              ✕ Stock photo generiche (gente al laptop)<br>
+              ✕ Filter Instagram sui contenuti brand<br>
+              ✕ Logo distorto, ruotato, a basso contrasto<br>
+              ✕ Emoji eccessive (max 1 per frame)<br>
+              ✕ Contenuti motivazionali senza utilità<br>
+              ✕ Countdown o urgenza artificiosa<br>
+              ✕ Più di 3 font nello stesso visual<br>
+              ✕ Gergo da agenzia: "leverage", "ROI", "mindset"
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ TAB: GENERA -->
+<div class="tab-panel" id="tab-genera">
+
+  <!-- SETUP -->
+  <div class="gen-setup">
+    <div class="section-eyebrow" style="margin-bottom:12px">Studio di produzione · AI-powered</div>
+    <h2 class="section-title" style="color:var(--ivory);margin-bottom:14px">Studio<br><span style="font-family:var(--font-serif);font-style:italic;font-weight:400;font-size:.62em;color:var(--peach)">dal piano alla produzione</span></h2>
+    <p style="font-size:13px;color:rgba(244,239,230,.55);line-height:1.65;max-width:560px;margin-bottom:32px">Scegli chi produce e quanto tempo hai. Lo Studio genera gli script su misura per il tuo ruolo — e nella <b style="color:var(--peach)">Coda produzione</b> ti dice cosa girare per primo, in ordine di data e priorità.</p>
+
+    <div class="gen-setup-grid">
+      <div class="gen-field">
+        <label class="gen-label" for="sel-team">Chi produce?</label>
+        <select class="gen-select" id="sel-team">
+          <option value="lorenzo">Lorenzo — Design &amp; Web</option>
+          <option value="tommaso">Tommaso — Strategy &amp; Sales</option>
+          <option value="insieme">Insieme — Lorenzo + Tommaso</option>
+        </select>
+      </div>
+      <div class="gen-field">
+        <label class="gen-label" for="sel-time">Tempo disponibile</label>
+        <select class="gen-select" id="sel-time">
+          <option value="30">30 minuti</option>
+          <option value="60">1 ora</option>
+          <option value="120">2 ore+</option>
+        </select>
+      </div>
+      <div class="gen-field">
+        <label class="gen-label" for="sel-sector">Settore target</label>
+        <select class="gen-select" id="sel-sector">
+          <option value="general">Generale (PMI italiane)</option>
+          <option value="food">Ristoranti &amp; Food</option>
+          <option value="fitness">Palestre &amp; Personal trainer</option>
+          <option value="realestate">Agenti immobiliari</option>
+          <option value="artisan">Artigiani &amp; produttori</option>
+          <option value="pro">Professionisti &amp; studi</option>
+        </select>
+      </div>
+      <div class="gen-field">
+        <label class="gen-label">&nbsp;</label>
+        <button class="gen-btn" id="gen-btn" onclick="generateContent()">
+          <span id="gen-btn-text">✦ &nbsp;Genera script</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- ROLE HINT -->
+    <div class="gen-role-hint" id="gen-role-hint"></div>
+
+    <!-- SYNC BAR -->
+    <div class="gen-sync-bar" id="gen-sync-bar">
+      <div class="gen-sync-status" id="gen-sync-status">
+        <span class="gen-sync-dot" id="gen-sync-dot"></span>
+        <span class="gen-sync-label" id="gen-sync-label">Sync non configurata · salvataggio solo locale</span>
+      </div>
+      <button class="gen-sync-config-btn" id="gen-sync-config-btn" onclick="toggleSyncPanel()">⚙ Configura sync condivisa</button>
+    </div>
+
+    <!-- SYNC CONFIG PANEL (collapsed) -->
+    <div class="gen-sync-panel" id="gen-sync-panel" style="display:none">
+      <div class="gen-sync-panel-head">
+        <span class="mono-xs" style="color:var(--peach)">Sincronizzazione condivisa · Supabase</span>
+        <button class="gen-sync-close" onclick="toggleSyncPanel()">✕</button>
+      </div>
+      <p class="gen-sync-desc">Collega Supabase per condividere i progressi tra Lorenzo e Tommaso in tempo reale. Inserisci i due valori che trovi nel pannello <b>Connect</b> del tuo progetto Supabase. Vengono salvati solo nel tuo browser.</p>
+      <div class="gen-sync-fields">
+        <div class="gen-field">
+          <label class="gen-label" for="sync-url" style="color:var(--peach)">Project URL</label>
+          <input type="text" class="gen-sync-input" id="sync-url" placeholder="https://xxxxx.supabase.co" autocomplete="off"/>
+        </div>
+        <div class="gen-field">
+          <label class="gen-label" for="sync-key" style="color:var(--peach)">Publishable / anon key</label>
+          <input type="text" class="gen-sync-input" id="sync-key" placeholder="sb_publishable_… oppure eyJhbGci…" autocomplete="off"/>
+        </div>
+      </div>
+      <div class="gen-sync-actions">
+        <button class="gen-btn" onclick="connectSupabase()" style="padding:11px 22px">🔗 &nbsp;Connetti &amp; sincronizza</button>
+        <button class="gen-sync-disconnect" onclick="disconnectSupabase()">Disconnetti</button>
+      </div>
+      <div class="gen-sync-feedback" id="gen-sync-feedback"></div>
+      <details class="gen-sync-help">
+        <summary>Come ottengo questi due valori?</summary>
+        <ol>
+          <li>Vai sul tuo progetto su <b>supabase.com</b> → bottone <b>Connect</b> (in alto) → tab <b>App Frameworks</b>.</li>
+          <li>Copia <b>Project URL</b> e <b>publishable key</b> (o anon key se il progetto è su chiavi legacy).</li>
+          <li>Prima però esegui lo script <b>supabase-setup.sql</b> (incluso nel repo) in SQL Editor → New query → Run. Crea le tabelle necessarie.</li>
+        </ol>
+      </details>
+    </div>
+  </div>
+
+  <!-- MODE SWITCHER -->
+  <div class="gen-mode-switch">
+    <button class="gen-mode-btn active" data-mode="queue" onclick="switchMode('queue')">
+      <span class="gen-mode-icon">📅</span>
+      <span class="gen-mode-text"><b>Coda produzione</b><small>Cosa girare, in ordine di data e priorità</small></span>
+    </button>
+    <button class="gen-mode-btn" data-mode="scripts" onclick="switchMode('scripts')">
+      <span class="gen-mode-icon">✦</span>
+      <span class="gen-mode-text"><b>Script generati</b><small>Idee complete pronte da produrre</small></span>
+    </button>
+  </div>
+
+  <!-- ════════ MODE: PRODUCTION QUEUE ════════ -->
+  <div id="gen-mode-queue">
+
+    <!-- QUEUE HEADER -->
+    <div class="gen-queue-head">
+      <div>
+        <div class="section-eyebrow" style="margin-bottom:6px">Prossimi da produrre · dal calendario editoriale</div>
+        <div class="gen-queue-title" id="queue-owner-title">Coda di <span style="color:var(--rosewood)">Lorenzo</span></div>
+      </div>
+      <div class="gen-queue-legend">
+        <span class="gen-prio-dot" style="background:var(--rosewood)"></span><span class="mono-xs" style="color:var(--plum)">Alta</span>
+        <span class="gen-prio-dot" style="background:var(--clay);margin-left:12px"></span><span class="mono-xs" style="color:var(--plum)">Media</span>
+        <span class="gen-prio-dot" style="background:var(--plum);margin-left:12px"></span><span class="mono-xs" style="color:var(--plum)">Bassa</span>
+      </div>
+    </div>
+
+    <!-- QUEUE SUB-FILTERS -->
+    <div class="gen-queue-filters" id="gen-queue-filters">
+      <button class="gen-filter-btn active" data-qfilter="all">Tutti i miei task</button>
+      <button class="gen-filter-btn" data-qfilter="high">Solo priorità alta</button>
+      <button class="gen-filter-btn" data-qfilter="todo">Da fare</button>
+      <button class="gen-filter-btn" data-qfilter="done">Fatti</button>
+    </div>
+
+    <!-- QUEUE LIST -->
+    <div class="gen-queue-list" id="gen-queue-list"></div>
+  </div>
+
+  <!-- ════════ MODE: GENERATED SCRIPTS ════════ -->
+  <div id="gen-mode-scripts" style="display:none">
+
+    <!-- STATS BAR -->
+    <div class="gen-statsbar" id="gen-statsbar" style="display:none">
+      <div class="gen-stat-item">
+        <span class="gen-stat-n" id="stat-total">0</span>
+        <span class="gen-stat-l">Script generati</span>
+      </div>
+      <div class="gen-stat-item">
+        <span class="gen-stat-n" id="stat-done">0</span>
+        <span class="gen-stat-l">Completati</span>
+      </div>
+      <div class="gen-stat-item">
+        <span class="gen-stat-n" id="stat-checks">0</span>
+        <span class="gen-stat-l">Task spuntati</span>
+      </div>
+      <div class="gen-stat-item">
+        <span class="gen-stat-n" id="stat-pct">0%</span>
+        <span class="gen-stat-l">Progresso totale</span>
+      </div>
+    </div>
+
+    <!-- FILTER BAR -->
+    <div class="gen-filterbar" id="gen-filterbar" style="display:none">
+      <button class="gen-filter-btn active" data-filter="all">Tutti</button>
+      <button class="gen-filter-btn" data-filter="todo">Da fare</button>
+      <button class="gen-filter-btn" data-filter="done">Completati</button>
+      <button class="gen-filter-btn" data-filter="talking-head">Talking Head</button>
+      <button class="gen-filter-btn" data-filter="dinamico">Dinamico</button>
+      <button class="gen-filter-btn" data-filter="voiceover">Voiceover</button>
+      <button class="gen-filter-btn" data-filter="tutorial">Tutorial</button>
+      <button class="gen-clear-btn" id="gen-clear-btn" onclick="clearAll()">✕ &nbsp;Reset</button>
+    </div>
+
+    <!-- EMPTY STATE -->
+    <div class="gen-empty" id="gen-empty">
+      <div class="gen-empty-icon">✦</div>
+      <div class="gen-empty-title">Pronto a generare</div>
+      <div class="gen-empty-sub">Scegli chi produce e quanto tempo hai, poi clicca "Genera script" per ricevere idee complete pronte per la produzione.</div>
+    </div>
+
+    <!-- CARDS GRID -->
+    <div class="gen-cards-grid" id="gen-cards-grid" style="display:none"></div>
+  </div>
+
+</div>
+
+</main>
+
+<!-- FOOTER -->
+<footer style="background:var(--obsidian);border-top:1px solid var(--plum);padding:28px 40px">
+  <div style="max-width:1440px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px">
+    <span class="mono-xs" style="color:var(--rosewood)">Dieci Bottega® · Bologna · Est. 2026</span>
+    <span class="mono-xs" style="color:rgba(255,255,255,.2)">Piano Editoriale · Vol. 01 · Q2–Q3 2026</span>
+    <a href="https://diecibottega.it" target="_blank" style="font-family:var(--font-mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--clay);text-decoration:none;transition:color .2s" onmouseover="this.style.color='var(--rosewood)'" onmouseout="this.style.color='var(--clay)'">diecibottega.it ↗</a>
+  </div>
+</footer>
+
+<script>
+// ══════════════════════════════════════════════════════════
+// PASSWORD GATE
+// ══════════════════════════════════════════════════════════
+(function(){
+  // Light obfuscation — deters casual View-Source snooping, not real security.
+  // (A static site cannot keep a real secret; for that serve un backend.)
+  const _h = [102,114,101,101,99,105,99,99,105,111];
+  const PW = String.fromCharCode.apply(null,_h);
+  const GATE_KEY = "db_gate_ok_v1";
+  const gate = document.getElementById("gate");
+  const input = document.getElementById("gate-input");
+  const btn = document.getElementById("gate-btn");
+  const err = document.getElementById("gate-error");
+  const remember = document.getElementById("gate-remember");
+  let rememberOn = false;
+
+  function unlock(){
+    gate.classList.add("hidden");
+    document.body.classList.remove("locked");
+  }
+
+  // Already authenticated this session / device?
+  try{
+    if(sessionStorage.getItem(GATE_KEY)==="1" || localStorage.getItem(GATE_KEY)==="1"){
+      unlock();
+    }
+  }catch(e){}
+
+  function attempt(){
+    if(input.value === PW){
+      try{
+        sessionStorage.setItem(GATE_KEY,"1");
+        if(rememberOn) localStorage.setItem(GATE_KEY,"1");
+      }catch(e){}
+      unlock();
+    } else {
+      err.textContent = "Password errata. Riprova.";
+      err.classList.add("show");
+      input.value = "";
+      const box = document.querySelector(".gate-box");
+      box.classList.add("gate-shake");
+      setTimeout(()=>box.classList.remove("gate-shake"),400);
+      input.focus();
+    }
+  }
+
+  btn?.addEventListener("click", attempt);
+  input?.addEventListener("keydown", e=>{ if(e.key==="Enter") attempt(); });
+  input?.addEventListener("input", ()=>err.classList.remove("show"));
+  remember?.addEventListener("click", ()=>{
+    rememberOn = !rememberOn;
+    remember.classList.toggle("on", rememberOn);
+  });
+})();
+
+// ── DATA ──────────────────────────────────────────────────────────────────────
+
+const rubriche = [
+  {
+    emoji:"🔴", title:"RIFACCIAMO QUESTO SITO",
+    freq:"1× settimana", dur:"60–90 sec", fmt:"TikTok / Reel",
+    color:"var(--rosewood)",
+    steps:[
+      "0–5s: Mostra lo schermo del sito attuale → 'Questo sito perde clienti ogni giorno'",
+      "5–20s: Analisi rapida — 3 problemi specifici (font illeggibile, nessuna CTA, menu PDF)",
+      "20–50s: Mockup o wireframe di come sarebbe rifatto",
+      "50–60s: CTA — 'Il tuo sito assomiglia a questo? Link in bio'"
+    ],
+    note:"Usa siti reali di PMI (chiedere consenso o anonimizzare). Più specifico il settore, più alto l'engagement."
+  },
+  {
+    emoji:"💸", title:"QUESTO BOTTONE TI COSTA CLIENTI",
+    freq:"1× settimana", dur:"30–45 sec", fmt:"TikTok / Reel",
+    color:"var(--clay)",
+    steps:[
+      "0–3s: Inquadratura del bottone/elemento problematico",
+      "3–15s: Spiegazione del perché è sbagliato (UX, posizione, testo)",
+      "15–30s: Come dovrebbe essere — comparazione A/B",
+      "30s: 'Quanti clienti hai perso per questo?'"
+    ],
+    note:"Formato molto ripetibile. Ogni settimana un elemento diverso: CTA, form, numero di telefono, WhatsApp button."
+  },
+  {
+    emoji:"⏱", title:"DIAGNOSI IN 60 SECONDI",
+    freq:"2× settimana", dur:"60 sec esatti", fmt:"TikTok / Reel / Stories",
+    color:"var(--burgundy)",
+    steps:[
+      "0–5s: 'Analizzo il sito di [settore] in 60 secondi esatti'",
+      "5–50s: Checklist veloce live sullo schermo — 5 punti critici",
+      "50–60s: Voto finale (es. '4/10 — ecco perché') + CTA"
+    ],
+    note:"Il timer in sovrimpressione crea urgenza e curiosità. Funziona bene come hook 'chi ce la fa a guardarlo tutto'."
+  },
+  {
+    emoji:"📸", title:"PRIMA / DOPO",
+    freq:"1× settimana", dur:"30–60 sec", fmt:"Reel + Carousel",
+    color:"var(--rosewood)",
+    steps:[
+      "Reel: transizione split-screen o swipe tra i due stati",
+      "Carousel: slide 1 = prima (con frecce sui problemi), slide 2 = dopo (miglioramenti)",
+      "Sempre: numeri concreti ('caricamento da 7s a 1.2s')"
+    ],
+    note:"Il formato più condivisibile. Le PMI dello stesso settore lo mandano ai colleghi. Massimo impatto virale."
+  },
+  {
+    emoji:"🔍", title:"IL DETTAGLIO INVISIBILE",
+    freq:"1× settimana", dur:"20–40 sec", fmt:"TikTok / Reel",
+    color:"var(--plum)",
+    steps:[
+      "0–3s: 'Questo sito sembra ok. Ma guarda qui →'",
+      "3–20s: Zoom su un dettaglio piccolo ma cruciale (favicon, font mix, link invisibile)",
+      "20–30s: Perché questo dettaglio conta — 'è tutto nei dettagli'",
+      "30s: 'Nei nostri siti non succede. Mai.'"
+    ],
+    note:"Direttamente collegato alla tagline del brand. Ogni episodio rinforza il posizionamento."
+  },
+  {
+    emoji:"😬", title:"LA RECENSIONE BRUTALE MA ONESTA",
+    freq:"1× ogni 2 settimane", dur:"90–120 sec", fmt:"TikTok / Reel lungo",
+    color:"var(--clay)",
+    steps:[
+      "0–10s: 'Ho analizzato il sito di [categoria] — ecco il verdetto onesto'",
+      "10–60s: Analisi in 5 criteri (design, velocità, mobile, CTA, contenuto)",
+      "60–90s: Voto per criterio + voto finale",
+      "90s+: 'Come sarebbe con Dieci Bottega' (rapido)"
+    ],
+    note:"Tono costruttivo, mai cattivo. L'obiettivo è insegnare, non ridicolizzare. Bologna sa essere ironica senza ferire."
+  },
+  {
+    emoji:"⚡", title:"QUANTO VALE UN SECONDO?",
+    freq:"1× ogni 2 settimane", dur:"45–60 sec", fmt:"Carousel / Reel",
+    color:"var(--burgundy)",
+    steps:[
+      "Premessa: dato scientifico su performance web ('1s in più = -7% conversioni')",
+      "Applicazione al caso PMI: con 100 visite/giorno, quanto perdi?",
+      "Causa tecnica spiegata semplice (immagini non ottimizzate, hosting lento)",
+      "Soluzione concreta + CTA"
+    ],
+    note:"Traduce tecnico in monetario. Molto efficace con ristoratori e professionisti."
+  },
+  {
+    emoji:"🎯", title:"TEMPLATE O STRATEGIA?",
+    freq:"1× al mese", dur:"60–90 sec", fmt:"Carousel / LinkedIn",
+    color:"var(--plum)",
+    steps:[
+      "Scenario: cliente con Wix da 3 anni, 0 lead dal sito",
+      "Analisi: cosa manca — non il template, la strategia",
+      "Framework: 5 elementi che un sito PMI deve avere per convertire",
+      "Posizionamento: dove si colloca Dieci Bottega"
+    ],
+    note:"Contenuto MOFU/BOFU. Ottimo per LinkedIn dove l'audience è più pronta a comprare."
+  }
+];
+
+const calData = [
+  { month:"MESE 1 — FONDAMENTA", weeks:[
+    { week:"SETTIMANA 1", theme:"Lancio + posizionamento", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 60s", title:"«Sono Lorenzo e Tommaso. Facciamo siti in 10 giorni. Ecco perché questo cambia tutto.»", goal:"Brand awareness", cta:"Seguici" },
+      { day:"MAR", ch:"LinkedIn", fmt:"Post testo", title:"Il mercato del web design in Italia ha un buco enorme. L'abbiamo trovato.", goal:"Positioning B2B", cta:"Raccontaci il tuo sito" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 6 slide", title:"Wix vs Agenzia vs Dieci Bottega: la guida onesta che nessuno vuole fare.", goal:"Educazione + trust", cta:"Salva per quando ti serve" },
+      { day:"GIO", ch:"TikTok + IG Reel", fmt:"Reel 45s", title:"«Ho analizzato 10 siti di ristoranti a Bologna. Il risultato è imbarazzante.»", goal:"Viralità food", cta:"Manda a un ristoratore" },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"Q&A: 'Quanto costa?' / Sondaggio: 'Il tuo sito ha il menù PDF?' / CTA link bio", goal:"Engagement + lead", cta:"Rispondi" },
+      { day:"SAB", ch:"TikTok", fmt:"Reel 30s", title:"«Questo bottone ti costa clienti — nessun numero WhatsApp in header.»", goal:"UX education", cta:"Guarda il tuo sito" },
+      { day:"DOM", ch:"LinkedIn", fmt:"Post", title:"Perché abbiamo aperto a Bologna e non a Milano. (E perché è stata la scelta giusta.)", goal:"Brand story", cta:"Seguici su Instagram" },
+    ]},
+    { week:"SETTIMANA 2", theme:"Educazione + prima rubrica", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 60s [DIAGNOSI]", title:"«Rifacciamo questo sito — Palestra #1» Homepage senza CTA, foto stock, orari errati.", goal:"Settore fitness", cta:"Il tuo sito assomiglia a questo?" },
+      { day:"MAR", ch:"LinkedIn", fmt:"Carousel PDF", title:"5 errori UX che ogni PMI italiana fa sul proprio sito (con screenshot reali).", goal:"Lead professionisti", cta:"Salva checklist" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 8 slide", title:"Prima/Dopo: il sito della Trattoria Da Mario. +187% prenotazioni online.", goal:"Proof of concept", cta:"Vuoi lo stesso?" },
+      { day:"GIO", ch:"TikTok", fmt:"Reel 45s", title:"«Quanto vale un secondo? Questo ristorante perde 40€/giorno per un sito lento.»", goal:"Performance", cta:"Test velocità link bio" },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"BTS: Day 1 di un progetto / Strumenti che usiamo / 'Cosa fa un brief?'", goal:"Fiducia processo", cta:"Scopri come lavoriamo" },
+      { day:"SAB", ch:"TikTok + IG", fmt:"Reel 30s", title:"«Il dettaglio invisibile #1: la favicon. Piccola, ignorata, devastante.»", goal:"Micro-educazione", cta:"Controlla la tua favicon" },
+      { day:"DOM", ch:"IG Stories ×3", fmt:"Stories riposo", title:"Sondaggio / Testimonial cliente reale / Link in bio", goal:"Social proof", cta:"Prenota call gratuita" },
+    ]},
+    { week:"SETTIMANA 3", theme:"Settore immobiliare + personal brand", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 60s [DIAGNOSI]", title:"«Rifacciamo questo sito — Agente immobiliare» Nessun listing, form rotto, no mobile.", goal:"Real estate", cta:"Sei agente? Guardati." },
+      { day:"MAR", ch:"LinkedIn", fmt:"Post lungo", title:"Perché l'agente immobiliare italiano perde il 60% dei lead online.", goal:"Lead agenti", cta:"Parliamone in DM" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 6 slide", title:"Template o strategia? La guida per PMI che vogliono smettere di buttare soldi.", goal:"MOFU decision", cta:"Salva e condividi" },
+      { day:"GIO", ch:"TikTok", fmt:"Reel 45s", title:"«Diagnosi in 60 secondi: sito di uno studio legale bolognese.»", goal:"Settore professionale", cta:"Manda ai colleghi" },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"Q&A frequenti / 'Cosa succede dopo il brief?' / Call gratuita", goal:"Nurture lead", cta:"Prenota ora" },
+      { day:"SAB", ch:"TikTok + IG", fmt:"Reel 30s", title:"«Questo bottone ti costa clienti #2: form contatti con 12 campi.»", goal:"UX education", cta:"Quanti campi hai?" },
+      { day:"DOM", ch:"LinkedIn", fmt:"Post", title:"Il cliente che voleva tutto in 3 giorni. Come è andata. (Storia vera.)", goal:"Brand personality", cta:"Segui per altre storie" },
+    ]},
+    { week:"SETTIMANA 4", theme:"Chiusura mese 1 + prima CTA diretta", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 60s", title:"«La recensione brutale ma onesta: sito di una palestra — 4/10. Ecco perché.»", goal:"Viralità fitness", cta:"Vuoi sapere il tuo voto?" },
+      { day:"MAR", ch:"LinkedIn", fmt:"Post testo", title:"Un mese di analisi gratuita. Ecco cosa ho imparato sui siti PMI italiane.", goal:"Authority recap", cta:"Analisi gratuita" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 8 slide", title:"I 3 pacchetti: Basic 800€ / Pro 1.500€ / Premium 2.500€ — cosa include ciascuno.", goal:"BOFU pricing", cta:"Quale fa per te?" },
+      { day:"GIO", ch:"TikTok", fmt:"Reel 60s", title:"«Come facciamo un sito in 10 giorni — il processo completo.»", goal:"Educazione processo", cta:"Inizia il progetto" },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"Countdown 'Slot disponibili' / Testimonial / CTA prenota call", goal:"Urgenza BOFU", cta:"Prenota ora" },
+      { day:"SAB", ch:"TikTok", fmt:"Reel 45s", title:"«Quanto vale un secondo? #2: E-commerce lento = carrello abbandonato.»", goal:"E-commerce", cta:"Testa il tuo sito" },
+      { day:"DOM", ch:"IG + TikTok", fmt:"Reel 30s", title:"«Il dettaglio invisibile #2: il titolo della pagina nel browser.»", goal:"SEO micro-tip", cta:"Controlla subito" },
+    ]},
+  ]},
+  { month:"MESE 2 — ACCELERAZIONE", weeks:[
+    { week:"SETTIMANA 5", theme:"Professionisti & studi + autorità", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 60s [DIAGNOSI]", title:"«Rifacciamo questo sito — Studio di fisioterapia» Prezzi nascosti, no booking, foto anni '90.", goal:"Settore salute", cta:"Hai uno studio? Guardati." },
+      { day:"MAR", ch:"LinkedIn", fmt:"Carousel PDF", title:"Il funnel di acquisizione che ogni libero professionista italiano ignora.", goal:"Lead professionisti", cta:"DM per una call" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 6 slide", title:"Prima/Dopo: fisioterapista. Da 0 a 80 prenotazioni/mese dal sito.", goal:"Case study salute", cta:"Vuoi lo stesso?" },
+      { day:"GIO", ch:"TikTok", fmt:"Reel 45s", title:"«Diagnosi in 60 secondi: negozio di abbigliamento artigianale.»", goal:"Settore retail", cta:"Manda a un negoziante" },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"Tool della settimana / Come gestiamo i lead / Slot aperti", goal:"Educazione + BOFU", cta:"Vieni in bottega" },
+      { day:"SAB", ch:"TikTok + IG", fmt:"Reel 30s", title:"«Questo bottone ti costa clienti #3: link PDF invece della pagina menu.»", goal:"UX food", cta:"Ristoratori, avvisati." },
+      { day:"DOM", ch:"LinkedIn", fmt:"Post", title:"AI nel web design: tool che usiamo, tool che non useremo mai, e perché.", goal:"Positioning AI", cta:"Seguici" },
+    ]},
+    { week:"SETTIMANA 6", theme:"Artigiani & produttori locali", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 60s [DIAGNOSI]", title:"«Rifacciamo questo sito — Artigiano ceramista» Inaccessibile da mobile, no e-shop.", goal:"Artigianato", cta:"Conosci un artigiano?" },
+      { day:"MAR", ch:"LinkedIn", fmt:"Post lungo", title:"L'artigiano italiano ha il prodotto migliore del mondo. Il sito è del 2008. È un crimine.", goal:"Advocacy artigianato", cta:"Condividi" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 8 slide", title:"Come creare un sito che racconta un mestiere (non solo vende un prodotto).", goal:"Brand storytelling", cta:"Salva e applica" },
+      { day:"GIO", ch:"TikTok", fmt:"Reel 60s", title:"«La recensione brutale: artigiano — 5/10. Il prodotto è bello, il sito lo nasconde.»", goal:"Artigianato", cta:"Il tuo prodotto merita di meglio." },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"n8n in 60s / Come gestiamo i lead / Slot luglio", goal:"Educazione + BOFU", cta:"Prenota prima di luglio" },
+      { day:"SAB", ch:"TikTok + IG", fmt:"Reel 30s", title:"«Il dettaglio invisibile #3: immagini da 3MB che caricano in 8 secondi.»", goal:"Performance", cta:"Testa subito" },
+      { day:"DOM", ch:"IG + TikTok", fmt:"Reel 45s", title:"«Quanto vale un secondo? #3: landing page che non converte per 1 campo in più.»", goal:"CRO education", cta:"Quanti campi nel tuo form?" },
+    ]},
+    { week:"SETTIMANA 7", theme:"Google Business + SEO locale", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 60s [DIAGNOSI]", title:"«Profilo Google Business incompleto = invisibile su Maps = clienti persi ogni giorno.»", goal:"SEO locale", cta:"Controlla il tuo profilo" },
+      { day:"MAR", ch:"LinkedIn", fmt:"Carousel PDF", title:"SEO locale per PMI: 7 azioni concrete in 7 giorni (nessuna richiede un tecnico).", goal:"Lead organico", cta:"Scarica checklist" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 6 slide", title:"Google Business vs Sito web: ti serve entrambi? (risposta onesta).", goal:"Educazione strategica", cta:"Salva" },
+      { day:"GIO", ch:"TikTok", fmt:"Reel 45s", title:"«Ho cercato 'ristorante Bologna centro' — il primo risultato ha il sito del 2015.»", goal:"Viralità food+local", cta:"Cercati su Google" },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"FAQ: 'Posso aggiornare da solo?' / 'Fate e-commerce?' / Call", goal:"Nurture + BOFU", cta:"Scrivici" },
+      { day:"SAB", ch:"TikTok + IG", fmt:"Reel 30s", title:"«Questo bottone ti costa clienti #4: numero di telefono non cliccabile su mobile.»", goal:"Mobile UX", cta:"Aprilo dal telefono" },
+      { day:"DOM", ch:"LinkedIn", fmt:"Post", title:"Abbiamo rifiutato un cliente. Ecco perché e cosa ci ha insegnato.", goal:"Brand integrity", cta:"Seguici" },
+    ]},
+    { week:"SETTIMANA 8", theme:"Mid-point push: lead generation", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 60s [DIAGNOSI]", title:"«Rifacciamo questo sito — Bar storico di provincia» Nessun orario, foto, contatto.", goal:"HoReCa", cta:"Riconosci qualcuno?" },
+      { day:"MAR", ch:"LinkedIn", fmt:"Post lungo", title:"Mese 2 di Dieci Bottega: cosa stiamo imparando sulla PMI italiana.", goal:"Trasparenza", cta:"Analisi gratuita" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 8 slide", title:"Il preventivo trasparente: cosa include davvero un sito a 800€, 1.500€ e 2.500€.", goal:"BOFU pricing", cta:"Chiedi preventivo" },
+      { day:"GIO", ch:"TikTok", fmt:"Reel 60s", title:"«Template o strategia? Ho visto 50 siti Wix di PMI. Questo è quello che non torna.»", goal:"MOFU decision", cta:"Parliamoci" },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"BTS consegna progetto / Reazione cliente / Slots aperti agosto", goal:"BOFU urgenza", cta:"Prenota il tuo slot" },
+      { day:"SAB", ch:"TikTok + IG", fmt:"Reel 30s", title:"«Il dettaglio invisibile #4: il copyright con l'anno sbagliato nel footer.»", goal:"Credibilità", cta:"Controlla il tuo footer" },
+      { day:"DOM", ch:"IG + TikTok", fmt:"Reel 45s", title:"«La recensione brutale: hotel 3 stelle con sito da 1 stella — 3/10.»", goal:"Hospitality", cta:"Conosci un albergatore?" },
+    ]},
+  ]},
+  { month:"MESE 3 — CONVERSIONE", weeks:[
+    { week:"SETTIMANA 9", theme:"Authority + case study profondi", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 90s [CASO]", title:"«Case study completo: da 0 a 200 prenotazioni online per una trattoria bolognese.»", goal:"Prova sociale forte", cta:"Vuoi lo stesso?" },
+      { day:"MAR", ch:"LinkedIn", fmt:"Carousel PDF", title:"ROI di un sito web per PMI: come misurarlo in 5 metriche concrete.", goal:"Lead decision maker", cta:"Call gratuita" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 8 slide", title:"Il processo completo: dal brief alla consegna, slide per slide.", goal:"Fiducia processo", cta:"Inizia il progetto" },
+      { day:"GIO", ch:"TikTok", fmt:"Reel 60s [DIAGNOSI]", title:"«Personal trainer con 10k follower su IG e sito con 0 lead.»", goal:"Fitness/influencer", cta:"I follower non pagano l'affitto." },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"Testimonianza video / Risultati dopo 1 mese / Slot settembre", goal:"BOFU sociale", cta:"Prenota la call" },
+      { day:"SAB", ch:"TikTok + IG", fmt:"Reel 30s", title:"«Questo bottone ti costa clienti #5: la pagina contatti senza mappa.»", goal:"Local UX", cta:"Hai la mappa?" },
+      { day:"DOM", ch:"LinkedIn", fmt:"Post", title:"3 mesi fa abbiamo aperto. Ecco i numeri onesti: clienti, fatturato, errori.", goal:"Trasparenza radicale", cta:"Segui per il prossimo update" },
+    ]},
+    { week:"SETTIMANA 10", theme:"Automazioni + servizi avanzati", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 60s", title:"«Hai un sito, ma non hai un sistema. Ecco cosa manca alle PMI italiane.»", goal:"Upsell automazioni", cta:"Scopri i sistemi" },
+      { day:"MAR", ch:"LinkedIn", fmt:"Post lungo", title:"CRM, automazioni e WhatsApp Business: la triade che ogni PMI dovrebbe avere.", goal:"Lead avanzati", cta:"Ne parliamo in call" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 6 slide", title:"Il sito che lavora mentre dormi: booking automatico + email + reminder WhatsApp.", goal:"Educazione automazioni", cta:"Salva — ci tornerai" },
+      { day:"GIO", ch:"TikTok", fmt:"Reel 45s", title:"«Ristorante con 200 coperti e sistema di prenotazione via telefono nel 2026.»", goal:"Settore food", cta:"Quante prenotazioni perdi?" },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"Tool: Supabase / n8n in 30s / Domande aperte", goal:"Tech education", cta:"Mandaci le domande" },
+      { day:"SAB", ch:"TikTok + IG", fmt:"Reel 30s", title:"«Il dettaglio invisibile #5: il sito senza HTTPS nel 2026.»", goal:"Security", cta:"Controlla subito" },
+      { day:"DOM", ch:"IG + TikTok", fmt:"Reel 45s", title:"«Quanto vale un secondo? #4: form prenotazione che non manda email di conferma.»", goal:"UX automation", cta:"Testa il tuo sistema" },
+    ]},
+    { week:"SETTIMANA 11", theme:"Stagione alta: push settoriale", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 60s [DIAGNOSI]", title:"«Rifacciamo questo sito — Stabilimento balneare» Non aggiornato da dicembre.", goal:"Settore estivo", cta:"È estate, il tuo sito lo sa?" },
+      { day:"MAR", ch:"LinkedIn", fmt:"Carousel PDF", title:"Come preparare il sito per la stagione alta: 10 controlli da fare ora.", goal:"Lead stagionali", cta:"Scarica + condividi" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 8 slide", title:"Prima/Dopo: agriturismo. +310% richieste online in estate.", goal:"Turismo", cta:"Prenota prima che riempiamo" },
+      { day:"GIO", ch:"TikTok", fmt:"Reel 60s", title:"«La recensione brutale: B&B toscano — buona camera, pessimo sito — 4/10.»", goal:"Settore turismo", cta:"Conosci un B&B?" },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"URGENZA: 'Slot settembre quasi esauriti' / Testimonial estate / Prenota ora", goal:"BOFU urgenza", cta:"Ultima chiamata" },
+      { day:"SAB", ch:"TikTok + IG", fmt:"Reel 30s", title:"«Questo bottone ti costa clienti #6: sito non in inglese per turisti stranieri.»", goal:"Turismo internazionale", cta:"I turisti leggono il tuo sito?" },
+      { day:"DOM", ch:"LinkedIn", fmt:"Post", title:"Cosa rende un sito 'di qualità' nel 2026? Risposta onesta.", goal:"Thought leadership", cta:"Seguici" },
+    ]},
+    { week:"SETTIMANA 12", theme:"Chiusura trimestre + lancio Q4", days:[
+      { day:"LUN", ch:"TikTok + IG Reel", fmt:"Reel 90s", title:"«3 mesi, 12 siti analizzati, gli stessi 5 errori. Eccoli tutti.» Recap video.", goal:"Viralità recap", cta:"Salva e condividi" },
+      { day:"MAR", ch:"LinkedIn", fmt:"Post lungo", title:"Fine trimestre: cosa funziona nel content marketing per PMI italiane.", goal:"Authority", cta:"Analisi gratuita" },
+      { day:"MER", ch:"IG Carousel", fmt:"Carousel 8 slide", title:"Il manifesto: 10 cose che crediamo sul web design e che non cambieranno mai.", goal:"Brand definitivo", cta:"Salva — è il nostro contratto" },
+      { day:"GIO", ch:"TikTok + IG Reel", fmt:"Reel 60s [DIAGNOSI]", title:"«Rifacciamo questo sito — Commercialista di quartiere» Il più cercato e meno trovato.", goal:"Settore professionale", cta:"Conosci un commercialista?" },
+      { day:"VEN", ch:"IG Stories ×3", fmt:"Stories", title:"Lancio Q4: nuovi slot / Nuovo servizio CRM / Early bird", goal:"Q4 launch", cta:"Prenota con sconto" },
+      { day:"SAB", ch:"TikTok + IG", fmt:"Reel 30s", title:"«Il dettaglio invisibile #6: la pagina 404 personalizzata che salva i clienti persi.»", goal:"UX avanzata", cta:"Hai una pagina 404?" },
+      { day:"DOM", ch:"Multi-platform", fmt:"Post brand", title:"«È tutto nei dettagli.» Il manifesto visivo di Dieci Bottega.", goal:"Brand reinforcement", cta:"Inizia il progetto" },
+    ]},
+  ]},
+];
+
+const scriptsData = [
+  { num:"01", type:"REEL / TIKTOK", dur:"60s", series:"Rifacciamo questo sito",
+    title:"Il ristorante che perde prenotazioni ogni notte",
+    hook:"«Questo ristorante ha 200 coperti, 4 stelle su TripAdvisor e un sito che non funziona da mobile. Ogni sera perde prenotazioni. Ve lo mostro.»",
+    body:["[Schermata sito da smartphone] Menu in PDF, numero non cliccabile, nessun sistema di prenotazione online.","Tre problemi. [freccia 1] Il menu PDF: si apre, non si legge, si chiude. Il cliente va dal concorrente.","[freccia 2] Il numero. Sul desktop è bello. Sul telefono? Non si clicca. Nel 2026.","[freccia 3] Prenotazione: 'chiamate al numero'. Sono le 23:30. Chi risponde?","[mockup rapido] Come sarebbe: menu scrollabile, WhatsApp in header, form prenotazione automatica. 10 giorni."],
+    cta:"«Il tuo ristorante assomiglia a questo? Link in bio — analisi gratuita in 24h.»" },
+  { num:"02", type:"REEL / TIKTOK", dur:"45s", series:"Questo bottone ti costa clienti",
+    title:"Il numero di telefono che non si può chiamare",
+    hook:"«Apro il tuo sito dallo smartphone. Vedo il numero. Lo tocco. Niente. Mi fermo. Il tuo concorrente ha WhatsApp in header. Indovina dove vado.»",
+    body:["[screen recording] Dimostrazione: sito, numero come testo puro, nessuna azione.","Un utente su tre visita dal mobile. Questo 'testo' non è un link. Non si chiama.","Soluzione: tel: href. 30 secondi di lavoro. Zero scuse.","[comparazione] Sito A: numero testo. Sito B: click-to-call + WhatsApp. Chi vince?"],
+    cta:"«Controlla il tuo sito da telefono adesso. Se il numero non si clicca, scrivici.»" },
+  { num:"03", type:"REEL / TIKTOK", dur:"60s", series:"Diagnosi in 60 secondi",
+    title:"La palestra con 10k follower e 0 lead dal sito",
+    hook:"«Questo personal trainer ha 10.000 follower su Instagram. Il suo sito fa 3 lead al mese. Diagnosi in 60 secondi — partiamo.»",
+    body:["[timer visibile] 0:00 — Apro il sito. Homepage: foto enorme, testo illeggibile sopra.","0:10 — Cerco i prezzi. Non ci sono. Devo scrivere per sapere quanto costa.","0:20 — Mobile. La foto copre tutto. Il testo sparisce.","0:35 — CTA: 'Contattami'. Dove? Email. Chi manda email nel 2026?","0:50 — Voto: 3/10. Il brand è forte. Il sito lavora contro di lui."],
+    cta:"«Vuoi sapere il tuo voto? Link in bio — diagnosi gratuita.»" },
+  { num:"04", type:"REEL / TIKTOK", dur:"30s", series:"Il dettaglio invisibile",
+    title:"La favicon che tradisce tutto",
+    hook:"«Guarda questa scheda del browser. Sai cosa dice al tuo cliente prima ancora che apra il sito?»",
+    body:["[zoom sulla scheda] Favicon: quadrato grigio. Titolo: 'Home | WordPress site'.","Il cliente ha 15 schede aperte. La tua è quella grigia senza nome.","Questo è il primo touchpoint. Prima dell'homepage. Prima di tutto.","[comparazione] Favicon brandizzata + titolo chiaro: 'Trattoria Da Mario — Prenotazioni Bologna'."],
+    cta:"«Apri il tuo sito in nuova scheda. Cosa vedi? Nei nostri siti, questo non succede. Mai.»" },
+  { num:"05", type:"REEL / TIKTOK", dur:"60s", series:"Quanto vale un secondo?",
+    title:"Il sito lento che ti costa 40€ al giorno",
+    hook:"«Questo ristorante ha 100 visite al giorno. Il sito carica in 7 secondi. Vi mostro quanti soldi perde senza saperlo.»",
+    body:["Dati: ogni secondo in più = -7% conversioni. Scienza, non opinione.","[calcolo live] 100 visite/giorno. Tasso conversione 2%. Ordine medio 20€.","Con sito veloce (2s): 2 conv/giorno = 40€. Con sito lento (7s): -35% = 26€.","Differenza: 14€/giorno. 420€/mese. 5.040€/anno. Per immagini non ottimizzate.","[soluzione] WebP, lazy loading, hosting decente. Questo è quello che facciamo."],
+    cta:"«Testa: PageSpeed Insights, link in bio. Poi parlaci.»" },
+  { num:"06", type:"REEL / TIKTOK", dur:"90s", series:"La recensione brutale ma onesta",
+    title:"Il B&B con 5 stelle ma sito da 1 stella",
+    hook:"«Questo B&B ha 4.9 stelle su Google. 200 recensioni entusiaste. Il sito è un disastro. Analisi completa — voto finale alla fine.»",
+    body:["DESIGN: 5/10 — non è brutto, è del 2018.","MOBILE: 3/10 — la gallery è rotta su iPhone. Le foto si sovrappongono.","VELOCITÀ: 2/10 — 11 secondi su 4G. Il cliente è già su Booking.","CTA: 4/10 — 'Disponibilità' apre un form con 8 campi senza prezzi.","CONTENUTO: 7/10 — le foto sono belle. L'unico punto forte.","VOTO FINALE: 4/10. Il prodotto è eccellente. Il sito lo sabota. Ogni notte."],
+    cta:"«Gestisci un B&B? Quanto perdi a non avere un sito all'altezza?»" },
+  { num:"07", type:"REEL / TIKTOK", dur:"45s", series:"Diagnosi in 60 secondi",
+    title:"Lo studio legale invisibile su Google",
+    hook:"«Ho cercato 'avvocato Bologna divorzio'. Primo risultato: sito del 2014 senza HTTPS. Entriamo insieme.»",
+    body:["[screen recording] Cerca. Clicca. Il browser dice 'Non sicuro'. Il cliente torna indietro.","Secondo problema: nessun nome del professionista in homepage. Chi sei?","Terzo: l'unica CTA è 'Chiamaci'. Nessun form, WhatsApp, email cliccabile.","Quarto: nessun contenuto. Nessun articolo, FAQ, specializzazione visibile."],
+    cta:"«Sei un professionista? Google ti trova? Link in bio per scoprirlo.»" },
+  { num:"08", type:"REEL / TIKTOK", dur:"45s", series:"Prima / Dopo",
+    title:"L'agente immobiliare che ora porta 30 lead/mese",
+    hook:"«Prima: sito con 2 pagine, nessun listing, form che non funzionava. Dopo: 30 lead al mese. Vi mostro la differenza.»",
+    body:["[split screen] Prima: homepage generica, 'Siamo un'agenzia dal 1992'.","Nessuna proprietà visibile senza registrarsi. Chi si registra su un sito sconosciuto?","[dopo] Tre proposte in evidenza, filtro rapido zona/prezzo, WhatsApp fisso in basso.","Velocità: da 8s a 1.4s. Form: da 12 campi a 3.","Risultato dopo 60 giorni: 30 lead organici/mese. Prima erano 2."],
+    cta:"«Sei agente immobiliare? Questo potrebbe essere il tuo sito.»" },
+  { num:"09", type:"REEL / TIKTOK", dur:"30s", series:"Questo bottone ti costa clienti",
+    title:"Il form di contatto con 12 campi",
+    hook:"«12 campi per mandarti un messaggio. Nome, cognome, telefono, email, oggetto, messaggio, privacy, newsletter, captcha... smettila.»",
+    body:["[screen recording] Conto i campi. 1, 2, 3... 12. Un sospiro.","Ogni campo in più riduce il completamento del 10-15%.","Con 12 campi perdi ~80% di chi voleva scriverti.","[soluzione] 3 campi. Nome. Telefono. Messaggio. Fine."],
+    cta:"«Quanti campi ha il tuo form? Contali. Poi scrivici.»" },
+  { num:"10", type:"REEL / TIKTOK", dur:"60s", series:"Template o strategia?",
+    title:"Il sito Wix da 3 anni con 0 clienti",
+    hook:"«Questo ristorante ha un sito Wix da 3 anni. Ha speso 360€ di abbonamento. 0 prenotazioni dal sito. Il problema non è Wix.»",
+    body:["Il problema è che Wix è uno strumento. Senza strategia non funziona.","Mancano: SEO locale configurato, Google Business collegato, sistema prenotazione.","Il sito c'è. Ma non sa a chi parla, non chiede niente, non dà niente.","[framework] Chi sei (30s) · Cosa fai (chiaro) · Come contattarti (facile) · Perché sceglierti (prova sociale) · CTA.","Questi 5 elementi funzionano su qualsiasi piattaforma. Senza strategia, non funziona niente."],
+    cta:"«Hai un sito che non porta clienti? Non è il tool. È la strategia. Parliamoci.»" },
+];
+
+const carouselsData = [
+  { num:"C1", series:"Educazione", title:"5 errori UX che ogni PMI italiana fa sul proprio sito",
+    hook:"SLIDE 1 — «Il tuo sito esiste da 3 anni. Quanti clienti ti ha portato? Se la risposta ti imbarazza, continua a swipare.»",
+    body:["SLIDE 2 · ERRORE 1: Menu in PDF. Non indicizzato da Google, non leggibile su mobile. Soluzione: pagina HTML dedicata.",
+          "SLIDE 3 · ERRORE 2: Nessuna CTA above the fold. Il cliente arriva, scorre, non sa cosa fare. Soluzione: bottone chiaro nei primi 100px.",
+          "SLIDE 4 · ERRORE 3: Numero come testo. Non cliccabile su mobile. Perdi il 60% degli utenti smartphone. Soluzione: tel: href + icona WhatsApp.",
+          "SLIDE 5 · ERRORE 4: Nessuna prova sociale. 'Siamo professionisti dal 1990' non basta. Servono: recensioni, clienti noti, numeri reali.",
+          "SLIDE 6 · ERRORE 5: Velocità ignorata. Se carica in più di 3 secondi, il 53% degli utenti mobile abbandona.",
+          "SLIDE 7 · BONUS: Il copyright sbagliato. Se nel footer c'è '© 2019' siete al sicuro. Dal danno reputazionale.",
+          "SLIDE 8 · CTA: «Analisi gratuita entro 24h — link in bio. È tutto nei dettagli.»"],
+    cta:"«Salva questo post. Manda a chi ha un sito che non porta clienti.»" },
+  { num:"C2", series:"Prima / Dopo", title:"Da sito vetrina a macchina per lead: un personal trainer",
+    hook:"SLIDE 1 — «Alessandro Lopez, 29 anni, personal trainer. Mille euro in Instagram Ads. Zero dal sito. 8 settimane dopo: 45 lead/mese organici.»",
+    body:["SLIDE 2 · PRIMA: One-pager con foto generica, listino prezzi nascosto, 'Contattami su Instagram' come unica CTA.",
+          "SLIDE 3 · COSA ABBIAMO FATTO: Hook diretto ('Perdi peso senza perdere la testa'), 3 programmi con prezzi visibili, form prenotazione sessione gratuita.",
+          "SLIDE 4 · TECNICO: Velocità da 6s a 1.1s. SEO locale ('personal trainer + quartiere'). Schema markup mobile.",
+          "SLIDE 5 · RISULTATI 60 GIORNI: 45 lead organici/mese. 12 nuovi clienti. ROI stimato: 8× il costo nel primo anno.",
+          "SLIDE 6 · CTA: «Il tuo sito potrebbe fare lo stesso. Tier Basic da 800€, consegna in 7 giorni. Link in bio.»"],
+    cta:"«Manda a un personal trainer che si lamenta dell'algoritmo.»" },
+  { num:"C3", series:"Pricing", title:"Il preventivo trasparente: cosa include ogni pacchetto",
+    hook:"SLIDE 1 — «Tutti nascondono i prezzi. Noi no. Ecco esattamente cosa compri a 800€, 1.500€ e 2.500€. Nessuna sorpresa.»",
+    body:["SLIDE 2 · BASIC 800–1.000€: One-pager, template adattato, form base, SEO on-page, 1 round revisioni. 7 giorni.",
+          "SLIDE 3 · PRO 1.500–2.000€: 5-7 pagine, custom, copy AI-assistito, form avanzato + GMB, 2 round. 10-14 giorni.",
+          "SLIDE 4 · PREMIUM 2.500–3.500€: 8-12 pagine + blog, design su misura, copy professionale, CRM base, revisioni illimitate. 3-4 settimane.",
+          "SLIDE 5 · NON INCLUSO IN NESSUN TIER: dominio e hosting (consigliati da noi, pagati da te), foto professionali, traduzioni, campagne ads.",
+          "SLIDE 6 · INCLUSO SEMPRE: call di consulenza iniziale, garanzia soddisfatti o risolviamo, codice sorgente tuo, assistenza 30 giorni post-lancio.",
+          "SLIDE 7 · LA DOMANDA GIUSTA: Non 'Quanto costa?' ma 'Quanto costa non averlo?' Ogni mese senza sito ha un prezzo.",
+          "SLIDE 8 · CTA: «Quale tier fa per te? Call gratuita 30 min — senza impegno. diecibottega.it»"],
+    cta:"«Salva. Confronta con i preventivi che hai già ricevuto.»" },
+];
+
+const linkedinData = [
+  { num:"L1", title:"Il mercato ha un buco. L'abbiamo trovato.",
+    body:`Nel web design italiano esiste un vuoto enorme.
+
+Da un lato: Wix, Squarespace, i template. Veloci, economici, generici. Funzionano come punto di partenza, non come strumento di acquisizione clienti.
+
+Dall'altro: le agenzie tradizionali. 6.000–20.000€, 3 mesi di attesa, preventivi gonfiati, gergo incomprensibile. Per una PMI con 5 dipendenti, è fuori portata.
+
+In mezzo: niente.
+
+Abbiamo aperto Dieci Bottega per occupare quello spazio.
+
+800–3.500€. Consegna in 10 giorni. Cura artigianale, non industriale.
+
+Non è magia. È un metodo: brief strutturato, AI per il lavoro pesante, mestiere per il dettaglio.
+
+Se gestisci una PMI italiana e il tuo sito non porta clienti, parliamoci.
+
+Il primo passo è una call gratuita di 30 minuti.
+
+— Lorenzo & Tommaso, Dieci Bottega · Bologna`,
+    cta:"Link in bio per prenotare" },
+  { num:"L2", title:"Ho analizzato 50 siti di PMI italiane. Questo mi ha sorpreso.",
+    body:`Ho passato le ultime 4 settimane ad analizzare siti web di PMI italiane: ristoranti, studi professionali, artigiani, agenti immobiliari.
+
+50 siti. 50 storie diverse.
+
+Ma gli stessi 5 problemi, ogni volta.
+
+1. Il menu in PDF (nei ristoranti, immancabile)
+2. Il numero di telefono non cliccabile su mobile
+3. Nessuna CTA sopra la piega
+4. Velocità sotto i 50/100 su PageSpeed
+5. Nessuna prova sociale visibile
+
+Non sono problemi tecnici complessi. Si risolvono in poche ore.
+
+Ma costano clienti ogni giorno.
+
+La cosa che mi ha sorpreso di più?
+
+Non è la qualità del sito il problema principale.
+
+È che molti imprenditori sanno che il sito non funziona. Lo vedono. Lo sentono.
+
+Ma non sanno da dove iniziare. O pensano costi troppo aggiustarlo.
+
+Ecco perché esiste Dieci Bottega.
+
+— Tommaso, Co-founder · Strategy & Sales`,
+    cta:"Commenta con il settore della tua PMI — analizzo un sito gratis" },
+  { num:"L3", title:"Abbiamo rifiutato un cliente. Ecco perché.",
+    body:`Tre settimane fa ci ha contattato un ristoratore.
+
+Budget: 400€. Tempi: "entro venerdì". Aspettative: sito completo con prenotazioni, menù digitale e integrazione Google Maps.
+
+Abbiamo detto no.
+
+Non perché 400€ siano pochi in assoluto. Ma perché quello che chiedeva — fatto bene — non si fa in 4 giorni a quel prezzo.
+
+Avremmo potuto dire sì, tirare fuori qualcosa di mediocre, incassare.
+
+Non è quello che facciamo.
+
+Dieci Bottega ha una promessa pubblica: siti in 10 giorni, a prezzi onesti, con cura artigianale.
+
+"Onesti" significa anche dire quando non possiamo fare quello che ci viene chiesto.
+
+Abbiamo consigliato il ristoratore verso una soluzione Wix fai-da-te, spiegandogli come configurarla.
+
+Non ci ha pagato. Probabilmente non tornerà.
+
+Ma la nostra reputazione vale più di 400€.
+
+"Meglio perdere un cliente che mentirgli."
+È il terzo dei nostri cinque valori.
+
+— Lorenzo, Co-founder · Design & Web`,
+    cta:"Seguici per storie vere dalla bottega" },
+  { num:"L4", title:"ROI di un sito web per PMI: i numeri onesti",
+    body:`Quante volte hai sentito "il sito ti ripaga in 6 mesi"?
+
+Dipende da tutto. Settore, prodotto, traffico, strategia.
+
+Ma facciamo un calcolo concreto, per un caso reale.
+
+Cliente: trattoria 80 coperti, Bologna.
+Sito precedente: 2 prenotazioni/mese via form.
+Sito nuovo (Tier Pro, 1.500€): form ottimizzato, SEO locale, Google My Business integrato.
+
+Dopo 60 giorni:
+→ 47 prenotazioni/mese via sito
+→ Copertura media: 2 persone = 40€ di scontrino medio
+→ Ricavi mensili aggiuntivi: ~1.800€
+
+Payback time: meno di 1 mese.
+Anno 1: ROI ~14×.
+
+Non è sempre così. Ma con i numeri giusti e la strategia giusta, un sito non è un costo. È un venditore che lavora 24 ore su 24.
+
+I nostri pacchetti partono da 800€.
+
+Se vuoi fare questo calcolo per la tua attività, prenota una call gratuita.
+
+— Dieci Bottega · diecibottega.it`,
+    cta:"Prenota una call gratuita — link nel profilo" },
+  { num:"L5", title:"Fine trimestre: i numeri onesti di Dieci Bottega",
+    body:`3 mesi fa abbiamo aperto.
+
+Ecco i numeri reali. Nessun abbellimento.
+
+Clienti acquisiti: 8
+Siti consegnati: 7 (1 in lavorazione)
+Tasso di soddisfazione: 7/7 recensione positiva
+Lead in pipeline: 12
+Costo di acquisizione cliente: principalmente organico
+
+Cosa ha funzionato:
+→ Il pricing trasparente. Mezza dozzina di clienti ci ha scelti perché "siete gli unici con i prezzi sul sito"
+→ Il posizionamento geografico. Bologna come asset, non come limite
+→ La promessa dei 10 giorni. Ogni volta rispettata
+
+Cosa non ha funzionato:
+→ Il processo di brief: troppo lungo, lo stiamo comprimendo
+→ I contenuti LinkedIn: partiti tardi, dobbiamo accelerare
+→ La gestione revisioni: due round non sempre sufficienti
+
+Prossimo trimestre: 20 siti, lancio CRM base, seconda città da decidere.
+
+Trasparenza radicale. È uno dei nostri cinque valori.
+
+— Lorenzo & Tommaso, Dieci Bottega · Bologna 2026`,
+    cta:"Seguici per il prossimo aggiornamento trimestrale" },
+];
+
+const formatSpecs = [
+  { f:"Reel / TikTok", r:"9:16 · 1080×1920px · testo nel terzo inferiore" },
+  { f:"Feed Instagram", r:"4:5 · 1080×1350px · logo piccolo in basso a sinistra" },
+  { f:"Carousel IG", r:"1:1 · 1080×1080px · bordo destro visibile (invita allo swipe)" },
+  { f:"Stories", r:"9:16 · area sicura centrale · CTA in basso con link sticker" },
+  { f:"LinkedIn image", r:"1.91:1 · 1200×628px · testo grande leggibile in preview" },
+  { f:"Copertina Reel", r:"Obsidian bg · Archivo Black · logo angolo top-left" },
+];
+
+const motionSpecs = [
+  { r:"Transizioni", v:"Cut netto o slide orizzontale. Mai zoom-in esagerato. Niente bounce." },
+  { r:"Velocità testo", v:"1 concetto per schermata. Max 2 secondi di permanenza." },
+  { r:"Timing", v:"150–400ms. Ease-out cubic-bezier(.2,.8,.2,1)" },
+  { r:"Animazioni testo", v:"Fade-in + slide-up leggero. Mai typewriter effect." },
+  { r:"Screen recording", v:"Cursor visibile, movimento lento e intenzionale." },
+  { r:"Musica", v:"Strumentale minimal o trending TikTok. Volume -10dB." },
+  { r:"Captions", v:"Sempre. Font Archivo Bold, bianco su shadow scura." },
+];
+
+// ── RENDER FUNCTIONS ──────────────────────────────────────────────────────────
+
+function chColor(ch) {
+  if(ch.includes("TikTok")) return "var(--rosewood)";
+  if(ch.includes("LinkedIn")) return "var(--plum)";
+  if(ch.includes("Stories")) return "var(--clay)";
+  return "var(--burgundy)";
+}
+
+function renderRubriche() {
+  const grid = document.getElementById("rubriche-grid");
+  grid.innerHTML = rubriche.map(r => `
+    <div class="card-dark" style="border-color:${r.color}">
+      <div style="font-size:22px;margin-bottom:10px">${r.emoji}</div>
+      <div style="font-weight:900;font-size:15px;color:var(--ivory);margin-bottom:12px;letter-spacing:-.01em">${r.title}</div>
+      <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px">
+        <span class="tag" style="color:${r.color};border-color:${r.color}">${r.freq}</span>
+        <span class="tag" style="color:var(--peach);border-color:var(--peach)">${r.dur}</span>
+        <span class="tag" style="color:rgba(255,255,255,.4);border-color:rgba(255,255,255,.2)">${r.fmt}</span>
+      </div>
+      <div class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:8px">Struttura</div>
+      ${r.steps.map(s=>`<div style="font-size:12px;color:var(--peach);line-height:1.75;margin-bottom:4px;padding-left:10px;border-left:2px solid rgba(255,255,255,.1)">${s}</div>`).join("")}
+      <div style="margin-top:14px;padding:12px;background:rgba(0,0,0,.25);border-radius:3px;font-size:12px;color:var(--ash);font-style:italic;line-height:1.6">📌 ${r.note}</div>
+    </div>`).join("");
+}
+
+function renderCalendar() {
+  const switcher = document.getElementById("month-switcher");
+  const content = document.getElementById("calendar-content");
+  switcher.innerHTML = calData.map((m,i)=>`
+    <button class="month-btn${i===0?" active":""}" data-month="${i}">${m.month}</button>`).join("");
+  content.innerHTML = calData.map((m,i)=>`
+    <div class="month-content${i===0?" active":""}" id="month-${i}">
+      ${m.weeks.map(w=>`
+        <div class="week-block">
+          <div class="week-header">
+            <div class="week-title">${w.week}</div>
+            <span class="tag" style="color:var(--plum);border-color:var(--plum)">${w.theme}</span>
+          </div>
+          <div class="table-scroll">
+            <table class="cal-table">
+              <thead><tr>
+                <th>Giorno</th><th>Canale</th><th>Format</th>
+                <th>Titolo / Hook</th><th>Obiettivo</th><th>CTA</th>
+              </tr></thead>
+              <tbody>
+                ${w.days.map(d=>`<tr>
+                  <td><span class="cal-day">${d.day}</span></td>
+                  <td><span class="tag" style="color:${chColor(d.ch)};border-color:${chColor(d.ch)}">${d.ch}</span></td>
+                  <td><span class="mono-xs" style="color:var(--plum)">${d.fmt}</span></td>
+                  <td class="cal-title">${d.title}</td>
+                  <td class="cal-goal">${d.goal}</td>
+                  <td class="cal-cta">${d.cta}</td>
+                </tr>`).join("")}
+              </tbody>
+            </table>
+          </div>
+        </div>`).join("")}
+    </div>`).join("");
+  switcher.addEventListener("click",e=>{
+    const btn=e.target.closest(".month-btn");
+    if(!btn)return;
+    const idx=btn.dataset.month;
+    document.querySelectorAll(".month-btn").forEach(b=>b.classList.remove("active"));
+    document.querySelectorAll(".month-content").forEach(c=>c.classList.remove("active"));
+    btn.classList.add("active");
+    document.getElementById(`month-${idx}`).classList.add("active");
+  });
+}
+
+function buildAccordion(s, dark=false) {
+  const id = `acc-${s.num}`;
+  return `
+    <div class="accordion-item">
+      <button class="accordion-trigger" data-target="${id}">
+        <div class="accordion-trigger-left">
+          <span class="accordion-num">${s.num}</span>
+          <span class="accordion-title">${s.title}</span>
+        </div>
+        <div class="accordion-trigger-right">
+          <span class="tag" style="color:var(--peach);border-color:var(--peach)">${s.series}</span>
+          <span class="tag" style="color:rgba(255,255,255,.4);border-color:rgba(255,255,255,.2)">${s.dur}</span>
+          <span class="accordion-arrow">↓</span>
+        </div>
+      </button>
+      <div class="accordion-body" id="${id}">
+        <span class="script-section-label">Hook</span>
+        <div class="script-hook">${s.hook}</div>
+        <span class="script-section-label">Sviluppo</span>
+        ${s.body.map(b=>`<div class="script-step">${b}</div>`).join("")}
+        <div class="script-cta">
+          <span style="font-family:var(--font-mono);font-size:9px;letter-spacing:.12em;opacity:.7;display:block;margin-bottom:4px">CTA FINALE</span>
+          ${s.cta}
+        </div>
+      </div>
+    </div>`;
+}
+
+function renderScripts() {
+  document.getElementById("scripts-reels").innerHTML = scriptsData.map(s=>buildAccordion(s)).join("");
+  document.getElementById("scripts-carousels").innerHTML = carouselsData.map(s=>buildAccordion(s,true)).join("");
+}
+
+function renderLinkedin() {
+  document.getElementById("linkedin-posts").innerHTML = linkedinData.map(p=>`
+    <div class="linkedin-card">
+      <div class="linkedin-header">
+        <span class="mono-xs" style="color:var(--peach)">${p.num}</span>
+        <span style="font-weight:700;font-size:15px;color:var(--ivory)">${p.title}</span>
+      </div>
+      <div class="linkedin-body">${p.body}</div>
+      <div class="linkedin-cta">CTA → ${p.cta}</div>
+    </div>`).join("");
+}
+
+function renderVisual() {
+  document.getElementById("format-specs").innerHTML = formatSpecs.map(i=>`
+    <div style="margin-bottom:12px">
+      <span class="mono-xs" style="color:var(--rosewood);display:block;margin-bottom:3px">${i.f}</span>
+      <span style="font-size:12px;color:rgba(255,255,255,.5);line-height:1.5">${i.r}</span>
+    </div>`).join("");
+  document.getElementById("motion-specs").innerHTML = motionSpecs.map(i=>`
+    <div style="margin-bottom:12px">
+      <span class="mono-xs" style="color:var(--clay);display:block;margin-bottom:3px">${i.r}</span>
+      <span style="font-size:12px;color:rgba(255,255,255,.5);line-height:1.5">${i.v}</span>
+    </div>`).join("");
+}
+
+// ── TABS ──────────────────────────────────────────────────────────────────────
+document.querySelectorAll(".tab-btn").forEach(btn=>{
+  btn.addEventListener("click",()=>{
+    const tab=btn.dataset.tab;
+    document.querySelectorAll(".tab-btn").forEach(b=>b.classList.remove("active"));
+    document.querySelectorAll(".tab-panel").forEach(p=>p.classList.remove("active"));
+    btn.classList.add("active");
+    document.getElementById(`tab-${tab}`).classList.add("active");
+    window.scrollTo({top:0,behavior:"smooth"});
+  });
+});
+
+// ── ACCORDION ─────────────────────────────────────────────────────────────────
+document.addEventListener("click",e=>{
+  const trigger=e.target.closest(".accordion-trigger");
+  if(!trigger)return;
+  const targetId=trigger.dataset.target;
+  const body=document.getElementById(targetId);
+  const isOpen=body.classList.contains("open");
+  // close all in same section
+  const section=trigger.closest(".section-inner, .section-dark .section-inner, .section-light .section-inner");
+  if(section){
+    section.querySelectorAll(".accordion-trigger.open").forEach(t=>{
+      t.classList.remove("open");
+      document.getElementById(t.dataset.target)?.classList.remove("open");
+    });
+  }
+  if(!isOpen){
+    trigger.classList.add("open");
+    body.classList.add("open");
+    setTimeout(()=>trigger.scrollIntoView({behavior:"smooth",block:"nearest"}),50);
+  }
+});
+
+// ── INIT ──────────────────────────────────────────────────────────────────────
+renderRubriche();
+renderCalendar();
+renderScripts();
+renderLinkedin();
+renderVisual();
+
+// ══════════════════════════════════════════════════════════
+// TAB 08 · GENERA — CONTENT GENERATOR ENGINE
+// ══════════════════════════════════════════════════════════
+
+const CONTENT_DB = {
+  solo_30:[
+    {type:"talking-head",title:"Il tuo sito ha questo errore?",idea:"Mostri direttamente in camera un singolo errore critico che il 90% delle PMI fa sul proprio sito. Educativo, veloce, condivisibile.",hook:"«Apri il tuo sito adesso mentre guardi questo video. Ti mostro l'errore che ti costa clienti ogni giorno.»",
+    script:[
+      {scene:"01 · APERTURA",timing:"0–4s",text:"Ciao, sono Lorenzo di Dieci Bottega. Apri il tuo sito adesso perché in 30 secondi ti mostro l'errore numero uno che fa perdere clienti a qualsiasi PMI italiana.",overlay:null},
+      {scene:"02 · IL PROBLEMA",timing:"4–18s",text:"Vai in homepage. Cerca un bottone o un numero di telefono. Ora aprila dal tuo smartphone e toccalo. Se non succede niente — il numero non si chiama, il bottone non porta da nessuna parte — stai perdendo clienti ogni giorno.",overlay:"TESTA ORA →"},
+      {scene:"03 · PERCHÉ CONTA",timing:"18–26s",text:"Più del 60% delle persone cerca la tua attività dal telefono. Se la prima cosa che trovano non funziona, vanno dal concorrente. In tre secondi.",overlay:null},
+      {scene:"04 · CTA",timing:"26–30s",text:"Hai trovato il problema? Commenta qui sotto con 'SITO' e ti mando la checklist gratuita dei 5 errori più comuni.",overlay:"↓ COMMENTA 'SITO'"},
+    ],
+    caption:"Il tuo sito ti sta sabotando — e tu non lo sai 😬\n\nApri il tuo sito dallo smartphone ADESSO.\nTocca il numero di telefono.\nCosa succede?\n\nSe non si apre la chiamata automaticamente, stai perdendo clienti ogni giorno.\n\nCommenta 'SITO' per la checklist gratuita dei 5 errori più comuni.\n\nNessuna fregatura. Solo mestiere.",
+    hashtags:["#webdesign","#PMIitaliana","#sitowebprofessionale","#diecibottega","#bologna","#digitalmarketing","#erroresito","#mobilefirst"],
+    cta:"Commenta 'SITO' per la checklist gratuita"},
+    {type:"talking-head",title:"Perché il tuo sito è lento (e quanto ti costa)",idea:"Calcolo live del costo in clienti persi causato da un sito lento. Nessun tecnicismo, solo numeri concreti.",hook:"«Ti faccio un calcolo in diretta. Se il tuo sito carica in più di 3 secondi, ogni mese butti via questa cifra.»",
+    script:[
+      {scene:"01 · HOOK + CALCOLO",timing:"0–6s",text:"Prendo carta e penna. Se il tuo sito carica in più di 3 secondi, ogni secondo in più ti fa perdere il 7% dei visitatori. Facciamo i conti insieme.",overlay:"CALCOLATRICE LIVE"},
+      {scene:"02 · ESEMPIO CONCRETO",timing:"6–20s",text:"Un ristorante con 50 visite al giorno. Sito che carica in 7 secondi. Perde il 35% di quei visitatori prima che la pagina si apra. Sono 17 persone al giorno. Se il 10% prenota, sono 50 prenotazioni perse al mese.",overlay:"50 VISITE → -17 PERSE/GIORNO"},
+      {scene:"03 · CAUSA SEMPLICE",timing:"20–27s",text:"La causa nella maggior parte dei casi? Le foto. Foto da 4 megabyte caricate senza ottimizzazione. Si risolvono in un'ora con uno strumento gratuito.",overlay:null},
+      {scene:"04 · CTA",timing:"27–30s",text:"Vai su PageSpeed Insights — link in bio — e scopri il punteggio del tuo sito. Se è sotto 60, scrivimi.",overlay:"PAGESPEED → LINK BIO"},
+    ],
+    caption:"Stai buttando via clienti ogni giorno senza saperlo 📉\n\nCalcolo rapido:\n→ Sito che carica in 7 secondi\n→ 50 visite/giorno dal telefono\n→ Perdi il 35% prima che vedano qualcosa\n→ ~510 persone al mese\n\nSoluzione? Spesso basta ottimizzare le foto. 1 ora di lavoro.\n\nTesta il tuo sito su PageSpeed Insights (link in bio).",
+    hashtags:["#velocitàsito","#pagespeed","#webperformance","#diecibottega","#PMI","#ristorante","#sitoweb","#bologna"],
+    cta:"Testa il tuo sito su PageSpeed (link in bio)"},
+    {type:"talking-head",title:"800€ vs 6.000€: cosa cambia davvero",idea:"Spiegazione onesta della differenza tra agenzie tradizionali e Dieci Bottega. Posizionamento diretto e credibile.",hook:"«Ho ricevuto un preventivo da un'agenzia: 6.800€ per un sito web. Vi spiego perché non ha senso per una PMI.»",
+    script:[
+      {scene:"01 · IL PREVENTIVO",timing:"0–5s",text:"6.800€ per un sito web per un ristorante. Vi spiego cosa c'è dentro quella cifra — e cosa non c'è.",overlay:"6.800€ → SITO RISTORANTE"},
+      {scene:"02 · COSA PAGA",timing:"5–18s",text:"Stai pagando: project manager che non conosce il settore, riunioni ogni settimana per 3 mesi, grafica da junior, revisioni infinite, e un sito consegnato dopo 4 mesi.",overlay:null},
+      {scene:"03 · L'ALTERNATIVA",timing:"18–25s",text:"Noi facciamo lo stesso sito — fatto bene, su misura per PMI italiane — in 10 giorni a 1.500€. La differenza non è la qualità. È il metodo.",overlay:"10 GIORNI · DA 800€"},
+      {scene:"04 · CTA",timing:"25–30s",text:"Stai valutando un sito? Parla prima con noi. Call gratuita 30 minuti — link in bio.",overlay:"CALL GRATUITA → LINK BIO"},
+    ],
+    caption:"6.800€ per un sito web. Ecco cosa stai pagando davvero.\n\n❌ Project manager (non conosce il tuo settore)\n❌ 3 mesi di riunioni\n❌ Revisioni infinite\n❌ Consegna dopo 4 mesi\n\n✓ Sito su misura per PMI italiane\n✓ Consegna in 10 giorni\n✓ Da 800€ tutto incluso\n✓ Parli con chi costruisce\n\nCall gratuita 30 minuti → link in bio",
+    hashtags:["#preventivositoweb","#agenziadigitale","#diecibottega","#PMIitaliana","#webdesign","#bologna","#prezzosite","#trasparenza"],
+    cta:"Call gratuita 30 minuti — link in bio"},
+  ],
+  solo_60:[
+    {type:"talking-head",title:"5 errori UX che costano clienti: analisi live",idea:"Analisi strutturata dei 5 problemi UX più critici nei siti PMI. Formato educativo con alto valore percepito e alta condivisibilità.",hook:"«Ho analizzato 50 siti di PMI italiane. Questi 5 errori li ho trovati in tutti e 50.»",
+    script:[
+      {scene:"01 · INTRO",timing:"0–8s",text:"In questo video analizzo i 5 errori UX più comuni nei siti delle PMI italiane. Li ho trovati in ogni sito che ho guardato nelle ultime settimane.",overlay:"50 SITI ANALIZZATI"},
+      {scene:"02 · ERRORE 1 — MENU PDF",timing:"8–18s",text:"Errore uno: il menu in PDF. Google non lo legge, non si scala su mobile, se cambia il prezzo va ricaricato. Soluzione: una pagina HTML dedicata. 2 ore di lavoro.",overlay:"ERRORE 1: MENU PDF"},
+      {scene:"03 · ERRORE 2 — NESSUNA CTA",timing:"18–28s",text:"Errore due: nessuna CTA above the fold. Il visitatore arriva, scorre, non capisce cosa fare. Un bottone chiaro nei primi 100 pixel risolve il problema.",overlay:"ERRORE 2: ZERO CTA"},
+      {scene:"04 · ERRORE 3 — NUMERO",timing:"28–38s",text:"Tre: il numero come testo. Su mobile non si clicca. Perdi il 60% degli utenti smartphone. Fix: tag tel:href. 30 secondi.",overlay:"ERRORE 3: TEL NON CLICCABILE"},
+      {scene:"05 · ERRORE 4 — VELOCITÀ",timing:"38–48s",text:"Quattro: velocità ignorata. Il benchmark è 3 secondi. Ogni secondo in più è -7% conversioni. Testa su PageSpeed Insights.",overlay:"ERRORE 4: SITO LENTO"},
+      {scene:"06 · ERRORE 5 — SOCIAL PROOF",timing:"48–56s",text:"Cinque: zero prova sociale. 'Siamo professionisti dal 1990' non convince. Servono recensioni visibili, numeri concreti, nomi di clienti.",overlay:"ERRORE 5: ZERO SOCIAL PROOF"},
+      {scene:"07 · CTA",timing:"56–60s",text:"Quanti di questi errori ha il tuo sito? Commenta il numero qui sotto — da 0 a 5. Manda il link in DM per un'analisi gratuita.",overlay:"↓ COMMENTA IL TUO VOTO"},
+    ],
+    caption:"Ho analizzato 50 siti di PMI italiane. Stessi 5 errori. Ogni volta. 🔍\n\n1. Menu in PDF\n2. Nessuna CTA in homepage\n3. Numero non cliccabile su mobile\n4. Sito lento (test su PageSpeed — link in bio)\n5. Zero prova sociale\n\nQuanti ne hai? Commenta con il numero (0-5) ↓",
+    hashtags:["#uxdesign","#sitoweb","#PMIitaliana","#diecibottega","#erroriUX","#webdesign","#conversion","#bologna"],
+    cta:"Commenta con il tuo punteggio (0–5) ↓"},
+    {type:"tutorial",title:"Come controllare la velocità del tuo sito in 2 minuti",idea:"Tutorial pratico con screen recording su PageSpeed Insights. Alta utilità immediata, perfetto per salvare e condividere.",hook:"«Ti mostro come testare la velocità del tuo sito in 2 minuti. Nessuna competenza tecnica richiesta.»",
+    script:[
+      {scene:"01 · PROMESSA",timing:"0–7s",text:"In 2 minuti esatti ti mostro come controllare se il tuo sito è lento. Vai su PageSpeed Insights — link in bio — e incolla l'indirizzo del tuo sito.",overlay:"PAGESPEED INSIGHTS · GRATUITO"},
+      {scene:"02 · LEGGERE IL RISULTATO",timing:"7–22s",text:"Vedrai due punteggi: Mobile e Desktop. Concentrati sul Mobile. Sotto 50? Problema serio. Tra 50 e 89? Migliorabile. Sopra 90? Ottimo. La maggior parte dei siti PMI sta tra 20 e 45.",overlay:"MOBILE → il punteggio che conta"},
+      {scene:"03 · LE CAUSE",timing:"22–38s",text:"Scendi nella sezione Opportunità. Le cause più comuni: immagini JPEG troppo grandi — convertile in WebP con Squoosh, gratuito. Render-blocking resources — font o script caricati male.",overlay:"OPPORTUNITÀ → cosa guardare"},
+      {scene:"04 · BENCHMARK",timing:"38–50s",text:"I siti che consegniamo noi hanno tutti punteggio sopra 85 su mobile. Non è magia — è ottimizzazione delle immagini, hosting scelto bene, codice pulito.",overlay:"I NOSTRI SITI: 85+ mobile"},
+      {scene:"05 · CTA",timing:"50–60s",text:"Hai fatto il test? Scrivi il punteggio nei commenti. Se è sotto 60, scrivimi in DM — ti dico cosa fare per primo.",overlay:"↓ SCRIVI IL TUO PUNTEGGIO"},
+    ],
+    caption:"Tutorial: come testare la velocità del tuo sito in 2 minuti 🛠\n\n1. Vai su PageSpeed Insights (link in bio)\n2. Incolla il tuo indirizzo\n3. Guarda il punteggio MOBILE\n\n🔴 Sotto 50 = problema serio\n🟡 50–89 = migliorabile\n🟢 90+ = ottimo\n\nScrivi il tuo punteggio nei commenti ↓",
+    hashtags:["#velocitàsito","#pagespeed","#tutorial","#diecibottega","#webperformance","#sitoweb","#PMIitaliana","#gratuito"],
+    cta:"Scrivi il tuo punteggio nei commenti ↓"},
+    {type:"talking-head",title:"Rifacciamo questo sito — Agente immobiliare",idea:"Analisi live e rifacimento concettuale del sito di un agente immobiliare tipo. Formato rubrica con forte appeal settoriale.",hook:"«15 anni di esperienza, 200+ immobili venduti, e un sito che sembra del 2012. Analizziamo e rifacciamo.»",
+    script:[
+      {scene:"01 · PRESENTAZIONE CASO",timing:"0–8s",text:"Oggi su 'Rifacciamo questo sito': agente immobiliare. Esperienza reale, ottima reputazione offline, sito web che lo tradisce completamente.",overlay:"RIFACCIAMO QUESTO SITO #003"},
+      {scene:"02 · 3 PROBLEMI",timing:"8–25s",text:"Problema uno: nessuna foto dell'agente in homepage. Non so chi sei, non mi fido. Due: listing immobili nascosti dietro registrazione. Chi si registra su un sito sconosciuto? Tre: form contatti con 12 campi.",overlay:"3 PROBLEMI → analisi"},
+      {scene:"03 · LA SOLUZIONE",timing:"25–45s",text:"Come rifaremmo: foto professionale + headline diretta, tre immobili in evidenza senza login, filtro rapido zona/prezzo, WhatsApp fisso. Form contatti: tre campi. Nome, telefono, messaggio.",overlay:"SOLUZIONE → prima/dopo"},
+      {scene:"04 · RISULTATO",timing:"45–53s",text:"Un nostro cliente agente è passato da 2 a 30 lead organici al mese dopo il redesign. Nessuna campagna ads.",overlay:"+28 LEAD/MESE ORGANICI"},
+      {scene:"05 · CTA",timing:"53–60s",text:"Sei un agente immobiliare? Manda il link del tuo sito in DM — analisi gratuita entro 24 ore.",overlay:"DM → ANALISI GRATUITA 24H"},
+    ],
+    caption:"Rifacciamo questo sito — Agente Immobiliare 🏠\n\n❌ Nessuna foto dell'agente\n❌ Immobili nascosti dietro login\n❌ Form con 12 campi\n\n✓ Foto + headline diretta\n✓ Immobili visibili subito\n✓ Form con 3 campi\n\nRisultato: da 2 a 30 lead organici/mese.\n\nIl tuo sito assomiglia a questo? Mandami il link in DM.",
+    hashtags:["#agentimmobiliare","#sitoweb","#rifacciamoquestosito","#diecibottega","#realestate","#leadgeneration","#PMIitaliana","#bologna"],
+    cta:"Manda il link in DM — analisi gratuita 24h"},
+  ],
+  solo_120:[
+    {type:"talking-head",title:"Case study: da 0 a 200 prenotazioni online",idea:"Storytelling lungo su un caso reale: problema, processo, risultati. Formato MOFU/BOFU con altissima credibilità.",hook:"«Vi racconto come abbiamo portato una trattoria bolognese da 0 a 200 prenotazioni al mese. 1.500€. 10 giorni.»",
+    script:[
+      {scene:"01 · SETUP DEL CASO",timing:"0–12s",text:"Una trattoria nel centro di Bologna. 80 anni di storia. 60 coperti. Eccellente su TripAdvisor. Zero prenotazioni online. Il titolare: 'Le prenotazioni le facciamo per telefono. Funziona così da sempre.'",overlay:"TRATTORIA · BOLOGNA · 60 COPERTI"},
+      {scene:"02 · IL PROBLEMA INVISIBILE",timing:"12–28s",text:"Ogni sera dopo le 21 il telefono non risponde. Il locale è pieno. Ma le persone continuano a cercare dal divano. E trovano il concorrente con il sistema di prenotazione. E prenotano lì. Ogni sera.",overlay:"21:00 → TELEFONO NON RISPONDE"},
+      {scene:"03 · IL PROCESSO",timing:"28–50s",text:"Brief: due ore con il titolare. Non tecnica — storia e cibo. Giorni 1-3: struttura. Giorni 4-7: sviluppo. Giorni 8-9: revisione. Giorno 10: lancio. Sistema prenotazione integrato col gestionale esistente.",overlay:"BRIEF → BUILD → LAUNCH → 10GG"},
+      {scene:"04 · I RISULTATI",timing:"50–72s",text:"Dopo 60 giorni: 47 prenotazioni online al mese. Media 2,1 persone per prenotazione. Scontrino medio 38€. Ricavo mensile aggiuntivo: circa 3.750€. Costo del sito: 1.500€. Payback: meno di un mese.",overlay:"47 PREN./MESE → ROI 28×"},
+      {scene:"05 · LA LEZIONE",timing:"72–84s",text:"Ogni sera dopo le 21 il vostro concorrente raccoglie le prenotazioni che voi non potete raccogliere. Non perché è migliore. Perché ha uno strumento in più. Che costa meno di una settimana di incasso.",overlay:null},
+      {scene:"06 · CTA",timing:"84–90s",text:"Gestisci un ristorante? Click il link in bio per la call gratuita. In 30 minuti facciamo il calcolo per il tuo caso specifico.",overlay:"CALL GRATUITA → LINK BIO"},
+    ],
+    caption:"Case study: da 0 a 47 prenotazioni/mese. Costo sito: 1.500€. 📊\n\n🍽 Trattoria bolognese, 80 anni di storia, 0 prenotazioni online.\n\nCosa abbiamo fatto in 10 giorni:\n→ Sistema prenotazione integrato\n→ SEO locale configurato\n→ Google My Business ottimizzato\n\nRisultati dopo 60 giorni:\n→ 47 prenotazioni/mese via sito\n→ ~3.750€ ricavo mensile aggiuntivo\n→ Payback: meno di 1 mese\n→ ROI annuo: ~28×\n\nCall gratuita 30 min → link in bio.",
+    hashtags:["#casestudy","#ristorante","#prenotazionionline","#diecibottega","#ROI","#webdesign","#bologna","#PMIitaliana"],
+    cta:"Call gratuita 30 minuti — link in bio"},
+    {type:"talking-head",title:"Il manifesto: perché abbiamo aperto Dieci Bottega",idea:"Video narrativo lungo sulla storia e i valori fondanti. Crea connessione emotiva e rafforza l'identità del brand.",hook:"«Tre milioni di PMI italiane meritano un sito che racconta il loro mestiere. Non un template. Non 6.000€. Una bottega digitale.»",
+    script:[
+      {scene:"01 · IL PROBLEMA CHE ABBIAMO VISTO",timing:"0–15s",text:"Lorenzo sviluppa siti da anni per agenti immobiliari a Bologna. Tommaso lavora come consulente per agenzie digitali. Stesso problema: troppi clienti vogliono qualità ma non possono permettersi 6.000€. E il fai-da-te su Wix non è una soluzione — è una toppa.",overlay:"2 FONDATORI · 1 PROBLEMA"},
+      {scene:"02 · IL MERCATO VUOTO",timing:"15–35s",text:"Abbiamo mappato il mercato. Self-service: veloce, economico, generico. Agenzia tradizionale: professionale, costosa, lenta. In mezzo: un vuoto enorme. La fascia 800-3.500€, consegna rapida, qualità artigianale. Nessuno la presidia. Noi sì.",overlay:"LA NICCHIA VUOTA"},
+      {scene:"03 · PERCHÉ BOTTEGA",timing:"35–52s",text:"Il nome non è casuale. La bottega rinascimentale era un luogo dove il mestiere si tramandava, ogni opera portava la firma di chi l'aveva fatta. Vogliamo essere questo nel digitale. Non un'agenzia senza volto. Una bottega con due persone reali.",overlay:"BOTTEGA = ARTIGIANATO DIGITALE"},
+      {scene:"04 · L'AI COME STRUMENTO",timing:"52–68s",text:"Usiamo l'AI — n8n, Supabase, prompt strutturati. Ma non come sostituto del mestiere. Come amplificatore. L'AI fa il lavoro pesante. Noi facciamo il dettaglio. Nei dettagli c'è tutta la differenza.",overlay:"AI + MESTIERE"},
+      {scene:"05 · LA PROMESSA",timing:"68–80s",text:"La promessa è semplice e pubblica: sito professionale per PMI italiane in 10 giorni, da 800€, con la cura di un'agenzia. Prezzi sul sito. Sempre.",overlay:"10 GIORNI · DA 800€ · TRASPARENTE"},
+      {scene:"06 · CHIUSURA",timing:"80–90s",text:"Tre milioni di PMI italiane meritano di meglio. Noi siamo qui per questo. Bottega aperta, codice acceso.",overlay:"È TUTTO NEI DETTAGLI."},
+    ],
+    caption:"Perché abbiamo aperto Dieci Bottega. Il manifesto. 🏛\n\nTre milioni di PMI italiane meritano un sito che racconta il loro mestiere.\n\n→ 10 giorni di consegna\n→ Da 800€\n→ Prezzi pubblici (sempre)\n→ Due persone reali\n→ Bologna, non 'il cloud'\n\nVeloci, ma non frettolosi.\nAccessibili, mai economici.\nÈ tutto nei dettagli.\n\n#diecibottega",
+    hashtags:["#manifesto","#diecibottega","#webdesign","#bologna","#PMIitaliana","#startup","#artigianato","#digitale","#bottega"],
+    cta:"Segui per più contenuti dalla bottega"},
+    {type:"tutorial",title:"Ottimizza le immagini del tuo sito in 10 minuti",idea:"Tutorial pratico con screen recording su Squoosh.app. Alta utilità immediata, ottimo per SEO organico e condivisione.",hook:"«Le immagini pesanti sono il motivo numero uno per cui il tuo sito è lento. Ti mostro come risolverlo gratis.»",
+    script:[
+      {scene:"01 · PERCHÉ CONTA",timing:"0–12s",text:"Le immagini rappresentano in media il 65% del peso di una pagina web. Se il tuo sito è lento, con alta probabilità è colpa delle foto. Si risolve in 10 minuti, gratis, senza saper programmare.",overlay:"IMMAGINI = 65% DEL PESO PAGINA"},
+      {scene:"02 · LO STRUMENTO",timing:"12–22s",text:"Lo strumento si chiama Squoosh, è di Google, è gratuito, funziona nel browser. squoosh.app — link in bio. Trascina la foto. Vedi il confronto in tempo reale.",overlay:"SQUOOSH.APP · GRATUITO · GOOGLE"},
+      {scene:"03 · IMPOSTAZIONI OTTIMALI",timing:"22–42s",text:"Formato WebP, qualità 75-80%, massimo 1200 pixel di larghezza per immagini di contenuto, 1920 per hero. Risultato tipico: da 3 megabyte a 140 kilobyte. Stesso aspetto, un ventesimo del peso.",overlay:"WEBP · Q80 · MAX 1200PX"},
+      {scene:"04 · REGOLA PRATICA",timing:"42–58s",text:"Foto del piatto, del prodotto, degli spazi: WebP a 80%. Loghi: SVG se possibile. Hero: WebP a 75%, 1920px. Mai caricare dall'iPhone senza ridimensionare — arrivano a 8-12 megabyte.",overlay:"FOTO → WEBP · LOGHI → SVG"},
+      {scene:"05 · VERIFICA",timing:"58–72s",text:"Una volta ottimizzato, torna su PageSpeed e rifai il test. Dovresti vedere un miglioramento significativo nel punteggio Mobile.",overlay:"PRIMA/DOPO → PAGESPEED"},
+      {scene:"06 · CTA",timing:"72–80s",text:"Commenta con 'LENTO' se hai provato e non sai interpretare il risultato. Ti rispondo con un feedback.",overlay:"↓ COMMENTA 'LENTO'"},
+    ],
+    caption:"Tutorial: ottimizza le immagini in 10 min 🛠\n\nLe immagini = 65% del peso medio di una pagina.\nSoluzione: Squoosh.app (gratuito, di Google).\n\n✓ Trascina la foto\n✓ Imposta WebP, qualità 80%\n✓ Max 1200px\n✓ Scarica e carica sul sito\n\n📸 Originale: 3.2 MB → ✨ Ottimizzata: 140 KB (-95%)\n\nChe punteggio hai su PageSpeed? Scrivi nei commenti 👇",
+    hashtags:["#tutorial","#squoosh","#velocitàsito","#ottimizzazione","#diecibottega","#webdesign","#pagespeed","#PMIitaliana"],
+    cta:"Commenta 'LENTO' per un feedback gratuito"},
+  ],
+  duo_30:[
+    {type:"dinamico",title:"Il tuo concorrente ti sta battendo",idea:"Formato dinamico con due voci e scene multiple. Ritmo veloce, montaggio alternato, impatto immediato.",hook:"«Mentre tu non hai un sito che funziona, il tuo concorrente raccoglie i tuoi clienti. In 30 secondi.»",
+    script:[
+      {scene:"01 · APERTURA ALTERNATA",timing:"0–5s",text:"LORENZO: 'Questo sito carica in 8 secondi.' TOMMASO: 'Questo in 1.2.' Stessa zona. Stesso tipo di attività. Chi viene trovato su Google?",overlay:"8s VS 1.2s"},
+      {scene:"02 · IL DATO",timing:"5–16s",text:"VOICEOVER: Google privilegia i siti veloci. Se il tuo è lento, non appari. Il tuo concorrente — magari meno bravo di te — raccoglie i tuoi clienti perché ha investito in un sito che funziona.",overlay:"GOOGLE PREMIA LA VELOCITÀ"},
+      {scene:"03 · LA SOLUZIONE",timing:"16–24s",text:"LORENZO: 'In 10 giorni rifacciamo il sito da zero.' TOMMASO: 'Da 800€. Prezzi pubblici sul sito.' INSIEME: 'Senza aspettare 3 mesi.'",overlay:"10 GIORNI · DA 800€"},
+      {scene:"04 · CTA",timing:"24–30s",text:"TOMMASO in camera: Link in bio. Call gratuita 30 minuti. Senza impegno.",overlay:"LINK BIO → CALL GRATUITA"},
+    ],
+    caption:"Il tuo concorrente ti sta battendo. Non perché è più bravo. 📊\n\nStessa zona. Stesso servizio.\nLui: sito veloce → Google lo trova.\nTu: sito lento → sei a pagina 3.\n\nI clienti non arrivano alla pagina 3.\n\nIn 10 giorni possiamo cambiare questo. Da 800€.\n\nCall gratuita 30 min → link in bio.",
+    hashtags:["#concorrenza","#googleranking","#diecibottega","#sitoweb","#PMIitaliana","#webdesign","#bologna","#velocita"],
+    cta:"Call gratuita 30 min — link in bio"},
+  ],
+  duo_60:[
+    {type:"dinamico",title:"Prima/Dopo: il sito dell'agente immobiliare",idea:"Format Prima/Dopo con doppia voce: Lorenzo sulle scelte tecniche, Tommaso sui risultati di business.",hook:"«8 settimane, 1.500€, e la differenza tra 2 e 30 lead al mese.»",
+    script:[
+      {scene:"01 · INTRODUZIONE DUO",timing:"0–8s",text:"TOMMASO: 'Giulia Bianchi, agente immobiliare da 8 anni. Ottima reputazione, zero lead online.' LORENZO: 'Il sito aveva 2 pagine, listing nascosto, form con 12 campi. Partiamo dal prima.'",overlay:"PRIMA/DOPO · CASO REALE"},
+      {scene:"02 · ANALISI PRIMA",timing:"8–22s",text:"LORENZO: 'Homepage generica — foto di Bologna che non c'entra niente. Nessuna foto di Giulia. Immobili nascosti dietro registrazione.' TOMMASO: 'Giulia pensava fosse normale avere pochi lead dal sito.'",overlay:"❌ No identità · ❌ No listing · ❌ 12 campi"},
+      {scene:"03 · IL DOPO",timing:"22–40s",text:"LORENZO: 'Homepage: foto di Giulia, headline diretta, tre immobili in evidenza senza login, filtro rapido, WhatsApp fisso.' TOMMASO: 'Form: nome, telefono, messaggio. Fine.'",overlay:"✓ Identità · ✓ Listing aperto · ✓ 3 campi"},
+      {scene:"04 · I NUMERI",timing:"40–52s",text:"TOMMASO: '30 lead organici al mese. Prima erano 2.' LORENZO: 'Nessun ads. Solo SEO locale e sito che funziona.' TOMMASO: 'Payback in meno di due settimane.'",overlay:"2 → 30 LEAD/MESE · ORGANICI"},
+      {scene:"05 · CTA",timing:"52–60s",text:"INSIEME: 'Sei agente immobiliare? Questa potrebbe essere la tua storia.' Link in bio.",overlay:"CALL GRATUITA → LINK BIO"},
+    ],
+    caption:"Prima/Dopo · Agente Immobiliare 🏠\n\n→ Prima: 2 lead/mese\n→ Dopo: 30 lead/mese organici\n→ Costo: 1.500€\n→ Payback: meno di 2 settimane\n\nNessuna campagna ads. Solo un sito che funziona.\n\nSei agente? Call gratuita → link in bio.",
+    hashtags:["#primadopo","#agentimmobiliare","#diecibottega","#leadgeneration","#sitoweb","#bologna","#immobiliare","#casestudy"],
+    cta:"Sei agente? Call gratuita — link in bio"},
+    {type:"voiceover",title:"Quanto vale un secondo? Il calcolo completo",idea:"Voiceover su grafica animata. Lorenzo nella parte tecnica, Tommaso nella chiusura commerciale.",hook:"«Un secondo di ritardo nel caricamento. Quanto ti costa in un anno?»",
+    script:[
+      {scene:"01 · DATO SCIENTIFICO",timing:"0–8s",text:"VOICEOVER (Tommaso): Ogni secondo in più riduce le conversioni del 7%. Dato Google. Un secondo. Il 7%.",overlay:"OGNI SECONDO = -7% CONVERSIONI"},
+      {scene:"02 · CASO RISTORANTE",timing:"8–25s",text:"VOICEOVER: Un ristorante con 80 visite/giorno mobile. Sito lento: 7 secondi invece di 2. Perdita: 35% = 28 persone/giorno. 42 prenotazioni perse/mese. A 35€ di scontrino: 1.470€/mese.",overlay:"28 PERSONE/GIORNO · -1.470€/MESE"},
+      {scene:"03 · LA CAUSA",timing:"25–38s",text:"VOICEOVER: Causa principale nel 70% dei casi: immagini non ottimizzate. 5-12 megabyte l'una. Poi hosting da 3€, plugin WordPress, codice non ottimizzato.",overlay:"CAUSA → IMMAGINI NON OTTIMIZZATE"},
+      {scene:"04 · LORENZO",timing:"38–52s",text:"LORENZO in camera: 'In ogni sito che consegniamo il PageSpeed Mobile è sopra 85. Non è magia — è checklist operativa standard. Ogni volta. Senza eccezioni.'",overlay:"85+ PAGESPEED · STANDARD OPERATIVO"},
+      {scene:"05 · CTA",timing:"52–60s",text:"TOMMASO: 'Quanti secondi carica il tuo sito su mobile? Testa su PageSpeed — link in bio.'",overlay:"TEST → LINK BIO"},
+    ],
+    caption:"Quanto vale un secondo? Il calcolo che ogni PMI dovrebbe fare. ⏱\n\n→ Ristorante · 80 visite/giorno mobile\n→ Sito lento (7 sec): 28 persone/giorno perse\n→ ~42 prenotazioni/mese perse\n→ ~1.470€/mese in ricavi mai arrivati\n→ In un anno: ~17.600€\n\nI nostri siti: 85+ PageSpeed mobile. Sempre.\n\nTesta il tuo → link in bio.",
+    hashtags:["#quantovaleunsecondo","#velocita","#pagespeed","#diecibottega","#ristorante","#PMIitaliana","#webperformance","#bologna"],
+    cta:"Testa il tuo sito su PageSpeed → link in bio"},
+  ],
+  duo_120:[
+    {type:"dinamico",title:"Un giorno in bottega: dal brief alla consegna",idea:"Documentario breve del processo di lavoro. Lorenzo e Tommaso in scena separatamente e insieme. Costruisce fiducia radicale.",hook:"«Questa è la bottega. Vi mostriamo come nasce un sito web in 10 giorni.»",
+    script:[
+      {scene:"01 · APERTURA STUDIO",timing:"0–10s",text:"B-ROLL: studio. TOMMASO in voiceover: 'Questa è la bottega. Bologna. Ogni mattina alle 9 c'è un brief, una consegna, o una revisione. Spesso tutte e tre.'",overlay:"DIECI BOTTEGA · BOLOGNA"},
+      {scene:"02 · IL BRIEF",timing:"10–28s",text:"TOMMASO in scena: 'Il primo step è sempre una call di 30-45 minuti. Non parliamo di tecnica — parliamo del loro mestiere. Chi sono i loro clienti, cosa li rende speciali.' B-ROLL: appunti su carta.",overlay:"STEP 01 · BRIEF"},
+      {scene:"03 · LA COSTRUZIONE",timing:"28–48s",text:"LORENZO: 'Giorni 1-2 struttura. Giorni 3-5 sviluppo. Giorni 6-7 contenuti. Ogni giorno il cliente riceve un aggiornamento — non aspetta nel vuoto.' B-ROLL: code editor, Figma, schermo con sito in costruzione.",overlay:"STEP 02 · BUILD · GIORNI 1-7"},
+      {scene:"04 · LA REVISIONE",timing:"48–62s",text:"TOMMASO: 'Giorno 8-9: revisione. Il cliente vede il sito funzionante — non wireframe. Due round inclusi. Non di più. Se le revisioni sono infinite, il problema era nel brief.'",overlay:"STEP 03 · REVISIONE · GIORNI 8-9"},
+      {scene:"05 · IL LANCIO",timing:"62–78s",text:"LORENZO: 'Giorno 10: lancio. PageSpeed sopra 85. Form funzionante. Analytics. Search Console. Poi mostro al cliente come aggiornare i contenuti da solo.' B-ROLL: sito live, analytics.",overlay:"STEP 04 · LAUNCH · GIORNO 10"},
+      {scene:"06 · I VALORI",timing:"78–90s",text:"TOMMASO: 'Veloci, ma non frettolosi. Accessibili, mai economici. È tutto nei dettagli.'",overlay:"È TUTTO NEI DETTAGLI."},
+      {scene:"07 · CTA",timing:"90–95s",text:"ENTRAMBI: 'La bottega è aperta. Link in bio per la call gratuita.'",overlay:"CALL GRATUITA · LINK BIO"},
+    ],
+    caption:"Un giorno in bottega: come nasce un sito in 10 giorni 🏛\n\nStep 01 — Brief (30-45 min)\nStep 02 — Build (giorni 1-7)\nStep 03 — Revisione (giorni 8-9)\nStep 04 — Launch (giorno 10)\n\nVeloci, ma non frettolosi.\nÈ tutto nei dettagli.\n\nCall gratuita → link in bio.",
+    hashtags:["#behindthescenes","#diecibottega","#bottegadigitale","#webdesign","#bologna","#processo","#PMIitaliana","#artigianato"],
+    cta:"Call gratuita — o vieni a trovarci a Bologna"},
+    {type:"voiceover",title:"Template o strategia? La guida definitiva per PMI",idea:"Voiceover su grafica. Lorenzo nella parte tecnica, Tommaso nella chiusura. Formato educativo profondo, ottimo MOFU.",hook:"«Hai già un sito Wix? Ottimo. Perché non porta clienti? La differenza tra uno strumento e una strategia.»",
+    script:[
+      {scene:"01 · PREMESSA",timing:"0–12s",text:"VOICEOVER (Lorenzo): Wix e Squarespace non sono il problema. Sono strumenti. Senza strategia non servono a niente. Ho visto siti Wix che portano 50 lead al mese — e agenzie da 8.000€ con zero risultati.",overlay:"STRUMENTO ≠ STRATEGIA"},
+      {scene:"02 · I 5 ELEMENTI",timing:"12–38s",text:"Un sito PMI che funziona ha 5 elementi: 1) Identità chiara, 2) Proof sociale visibile, 3) CTA inequivocabile, 4) Velocità sotto 3 secondi su mobile, 5) SEO locale configurato.",overlay:"5 ELEMENTI ESSENZIALI"},
+      {scene:"03 · PERCHÉ WIX NON FUNZIONA",timing:"38–55s",text:"Il problema del 'Wix non funziona' non è Wix. È che il sito manca di questi 5 elementi. Homepage con foto Unsplash, CTA inesistente, SEO non configurato.",overlay:"PERCHÉ WIX 'NON FUNZIONA'"},
+      {scene:"04 · TOMMASO",timing:"55–72s",text:"TOMMASO in camera: 'Quando ha senso un sito nuovo invece di sistemare quello vecchio? Quando il problema è la struttura, non l'esecuzione. E quando il posizionamento è cambiato e il sito non lo racconta più.'",overlay:"QUANDO RICOMINCIARE"},
+      {scene:"05 · LA PROPOSTA",timing:"72–84s",text:"LORENZO: 'Valutiamo sempre entrambe le opzioni. Se il sito è recuperabile, te lo diciamo. Se non lo è, spieghiamo perché. La prima call è gratuita.'",overlay:"PRIMA VALUTIAMO · POI DECIDI"},
+      {scene:"06 · CTA",timing:"84–90s",text:"TOMMASO: 'Link in bio. 30 minuti. Nessun impegno. Solo una conversazione onesta sul tuo sito.'",overlay:"30 MIN · CALL GRATUITA · LINK BIO"},
+    ],
+    caption:"Template o strategia? La guida definitiva. 📋\n\nWix non è il problema. Mancano questi 5 elementi:\n\n1. Identità chiara\n2. Proof sociale\n3. CTA inequivocabile\n4. Velocità (<3 sec mobile)\n5. SEO locale\n\nSenza questi 5, nessun template funziona.\nCon questi 5, anche Wix porta lead.\n\nCall gratuita 30 min → link in bio.",
+    hashtags:["#wix","#squarespace","#template","#strategia","#diecibottega","#PMIitaliana","#webdesign","#seolocalee","#leadgeneration"],
+    cta:"Call gratuita 30 min — nessun impegno"},
+  ],
+};
+
+const CHECKLIST_ITEMS=[
+  {id:"script",label:"Script approvato",phase:"PRE-PROD"},
+  {id:"location",label:"Location / setup pronto",phase:"PRE-PROD"},
+  {id:"riprese",label:"Riprese completate",phase:"PRODUZIONE"},
+  {id:"montaggio",label:"Montaggio finito",phase:"POST-PROD"},
+  {id:"caption",label:"Caption scritta",phase:"POST-PROD"},
+  {id:"thumbnail",label:"Copertina / thumbnail",phase:"POST-PROD"},
+  {id:"pubblicato",label:"Pubblicato",phase:"DISTRIBUZIONE"},
+  {id:"analizzato",label:"Analisi primi 7 giorni",phase:"DISTRIBUZIONE"},
+];
+
+const TYPE_ICONS={"talking-head":"🎙","dinamico":"🎬","voiceover":"🔊","tutorial":"🛠"};
+
+// ── ROLE CONFIG ──────────────────────────────────────────
+const ROLES={
+  lorenzo:{
+    name:"Lorenzo",
+    role:"Design & Web",
+    color:"var(--rosewood)",
+    initials:"LL",
+    // Lorenzo = parte codice/creazione → talking-head tecnici, tutorial, dimostrazioni
+    pool:t=>`solo_${t}`,
+    hint:"<b>Lorenzo</b> cura design, codice e creazione. I suoi contenuti migliori: <b>analisi tecniche di siti, tutorial pratici, dimostrazioni live</b>. Talking head diretti dove mostra lo schermo e spiega il mestiere. Punto di forza: credibilità tecnica.",
+    // Tipi di contenuto che spettano a Lorenzo nella coda
+    owns:["DIAGNOSI","tutorial","dettaglio invisibile","velocità","Rifacciamo","bottone","Reel","dinamico","quanto vale"]
+  },
+  tommaso:{
+    name:"Tommaso",
+    role:"Strategy & Sales",
+    color:"var(--clay)",
+    initials:"TV",
+    pool:t=>`solo_${t}`,
+    hint:"<b>Tommaso</b> cura marketing, strategia e clienti. I suoi contenuti migliori: <b>post LinkedIn, case study, pricing, storytelling commerciale</b>. La voce che parla al cliente e chiude. Punto di forza: persuasione e relazione.",
+    owns:["LinkedIn","case study","preventivo","pricing","template o strategia","recensione","manifesto","brand"]
+  },
+  insieme:{
+    name:"Insieme",
+    role:"Lorenzo + Tommaso",
+    color:"var(--burgundy)",
+    initials:"10B",
+    pool:t=>`duo_${t}`,
+    hint:"<b>Insieme</b>: i contenuti più ambiziosi. Video dinamici a due voci, B-roll, dietro le quinte della bottega, prima/dopo raccontati in coppia. Lorenzo sul tecnico, Tommaso sul valore. Punto di forza: produzione completa e fiducia.",
+    owns:["dinamico","behind","giorno in bottega","prima/dopo","duo"]
+  }
+};
+
+let generatedVideos=[];
+let activeFilter="all";
+let queueFilter="all";
+let genMode="queue";
+const LS_KEY="db_genera_v3";
+const LS_QUEUE_KEY="db_queue_v3";
+
+function saveState(){
+  try{
+    localStorage.setItem(LS_KEY,JSON.stringify({
+      videos:generatedVideos,
+      settings:{
+        team:document.getElementById("sel-team")?.value,
+        time:document.getElementById("sel-time")?.value,
+        sector:document.getElementById("sel-sector")?.value,
+      }
+    }));
+  }catch(e){}
+}
+
+function loadState(){
+  try{
+    const raw=localStorage.getItem(LS_KEY);
+    if(!raw)return;
+    const data=JSON.parse(raw);
+    if(data.videos&&data.videos.length){
+      generatedVideos=data.videos;
+      if(data.settings){
+        const ts=document.getElementById("sel-team");
+        const ti=document.getElementById("sel-time");
+        const se=document.getElementById("sel-sector");
+        if(ts&&data.settings.team)ts.value=data.settings.team;
+        if(ti&&data.settings.time)ti.value=data.settings.time;
+        if(se&&data.settings.sector)se.value=data.settings.sector;
+      }
+      renderCards();
+      updateStats();
+      showChrome();
+      const bt=document.getElementById("gen-btn-text");
+      if(bt)bt.textContent="✦ \u00A0Rigenera";
+    }
+  }catch(e){}
+}
+
+function generateContent(){
+  const team=document.getElementById("sel-team").value;
+  const time=document.getElementById("sel-time").value;
+  const btn=document.getElementById("gen-btn");
+  const btnText=document.getElementById("gen-btn-text");
+  btn.disabled=true;
+  btnText.textContent="⏳  Generazione in corso...";
+  btn.classList.add("gen-btn-loading");
+  setTimeout(()=>{
+    const role=ROLES[team]||ROLES.lorenzo;
+    const key=role.pool(time);
+    let pool=CONTENT_DB[key]||[];
+    if(!pool.length){
+      const keys=Object.keys(CONTENT_DB);
+      pool=CONTENT_DB[keys[0]]||[];
+    }
+    generatedVideos=pool.map((v,i)=>({
+      ...v,
+      id:`vid_${Date.now()}_${i}`,
+      checks:Object.fromEntries(CHECKLIST_ITEMS.map(c=>[c.id,false])),
+      activeTab:"idea",
+      team,time,
+    }));
+    saveState();
+    renderCards();
+    updateStats();
+    showChrome();
+    btn.disabled=false;
+    btnText.textContent="✦ \u00A0Rigenera";
+    btn.classList.remove("gen-btn-loading");
+    // Switch to scripts mode to show results
+    switchMode("scripts");
+    setTimeout(()=>document.getElementById("gen-statsbar").scrollIntoView({behavior:"smooth",block:"start"}),100);
+  },900);
+}
+
+function clearAll(){
+  if(!confirm("Cancellare tutti i contenuti e i progressi?"))return;
+  generatedVideos=[];
+  localStorage.removeItem(LS_KEY);
+  document.getElementById("gen-cards-grid").innerHTML="";
+  document.getElementById("gen-cards-grid").style.display="none";
+  document.getElementById("gen-statsbar").style.display="none";
+  document.getElementById("gen-filterbar").style.display="none";
+  document.getElementById("gen-empty").style.display="block";
+  activeFilter="all";
+  document.getElementById("gen-btn-text").textContent="✦ \u00A0Genera script";
+}
+
+function showChrome(){
+  document.getElementById("gen-empty").style.display="none";
+  document.getElementById("gen-statsbar").style.display="flex";
+  document.getElementById("gen-filterbar").style.display="flex";
+  document.getElementById("gen-cards-grid").style.display="grid";
+}
+
+function videoProgress(v){
+  const done=Object.values(v.checks).filter(Boolean).length;
+  return Math.round((done/CHECKLIST_ITEMS.length)*100);
+}
+
+function escStr(str){
+  return(str||"").replace(/\\/g,"\\\\").replace(/'/g,"\\'").replace(/\r?\n/g,"\\n").replace(/"/g,"&quot;");
+}
+
+function buildCard(v,animIdx){
+  const pct=videoProgress(v);
+  const isDone=pct===100;
+  const tabs=["idea","script","social","checklist"];
+  const tabLabels={idea:"Idea",script:"Script",social:"Social",checklist:`Checklist (${Object.values(v.checks).filter(Boolean).length}/${CHECKLIST_ITEMS.length})`};
+  const at=v.activeTab||"idea";
+
+  return `<div class="gen-card${isDone?" card-completed":""}" id="card-${v.id}" style="animation-delay:${animIdx*0.06}s">
+  <div class="gen-card-header">
+    <div class="gen-card-header-left">
+      <span class="gen-card-num">${TYPE_ICONS[v.type]||"▶"} ${v.type.toUpperCase()}</span>
+      <div class="gen-card-title">${v.title}</div>
+      <span class="gen-card-type-badge">${v.type.replace(/-/g," ")}</span>
+    </div>
+    <div class="gen-card-progress">
+      <div class="gen-card-pct">${pct}%</div>
+      <div class="gen-card-pct-label">${isDone?"✓ Fatto":"completato"}</div>
+      <div class="gen-progress-bar"><div class="gen-progress-fill" style="width:${pct}%"></div></div>
+    </div>
+  </div>
+  <div class="gen-card-tabs">
+    ${tabs.map(t=>`<button class="gen-card-tab${at===t?" active":""}" onclick="switchCardTab('${v.id}','${t}')">${tabLabels[t]}</button>`).join("")}
+  </div>
+  <div class="gen-card-panel${at==="idea"?" active":""}" id="panel-idea-${v.id}">
+    <div class="gen-hook-block">
+      <span class="gen-hook-label">Hook · Prima frase</span>
+      <div class="gen-hook-text">${v.hook}</div>
+      <button class="gen-copy-btn" onclick="copyText(this,'${escStr(v.hook)}')">Copia</button>
+    </div>
+    <div style="font-size:12px;color:var(--plum);line-height:1.7;margin-bottom:14px">${v.idea}</div>
+    <div class="gen-info-row"><span class="gen-info-key">Tipo video</span><span class="gen-info-val">${v.type.replace(/-/g," ")}</span></div>
+    <div class="gen-info-row"><span class="gen-info-key">Team</span><span class="gen-info-val">${v.team==="solo"?"Solo":"Io + collaboratore"}</span></div>
+    <div class="gen-info-row"><span class="gen-info-key">Tempo stimato</span><span class="gen-info-val">${v.time==="30"?"~30 min":v.time==="60"?"~1 ora":"~2 ore+"}</span></div>
+  </div>
+  <div class="gen-card-panel${at==="script"?" active":""}" id="panel-script-${v.id}">
+    ${(v.script||[]).map((s,si)=>`<div class="gen-script-block${si===0?" highlight":""}">
+      <span class="gen-scene-num">${s.scene} · ${s.timing}</span>
+      <div class="gen-scene-text">${s.text}</div>
+      ${s.overlay?`<div class="gen-overlay-pill">OVERLAY: ${s.overlay}</div>`:""}
+    </div>`).join("")}
+  </div>
+  <div class="gen-card-panel${at==="social"?" active":""}" id="panel-social-${v.id}">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+      <span class="gen-hook-label" style="margin-bottom:0">Caption pronta</span>
+      <button class="gen-copy-btn" style="position:static" onclick="copyText(this,'${escStr(v.caption)}')">Copia caption</button>
+    </div>
+    <div class="gen-caption-area">${(v.caption||"").replace(/\n/g,"<br>")}</div>
+    <span class="gen-hook-label">Hashtag suggeriti</span>
+    <div class="gen-hashtags">${(v.hashtags||[]).map(h=>`<span class="gen-hashtag" onclick="copyText(this,'${h}')" title="Clicca per copiare">${h}</span>`).join("")}</div>
+    <span class="gen-hook-label">CTA finale</span>
+    <div class="gen-cta-box">${v.cta||""}</div>
+  </div>
+  <div class="gen-card-panel${at==="checklist"?" active":""}" id="panel-checklist-${v.id}">
+    <div class="gen-checklist">
+      ${CHECKLIST_ITEMS.map(item=>`<div class="gen-check-item${v.checks[item.id]?" checked":""}" onclick="toggleCheck('${v.id}','${item.id}')">
+        <div class="gen-checkbox"></div>
+        <span class="gen-check-label">${item.label}</span>
+        <span class="gen-check-phase">${item.phase}</span>
+      </div>`).join("")}
+    </div>
+    <div class="gen-checklist-done${pct===100?" visible":""}">✓ &nbsp;Video completato — ottimo lavoro!</div>
+  </div>
+</div>`;
+}
+
+function renderCards(){
+  const grid=document.getElementById("gen-cards-grid");
+  let toShow=generatedVideos;
+  if(activeFilter==="done")toShow=toShow.filter(v=>videoProgress(v)===100);
+  else if(activeFilter==="todo")toShow=toShow.filter(v=>videoProgress(v)<100);
+  else if(activeFilter!=="all")toShow=toShow.filter(v=>v.type===activeFilter);
+  grid.innerHTML=toShow.map((v,i)=>buildCard(v,i)).join("");
+}
+
+function switchCardTab(id,tab){
+  const v=generatedVideos.find(x=>x.id===id);
+  if(!v)return;
+  v.activeTab=tab;
+  saveState();
+  const card=document.getElementById(`card-${id}`);
+  if(!card)return;
+  const visIdx=Array.from(document.querySelectorAll(".gen-card")).indexOf(card);
+  const dummy=document.createElement("div");
+  dummy.innerHTML=buildCard(v,visIdx>=0?visIdx:0);
+  card.replaceWith(dummy.firstElementChild);
+}
+
+function toggleCheck(videoId,checkId){
+  const v=generatedVideos.find(x=>x.id===videoId);
+  if(!v)return;
+  v.checks[checkId]=!v.checks[checkId];
+  saveState();
+  updateStats();
+  const card=document.getElementById(`card-${videoId}`);
+  if(!card)return;
+  const visIdx=Array.from(document.querySelectorAll(".gen-card")).indexOf(card);
+  const dummy=document.createElement("div");
+  dummy.innerHTML=buildCard(v,visIdx>=0?visIdx:0);
+  card.replaceWith(dummy.firstElementChild);
+}
+
+function updateStats(){
+  const total=generatedVideos.length;
+  const done=generatedVideos.filter(v=>videoProgress(v)===100).length;
+  const totalChecks=generatedVideos.reduce((sum,v)=>sum+Object.values(v.checks).filter(Boolean).length,0);
+  const maxChecks=total*CHECKLIST_ITEMS.length;
+  const pct=maxChecks>0?Math.round((totalChecks/maxChecks)*100):0;
+  const el=id=>document.getElementById(id);
+  if(el("stat-total"))el("stat-total").textContent=total;
+  if(el("stat-done"))el("stat-done").textContent=done;
+  if(el("stat-checks"))el("stat-checks").textContent=totalChecks;
+  if(el("stat-pct"))el("stat-pct").textContent=pct+"%";
+}
+
+function copyText(btn,text){
+  const decoded=text.replace(/\\n/g,"\n").replace(/\\'/g,"'").replace(/&quot;/g,'"');
+  navigator.clipboard.writeText(decoded).then(()=>{
+    const orig=btn.textContent;
+    btn.textContent="✓ Copiato";
+    btn.classList.add("copied");
+    setTimeout(()=>{btn.textContent=orig;btn.classList.remove("copied");},1800);
+  }).catch(()=>{
+    const ta=document.createElement("textarea");
+    ta.value=decoded;
+    ta.style.cssText="position:fixed;opacity:0;left:-9999px";
+    document.body.appendChild(ta);
+    ta.select();
+    try{document.execCommand("copy");}catch(e){}
+    document.body.removeChild(ta);
+    btn.textContent="✓ Copiato";
+    btn.classList.add("copied");
+    setTimeout(()=>{btn.textContent="Copia";btn.classList.remove("copied");},1800);
+  });
+}
+
+document.getElementById("gen-filterbar")?.addEventListener("click",e=>{
+  const btn=e.target.closest(".gen-filter-btn");
+  if(!btn)return;
+  activeFilter=btn.dataset.filter;
+  document.querySelectorAll("#gen-filterbar .gen-filter-btn").forEach(b=>b.classList.remove("active"));
+  btn.classList.add("active");
+  renderCards();
+});
+
+// ══════════════════════════════════════════════════════════
+// PRODUCTION QUEUE — pesca dal calendario editoriale (calData)
+// ══════════════════════════════════════════════════════════
+
+// Mappa giorni → date reali (parte lunedì 1 settembre 2025 come esempio settimana 1)
+const QUEUE_START = new Date(2026, 5, 15); // 15 giugno 2026 (lunedì)
+const DAY_INDEX = { "LUN":0,"MAR":1,"MER":2,"GIO":3,"VEN":4,"SAB":5,"DOM":6 };
+const MONTHS_IT = ["GEN","FEB","MAR","APR","MAG","GIU","LUG","AGO","SET","OTT","NOV","DIC"];
+
+// Determina chi è owner di un contenuto in base a canale + titolo
+function ownerOf(item){
+  const txt = (item.title+" "+item.fmt+" "+item.ch+" "+item.goal).toLowerCase();
+  // INSIEME → produzioni complesse a due voci: case study video, prima/dopo, behind, recap
+  if(/dinamico|behind|giorno in bottega|prima\/dopo|case study|processo completo|recap|manifesto|reel 90s|\[caso\]/.test(txt)) return "insieme";
+  // TOMMASO → marketing/sales: LinkedIn, pricing, preventivi, strategia, recensioni, brand
+  if(/linkedin|preventiv|pricing|template o strategia|recensione|brand|roi|funnel|abbiamo rifiutato|positioning|thought|trasparenza/.test(txt)) return "tommaso";
+  // LORENZO → creazione/tecnica: diagnosi, tutorial, dettaglio, velocità, rifacciamo, bottone
+  if(/diagnosi|rifacciamo|dettaglio|velocit|bottone|quanto vale|tutorial|reel|stories|favicon|http|google business|seo/.test(txt)) return "lorenzo";
+  return "lorenzo";
+}
+
+// Determina priorità in base a obiettivo + giorno + canale
+function priorityOf(item, weekIdx){
+  const goal=(item.goal||"").toLowerCase();
+  const txt=(item.title+" "+item.cta).toLowerCase();
+  // ALTA: BOFU, conversione, lancio, case study, lead, urgenza, pricing
+  if(/bofu|conversione|lead|prova sociale|pricing|urgenza|lancio|q4|proof/.test(goal)||/preventiv|prenota|call gratuita|inizia il progetto/.test(txt)) return "high";
+  // ALTA anche per i primi contenuti di lancio (settimana 1-2)
+  if(weekIdx<2 && /awareness|positioning|brand/.test(goal)) return "high";
+  // MEDIA: educazione, MOFU, case study, viralità di settore
+  if(/mofu|educazione|case study|viralit|authority|thought/.test(goal)) return "med";
+  // BASSA: micro-tip, dettagli, stories di riposo
+  if(/micro|dettaglio|security|seo micro|riposo|credibilit/.test(goal)) return "low";
+  // Default media
+  return "med";
+}
+
+const PRIO_CFG={
+  high:{label:"Alta",color:"var(--rosewood)",rank:0},
+  med:{label:"Media",color:"var(--clay)",rank:1},
+  low:{label:"Bassa",color:"var(--plum)",rank:2},
+};
+
+// Costruisce la lista completa dei task dal calendario
+function buildQueueData(){
+  const tasks=[];
+  calData.forEach((month,mi)=>{
+    month.weeks.forEach((week,wiLocal)=>{
+      const globalWeek = mi*4 + wiLocal; // 0..11
+      week.days.forEach(day=>{
+        const offset = globalWeek*7 + (DAY_INDEX[day.day]??0);
+        const date = new Date(QUEUE_START);
+        date.setDate(date.getDate()+offset);
+        const owner = ownerOf(day);
+        const prio = priorityOf(day, globalWeek);
+        tasks.push({
+          id:`q_${globalWeek}_${day.day}_${day.ch}`.replace(/[^a-z0-9_]/gi,""),
+          date, globalWeek,
+          weekLabel:week.week,
+          weekTheme:week.theme,
+          day:day.day,
+          channel:day.ch,
+          format:day.fmt,
+          title:day.title,
+          goal:day.goal,
+          cta:day.cta,
+          owner, prio,
+        });
+      });
+    });
+  });
+  return tasks;
+}
+
+let QUEUE_DATA = buildQueueData();
+let queueDone = {};   // id → true/false
+let queueMeta = {};   // id → { by: "lorenzo"|"tommaso"|"insieme" }
+
+function loadQueueState(){
+  try{
+    const raw=localStorage.getItem(LS_QUEUE_KEY);
+    if(raw){
+      const parsed=JSON.parse(raw)||{};
+      queueDone=parsed.done||parsed||{};
+      queueMeta=parsed.meta||{};
+    }
+  }catch(e){queueDone={};queueMeta={};}
+}
+function saveQueueState(){
+  try{localStorage.setItem(LS_QUEUE_KEY,JSON.stringify({done:queueDone,meta:queueMeta}));}catch(e){}
+}
+
+function toggleQueueTask(id){
+  const owner=document.getElementById("sel-team").value;
+  queueDone[id]=!queueDone[id];
+  queueMeta[id]={by:owner,at:Date.now()};
+  saveQueueState();
+  renderQueue();
+  // Push to Supabase if connected (fire-and-forget)
+  syncPushTask(id, queueDone[id], owner);
+}
+
+function renderQueue(){
+  const list=document.getElementById("gen-queue-list");
+  const owner=document.getElementById("sel-team").value;
+  const role=ROLES[owner]||ROLES.lorenzo;
+
+  // Update title
+  document.getElementById("queue-owner-title").innerHTML=
+    `Coda di <span style="color:${role.color}">${role.name}</span>`;
+
+  // Filter: only tasks owned by selected role
+  let mine=QUEUE_DATA.filter(t=>t.owner===owner);
+
+  // Apply sub-filter
+  if(queueFilter==="high") mine=mine.filter(t=>t.prio==="high");
+  else if(queueFilter==="todo") mine=mine.filter(t=>!queueDone[t.id]);
+  else if(queueFilter==="done") mine=mine.filter(t=>queueDone[t.id]);
+
+  // Sort: by date ascending, then by priority within same date
+  mine.sort((a,b)=>{
+    if(a.date.getTime()!==b.date.getTime()) return a.date-b.date;
+    return PRIO_CFG[a.prio].rank-PRIO_CFG[b.prio].rank;
+  });
+
+  if(!mine.length){
+    list.innerHTML=`<div class="gen-queue-empty">
+      <div class="gen-queue-empty-icon">📭</div>
+      <div class="gen-queue-empty-title">Nessun task</div>
+      <div class="gen-queue-empty-sub">Non ci sono contenuti per ${role.name} con questo filtro. Prova "Tutti i miei task" o cambia chi produce.</div>
+    </div>`;
+    return;
+  }
+
+  // Group by week for dividers
+  let html="";
+  let lastWeek=null;
+  mine.forEach(t=>{
+    if(t.weekLabel!==lastWeek){
+      const weekCount=mine.filter(x=>x.weekLabel===t.weekLabel).length;
+      html+=`<div class="gen-q-week-divider">
+        <span class="gen-q-week-label">${t.weekLabel}</span>
+        <span class="gen-q-week-line"></span>
+        <span class="gen-q-week-count">${weekCount} task · ${t.weekTheme}</span>
+      </div>`;
+      lastWeek=t.weekLabel;
+    }
+    html+=buildQueueItem(t,role);
+  });
+  list.innerHTML=html;
+}
+
+function buildQueueItem(t,role){
+  const done=!!queueDone[t.id];
+  const prio=PRIO_CFG[t.prio];
+  const ownerCfg=ROLES[t.owner];
+  const d=t.date;
+  const dayNames=["DOM","LUN","MAR","MER","GIO","VEN","SAB"];
+  return `<div class="gen-queue-item${done?" done":""}" id="qitem-${t.id}">
+    <div class="gen-q-spine" style="background:${prio.color}"></div>
+    <div class="gen-q-date">
+      <span class="gen-q-date-day">${dayNames[d.getDay()]}</span>
+      <span class="gen-q-date-num">${d.getDate()}</span>
+      <span class="gen-q-date-mon">${MONTHS_IT[d.getMonth()]}</span>
+    </div>
+    <div class="gen-q-body">
+      <div class="gen-q-toprow">
+        <span class="gen-q-prio-tag" style="background:${prio.color}">${prio.label}</span>
+        <span class="tag" style="color:${chColor(t.channel)};border-color:${chColor(t.channel)};margin:0">${t.channel}</span>
+        <span class="mono-xs" style="color:var(--plum)">${t.format}</span>
+      </div>
+      <div class="gen-q-title">${t.title}</div>
+      <div class="gen-q-meta">
+        <span class="gen-q-owner-pill" style="background:${hexA(ownerCfg.color,.12)};color:${ownerCfg.color}">
+          <span class="gen-q-owner-dot" style="background:${ownerCfg.color}"></span>${ownerCfg.name}
+        </span>
+        <span class="mono-xs" style="color:var(--plum)">→ ${t.cta}</span>
+      </div>
+    </div>
+    <div class="gen-q-action">
+      <div class="gen-q-check" onclick="toggleQueueTask('${t.id}')"></div>
+      <span class="gen-q-check-label">${done?"Fatto":"Segna"}</span>
+      ${done&&queueMeta[t.id]&&queueMeta[t.id].by?`<span class="gen-q-syncby">da ${ROLES[queueMeta[t.id].by]?ROLES[queueMeta[t.id].by].name:queueMeta[t.id].by}</span>`:""}
+    </div>
+  </div>`;
+}
+
+// helper: hex with alpha from css var fallback
+function hexA(varRef,a){
+  // map known vars to hex
+  const map={"var(--rosewood)":"#E63B2E","var(--clay)":"#C44A38","var(--burgundy)":"#7A1818","var(--plum)":"#4A3838"};
+  const hex=map[varRef]||"#E63B2E";
+  const r=parseInt(hex.slice(1,3),16),g=parseInt(hex.slice(3,5),16),b=parseInt(hex.slice(5,7),16);
+  return `rgba(${r},${g},${b},${a})`;
+}
+
+// ── MODE SWITCHER ────────────────────────────────────────
+function switchMode(mode){
+  genMode=mode;
+  document.querySelectorAll(".gen-mode-btn").forEach(b=>b.classList.toggle("active",b.dataset.mode===mode));
+  document.getElementById("gen-mode-queue").style.display = mode==="queue"?"block":"none";
+  document.getElementById("gen-mode-scripts").style.display = mode==="scripts"?"block":"none";
+  if(mode==="queue") renderQueue();
+}
+
+// ── ROLE HINT ────────────────────────────────────────────
+function updateRoleHint(){
+  const owner=document.getElementById("sel-team").value;
+  const role=ROLES[owner]||ROLES.lorenzo;
+  document.getElementById("gen-role-hint").innerHTML=
+    `<div class="role-avatar" style="background:${role.color}">${role.initials}</div>
+     <div>${role.hint}</div>`;
+}
+
+// ══════════════════════════════════════════════════════════
+// SUPABASE SYNC ENGINE
+// ══════════════════════════════════════════════════════════
+const SYNC_CFG_KEY="db_sync_cfg_v1";
+let sb=null;            // supabase client
+let syncEnabled=false;
+let syncPollTimer=null;
+
+function setSyncStatus(state,msg){
+  const dot=document.getElementById("gen-sync-dot");
+  const label=document.getElementById("gen-sync-label");
+  if(!dot||!label)return;
+  dot.className="gen-sync-dot"+(state==="online"?" online":state==="error"?" error":"");
+  label.innerHTML=msg;
+}
+
+function toggleSyncPanel(){
+  const p=document.getElementById("gen-sync-panel");
+  if(!p)return;
+  p.style.display=p.style.display==="none"?"block":"none";
+}
+
+function loadSyncCfg(){
+  try{
+    const raw=localStorage.getItem(SYNC_CFG_KEY);
+    if(!raw)return null;
+    return JSON.parse(raw);
+  }catch(e){return null;}
+}
+function saveSyncCfg(url,key){
+  try{localStorage.setItem(SYNC_CFG_KEY,JSON.stringify({url,key}));}catch(e){}
+}
+
+function initSupabase(url,key,silent){
+  if(!window.supabase||!window.supabase.createClient){
+    setSyncStatus("error","SDK Supabase non caricato · controlla la connessione");
+    return false;
+  }
+  try{
+    sb=window.supabase.createClient(url,key);
+    syncEnabled=true;
+    setSyncStatus("online","<b>Sync attiva</b> · progressi condivisi con il team");
+    // Initial pull + start polling
+    syncPullAll().then(()=>{
+      renderQueue();
+    });
+    startSyncPolling();
+    if(!silent){
+      const fb=document.getElementById("gen-sync-feedback");
+      if(fb){fb.className="gen-sync-feedback ok";fb.textContent="✓ Connesso. Progressi sincronizzati con Supabase.";}
+    }
+    return true;
+  }catch(e){
+    setSyncStatus("error","Errore di connessione a Supabase");
+    const fb=document.getElementById("gen-sync-feedback");
+    if(fb){fb.className="gen-sync-feedback err";fb.textContent="✗ "+e.message;}
+    return false;
+  }
+}
+
+function connectSupabase(){
+  const url=document.getElementById("sync-url").value.trim().replace(/\/+$/,"");
+  const key=document.getElementById("sync-key").value.trim();
+  const fb=document.getElementById("gen-sync-feedback");
+  if(!url||!key){
+    if(fb){fb.className="gen-sync-feedback err";fb.textContent="Inserisci sia Project URL che la key.";}
+    return;
+  }
+  if(!/^https:\/\/.+\.supabase\.(co|in)/.test(url)){
+    if(fb){fb.className="gen-sync-feedback err";fb.textContent="L'URL non sembra valido. Esempio: https://xxxxx.supabase.co";}
+    return;
+  }
+  if(fb){fb.className="gen-sync-feedback";fb.textContent="Connessione in corso...";}
+  saveSyncCfg(url,key);
+  initSupabase(url,key,false);
+}
+
+function disconnectSupabase(){
+  localStorage.removeItem(SYNC_CFG_KEY);
+  sb=null;syncEnabled=false;
+  if(syncPollTimer){clearInterval(syncPollTimer);syncPollTimer=null;}
+  setSyncStatus("offline","Sync non configurata · salvataggio solo locale");
+  const fb=document.getElementById("gen-sync-feedback");
+  if(fb){fb.className="gen-sync-feedback";fb.textContent="Disconnesso. Ora salvi solo in locale.";}
+  document.getElementById("sync-url").value="";
+  document.getElementById("sync-key").value="";
+}
+
+// Push a single task toggle to Supabase
+async function syncPushTask(id,done,by){
+  if(!syncEnabled||!sb)return;
+  try{
+    const {error}=await sb.from("db_queue_state").upsert({
+      task_id:id, done:done, updated_by:by, updated_at:new Date().toISOString()
+    },{onConflict:"task_id"});
+    if(error){console.warn("sync push error",error.message);setSyncStatus("error","Errore di scrittura · riprovo al prossimo refresh");}
+    else setSyncStatus("online","<b>Sync attiva</b> · ultimo salvataggio ora");
+  }catch(e){console.warn(e);}
+}
+
+// Pull all task states from Supabase and merge into local
+async function syncPullAll(){
+  if(!syncEnabled||!sb)return;
+  try{
+    const {data,error}=await sb.from("db_queue_state").select("task_id,done,updated_by");
+    if(error){console.warn("sync pull error",error.message);return;}
+    if(Array.isArray(data)){
+      data.forEach(row=>{
+        queueDone[row.task_id]=row.done;
+        if(row.updated_by) queueMeta[row.task_id]={by:row.updated_by};
+      });
+      saveQueueState();
+    }
+  }catch(e){console.warn(e);}
+}
+
+function startSyncPolling(){
+  if(syncPollTimer)clearInterval(syncPollTimer);
+  // Poll every 12s so Lorenzo & Tommaso see each other's updates
+  syncPollTimer=setInterval(async()=>{
+    if(!syncEnabled)return;
+    await syncPullAll();
+    if(genMode==="queue")renderQueue();
+  },12000);
+}
+
+// ── QUEUE FILTER LISTENER ────────────────────────────────
+document.getElementById("gen-queue-filters")?.addEventListener("click",e=>{
+  const btn=e.target.closest(".gen-filter-btn");
+  if(!btn)return;
+  queueFilter=btn.dataset.qfilter;
+  document.querySelectorAll("#gen-queue-filters .gen-filter-btn").forEach(b=>b.classList.remove("active"));
+  btn.classList.add("active");
+  renderQueue();
+});
+
+// ── ROLE CHANGE LISTENER ─────────────────────────────────
+document.getElementById("sel-team")?.addEventListener("change",()=>{
+  updateRoleHint();
+  renderQueue();
+  saveState();
+});
+
+// ── INIT GENERATOR ───────────────────────────────────────
+loadState();
+loadQueueState();
+updateRoleHint();
+renderQueue();
+
+// Auto-reconnect Supabase if previously configured
+(function(){
+  const cfg=loadSyncCfg();
+  if(cfg&&cfg.url&&cfg.key){
+    const u=document.getElementById("sync-url");
+    const k=document.getElementById("sync-key");
+    if(u)u.value=cfg.url;
+    if(k)k.value=cfg.key;
+    // small delay to ensure SDK loaded
+    setTimeout(()=>initSupabase(cfg.url,cfg.key,true),300);
+  }
+})();
+</script>
+</body>
+</html>
