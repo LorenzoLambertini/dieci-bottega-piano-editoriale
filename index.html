@@ -1732,6 +1732,7 @@ body.locked footer{filter:blur(8px);pointer-events:none;user-select:none}
       <button class="gen-filter-btn" data-filter="dinamico">Dinamico</button>
       <button class="gen-filter-btn" data-filter="voiceover">Voiceover</button>
       <button class="gen-filter-btn" data-filter="tutorial">Tutorial</button>
+      <button class="gen-addscript-btn" onclick="addVideo()">＋ &nbsp;Aggiungi script mio</button>
       <button class="gen-clear-btn" id="gen-clear-btn" onclick="clearAll()">✕ &nbsp;Reset</button>
     </div>
 
@@ -1739,7 +1740,8 @@ body.locked footer{filter:blur(8px);pointer-events:none;user-select:none}
     <div class="gen-empty" id="gen-empty">
       <div class="gen-empty-icon">✦</div>
       <div class="gen-empty-title">Pronto a generare</div>
-      <div class="gen-empty-sub">Scegli chi produce e quanto tempo hai, poi clicca "Genera script" per ricevere idee complete pronte per la produzione.</div>
+      <div class="gen-empty-sub">Scegli chi produce e quanto tempo hai, poi clicca "Genera script" per ricevere idee complete pronte per la produzione. Oppure scrivi tu uno script da zero.</div>
+      <button class="edit-add-btn" style="margin-top:18px" onclick="addVideo()">＋ Scrivi uno script da zero</button>
     </div>
 
     <!-- CARDS GRID -->
@@ -2844,7 +2846,7 @@ function generateContent(){
     generatedVideos=pool.map((v,i)=>({
       ...v,
       id:`vid_${Date.now()}_${i}`,
-      checks:Object.fromEntries(CHECKLIST_ITEMS.map(c=>[c.id,false])),
+      checklist:CHECKLIST_ITEMS.map(c=>({label:c.label,phase:c.phase,done:false})),
       activeTab:"idea",
       team,time,
     }));
@@ -2881,9 +2883,22 @@ function showChrome(){
   document.getElementById("gen-cards-grid").style.display="grid";
 }
 
+// Assicura che ogni video abbia la sua checklist/array (migra i vecchi salvataggi)
+function normalizeVideo(v){
+  if(!Array.isArray(v.checklist)){
+    v.checklist=CHECKLIST_ITEMS.map(c=>({label:c.label,phase:c.phase,done:v.checks?!!v.checks[c.id]:false}));
+  }
+  if(!Array.isArray(v.script))v.script=[];
+  if(!Array.isArray(v.hashtags))v.hashtags=[];
+  delete v.checks;
+  return v;
+}
+
 function videoProgress(v){
-  const done=Object.values(v.checks).filter(Boolean).length;
-  return Math.round((done/CHECKLIST_ITEMS.length)*100);
+  const list=v.checklist||[];
+  if(!list.length)return 0;
+  const done=list.filter(c=>c.done).length;
+  return Math.round((done/list.length)*100);
 }
 
 function escStr(str){
@@ -2891,13 +2906,15 @@ function escStr(str){
 }
 
 function buildCard(v,animIdx){
+  normalizeVideo(v);
   const pct=videoProgress(v);
   const isDone=pct===100;
   const tabs=["idea","script","social","checklist"];
-  const tabLabels={idea:"Idea",script:"Script",social:"Social",checklist:`Checklist (${Object.values(v.checks).filter(Boolean).length}/${CHECKLIST_ITEMS.length})`};
+  const doneCount=v.checklist.filter(c=>c.done).length;
+  const tabLabels={idea:"Idea",script:"Script",social:"Social",checklist:`Checklist (${doneCount}/${v.checklist.length})`};
   const at=v.activeTab||"idea";
 
-  return `<div class="gen-card${isDone?" card-completed":""}" id="card-${v.id}" style="animation-delay:${animIdx*0.06}s">
+  return `<div class="gen-card ec-host${isDone?" card-completed":""}" id="card-${v.id}" style="animation-delay:${animIdx*0.06}s">
   <div class="gen-card-header">
     <div class="gen-card-header-left">
       <span class="gen-card-num">${TYPE_ICONS[v.type]||"▶"} ${v.type.toUpperCase()}</span>
@@ -2912,6 +2929,7 @@ function buildCard(v,animIdx){
   </div>
   <div class="gen-card-tabs">
     ${tabs.map(t=>`<button class="gen-card-tab${at===t?" active":""}" onclick="switchCardTab('${v.id}','${t}')">${tabLabels[t]}</button>`).join("")}
+    <button class="ec-dots gen-card-dots" title="Opzioni script" onclick="openVideoMenu('${v.id}',event)">⋯</button>
   </div>
   <div class="gen-card-panel${at==="idea"?" active":""}" id="panel-idea-${v.id}">
     <div class="gen-hook-block">
@@ -2944,10 +2962,10 @@ function buildCard(v,animIdx){
   </div>
   <div class="gen-card-panel${at==="checklist"?" active":""}" id="panel-checklist-${v.id}">
     <div class="gen-checklist">
-      ${CHECKLIST_ITEMS.map(item=>`<div class="gen-check-item${v.checks[item.id]?" checked":""}" onclick="toggleCheck('${v.id}','${item.id}')">
+      ${v.checklist.map((item,ci)=>`<div class="gen-check-item${item.done?" checked":""}" onclick="toggleCheck('${v.id}',${ci})">
         <div class="gen-checkbox"></div>
         <span class="gen-check-label">${item.label}</span>
-        <span class="gen-check-phase">${item.phase}</span>
+        ${item.phase?`<span class="gen-check-phase">${item.phase}</span>`:""}
       </div>`).join("")}
     </div>
     <div class="gen-checklist-done${pct===100?" visible":""}">✓ &nbsp;Video completato — ottimo lavoro!</div>
@@ -2957,6 +2975,7 @@ function buildCard(v,animIdx){
 
 function renderCards(){
   const grid=document.getElementById("gen-cards-grid");
+  generatedVideos.forEach(normalizeVideo);
   let toShow=generatedVideos;
   if(activeFilter==="done")toShow=toShow.filter(v=>videoProgress(v)===100);
   else if(activeFilter==="todo")toShow=toShow.filter(v=>videoProgress(v)<100);
@@ -2977,10 +2996,10 @@ function switchCardTab(id,tab){
   card.replaceWith(dummy.firstElementChild);
 }
 
-function toggleCheck(videoId,checkId){
+function toggleCheck(videoId,idx){
   const v=generatedVideos.find(x=>x.id===videoId);
-  if(!v)return;
-  v.checks[checkId]=!v.checks[checkId];
+  if(!v||!v.checklist[idx])return;
+  v.checklist[idx].done=!v.checklist[idx].done;
   saveState();
   updateStats();
   const card=document.getElementById(`card-${videoId}`);
@@ -2994,8 +3013,8 @@ function toggleCheck(videoId,checkId){
 function updateStats(){
   const total=generatedVideos.length;
   const done=generatedVideos.filter(v=>videoProgress(v)===100).length;
-  const totalChecks=generatedVideos.reduce((sum,v)=>sum+Object.values(v.checks).filter(Boolean).length,0);
-  const maxChecks=total*CHECKLIST_ITEMS.length;
+  const totalChecks=generatedVideos.reduce((sum,v)=>sum+(v.checklist||[]).filter(c=>c.done).length,0);
+  const maxChecks=generatedVideos.reduce((sum,v)=>sum+(v.checklist||[]).length,0);
   const pct=maxChecks>0?Math.round((totalChecks/maxChecks)*100):0;
   const el=id=>document.getElementById(id);
   if(el("stat-total"))el("stat-total").textContent=total;
@@ -3450,6 +3469,26 @@ renderQueue();
     background:transparent;color:var(--rosewood);border:1px dashed var(--rosewood);
     padding:10px 20px;border-radius:6px;transition:background .15s,color .15s}
   .edit-add-btn:hover{background:var(--rosewood);color:#fff}
+  /* tre puntini sulle card script + pulsante aggiungi script */
+  .gen-card-dots{position:static!important;margin-left:auto;align-self:center;flex:0 0 auto;
+    color:var(--ivory);background:rgba(255,255,255,.13);border-color:rgba(255,255,255,.22);opacity:.75}
+  .gen-addscript-btn{font-family:var(--font-mono);font-size:12px;letter-spacing:.03em;cursor:pointer;
+    background:var(--rosewood);color:#fff;border:none;padding:9px 16px;border-radius:6px;margin-left:auto}
+  .gen-addscript-btn:hover{filter:brightness(1.08)}
+  /* editor scene */
+  .ed-scenes{display:flex;flex-direction:column;gap:10px;margin-bottom:8px}
+  .ed-scene{position:relative;border:1px solid var(--ash);border-radius:8px;padding:12px 12px 12px;background:#faf7f1}
+  .ed-scene-del{position:absolute;top:6px;right:6px;width:22px;height:22px;border:none;border-radius:5px;
+    cursor:pointer;background:rgba(192,39,28,.12);color:#c0271c;font-size:15px;line-height:1}
+  .ed-scene-del:hover{background:#c0271c;color:#fff}
+  .ed-scene-grid{display:grid;grid-template-columns:1.4fr 1fr;gap:8px;margin-bottom:8px;padding-right:26px}
+  .ed-scene input,.ed-scene textarea{width:100%;box-sizing:border-box;font-family:inherit;font-size:13px;
+    color:var(--obsidian);background:#fff;border:1px solid var(--ash);border-radius:6px;padding:8px 10px;line-height:1.45}
+  .ed-scene textarea{resize:vertical;margin-bottom:8px}
+  .ed-scene input:focus,.ed-scene textarea:focus{outline:none;border-color:var(--rosewood)}
+  .ed-addscene{font-family:var(--font-mono);font-size:12px;cursor:pointer;background:transparent;
+    color:var(--rosewood);border:1px dashed var(--rosewood);padding:9px 16px;border-radius:6px}
+  .ed-addscene:hover{background:var(--rosewood);color:#fff}
   /* modale */
   #ed-overlay{position:fixed;inset:0;z-index:4000;display:none;align-items:flex-start;justify-content:center;
     background:rgba(10,8,8,.72);backdrop-filter:blur(4px);padding:40px 16px;overflow-y:auto}
@@ -3662,6 +3701,9 @@ function openEditor(title,fields,data,onSave){
     if(f.t==="textarea") return fieldWrap(f,`<textarea rows="3" data-k="${f.k}">${esc(v||"")}</textarea>`);
     if(f.t==="big") return fieldWrap(f,`<textarea rows="11" data-k="${f.k}">${esc(v||"")}</textarea>`);
     if(f.t==="lines") return fieldWrap(f,`<textarea rows="5" data-k="${f.k}" data-lines="1">${esc((v||[]).join("\n"))}</textarea>`,"Una voce per riga.");
+    if(f.t==="scenes") return `<div class="ed-field"><label>${f.l}</label>
+      <div class="ed-scenes" data-scenes="${f.k}">${(v||[]).map(edSceneRow).join("")}</div>
+      <button type="button" class="ed-addscene" onclick="edAddScene(this)">＋ Aggiungi scena</button></div>`;
     if(f.t==="color"){
       let opts=PALETTE.slice();
       if(v&&!opts.some(o=>o[1]===v))opts.unshift([v,v]);
@@ -3678,6 +3720,14 @@ function openEditor(title,fields,data,onSave){
       if(el.dataset.lines) vals[k]=el.value.split("\n").map(s=>s.trim()).filter(Boolean);
       else vals[k]=el.value;
     });
+    body.querySelectorAll("[data-scenes]").forEach(cont=>{
+      vals[cont.dataset.scenes]=[...cont.querySelectorAll(".ed-scene")].map(r=>({
+        scene:r.querySelector(".es-scene").value.trim(),
+        timing:r.querySelector(".es-timing").value.trim(),
+        text:r.querySelector(".es-text").value.trim(),
+        overlay:(r.querySelector(".es-overlay").value.trim())||null
+      })).filter(s=>s.text||s.scene);
+    });
     onSave(vals);closeEditor();
   };
   document.getElementById("ed-save").onclick=_edSave;
@@ -3688,6 +3738,140 @@ function fieldWrap(f,inner,hint){
 }
 function closeEditor(){ document.getElementById("ed-overlay").classList.remove("show");_edSave=null; }
 function esc(s){ return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
+
+// riga editor scena (Script)
+function edSceneRow(sc){
+  sc=sc||{};
+  return `<div class="ed-scene">
+    <button type="button" class="ed-scene-del" title="Rimuovi scena" onclick="this.closest('.ed-scene').remove()">×</button>
+    <div class="ed-scene-grid">
+      <input class="es-scene" placeholder="Scena · es. 01 · APERTURA" value="${esc(sc.scene||"")}"/>
+      <input class="es-timing" placeholder="Timing · es. 0–4s" value="${esc(sc.timing||"")}"/>
+    </div>
+    <textarea class="es-text" rows="2" placeholder="Testo / cosa si dice o si mostra">${esc(sc.text||"")}</textarea>
+    <input class="es-overlay" placeholder="Overlay a schermo (opzionale)" value="${esc(sc.overlay||"")}"/>
+  </div>`;
+}
+function edAddScene(btn){
+  const cont=btn.previousElementSibling;
+  cont.insertAdjacentHTML("beforeend",edSceneRow({}));
+  cont.lastElementChild.querySelector(".es-scene").focus();
+}
+
+// ══════════════════════════════════════════════════════════
+// SCRIPT GENERATI — modifica / aggiungi / duplica / elimina / fissa in calendario
+// ══════════════════════════════════════════════════════════
+const VIDEO_TYPES=["talking-head","dinamico","voiceover","tutorial"];
+
+function openVideoMenu(id,ev){ ev.stopPropagation();
+  ecShowMenu(ev.currentTarget,[
+    {label:"✎  Modifica",fn:()=>editVideo(id)},
+    {label:"📌  Fissa in calendario",fn:()=>pinVideoToCalendar(id)},
+    {label:"⧉  Duplica",fn:()=>dupVideo(id)},
+    {label:"🗑  Elimina",fn:()=>delVideo(id),danger:true},
+  ]);
+}
+
+function editVideo(id){
+  const v=generatedVideos.find(x=>x.id===id); if(!v)return;
+  normalizeVideo(v);
+  const fields=[
+    {k:"title",l:"Titolo",t:"text"},
+    {k:"type",l:"Tipo video",t:"select",options:VIDEO_TYPES},
+    {k:"hook",l:"Idea · Hook (prima frase)",t:"textarea"},
+    {k:"idea",l:"Idea · Descrizione",t:"textarea"},
+    {k:"script",l:"Script · Scene",t:"scenes"},
+    {k:"caption",l:"Social · Caption",t:"big"},
+    {k:"hashtags",l:"Social · Hashtag (uno per riga)",t:"lines"},
+    {k:"cta",l:"Social · CTA finale",t:"text"},
+    {k:"__checks",l:"Checklist (una voce per riga)",t:"lines"},
+  ];
+  const view=Object.assign({},v,{__checks:v.checklist.map(c=>c.label)});
+  openEditor("Modifica script",fields,view,vals=>{
+    v.title=vals.title; v.type=vals.type; v.hook=vals.hook; v.idea=vals.idea;
+    v.script=vals.script; v.caption=vals.caption; v.hashtags=vals.hashtags; v.cta=vals.cta;
+    const old=v.checklist;
+    v.checklist=(vals.__checks||[]).map((label,i)=>({label,phase:old[i]?old[i].phase:"",done:old[i]?old[i].done:false}));
+    saveState(); renderCards(); updateStats();
+  });
+}
+
+function addVideo(){
+  switchMode("scripts");
+  const team=document.getElementById("sel-team")?.value||"lorenzo";
+  const time=document.getElementById("sel-time")?.value||"60";
+  const v={
+    id:`vid_${Date.now()}`, type:"talking-head", title:"Nuovo script",
+    hook:"", idea:"", script:[], caption:"", hashtags:[], cta:"",
+    activeTab:"idea", team, time,
+    checklist:CHECKLIST_ITEMS.map(c=>({label:c.label,phase:c.phase,done:false})),
+  };
+  generatedVideos.unshift(v);
+  saveState(); showChrome(); renderCards(); updateStats();
+  document.getElementById("gen-btn-text").textContent="✦  Rigenera";
+  editVideo(v.id);
+}
+
+function dupVideo(id){
+  const i=generatedVideos.findIndex(x=>x.id===id); if(i<0)return;
+  const copy=JSON.parse(JSON.stringify(generatedVideos[i]));
+  copy.id=`vid_${Date.now()}`; copy.title=(copy.title||"Script")+" (copia)";
+  generatedVideos.splice(i+1,0,copy);
+  saveState(); renderCards(); updateStats();
+}
+
+function delVideo(id){
+  if(!confirm("Eliminare questo script?"))return;
+  generatedVideos=generatedVideos.filter(x=>x.id!==id);
+  saveState(); renderCards(); updateStats();
+  if(!generatedVideos.length){
+    document.getElementById("gen-cards-grid").style.display="none";
+    document.getElementById("gen-statsbar").style.display="none";
+    document.getElementById("gen-filterbar").style.display="none";
+    document.getElementById("gen-empty").style.display="block";
+  }
+}
+
+// Deduce un canale di massima dal tipo/titolo
+function guessChannel(v){
+  const t=(v.title+" "+v.type+" "+(v.caption||"")).toLowerCase();
+  if(/linkedin/.test(t)) return "LinkedIn";
+  if(/carousel|carosello|slide/.test(t)) return "IG Carousel";
+  if(/stories|storie/.test(t)) return "IG Stories ×3";
+  return "TikTok + IG Reel";
+}
+
+// Fissa lo script come contenuto nel calendario editoriale
+function pinVideoToCalendar(id){
+  const v=generatedVideos.find(x=>x.id===id); if(!v)return;
+  // costruisci elenco destinazioni "mese / settimana"
+  const dests=[];
+  calData.forEach((m,mi)=>m.weeks.forEach((w,wi)=>dests.push(`${mi}:${wi} — ${m.month} / ${w.week}`)));
+  if(!dests.length){ alert("Aggiungi prima un mese e una settimana nel Calendario."); return; }
+  const fields=[
+    {k:"dest",l:"Dove fissarlo (mese / settimana)",t:"select",options:dests},
+    {k:"day",l:"Giorno",t:"select",options:["LUN","MAR","MER","GIO","VEN","SAB","DOM"]},
+    {k:"ch",l:"Canale",t:"text"},
+    {k:"fmt",l:"Format",t:"text"},
+    {k:"title",l:"Titolo / Hook",t:"textarea"},
+    {k:"goal",l:"Obiettivo",t:"text"},
+    {k:"cta",l:"CTA",t:"text"},
+  ];
+  const prefill={
+    dest:dests[0], day:"LUN", ch:guessChannel(v), fmt:v.type.replace(/-/g," "),
+    title:v.title||v.hook||"", goal:"Da script generato", cta:v.cta||"",
+  };
+  openEditor("📌 Fissa in calendario",fields,prefill,vals=>{
+    const [mi,wi]=vals.dest.split(" — ")[0].split(":").map(Number);
+    if(!calData[mi]||!calData[mi].weeks[wi])return;
+    calData[mi].weeks[wi].days.push({day:vals.day,ch:vals.ch,fmt:vals.fmt,title:vals.title,goal:vals.goal,cta:vals.cta});
+    afterCalChange();
+    // porta l'utente al calendario sul mese giusto
+    const tabBtn=document.querySelector('.tab-btn[data-tab="calendario"]');
+    if(tabBtn)tabBtn.click();
+    setTimeout(()=>{const mb=document.querySelectorAll(".month-btn")[mi];if(mb)mb.click();},60);
+  });
+}
 document.addEventListener("keydown",e=>{
   if(e.key==="Escape")closeEditor();
   if((e.metaKey||e.ctrlKey)&&e.key==="Enter"&&_edSave)_edSave();
