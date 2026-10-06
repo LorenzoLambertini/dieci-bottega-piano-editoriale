@@ -64,7 +64,7 @@
         "linkedin": {
           "testo": "Lavori bene. Ma online non si vede.\nIl tuo mestiere merita un sito che lo racconti come lo racconteresti tu, in bottega. Dieci giorni, non tre mesi. Al prezzo di un template, con la cura di un'agenzia.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
           "video": "media/reel/R01.mp4",
-          "stato": "da_programmare"
+          "stato": "scaduto"
         }
       }
     },
@@ -116,7 +116,8 @@
         "linkedin": {
           "testo": "Quale bottone ti fa venire voglia di prenotare? A o B, scrivilo nei commenti.\nLe nostre regole per i bottoni: contrasto forte, massimo tre parole, niente punti esclamativi. Parole che dicono cosa succede quando tocchi.\n#webdesign #microcopy #sitiweb #pmiitaliane #bologna",
           "video": "media/reel/R02.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3987432f9ebfdb1d1392b"
         }
       }
     },
@@ -286,7 +287,8 @@
         "linkedin": {
           "testo": "Un sito mobile ci mette più di 3 secondi a caricare. Quante visite si perdono?\nRisposta: il 53%, più di una su due (fonte: Google). E nel 2016 una homepage mobile in 3G ci metteva in media 19 secondi.\nTu quanto ci metti? Rispondi nei commenti, poi provalo dal telefono.\n#sitiweb #velocita #pmiitaliane #webdesign #bologna",
           "video": "media/reel/R04.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3987a53279f4f19c1475b"
         }
       }
     },
