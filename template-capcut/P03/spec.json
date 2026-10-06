@@ -1,0 +1,14 @@
+{
+  "nome": "P03_Founder",
+  "etichetta": "Bottega · Founder",
+  "bpm": 100,
+  "scene": [
+    {"durata": 3, "overlay": "kit/overlay01.png"},
+    {"durata": 4, "overlay": "kit/overlay02.png"},
+    {"durata": 4, "overlay": "kit/overlay03.png"},
+    {"durata": 4, "overlay": "kit/overlay04.png"},
+    {"durata": 4, "overlay": "kit/overlay05.png"}
+  ],
+  "finale": "kit/endcard.png",
+  "finale_durata": 3
+}
