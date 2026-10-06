@@ -516,6 +516,29 @@
       }
     },
     {
+      "id": "S01",
+      "titolo": "Sito del lunedì: il ristorante",
+      "formato": "Audit lampo",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
+      "quando": "2026-11-02 18:30",
+      "dueAt": "2026-11-02T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + registrazione schermo del sito fittizio «Osteria del Portico» (da creare, niente siti reali). Quando il video è pronto va in media/strategia/S01.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\nTre dettagli che mandano il cliente dal vicino: «Benvenuti» al posto di cosa fai e dove sei, il menu in PDF, la prenotazione solo per telefono.\nHai un locale? Commenta SITO e il prossimo lunedì guardo il tuo.\n#ristorantibologna #sitiweb #bologna #pmiitaliane #bottegadigitale",
+          "video": "media/strategia/S01.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\nTre dettagli che mandano il cliente dal vicino: «Benvenuti» al posto di cosa fai e dove sei, il menu in PDF, la prenotazione solo per telefono.\nHai un locale? Commenta SITO e il prossimo lunedì guardo il tuo.\n#ristorantibologna #sitiweb #bologna #pmiitaliane #bottegadigitale",
+          "video": "media/strategia/S01.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
       "id": "R09",
       "titolo": "La X dei cookie",
       "formato": "Quiz",
@@ -532,6 +555,29 @@
           "testo": "Sul banner dei cookie clicchi la X. Cosa succede? Accetti tutto, il sito si blocca o rifiuti?\nRispondi nei commenti, poi guarda il video: c'è anche una cosa che quasi nessuno sa sullo scorrere la pagina. Fonte: Garante Privacy, linee guida 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
           "video": "media/reel/R09.mp4",
           "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "S02",
+      "titolo": "Il numero che non si clicca",
+      "formato": "Test dal telefono",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
+      "quando": "2026-11-04 18:30",
+      "dueAt": "2026-11-04T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + 2 registrazioni schermo da iPhone (numero testo / numero cliccabile) su sito fittizio. Quando il video è pronto va in media/strategia/S02.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\nSe è solo testo, chi ti cerca deve copiarlo, uscire, incollarlo. Cinque passaggi invece di uno. Molti si fermano prima.\nProva sul tuo adesso e scrivimi com'è andata.\n#sitiweb #ux #mobile #pmiitaliane #bologna",
+          "video": "media/strategia/S02.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\nSe è solo testo, chi ti cerca deve copiarlo, uscire, incollarlo. Cinque passaggi invece di uno. Molti si fermano prima.\nProva sul tuo adesso e scrivimi com'è andata.\n#sitiweb #ux #mobile #pmiitaliane #bologna",
+          "video": "media/strategia/S02.mp4",
+          "stato": "manca_video"
         }
       }
     },
@@ -556,6 +602,52 @@
       }
     },
     {
+      "id": "S03",
+      "titolo": "Il passaparola non basta",
+      "formato": "Mito vs realtà",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Consapevolezza",
+      "quando": "2026-11-06 18:30",
+      "dueAt": "2026-11-06T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo o Tommaso in camera + mani su tastiera/telefono con ricerca Google di un nome fittizio. Quando il video è pronto va in media/strategia/S03.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "«Lavoro bene, mi basta il passaparola.»\nIl passaparola porta il tuo nome. Poi chi lo riceve ti cerca su Google. Se trova un sito vecchio, o niente, il consiglio si raffredda. Il sito non sostituisce il passaparola: lo conferma.\nVero o falso? Scrivilo nei commenti.\n#passaparola #pmiitaliane #sitiweb #artigiani #bologna",
+          "video": "media/strategia/S03.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "«Lavoro bene, mi basta il passaparola.»\nIl passaparola porta il tuo nome. Poi chi lo riceve ti cerca su Google. Se trova un sito vecchio, o niente, il consiglio si raffredda. Il sito non sostituisce il passaparola: lo conferma.\nVero o falso? Scrivilo nei commenti.\n#passaparola #pmiitaliane #sitiweb #artigiani #bologna",
+          "video": "media/strategia/S03.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
+      "id": "S04",
+      "titolo": "Sito del lunedì: l'agente immobiliare",
+      "formato": "Audit lampo",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
+      "quando": "2026-11-09 18:30",
+      "dueAt": "2026-11-09T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + green screen su sito fittizio «Casa Saragozza Immobiliare». Quando il video è pronto va in media/strategia/S04.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
       "id": "R11",
       "titolo": "La foto del chi siamo",
       "formato": "A o B?",
@@ -572,6 +664,29 @@
           "testo": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nLe persone vere vengono guardate, le foto stock vengono ignorate. Nel video c'è il dato (fonte: Nielsen Norman Group).\n#webdesign #chisiamo #fotografia #sitiweb #pmiitaliane",
           "video": "media/reel/R11.mp4",
           "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "S05",
+      "titolo": "Il cliente delle 22",
+      "formato": "Viaggio del cliente perso",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
+      "quando": "2026-11-11 18:30",
+      "dueAt": "2026-11-11T17:30:00.000Z",
+      "nota": "Da girare: Riprese telefono in mano di sera (luce calda) + Lorenzo in camera. Due siti fittizi di fisioterapisti. Quando il video è pronto va in media/strategia/S05.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Sono le dieci di sera, cerchi un fisioterapista. Ne trovi due.\nIl primo ha un sito del 2015: numero non cliccabile, niente orari. Il secondo dice cosa fa e ha un bottone: prenota. Magari il primo era più bravo. Il cliente non lo saprà mai.\nSe conosci qualcuno bravissimo con un sito così, mandagli questo video.\n#fisioterapia #sitiweb #prenotazioni #pmiitaliane #bologna",
+          "video": "media/strategia/S05.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Sono le dieci di sera, cerchi un fisioterapista. Ne trovi due.\nIl primo ha un sito del 2015: numero non cliccabile, niente orari. Il secondo dice cosa fa e ha un bottone: prenota. Magari il primo era più bravo. Il cliente non lo saprà mai.\nSe conosci qualcuno bravissimo con un sito così, mandagli questo video.\n#fisioterapia #sitiweb #prenotazioni #pmiitaliane #bologna",
+          "video": "media/strategia/S05.mp4",
+          "stato": "manca_video"
         }
       }
     },
@@ -596,6 +711,52 @@
       }
     },
     {
+      "id": "S06",
+      "titolo": "WhatsApp, mail, DM",
+      "formato": "Smetti di…",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Consapevolezza",
+      "quando": "2026-11-13 18:30",
+      "dueAt": "2026-11-13T17:30:00.000Z",
+      "nota": "Da girare: Animazione notifiche (possiamo farla in motion) + Lorenzo o Tommaso in camera. Quando il video è pronto va in media/strategia/S06.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "WhatsApp, mail, Instagram, una telefonata. Quattro richieste oggi: quante ne ricordi venerdì?\nUna finisce sotto il gruppo di famiglia, una in spam, un messaggio letto e dimenticato. Un cliente perso non fa rumore. La soluzione non è lavorare di più: è un solo posto dove arriva tutto.\nRispondi sinceramente nei commenti: quante richieste hai perso questo mese?\n#crm #agenteimmobiliare #clienti #pmiitaliane #automazioni",
+          "video": "media/strategia/S06.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "WhatsApp, mail, Instagram, una telefonata. Quattro richieste oggi: quante ne ricordi venerdì?\nUna finisce sotto il gruppo di famiglia, una in spam, un messaggio letto e dimenticato. Un cliente perso non fa rumore. La soluzione non è lavorare di più: è un solo posto dove arriva tutto.\nRispondi sinceramente nei commenti: quante richieste hai perso questo mese?\n#crm #agenteimmobiliare #clienti #pmiitaliane #automazioni",
+          "video": "media/strategia/S06.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
+      "id": "S07",
+      "titolo": "Sito del lunedì: il menu in PDF",
+      "formato": "Audit lampo",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
+      "quando": "2026-11-16 18:30",
+      "dueAt": "2026-11-16T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + registrazione schermo da telefono: menu PDF vs menu HTML su trattoria fittizia. Quando il video è pronto va in media/strategia/S07.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Sito del lunedì: il menu in PDF.\nDa telefono si scarica, si zooma, si scorre di lato, e il prezzo è tagliato. Scritto nella pagina invece si legge al volo, lo aggiorni tu e Google lo trova.\nHai un locale? Commenta SITO e il prossimo lunedì guardo il tuo.\n#ristoranti #menu #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S07.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Sito del lunedì: il menu in PDF.\nDa telefono si scarica, si zooma, si scorre di lato, e il prezzo è tagliato. Scritto nella pagina invece si legge al volo, lo aggiorni tu e Google lo trova.\nHai un locale? Commenta SITO e il prossimo lunedì guardo il tuo.\n#ristoranti #menu #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S07.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
       "id": "R13",
       "titolo": "A volte diciamo di no",
       "formato": "Informativo",
@@ -612,6 +773,29 @@
           "testo": "A volte diciamo di no.\nNon venderemo mai \"veloce\" a chi vuole approfondito, né \"approfondito\" a chi vuole veloce. Se il progetto non è adatto a noi, te lo diciamo subito. Nessun obbligo, solo una conversazione onesta.\nMeglio perdere un cliente che mentirgli.\n#bottegadigitale #onesta #pmiitaliane #sitiweb #bologna",
           "video": "media/reel/R13.mp4",
           "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "S08",
+      "titolo": "Cosa c'è in 800 €",
+      "formato": "Prezzo scomposto",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Conversione",
+      "quando": "2026-11-18 18:30",
+      "dueAt": "2026-11-18T17:30:00.000Z",
+      "nota": "Da girare: Apertura grafica «800 €» (motion) + Lorenzo o Tommaso in camera con le voci in sovrimpressione. Quando il video è pronto va in media/strategia/S08.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "800 €, una landing page. Ecco cosa c'è dentro, voce per voce.\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un form testato che ti arriva davvero. Le basi per farti trovare su Google. Una revisione, consegna in sette giorni. IVA esclusa.\nIl listino completo è sul sito. Link in bio.\n#prezzi #landingpage #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/strategia/S08.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "800 €, una landing page. Ecco cosa c'è dentro, voce per voce.\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un form testato che ti arriva davvero. Le basi per farti trovare su Google. Una revisione, consegna in sette giorni. IVA esclusa.\nIl listino completo è sul sito. Link in bio.\n#prezzi #landingpage #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/strategia/S08.mp4",
+          "stato": "manca_video"
         }
       }
     },
@@ -636,6 +820,52 @@
       }
     },
     {
+      "id": "S09",
+      "titolo": "Le 5 domande",
+      "formato": "Checklist / AI pratica",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Consapevolezza",
+      "quando": "2026-11-20 18:30",
+      "dueAt": "2026-11-20T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + schermo con FAQ e demo risposta automatica (attività fittizia). Contenuto AI-assisted: dichiararlo. Quando il video è pronto va in media/strategia/S09.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Siete aperti a pranzo? Quanto costa? Dove parcheggio? C'è posto sabato?\nSe rispondi a mano alle stesse domande ogni giorno, conta quanto tempo ci passi. Le risposte scritte bene sul sito e un assistente per le domande semplici ti restituiscono ore. Quelle difficili arrivano comunque a te.\nScrivi nei commenti la domanda che ti fanno più spesso.\n#automazioni #intelligenzaartificiale #pmiitaliane #ristoranti #bottegadigitale",
+          "video": "media/strategia/S09.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Siete aperti a pranzo? Quanto costa? Dove parcheggio? C'è posto sabato?\nSe rispondi a mano alle stesse domande ogni giorno, conta quanto tempo ci passi. Le risposte scritte bene sul sito e un assistente per le domande semplici ti restituiscono ore. Quelle difficili arrivano comunque a te.\nScrivi nei commenti la domanda che ti fanno più spesso.\n#automazioni #intelligenzaartificiale #pmiitaliane #ristoranti #bottegadigitale",
+          "video": "media/strategia/S09.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
+      "id": "S10",
+      "titolo": "Sito del lunedì: audit su richiesta",
+      "formato": "Audit su richiesta",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Conversione",
+      "quando": "2026-11-23 18:30",
+      "dueAt": "2026-11-23T17:30:00.000Z",
+      "nota": "Da girare: SOLO con un sito vero ricevuto via commento SITO e permesso scritto del titolare. Se non arriva, sostituire con un altro audit fittizio. Quando il video è pronto va in media/strategia/S10.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "«Ho un sito ma non mi scrive nessuno.» Ok, guardiamo perché.\nOggi un sito vero, mandato da chi ha commentato SITO, con il suo permesso. Tre cose che bloccano le richieste e come si sistemano.\nVuoi che guardiamo il tuo? Commenta SITO.\n#audit #sitiweb #pmiitaliane #bologna #bottegadigitale",
+          "video": "media/strategia/S10.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "«Ho un sito ma non mi scrive nessuno.» Ok, guardiamo perché.\nOggi un sito vero, mandato da chi ha commentato SITO, con il suo permesso. Tre cose che bloccano le richieste e come si sistemano.\nVuoi che guardiamo il tuo? Commenta SITO.\n#audit #sitiweb #pmiitaliane #bologna #bottegadigitale",
+          "video": "media/strategia/S10.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
       "id": "R15",
       "titolo": "Il giorno dieci",
       "formato": "Informativo",
@@ -656,6 +886,29 @@
       }
     },
     {
+      "id": "S11",
+      "titolo": "Due idraulici",
+      "formato": "Mito vs realtà / confronto",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Consapevolezza",
+      "quando": "2026-11-25 18:30",
+      "dueAt": "2026-11-25T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + split screen di due siti fittizi (da creare). Niente nomi di ditte reali. Quando il video è pronto va in media/strategia/S11.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Due idraulici, stessa via. Tu chi chiameresti?\nA: «Benvenuti nel sito della ditta», foto stock, numero in fondo. B: cosa fa e dove in una riga, la faccia del titolare, il bottone per chiamare in alto. In emergenza, da telefono, si decide in tre secondi.\nA o B nei commenti.\n#idraulico #artigiani #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S11.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Due idraulici, stessa via. Tu chi chiameresti?\nA: «Benvenuti nel sito della ditta», foto stock, numero in fondo. B: cosa fa e dove in una riga, la faccia del titolare, il bottone per chiamare in alto. In emergenza, da telefono, si decide in tre secondi.\nA o B nei commenti.\n#idraulico #artigiani #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S11.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
       "id": "R16",
       "titolo": "Quale testo si legge",
       "formato": "A o B?",
@@ -672,6 +925,29 @@
           "testo": "Quale testo si legge davvero? A o B nei commenti.\nTitoli chiari, prime parole che contano, frasi brevi. Online quasi nessuno legge parola per parola. Come lo fa, te lo diciamo nel video.\n#copywriting #webdesign #sitiweb #pmiitaliane #bologna",
           "video": "media/reel/R16.mp4",
           "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "S12",
+      "titolo": "10 giorni in 40 secondi",
+      "formato": "Bottega aperta",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Conversione",
+      "quando": "2026-11-27 18:30",
+      "dueAt": "2026-11-27T17:30:00.000Z",
+      "nota": "Da girare: Registrare lo schermo durante un progetto reale (es. prossimo cliente o rifacimento Villa Pet Sitter) giorno per giorno, serve il permesso del cliente. Quando il video è pronto va in media/strategia/S12.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti.\nBrief, struttura e testi, design, prima versione al cliente, correzioni e test da telefono. Giorno dieci: online. Veloci, non frettolosi.\nVuoi il tuo? Scrivici oggi, partiamo lunedì.\n#processo #sitiweb #bottegadigitale #bologna #pmiitaliane",
+          "video": "media/strategia/S12.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti.\nBrief, struttura e testi, design, prima versione al cliente, correzioni e test da telefono. Giorno dieci: online. Veloci, non frettolosi.\nVuoi il tuo? Scrivici oggi, partiamo lunedì.\n#processo #sitiweb #bottegadigitale #bologna #pmiitaliane",
+          "video": "media/strategia/S12.mp4",
+          "stato": "manca_video"
         }
       }
     },
