@@ -1,6 +1,7 @@
 # Dieci Bottega · Piano editoriale
 
 - `index.html` — l'app del piano editoriale (GitHub Pages).
+- Regola: ogni contenuto esce lo stesso giorno su Instagram, Facebook e LinkedIn.
 - `coda/coda.json` — **la coda unica di tutti i contenuti social** (post + reel), con testi per canale, media e stato.
 - `coda/STATO.md` — riepilogo aggiornato a ogni controllo: slot liberi su Buffer, prossimi contenuti, errori.
 - `media/` — immagini, PDF e video, serviti da GitHub Pages così Buffer li può scaricare.

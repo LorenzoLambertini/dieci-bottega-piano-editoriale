@@ -1,7 +1,7 @@
 # Strategia Reels · novembre 2026
 
 Documento completo: `Strategia_Instagram_Reels.pdf`. Qui sotto i 12 Reel del piano di 4 settimane, pronti da girare.
-Escono lun · mer · ven alle 18:30 su Instagram e Facebook, dal 2 al 27 novembre. Sono già nella coda (`coda/coda.json`) con stato `manca_video`: appena il video è in `media/strategia/`, passano a `da_programmare` e Buffer li prende.
+Escono lun · mer · ven alle 18:30 su Instagram, Facebook e LinkedIn, dal 2 al 27 novembre. Sono già nella coda (`coda/coda.json`) con stato `manca_video`: appena il video è in `media/strategia/`, passano a `da_programmare` e Buffer li prende.
 
 ## Regole (dal documento)
 

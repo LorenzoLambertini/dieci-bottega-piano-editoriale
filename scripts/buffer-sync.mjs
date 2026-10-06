@@ -84,10 +84,10 @@ async function main() {
   const programmati = {}; // channelId -> [{id, dueAt}]
   let after = null;
   for (let pagina = 0; pagina < 10; pagina++) {
-    const d = await gql(`query { posts(first: 100${after ? `, after: ${JSON.stringify(after)}` : ""}, input: { organizationId: ${JSON.stringify(org.id)}, filter: { status: [scheduled] } }) { edges { node { id dueAt ${chFieldFromPost} } } pageInfo { hasNextPage endCursor } } }`);
+    const d = await gql(`query { posts(first: 100${after ? `, after: ${JSON.stringify(after)}` : ""}, input: { organizationId: ${JSON.stringify(org.id)}, filter: { status: [scheduled] } }) { edges { node { id dueAt text ${chFieldFromPost} } } pageInfo { hasNextPage endCursor } } }`);
     for (const { node } of d.posts.edges) {
       const cid = node.channelId || node.channel?.id;
-      (programmati[cid] ||= []).push({ id: node.id, dueAt: node.dueAt });
+      (programmati[cid] ||= []).push({ id: node.id, dueAt: node.dueAt, text: node.text || "" });
     }
     if (!d.posts.pageInfo?.hasNextPage) break;
     after = d.posts.pageInfo.endCursor;
@@ -168,6 +168,13 @@ async function main() {
     "## Prossimi in coda", "", "| Quando | ID | Titolo | Instagram | Facebook | LinkedIn |", "|---|---|---|---|---|---|"];
   const prossimi = coda.contenuti.filter((i) => Object.values(i.canali).some((c) => ["da_programmare", "programmato", "manca_video", "errore"].includes(c.stato)) && new Date(i.dueAt).getTime() > ora).slice(0, 25);
   for (const i of prossimi) righe.push(`| ${i.quando} | ${i.id} | ${i.titolo} | ${i.canali.instagram?.stato || "–"} | ${i.canali.facebook?.stato || "–"} | ${i.canali.linkedin?.stato || "–"} |`);
+  righe.push("", "## Cosa c'è su Buffer adesso", "");
+  for (const [s, c] of Object.entries(canali)) {
+    righe.push(`### ${s}`, "");
+    for (const p of [...(programmati[c.id] || [])].sort((a, b) => String(a.dueAt).localeCompare(String(b.dueAt))))
+      righe.push(`- ${new Date(p.dueAt).toLocaleString("it-IT", { timeZone: "Europe/Rome", dateStyle: "short", timeStyle: "short" })} · ${(p.text || "").replace(/\s+/g, " ").slice(0, 70)}`);
+    righe.push("");
+  }
   const errori = coda.contenuti.flatMap((i) => Object.entries(i.canali).filter(([, c]) => c.ultimoErrore).map(([s, c]) => `- ${i.id} ${s}: ${c.ultimoErrore}`));
   if (errori.length) righe.push("", "## Errori", "", ...errori);
   fs.writeFileSync("coda/STATO.md", righe.join("\n") + "\n");
