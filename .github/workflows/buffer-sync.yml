@@ -1,0 +1,42 @@
+name: Riempi Buffer
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # ogni mattina (07:17 ora italiana d'estate)
+    - cron: "17 17 * * *"  # ogni sera (19:17 ora italiana d'estate)
+  workflow_dispatch:
+    inputs:
+      prova:
+        description: "Solo prova (non manda niente a Buffer)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: buffer-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Controlla slot e programma
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          DRY_RUN: ${{ inputs.prova && '1' || '0' }}
+        run: node scripts/buffer-sync.mjs
+      - name: Salva stato
+        run: |
+          git config user.name "dieci-bottega-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add coda/
+          git diff --cached --quiet || git commit -m "Coda: aggiornata da Buffer sync"
+          git push

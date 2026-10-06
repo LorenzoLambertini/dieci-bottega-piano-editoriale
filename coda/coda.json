@@ -1,0 +1,2239 @@
+{
+  "_info": "Coda unica dei contenuti Dieci Bottega. La GitHub Action legge questo file e riempie Buffer quando si liberano slot. Stati: da_programmare, programmato, gia_in_buffer, manca_video, scaduto, errore, pausa.",
+  "baseUrl": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/",
+  "slotPerCanale": 10,
+  "contenuti": [
+    {
+      "id": "P01",
+      "titolo": "Manifesto",
+      "tipo": "carosello",
+      "quando": "2026-10-05 12:30",
+      "dueAt": "2026-10-05T10:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Dieci Bottega è una bottega digitale di Bologna.\nSiamo in due: Lorenzo disegna e scrive il codice, Tommaso parla con te e segue il progetto.\nFacciamo siti, CRM e automazioni per PMI italiane. I prezzi sono pubblici, i tempi pure.\nQui racconteremo il mestiere: come lavoriamo, quanto costa, cosa conta davvero in un sito che deve portarti clienti.\nIl listino è nel link in bio.\nÈ tutto nei dettagli.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+          "immagini": [
+            "media/post/P01/slide01.png",
+            "media/post/P01/slide02.png",
+            "media/post/P01/slide03.png",
+            "media/post/P01/slide04.png",
+            "media/post/P01/slide05.png",
+            "media/post/P01/slide06.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Ciao Bologna, siamo Dieci Bottega.\n\nSiamo in due: Lorenzo disegna e scrive il codice, Tommaso ti ascolta e segue il tuo progetto. Amici da più di dieci anni, oggi una bottega.\n\nFacciamo siti, CRM e automazioni per piccole attività e PMI. I prezzi sono pubblici e un sito vetrina è online in dieci giorni.\n\nQui racconteremo il mestiere, senza giri di parole.\n\nGuarda il listino: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=post&utm_campaign=p01\n\nÈ tutto nei dettagli.",
+          "immagini": [
+            "media/post/P01/slide01.png",
+            "media/post/P01/slide02.png",
+            "media/post/P01/slide03.png",
+            "media/post/P01/slide04.png",
+            "media/post/P01/slide05.png",
+            "media/post/P01/slide06.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Una bottega. Non un'agenzia.\n\nDieci Bottega nasce a Bologna da due amici che si conoscono da più di dieci anni. Lorenzo disegna e scrive il codice. Tommaso ascolta cosa serve a chi ha un'attività e segue il progetto dall'inizio alla fine.\n\nCostruiamo siti web, CRM e automazioni per piccole e medie imprese italiane. Partiamo da quattro regole:\n\n— Chi ti parla è chi fa il lavoro. Nessun passaggio di mano.\n— Il prezzo è scritto prima. Il listino è pubblico, non arriva dopo la terza riunione.\n— Il sito è online in dieci giorni. Veloci, non frettolosi.\n— L'AI è un attrezzo. Ci fa andare veloci sulle parti ripetitive. Cosa fare, e come, lo decidiamo noi.\n\nSu questa pagina racconteremo il mestiere: come lavoriamo, quanto costa, cosa conta davvero in un sito che deve portare clienti.\n\nListino e servizi: https://diecibottega.it/servizi?utm_source=linkedin&utm_medium=post&utm_campaign=p01\n\n#PMI #WebDesign #Bologna",
+          "documento": "media/post/P01/carosello.pdf",
+          "titoloDocumento": "Manifesto",
+          "copertina": "media/post/P01/slide01.png",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R01",
+      "titolo": "Manifesto Dieci Bottega",
+      "formato": "Manifesto",
+      "tipo": "reel",
+      "quando": "2026-10-06 18:30",
+      "dueAt": "2026-10-06T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Lavori bene. Ma online non si vede.\nIl tuo mestiere merita un sito che lo racconti come lo racconteresti tu, in bottega. Dieci giorni, non tre mesi. Al prezzo di un template, con la cura di un'agenzia.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+          "video": "media/reel/R01.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Lavori bene. Ma online non si vede.\nIl tuo mestiere merita un sito che lo racconti come lo racconteresti tu, in bottega. Dieci giorni, non tre mesi. Al prezzo di un template, con la cura di un'agenzia.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+          "video": "media/reel/R01.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "P03",
+      "titolo": "Reel Founder",
+      "tipo": "reel",
+      "quando": "2026-10-07 18:30",
+      "dueAt": "2026-10-07T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Siamo Tommaso e Lorenzo. Amici da più di dieci anni, oggi una bottega.\nUno sa fare, l'altro sa ascoltare. Se hai un'attività e ti serve un sito che lavori per te, scrivici. Ti rispondiamo noi, non un modulo.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+          "video": "media/post/P03/video.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Lui disegna. Io parlo con te.\n\nSiamo Tommaso e Lorenzo, amici da più di dieci anni e oggi una bottega. Se hai un'attività e ti serve un sito che lavori per te, scrivici: ti rispondiamo noi, non un modulo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p03",
+          "video": "media/post/P03/video.mp4",
+          "stato": "manca_video"
+        },
+        "linkedin": {
+          "testo": "Lui disegna. Io parlo con te.\n\nCi conosciamo da più di dieci anni. Quest'anno abbiamo deciso di mettere insieme quello che sappiamo fare.\n\nLorenzo si occupa di design e codice: disegna il sito, lo scrive, cura i dettagli che non si vedono ma si sentono.\nTommaso si occupa dei clienti: capisce cosa serve davvero, dice quanto costa prima di iniziare e segue il progetto fino alla consegna.\n\nNessun account manager in mezzo. Quando scrivi a Dieci Bottega, ti rispondono le due persone che lavorano al tuo sito.\n\nParliamone: https://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p03\n\n#Founders #PMI #Bologna",
+          "video": "media/post/P03/video.mp4",
+          "stato": "manca_video"
+        }
+      },
+      "nota": "Serve il video girato: caricalo in media/post/P03/video.mp4 e cambia stato in da_programmare."
+    },
+    {
+      "id": "R02",
+      "titolo": "Quale bottone",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2026-10-08 18:30",
+      "dueAt": "2026-10-08T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale bottone ti fa venire voglia di prenotare? A o B, scrivilo nei commenti.\nLe nostre regole per i bottoni: contrasto forte, massimo tre parole, niente punti esclamativi. Parole che dicono cosa succede quando tocchi.\n#webdesign #microcopy #sitiweb #pmiitaliane #bologna",
+          "video": "media/reel/R02.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale bottone ti fa venire voglia di prenotare? A o B, scrivilo nei commenti.\nLe nostre regole per i bottoni: contrasto forte, massimo tre parole, niente punti esclamativi. Parole che dicono cosa succede quando tocchi.\n#webdesign #microcopy #sitiweb #pmiitaliane #bologna",
+          "video": "media/reel/R02.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "P04",
+      "titolo": "Listino",
+      "tipo": "carosello",
+      "quando": "2026-10-09 12:30",
+      "dueAt": "2026-10-09T10:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tutti: chi possiede il dominio, chi aggiorna il sito, cosa succede dopo il lancio.\nSalvalo per quando qualcuno ti manda un preventivo. Il nostro listino è pubblico: link in bio.\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
+          "immagini": [
+            "media/post/P04/slide01.png",
+            "media/post/P04/slide02.png",
+            "media/post/P04/slide03.png",
+            "media/post/P04/slide04.png",
+            "media/post/P04/slide05.png",
+            "media/post/P04/slide06.png",
+            "media/post/P04/slide07.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quanto dovrebbe costare un sito?\n\nNon esiste una cifra giusta per tutti, ma ci sono 4 domande da fare a chiunque ti mandi un preventivo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nSalvalo per quando ti servirà. Il nostro listino è pubblico: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=post&utm_campaign=p04",
+          "immagini": [
+            "media/post/P04/slide01.png",
+            "media/post/P04/slide02.png",
+            "media/post/P04/slide03.png",
+            "media/post/P04/slide04.png",
+            "media/post/P04/slide05.png",
+            "media/post/P04/slide06.png",
+            "media/post/P04/slide07.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tutti. Ma prima di confrontare preventivi, conviene capire cosa si sta confrontando. Di solito le strade sono tre:\n\n1. Il fai-da-te. Paghi poco al mese, il tempo lo metti tu. Il risultato dipende da un lavoro che non è il tuo.\n2. Il freelance a prezzo basso. Può andare benissimo o malissimo. Chiedi sempre chi aggiorna il sito dopo e a chi è intestato il dominio.\n3. L'agenzia tradizionale. Processo solido, tempi lunghi, preventivi spesso fuori scala per una piccola attività.\n\nQuattro domande da fare a chiunque, prima del prezzo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nNoi abbiamo scelto di scrivere il listino sul sito: landing page da 800 €, sito vetrina da 1.200 €, con tempi e cosa è incluso. Il prezzo giusto è quello che capisci prima di firmare.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=post&utm_campaign=p04\n\n#PMI #WebDesign #Preventivi",
+          "documento": "media/post/P04/carosello.pdf",
+          "titoloDocumento": "Listino",
+          "copertina": "media/post/P04/slide01.png",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "P05",
+      "titolo": "Tip Visite",
+      "tipo": "carosello",
+      "quando": "2026-10-12 12:30",
+      "dueAt": "2026-10-12T10:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Più visite non vuol dire più clienti. Spesso il problema è in 5 punti che si sistemano in un pomeriggio.\nQuanti ne hai trovati sul tuo sito?\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
+          "immagini": [
+            "media/post/P05/slide01.png",
+            "media/post/P05/slide02.png",
+            "media/post/P05/slide03.png",
+            "media/post/P05/slide04.png",
+            "media/post/P05/slide05.png",
+            "media/post/P05/slide06.png",
+            "media/post/P05/slide07.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il motivo è uno di questi 5: il contatto è in fondo, il modulo chiede troppo, non si capisce cosa fai, il numero non si può toccare da telefono, nessuno risponde in fretta.\n\nQuanti ne trovi sul tuo sito? Scrivici qui sotto o in privato: ti diciamo noi.",
+          "immagini": [
+            "media/post/P05/slide01.png",
+            "media/post/P05/slide02.png",
+            "media/post/P05/slide03.png",
+            "media/post/P05/slide04.png",
+            "media/post/P05/slide05.png",
+            "media/post/P05/slide06.png",
+            "media/post/P05/slide07.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
+          "documento": "media/post/P05/carosello.pdf",
+          "titoloDocumento": "Tip Visite",
+          "copertina": "media/post/P05/slide01.png",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R03",
+      "titolo": "Il bottone",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-10-13 18:30",
+      "dueAt": "2026-10-13T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Un bottone. Quanto ci vuole a scriverlo?\nChiediamo all'AI otto varianti, poi scegliamo noi. L'AI è uno strumento, il criterio resta mestiere. Ogni font, ogni parola, ogni millisecondo è una scelta.\n#intelligenzaartificiale #microcopy #webdesign #bottegadigitale #bologna",
+          "video": "media/reel/R03.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Un bottone. Quanto ci vuole a scriverlo?\nChiediamo all'AI otto varianti, poi scegliamo noi. L'AI è uno strumento, il criterio resta mestiere. Ogni font, ogni parola, ogni millisecondo è una scelta.\n#intelligenzaartificiale #microcopy #webdesign #bottegadigitale #bologna",
+          "video": "media/reel/R03.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "P06",
+      "titolo": "Reel Dettaglio",
+      "tipo": "reel",
+      "quando": "2026-10-14 18:30",
+      "dueAt": "2026-10-14T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Molti dettagli che fanno perdere clienti non si vedono finché non provi il sito con una mano, in piedi, in tram.\nProva il tuo adesso: riesci a prenotare con il pollice? Ogni settimana un dettaglio nuovo.\n\n#webdesign #ux #ristorantibologna #sitiweb #bologna",
+          "video": "media/post/P06/video.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Prova il tuo sito con una mano sola, in piedi: riesci a prenotare con il pollice?\n\nUn bottone troppo piccolo è la differenza tra una prenotazione e una chiamata persa. Si sistema in dieci minuti.\n\nOgni settimana un dettaglio nuovo. È tutto nei dettagli.",
+          "video": "media/post/P06/video.mp4",
+          "stato": "manca_video"
+        },
+        "linkedin": {
+          "testo": "Un bottone troppo piccolo costa più di quanto sembra.\n\nLe linee guida di Apple e Google chiedono un'area toccabile di almeno 44-48 punti. Molti siti di ristoranti, studi e negozi hanno ancora il pulsante \"Prenota\" o \"Chiama\" minuscolo, in alto, dove il pollice non arriva.\n\nDa telefono, in piedi, con una mano sola, quel bottone non lo premi. E la prenotazione diventa una chiamata persa.\n\nLa correzione richiede dieci minuti: più grande, più in basso, più contrasto.\n\nÈ il tipo di dettaglio che non compare in nessun preventivo, ma che decide se un sito lavora o no.\n\n#UX #WebDesign #PMI",
+          "video": "media/post/P06/video.mp4",
+          "stato": "manca_video"
+        }
+      },
+      "nota": "Serve il video girato: caricalo in media/post/P06/video.mp4 e cambia stato in da_programmare."
+    },
+    {
+      "id": "R04",
+      "titolo": "Tre secondi su mobile",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2026-10-15 18:30",
+      "dueAt": "2026-10-15T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Un sito mobile ci mette più di 3 secondi a caricare. Quante visite si perdono?\nRisposta: il 53%, più di una su due (fonte: Google). E nel 2016 una homepage mobile in 3G ci metteva in media 19 secondi.\nTu quanto ci metti? Rispondi nei commenti, poi provalo dal telefono.\n#sitiweb #velocita #pmiitaliane #webdesign #bologna",
+          "video": "media/reel/R04.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Un sito mobile ci mette più di 3 secondi a caricare. Quante visite si perdono?\nRisposta: il 53%, più di una su due (fonte: Google). E nel 2016 una homepage mobile in 3G ci metteva in media 19 secondi.\nTu quanto ci metti? Rispondi nei commenti, poi provalo dal telefono.\n#sitiweb #velocita #pmiitaliane #webdesign #bologna",
+          "video": "media/reel/R04.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "P08",
+      "titolo": "AI Mestiere",
+      "tipo": "carosello",
+      "quando": "2026-10-16 12:30",
+      "dueAt": "2026-10-16T10:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no.\nCosì sai cosa stai pagando: tempo risparmiato sulle parti ripetitive, e persone che decidono su tutto il resto.\n\n#bologna #pmiitaliane #intelligenzaartificiale #webdesign #sitiweb",
+          "immagini": [
+            "media/post/P08/slide01.png",
+            "media/post/P08/slide02.png",
+            "media/post/P08/slide03.png",
+            "media/post/P08/slide04.png",
+            "media/post/P08/slide05.png",
+            "media/post/P08/slide06.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no.\n\nL'AI ci aiuta con le bozze e le parti ripetitive. Le scelte, i testi finali e ogni riga di codice li rivediamo noi. E non usiamo mai volti inventati.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.",
+          "immagini": [
+            "media/post/P08/slide01.png",
+            "media/post/P08/slide02.png",
+            "media/post/P08/slide03.png",
+            "media/post/P08/slide04.png",
+            "media/post/P08/slide05.png",
+            "media/post/P08/slide06.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Cosa fa l'AI. Cosa facciamo noi.\n\nTutti dicono di usare l'intelligenza artificiale. Noi preferiamo dire esattamente dove, e dove no.\n\nTesti: l'AI scrive una prima bozza con più varianti. Noi scegliamo quella che suona come il cliente.\nDesign: l'AI propone varianti di layout. Noi decidiamo cosa si vede per primo.\nCodice: l'AI accelera le parti ripetitive. Noi lo rileggiamo tutto, riga per riga.\nImmagini: l'AI solo dove non servono persone. Mai volti inventati, e lo dichiariamo.\n\nCosì chi lavora con noi sa cosa sta pagando: tempo risparmiato sulle parti ripetitive, e persone che decidono su tutto il resto.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.\n\n#IntelligenzaArtificiale #PMI #WebDesign",
+          "documento": "media/post/P08/carosello.pdf",
+          "titoloDocumento": "AI Mestiere",
+          "copertina": "media/post/P08/slide01.png",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "P09",
+      "titolo": "CRM",
+      "tipo": "carosello",
+      "quando": "2026-10-19 12:30",
+      "dueAt": "2026-10-19T10:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide 3, 4 o 5, stai perdendo clienti che avevi già.\nCostruiamo CRM su misura, con i dati che restano tuoi. E se ti basta un foglio fatto bene, te lo diciamo.\n\n#pmiitaliane #crm #bologna #automazioni #piccoleimprese",
+          "immagini": [
+            "media/post/P09/slide01.png",
+            "media/post/P09/slide02.png",
+            "media/post/P09/slide03.png",
+            "media/post/P09/slide04.png",
+            "media/post/P09/slide05.png",
+            "media/post/P09/slide06.png",
+            "media/post/P09/slide07.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Contatti sparsi tra Excel, WhatsApp e mail?\n\nSe due persone chiamano lo stesso cliente, o un preventivo resta senza risposta perché nessuno se lo ricordava, stai perdendo clienti che avevi già.\n\nCostruiamo CRM su misura, con i dati che restano tuoi. E se ti basta un foglio fatto bene, te lo diciamo.\n\nhttps://diecibottega.it/servizi/crm-su-misura?utm_source=facebook&utm_medium=post&utm_campaign=p09",
+          "immagini": [
+            "media/post/P09/slide01.png",
+            "media/post/P09/slide02.png",
+            "media/post/P09/slide03.png",
+            "media/post/P09/slide04.png",
+            "media/post/P09/slide05.png",
+            "media/post/P09/slide06.png",
+            "media/post/P09/slide07.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNon tutte le aziende hanno bisogno di un CRM. Excel può bastare, finché sei da solo e hai pochi contatti al mese.\n\nSmette di bastare quando:\n— due persone chiamano lo stesso cliente;\n— un preventivo resta senza risposta perché nessuno se lo ricordava;\n— il lunedì serve mezz'ora per capire come sta andando.\n\nUn CRM non è un software. È sapere, per ogni contatto, chi deve fare cosa e quando.\n\nLo costruiamo su misura, sul vostro modo di lavorare, con i dati che restano vostri. E se vi basta un foglio fatto bene, ve lo diciamo.\n\nCRM su misura, da 2.500 €: https://diecibottega.it/servizi/crm-su-misura?utm_source=linkedin&utm_medium=post&utm_campaign=p09\n\n#CRM #PMI #Vendite",
+          "documento": "media/post/P09/carosello.pdf",
+          "titoloDocumento": "CRM",
+          "copertina": "media/post/P09/slide01.png",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R05",
+      "titolo": "Quanto costa un sito",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-10-20 18:30",
+      "dueAt": "2026-10-20T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\nLanding page da 800 €, sito vetrina da 1.200 €, e-commerce light da 1.800 €. IVA esclusa, tempi scritti accanto al prezzo. 50% all'avvio, 50% al lancio, preventivo definitivo dopo il brief.\nIl listino completo è su diecibottega.it\n#sitiweb #pmiitaliane #prezzi #bologna #bottegadigitale",
+          "video": "media/reel/R05.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\nLanding page da 800 €, sito vetrina da 1.200 €, e-commerce light da 1.800 €. IVA esclusa, tempi scritti accanto al prezzo. 50% all'avvio, 50% al lancio, preventivo definitivo dopo il brief.\nIl listino completo è su diecibottega.it\n#sitiweb #pmiitaliane #prezzi #bologna #bottegadigitale",
+          "video": "media/reel/R05.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "P10",
+      "titolo": "Reel Dieci Giorni",
+      "tipo": "reel",
+      "quando": "2026-10-21 18:30",
+      "dueAt": "2026-10-21T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fase ha un giorno, ogni revisione ha un momento. Per questo possiamo dirti prima quando sarai online.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+          "video": "media/post/P10/video.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
+          "video": "media/post/P10/video.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando diciamo che un sito vetrina è online in dieci giorni, non vuol dire lavorare di fretta. Vuol dire che ogni fase ha i suoi giorni:\n\nGiorno 1-2 · Brief. Una call, poi un questionario. Capiamo cosa serve davvero.\nGiorno 3-5 · Design. Il cliente vede il sito prima che diventi codice. Due round di revisione.\nGiorno 6-8 · Sviluppo. Codice scritto a mano, veloce anche da telefono.\nGiorno 9-10 · Online. Test su telefono, SEO di base, consegna con credenziali e guida.\n\nPer questo possiamo dire prima quando il sito sarà online. Veloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p10\n\n#PMI #WebDesign #Processi",
+          "video": "media/post/P10/video.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R06",
+      "titolo": "Quale homepage",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2026-10-22 18:30",
+      "dueAt": "2026-10-22T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Due homepage per una ciclofficina di Bologna. Quale funziona meglio? A o B nei commenti, poi guarda la risposta.\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Il motivo è nel video.\n#webdesign #homepage #sitiweb #pmiitaliane #bologna",
+          "video": "media/reel/R06.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Due homepage per una ciclofficina di Bologna. Quale funziona meglio? A o B nei commenti, poi guarda la risposta.\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Il motivo è nel video.\n#webdesign #homepage #sitiweb #pmiitaliane #bologna",
+          "video": "media/reel/R06.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "P07",
+      "titolo": "Prompt",
+      "tipo": "carosello",
+      "quando": "2026-10-23 12:30",
+      "dueAt": "2026-10-23T10:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto quello che mi restituisce.\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente mi paga. — Lorenzo\n\n#intelligenzaartificiale #copywriting #webdesign #bologna #sitiweb",
+          "immagini": [
+            "media/post/P07/slide01.png",
+            "media/post/P07/slide02.png",
+            "media/post/P07/slide03.png",
+            "media/post/P07/slide04.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.\n\nQuanto ci mettiamo noi a scegliere quello giusto? Un po' di più. Su otto proposte ne teniamo una: \"Iniziamo\". Un verbo, zero pressione.\n\nIl lavoro non è generare. È scegliere.",
+          "immagini": [
+            "media/post/P07/slide01.png",
+            "media/post/P07/slide02.png",
+            "media/post/P07/slide03.png",
+            "media/post/P07/slide04.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
+          "documento": "media/post/P07/carosello.pdf",
+          "titoloDocumento": "Prompt",
+          "copertina": "media/post/P07/slide01.png",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "P11",
+      "titolo": "Dieci Anni",
+      "tipo": "carosello",
+      "quando": "2026-10-26 12:30",
+      "dueAt": "2026-10-26T11:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Prima di Dieci Bottega c'erano due amici. Da più di dieci anni.\nUno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività.\nOggi abbiamo messo insieme quello che sappiamo fare. Ed è per questo che, quando ci scrivi, ti rispondono le stesse due persone che lavorano al tuo sito.\n\n#bologna #bottegadigitale #founders #pmiitaliane #webdesign",
+          "immagini": [
+            "media/post/P11/slide01.png",
+            "media/post/P11/slide02.png",
+            "media/post/P11/slide03.png",
+            "media/post/P11/slide04.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Lorenzo e Tommaso, amici da più di dieci anni. Oggi abbiamo messo insieme quello che sappiamo fare: siti, CRM e automazioni per chi ha un'attività.\n\nQuando ci scrivi, ti rispondiamo noi. Gli stessi che lavorano al tuo sito.",
+          "immagini": [
+            "media/post/P11/slide01.png",
+            "media/post/P11/slide02.png",
+            "media/post/P11/slide03.png",
+            "media/post/P11/slide04.png"
+          ],
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta foto è del 2020. Lorenzo e Tommaso, amici da più di dieci anni.\n\nIn questi anni uno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività, e a dirlo in modo semplice.\n\nNel 2026 abbiamo deciso di mettere insieme quello che sappiamo fare. È per questo che, quando scrivi a Dieci Bottega, ti rispondono le stesse due persone che lavoreranno al tuo sito.\n\nAmici da dieci anni. Una bottega da oggi.\n\n#Founders #Bologna #PMI",
+          "documento": "media/post/P11/carosello.pdf",
+          "titoloDocumento": "Dieci Anni",
+          "copertina": "media/post/P11/slide01.png",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R07",
+      "titolo": "Cosa significa GEO",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2026-10-27 18:30",
+      "dueAt": "2026-10-27T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Cosa significa GEO? Tre risposte, una sola giusta. Scrivi la tua nei commenti prima del reveal.\nSpoiler a metà: riguarda come farsi citare quando qualcuno chiede consiglio a un'AI. E i vecchi trucchi SEO lì non funzionano.\n#geo #seo #intelligenzaartificiale #sitiweb #pmiitaliane",
+          "video": "media/reel/R07.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Cosa significa GEO? Tre risposte, una sola giusta. Scrivi la tua nei commenti prima del reveal.\nSpoiler a metà: riguarda come farsi citare quando qualcuno chiede consiglio a un'AI. E i vecchi trucchi SEO lì non funzionano.\n#geo #seo #intelligenzaartificiale #sitiweb #pmiitaliane",
+          "video": "media/reel/R07.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R08",
+      "titolo": "Da zero a online",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-10-29 18:30",
+      "dueAt": "2026-10-29T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Come nasce un sito in dieci giorni.\nGiorno 1-2: brief e questionario, ascoltiamo prima di costruire. Giorno 3-5: design, AI-assisted e curato a mano. Giorno 6-8: sviluppo, codice pulito. Giorno 9-10: SEO, test su ogni dispositivo, online.\nDa zero a online, nei tempi detti.\n#sitiweb #webdesign #processo #bottegadigitale #bologna",
+          "video": "media/reel/R08.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Come nasce un sito in dieci giorni.\nGiorno 1-2: brief e questionario, ascoltiamo prima di costruire. Giorno 3-5: design, AI-assisted e curato a mano. Giorno 6-8: sviluppo, codice pulito. Giorno 9-10: SEO, test su ogni dispositivo, online.\nDa zero a online, nei tempi detti.\n#sitiweb #webdesign #processo #bottegadigitale #bologna",
+          "video": "media/reel/R08.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R09",
+      "titolo": "La X dei cookie",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2026-11-03 18:30",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Sul banner dei cookie clicchi la X. Cosa succede? Accetti tutto, il sito si blocca o rifiuti?\nRispondi nei commenti, poi guarda il video: c'è anche una cosa che quasi nessuno sa sullo scorrere la pagina. Fonte: Garante Privacy, linee guida 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R09.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Sul banner dei cookie clicchi la X. Cosa succede? Accetti tutto, il sito si blocca o rifiuti?\nRispondi nei commenti, poi guarda il video: c'è anche una cosa che quasi nessuno sa sullo scorrere la pagina. Fonte: Garante Privacy, linee guida 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R09.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R10",
+      "titolo": "Prima e dopo",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-11-05 18:30",
+      "dueAt": "2026-11-05T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Stessa attività, due siti.\nVilla Pet Sitter, pet sitter professionale a Bologna. Prima un vecchio sito WordPress, oggi un sito vetrina multipagina: servizi, prezzi, attestati, recensioni. Mobile-first, veloce, WhatsApp a un tocco.\nUn caso reale, fatto in bottega.\n#casostudio #sitiweb #webdesign #bologna #petsitter",
+          "video": "media/reel/R10.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Stessa attività, due siti.\nVilla Pet Sitter, pet sitter professionale a Bologna. Prima un vecchio sito WordPress, oggi un sito vetrina multipagina: servizi, prezzi, attestati, recensioni. Mobile-first, veloce, WhatsApp a un tocco.\nUn caso reale, fatto in bottega.\n#casostudio #sitiweb #webdesign #bologna #petsitter",
+          "video": "media/reel/R10.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R11",
+      "titolo": "La foto del chi siamo",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2026-11-10 18:30",
+      "dueAt": "2026-11-10T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nLe persone vere vengono guardate, le foto stock vengono ignorate. Nel video c'è il dato (fonte: Nielsen Norman Group).\n#webdesign #chisiamo #fotografia #sitiweb #pmiitaliane",
+          "video": "media/reel/R11.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nLe persone vere vengono guardate, le foto stock vengono ignorate. Nel video c'è il dato (fonte: Nielsen Norman Group).\n#webdesign #chisiamo #fotografia #sitiweb #pmiitaliane",
+          "video": "media/reel/R11.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R12",
+      "titolo": "Solo qualche visita persa",
+      "formato": "Vero o falso?",
+      "tipo": "reel",
+      "quando": "2026-11-12 18:30",
+      "dueAt": "2026-11-12T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
+          "video": "media/reel/R12.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
+          "video": "media/reel/R12.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R13",
+      "titolo": "A volte diciamo di no",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-11-17 18:30",
+      "dueAt": "2026-11-17T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "A volte diciamo di no.\nNon venderemo mai \"veloce\" a chi vuole approfondito, né \"approfondito\" a chi vuole veloce. Se il progetto non è adatto a noi, te lo diciamo subito. Nessun obbligo, solo una conversazione onesta.\nMeglio perdere un cliente che mentirgli.\n#bottegadigitale #onesta #pmiitaliane #sitiweb #bologna",
+          "video": "media/reel/R13.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "A volte diciamo di no.\nNon venderemo mai \"veloce\" a chi vuole approfondito, né \"approfondito\" a chi vuole veloce. Se il progetto non è adatto a noi, te lo diciamo subito. Nessun obbligo, solo una conversazione onesta.\nMeglio perdere un cliente che mentirgli.\n#bottegadigitale #onesta #pmiitaliane #sitiweb #bologna",
+          "video": "media/reel/R13.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R14",
+      "titolo": "Rispondere entro un’ora",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2026-11-19 18:30",
+      "dueAt": "2026-11-19T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Rispondi a un contatto entro un'ora. Quanto ti avvantaggia rispetto a chi aspetta un giorno?\n7 volte, 2 volte o 100 volte? Scrivi la tua nei commenti, la risposta (e un dato che fa male) è nel video. Fonte: Harvard Business Review.\n#clienti #pmiitaliane #crm #vendite #bologna",
+          "video": "media/reel/R14.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Rispondi a un contatto entro un'ora. Quanto ti avvantaggia rispetto a chi aspetta un giorno?\n7 volte, 2 volte o 100 volte? Scrivi la tua nei commenti, la risposta (e un dato che fa male) è nel video. Fonte: Harvard Business Review.\n#clienti #pmiitaliane #crm #vendite #bologna",
+          "video": "media/reel/R14.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R15",
+      "titolo": "Il giorno dieci",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-11-24 18:30",
+      "dueAt": "2026-11-24T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il giorno dieci, cosa hai in mano?\nUn sito online, con un calendario che conosci dal primo giorno. Due round di revisione. Google dal primo giorno: SEO di base, sitemap, scheda Google Business collegata. E le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#sitiweb #bottegadigitale #pmiitaliane #webdesign #bologna",
+          "video": "media/reel/R15.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il giorno dieci, cosa hai in mano?\nUn sito online, con un calendario che conosci dal primo giorno. Due round di revisione. Google dal primo giorno: SEO di base, sitemap, scheda Google Business collegata. E le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#sitiweb #bottegadigitale #pmiitaliane #webdesign #bologna",
+          "video": "media/reel/R15.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R16",
+      "titolo": "Quale testo si legge",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2026-11-26 18:30",
+      "dueAt": "2026-11-26T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale testo si legge davvero? A o B nei commenti.\nTitoli chiari, prime parole che contano, frasi brevi. Online quasi nessuno legge parola per parola. Come lo fa, te lo diciamo nel video.\n#copywriting #webdesign #sitiweb #pmiitaliane #bologna",
+          "video": "media/reel/R16.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale testo si legge davvero? A o B nei commenti.\nTitoli chiari, prime parole che contano, frasi brevi. Online quasi nessuno legge parola per parola. Come lo fa, te lo diciamo nel video.\n#copywriting #webdesign #sitiweb #pmiitaliane #bologna",
+          "video": "media/reel/R16.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R17",
+      "titolo": "Lo sguardo a F",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2026-12-01 18:30",
+      "dueAt": "2026-12-01T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\nRispondi nei commenti prima del reveal. L'hanno scoperto con l'eyetracking su 232 persone (fonte: Nielsen Norman Group).\n#ux #webdesign #eyetracking #sitiweb #pmiitaliane",
+          "video": "media/reel/R17.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\nRispondi nei commenti prima del reveal. L'hanno scoperto con l'eyetracking su 232 persone (fonte: Nielsen Norman Group).\n#ux #webdesign #eyetracking #sitiweb #pmiitaliane",
+          "video": "media/reel/R17.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R18",
+      "titolo": "Non solo siti",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-12-03 18:30",
+      "dueAt": "2026-12-03T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Non solo siti. Tre mestieri, una bottega.\nSiti trovati su Google e aggiornabili da te. CRM su misura, uno strumento interno per non perdere i contatti. Automazioni AI per i lavori che si ripetono: arriva una richiesta, l'AI la legge e la ordina, tu ricevi l'avviso.\nNiente cataloghi infiniti: quasi sempre ti serve meno di quanto pensi.\n#automazioni #crm #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R18.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Non solo siti. Tre mestieri, una bottega.\nSiti trovati su Google e aggiornabili da te. CRM su misura, uno strumento interno per non perdere i contatti. Automazioni AI per i lavori che si ripetono: arriva una richiesta, l'AI la legge e la ordina, tu ricevi l'avviso.\nNiente cataloghi infiniti: quasi sempre ti serve meno di quanto pensi.\n#automazioni #crm #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R18.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R19",
+      "titolo": "Quante imprese hanno un sito",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2026-12-10 18:30",
+      "dueAt": "2026-12-10T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\nRispondi nei commenti, poi guarda il dato Istat. Spoiler: sono più di quelle che usano i social.\nSe la tua è tra quelle che mancano, rimediamo in dieci giorni.\n#istat #pmiitaliane #sitiweb #digitale #bologna",
+          "video": "media/reel/R19.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\nRispondi nei commenti, poi guarda il dato Istat. Spoiler: sono più di quelle che usano i social.\nSe la tua è tra quelle che mancano, rimediamo in dieci giorni.\n#istat #pmiitaliane #sitiweb #digitale #bologna",
+          "video": "media/reel/R19.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R20",
+      "titolo": "Chi c’e dietro",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-12-15 18:30",
+      "dueAt": "2026-12-15T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Chi c'è dietro Dieci Bottega?\nLorenzo Lambertini, design e web: crede che ogni pixel debba guadagnarsi il proprio posto. Tommaso Villa, strategia e vendite: trasforma un brief in un piano d'azione concreto. Amici da più di dieci anni, oggi una bottega.\nQuando ci scrivi, ti rispondiamo noi.\n#founders #bottegadigitale #bologna #pmiitaliane #webdesign",
+          "video": "media/reel/R20.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Chi c'è dietro Dieci Bottega?\nLorenzo Lambertini, design e web: crede che ogni pixel debba guadagnarsi il proprio posto. Tommaso Villa, strategia e vendite: trasforma un brief in un piano d'azione concreto. Amici da più di dieci anni, oggi una bottega.\nQuando ci scrivi, ti rispondiamo noi.\n#founders #bottegadigitale #bologna #pmiitaliane #webdesign",
+          "video": "media/reel/R20.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R21",
+      "titolo": "Quale menu",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2026-12-17 18:30",
+      "dueAt": "2026-12-17T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù scelte, più tempo per decidere: lo dice la legge di Hick-Hyman. Ma nel video c'è la parte che pochi sanno, su quanto cresce davvero quel tempo.\n#ux #webdesign #menu #sitiweb #pmiitaliane",
+          "video": "media/reel/R21.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù scelte, più tempo per decidere: lo dice la legge di Hick-Hyman. Ma nel video c'è la parte che pochi sanno, su quanto cresce davvero quel tempo.\n#ux #webdesign #menu #sitiweb #pmiitaliane",
+          "video": "media/reel/R21.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R22",
+      "titolo": "La X accetta i cookie",
+      "formato": "Vero o falso?",
+      "tipo": "reel",
+      "quando": "2027-01-05 18:30",
+      "dueAt": "2027-01-05T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
+          "video": "media/reel/R22.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
+          "video": "media/reel/R22.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R23",
+      "titolo": "Perche Bottega",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-01-07 18:30",
+      "dueAt": "2027-01-07T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
+          "video": "media/reel/R23.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
+          "video": "media/reel/R23.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R24",
+      "titolo": "Il tempo LCP",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-01-12 18:30",
+      "dueAt": "2027-01-12T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
+          "video": "media/reel/R24.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
+          "video": "media/reel/R24.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R25",
+      "titolo": "Solo un effetto",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-01-14 18:30",
+      "dueAt": "2027-01-14T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\nIl movimento ha tre regole: rapido, deciso, mai gratuito. Ogni transizione sta tra 150 e 400 millisecondi. Oltre, l'occhio percepisce lentezza. Sotto, l'animazione sparisce. — Lorenzo\n#motiondesign #webdesign #dettagli #bottegadigitale #ux",
+          "video": "media/reel/R25.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\nIl movimento ha tre regole: rapido, deciso, mai gratuito. Ogni transizione sta tra 150 e 400 millisecondi. Oltre, l'occhio percepisce lentezza. Sotto, l'animazione sparisce. — Lorenzo\n#motiondesign #webdesign #dettagli #bottegadigitale #ux",
+          "video": "media/reel/R25.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R26",
+      "titolo": "Mentre carica",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-01-19 18:30",
+      "dueAt": "2027-01-19T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Mentre la pagina carica, quale va meglio? A o B nei commenti.\nQuando il bottone salta proprio mentre stai per toccarlo, non è sfortuna: è una misura precisa, ed è uno dei tre Core Web Vitals di Google. Te la spieghiamo nel video.\n#corewebvitals #ux #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R26.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Mentre la pagina carica, quale va meglio? A o B nei commenti.\nQuando il bottone salta proprio mentre stai per toccarlo, non è sfortuna: è una misura precisa, ed è uno dei tre Core Web Vitals di Google. Te la spieghiamo nel video.\n#corewebvitals #ux #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R26.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R27",
+      "titolo": "Il ranking locale",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-01-21 18:30",
+      "dueAt": "2027-01-21T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
+          "video": "media/reel/R27.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
+          "video": "media/reel/R27.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R28",
+      "titolo": "Quando ci scrivi",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-01-26 18:30",
+      "dueAt": "2027-01-26T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, con un piano d'azione. Poi una prima call gratuita, trenta minuti. Senza impegno, senza preventivi gonfiati: capisci se siamo i giusti per te.\nScrivici da diecibottega.it o su WhatsApp.\n#bottegadigitale #sitiweb #pmiitaliane #bologna #webdesign",
+          "video": "media/reel/R28.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, con un piano d'azione. Poi una prima call gratuita, trenta minuti. Senza impegno, senza preventivi gonfiati: capisci se siamo i giusti per te.\nScrivici da diecibottega.it o su WhatsApp.\n#bottegadigitale #sitiweb #pmiitaliane #bologna #webdesign",
+          "video": "media/reel/R28.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R29",
+      "titolo": "Le voci nel menu",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-01-28 18:30",
+      "dueAt": "2027-01-28T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Più voci metti nel menu... decidi prima, nessuna differenza o decidi più tardi?\nRispondi nei commenti. La risposta è nella legge di Hick-Hyman, e c'è un dettaglio che sorprende su quanto cresce il tempo.\n#ux #menu #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R29.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Più voci metti nel menu... decidi prima, nessuna differenza o decidi più tardi?\nRispondi nei commenti. La risposta è nella legge di Hick-Hyman, e c'è un dettaglio che sorprende su quanto cresce il tempo.\n#ux #menu #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R29.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R30",
+      "titolo": "Base Standard Premium",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-02-02 18:30",
+      "dueAt": "2027-02-02T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Base, Standard o Premium? Tre livelli di cura, tempi scritti accanto.\nBase, 5-7 giorni: solidità, niente fronzoli. Standard, 8-12 giorni: su misura, due round di revisione. Premium, 14-21 giorni: design custom, revisioni illimitate.\nIn tutti i livelli: revisioni, messa online e supporto dopo il lancio. Niente preventivi a sorpresa. Tariffe su diecibottega.it\n#prezzi #sitiweb #pmiitaliane #bottegadigitale #bologna",
+          "video": "media/reel/R30.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Base, Standard o Premium? Tre livelli di cura, tempi scritti accanto.\nBase, 5-7 giorni: solidità, niente fronzoli. Standard, 8-12 giorni: su misura, due round di revisione. Premium, 14-21 giorni: design custom, revisioni illimitate.\nIn tutti i livelli: revisioni, messa online e supporto dopo il lancio. Niente preventivi a sorpresa. Tariffe su diecibottega.it\n#prezzi #sitiweb #pmiitaliane #bottegadigitale #bologna",
+          "video": "media/reel/R30.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R31",
+      "titolo": "Banner cookie in regola",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-02-04 18:30",
+      "dueAt": "2027-02-04T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale banner cookie è in regola? A o B nei commenti.\nUn indizio: per chiudere serve un comando preciso. E nel video c'è una pratica che molti siti usano ancora e che non è ammessa. Fonte: Garante Privacy, linee guida 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R31.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale banner cookie è in regola? A o B nei commenti.\nUn indizio: per chiudere serve un comando preciso. E nel video c'è una pratica che molti siti usano ancora e che non è ammessa. Fonte: Garante Privacy, linee guida 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R31.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R32",
+      "titolo": "Microimprese esenti",
+      "formato": "Vero o falso?",
+      "tipo": "reel",
+      "quando": "2027-02-09 18:30",
+      "dueAt": "2027-02-09T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Vero o falso: \"Le microimprese di servizi sono esenti dagli obblighi di accessibilità.\"\nVota nei commenti, poi guarda chi rientra davvero nell'esenzione e qual è il riferimento per tutti gli altri. Fonte: European Accessibility Act, D.Lgs. 82/2022.\n#accessibilita #eaa #verofalso #sitiweb #pmiitaliane",
+          "video": "media/reel/R32.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Le microimprese di servizi sono esenti dagli obblighi di accessibilità.\"\nVota nei commenti, poi guarda chi rientra davvero nell'esenzione e qual è il riferimento per tutti gli altri. Fonte: European Accessibility Act, D.Lgs. 82/2022.\n#accessibilita #eaa #verofalso #sitiweb #pmiitaliane",
+          "video": "media/reel/R32.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R33",
+      "titolo": "Con cosa e fatto",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-02-11 18:30",
+      "dueAt": "2027-02-11T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Con cosa è fatto un nostro sito?\nDesign: Figma, palette, tipografia. Codice: Next.js, TypeScript, Tailwind. Movimento: Framer Motion. Dati: Supabase. Email: Resend. E l'AI come compagna di lavoro, Claude.\nIl codice lo scriviamo a mano. Sempre.\n#webdevelopment #nextjs #webdesign #bottegadigitale #sitiweb",
+          "video": "media/reel/R33.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Con cosa è fatto un nostro sito?\nDesign: Figma, palette, tipografia. Codice: Next.js, TypeScript, Tailwind. Movimento: Framer Motion. Dati: Supabase. Email: Resend. E l'AI come compagna di lavoro, Claude.\nIl codice lo scriviamo a mano. Sempre.\n#webdevelopment #nextjs #webdesign #bottegadigitale #sitiweb",
+          "video": "media/reel/R33.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R34",
+      "titolo": "AI Mode in italiano",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-02-16 18:30",
+      "dueAt": "2027-02-16T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Da quando AI Mode di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\nRispondi nei commenti. Nel video la data esatta, e con quante altre lingue è arrivato. Significa che i tuoi clienti fanno già domande all'AI di Google: il tuo sito è pronto a essere citato?\n#google #aimode #geo #intelligenzaartificiale #pmiitaliane",
+          "video": "media/reel/R34.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Da quando AI Mode di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\nRispondi nei commenti. Nel video la data esatta, e con quante altre lingue è arrivato. Significa che i tuoi clienti fanno già domande all'AI di Google: il tuo sito è pronto a essere citato?\n#google #aimode #geo #intelligenzaartificiale #pmiitaliane",
+          "video": "media/reel/R34.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R35",
+      "titolo": "Distanza zero",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-02-18 18:30",
+      "dueAt": "2027-02-18T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quanto è lontana la tua web agency?\nNoi parliamo italiano e lavoriamo da Bologna. Conosciamo le PMI perché ci viviamo in mezzo. La distanza zero è il nostro vantaggio.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #prossimita #bottegadigitale #sitiweb",
+          "video": "media/reel/R35.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quanto è lontana la tua web agency?\nNoi parliamo italiano e lavoriamo da Bologna. Conosciamo le PMI perché ci viviamo in mezzo. La distanza zero è il nostro vantaggio.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #prossimita #bottegadigitale #sitiweb",
+          "video": "media/reel/R35.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R36",
+      "titolo": "Il nome su Maps",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-02-23 18:30",
+      "dueAt": "2027-02-23T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Su Google Maps, quale nome va bene per la tua attività? A o B nei commenti.\nAggiungere parole chiave al nome sembra furbo. Guarda cosa dicono le linee guida di Google, e come scegliere le categorie giuste.\n#googlemaps #seolocale #googlebusiness #pmiitaliane #bologna",
+          "video": "media/reel/R36.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Su Google Maps, quale nome va bene per la tua attività? A o B nei commenti.\nAggiungere parole chiave al nome sembra furbo. Guarda cosa dicono le linee guida di Google, e come scegliere le categorie giuste.\n#googlemaps #seolocale #googlebusiness #pmiitaliane #bologna",
+          "video": "media/reel/R36.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R37",
+      "titolo": "Cosa misura l’INP",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-02-25 18:30",
+      "dueAt": "2027-02-25T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Cosa misura l'INP di Google? Il tempo di caricamento, la risposta quando tocchi o la posizione su Google?\nRispondi nei commenti. Nel video la risposta e la soglia da rispettare. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #ux #velocita #sitiweb #pmiitaliane",
+          "video": "media/reel/R37.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Cosa misura l'INP di Google? Il tempo di caricamento, la risposta quando tocchi o la posizione su Google?\nRispondi nei commenti. Nel video la risposta e la soglia da rispettare. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #ux #velocita #sitiweb #pmiitaliane",
+          "video": "media/reel/R37.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R38",
+      "titolo": "Ti riconosci",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-03-02 18:30",
+      "dueAt": "2027-03-02T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Ti riconosci?\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" \"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" \"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\"\nQualunque sia il punto di partenza: il sito che ti serve, fatto bene.\n#sitiweb #pmiitaliane #ristoranti #personaltrainer #bologna",
+          "video": "media/reel/R38.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Ti riconosci?\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" \"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" \"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\"\nQualunque sia il punto di partenza: il sito che ti serve, fatto bene.\n#sitiweb #pmiitaliane #ristoranti #personaltrainer #bologna",
+          "video": "media/reel/R38.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R39",
+      "titolo": "Accessibilita e microimprese",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-03-04 18:30",
+      "dueAt": "2027-03-04T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Accessibilità: le microimprese di servizi sono esenti. Ma sotto quanti dipendenti? 10, 50 o 250?\nRispondi nei commenti. Nel video la soglia esatta e un \"ma attenzione\" da non sottovalutare. Fonte: European Accessibility Act, D.Lgs. 82/2022.\n#accessibilita #eaa #pmiitaliane #sitiweb #ecommerce",
+          "video": "media/reel/R39.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Accessibilità: le microimprese di servizi sono esenti. Ma sotto quanti dipendenti? 10, 50 o 250?\nRispondi nei commenti. Nel video la soglia esatta e un \"ma attenzione\" da non sottovalutare. Fonte: European Accessibility Act, D.Lgs. 82/2022.\n#accessibilita #eaa #pmiitaliane #sitiweb #ecommerce",
+          "video": "media/reel/R39.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R40",
+      "titolo": "Un protocollo",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-03-09 18:30",
+      "dueAt": "2027-03-09T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\nSpaziature. Microcopy: massimo tre parole, niente esclamativi. Performance. Accessibilità, con contrasto AA. Ogni sito passa questi controlli prima di andare online. Tutto curato.\n#dettagli #webdesign #bottegadigitale #ux #sitiweb",
+          "video": "media/reel/R40.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\nSpaziature. Microcopy: massimo tre parole, niente esclamativi. Performance. Accessibilità, con contrasto AA. Ogni sito passa questi controlli prima di andare online. Tutto curato.\n#dettagli #webdesign #bottegadigitale #ux #sitiweb",
+          "video": "media/reel/R40.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R41",
+      "titolo": "Testo accessibile",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-03-11 18:30",
+      "dueAt": "2027-03-11T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale testo è accessibile? A o B nei commenti.\nContrasto sufficiente significa WCAG 2.1, livello AA. E dal 28 giugno 2025 per molti servizi digitali, e-commerce compreso, è un obbligo.\n#accessibilita #wcag #ecommerce #sitiweb #pmiitaliane",
+          "video": "media/reel/R41.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale testo è accessibile? A o B nei commenti.\nContrasto sufficiente significa WCAG 2.1, livello AA. E dal 28 giugno 2025 per molti servizi digitali, e-commerce compreso, è un obbligo.\n#accessibilita #wcag #ecommerce #sitiweb #pmiitaliane",
+          "video": "media/reel/R41.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R42",
+      "titolo": "Google guarda il telefono",
+      "formato": "Vero o falso?",
+      "tipo": "reel",
+      "quando": "2027-03-16 18:30",
+      "dueAt": "2027-03-16T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Vero o falso: \"Google valuta il tuo sito guardando la versione da telefono.\"\nVota nei commenti prima del reveal. Se la risposta ti sorprende, è il momento di aprire il tuo sito dallo smartphone. Fonte: Google Search Central.\n#google #mobilefirst #seo #verofalso #sitiweb",
+          "video": "media/reel/R42.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Google valuta il tuo sito guardando la versione da telefono.\"\nVota nei commenti prima del reveal. Se la risposta ti sorprende, è il momento di aprire il tuo sito dallo smartphone. Fonte: Google Search Central.\n#google #mobilefirst #seo #verofalso #sitiweb",
+          "video": "media/reel/R42.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R43",
+      "titolo": "Tre mesi",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-03-18 18:30",
+      "dueAt": "2027-03-18T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Tre mesi per un sito? Dieci giorni, non tre mesi.\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. La velocità non è una scorciatoia, è metodo.\n#velocita #metodo #sitiweb #bottegadigitale #pmiitaliane",
+          "video": "media/reel/R43.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Tre mesi per un sito? Dieci giorni, non tre mesi.\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. La velocità non è una scorciatoia, è metodo.\n#velocita #metodo #sitiweb #bottegadigitale #pmiitaliane",
+          "video": "media/reel/R43.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R44",
+      "titolo": "Banner cookie dopo sei mesi",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-03-23 18:30",
+      "dueAt": "2027-03-23T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il banner dei cookie si può riproporre dopo quanto? Un mese, sei mesi o un anno?\nRispondi nei commenti. Nel video la regola, e perché riproporlo apposta per strappare un sì non è una furbizia. Fonte: Garante Privacy, FAQ cookie 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R44.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il banner dei cookie si può riproporre dopo quanto? Un mese, sei mesi o un anno?\nRispondi nei commenti. Nel video la regola, e perché riproporlo apposta per strappare un sì non è una furbizia. Fonte: Garante Privacy, FAQ cookie 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R44.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R45",
+      "titolo": "Niente gergo",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-03-25 18:30",
+      "dueAt": "2027-03-25T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Soluzioni digitali, visibilità digitale, strategie omnicanale. Gergo da agenzia.\nNoi non vendiamo soluzioni digitali. Diciamo cosa facciamo, in quanti giorni e a quanto: sito vetrina, 10 giorni, da 1.200 €. Vendiamo lavoro fatto bene.\n#bottegadigitale #trasparenza #sitiweb #pmiitaliane #bologna",
+          "video": "media/reel/R45.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Soluzioni digitali, visibilità digitale, strategie omnicanale. Gergo da agenzia.\nNoi non vendiamo soluzioni digitali. Diciamo cosa facciamo, in quanti giorni e a quanto: sito vetrina, 10 giorni, da 1.200 €. Vendiamo lavoro fatto bene.\n#bottegadigitale #trasparenza #sitiweb #pmiitaliane #bologna",
+          "video": "media/reel/R45.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R46",
+      "titolo": "Quale titolo",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-03-30 18:30",
+      "dueAt": "2027-03-30T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale titolo funziona meglio per un idraulico di Bologna? A o B nei commenti.\nLe prime parole dicono chi sei e cosa fai. Nel video perché il titolo lo vedono tutti e il resto spesso no. Fonte: Nielsen Norman Group.\n#copywriting #webdesign #homepage #sitiweb #pmiitaliane",
+          "video": "media/reel/R46.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale titolo funziona meglio per un idraulico di Bologna? A o B nei commenti.\nLe prime parole dicono chi sei e cosa fai. Nel video perché il titolo lo vedono tutti e il resto spesso no. Fonte: Nielsen Norman Group.\n#copywriting #webdesign #homepage #sitiweb #pmiitaliane",
+          "video": "media/reel/R46.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R47",
+      "titolo": "Imprese che usano l’AI",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-04-01 18:30",
+      "dueAt": "2027-04-01T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Imprese italiane che usano l'AI nel 2025: il 4%, il 50% o il 16,4%?\nRispondi nei commenti. Nel video il dato Istat, quanto è cresciuto in un anno e la differenza enorme tra grandi imprese e PMI.\n#intelligenzaartificiale #istat #pmiitaliane #digitale #automazioni",
+          "video": "media/reel/R47.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Imprese italiane che usano l'AI nel 2025: il 4%, il 50% o il 16,4%?\nRispondi nei commenti. Nel video il dato Istat, quanto è cresciuto in un anno e la differenza enorme tra grandi imprese e PMI.\n#intelligenzaartificiale #istat #pmiitaliane #digitale #automazioni",
+          "video": "media/reel/R47.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R48",
+      "titolo": "Di chi e il sito",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-04-06 18:30",
+      "dueAt": "2027-04-06T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Di chi è il tuo sito?\nIl dominio è intestato a te? Hai l'accesso al registrar? Hai le credenziali dell'hosting? Puoi cambiare fornitore domani? Se il dominio è intestato all'agenzia, cambiare diventa difficile.\nDa noi, il giorno dieci ti consegniamo le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#dominio #sitiweb #pmiitaliane #trasparenza #bottegadigitale",
+          "video": "media/reel/R48.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Di chi è il tuo sito?\nIl dominio è intestato a te? Hai l'accesso al registrar? Hai le credenziali dell'hosting? Puoi cambiare fornitore domani? Se il dominio è intestato all'agenzia, cambiare diventa difficile.\nDa noi, il giorno dieci ti consegniamo le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#dominio #sitiweb #pmiitaliane #trasparenza #bottegadigitale",
+          "video": "media/reel/R48.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R49",
+      "titolo": "Chi risponde entro un’ora",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-04-08 18:30",
+      "dueAt": "2027-04-08T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quante aziende rispondono a un contatto entro un'ora? Il 37%, il 70% o il 90%?\nRispondi nei commenti. Nel video la percentuale vera e il tempo medio di risposta, che fa riflettere. Fonte: Harvard Business Review.\n#clienti #vendite #crm #pmiitaliane #automazioni",
+          "video": "media/reel/R49.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quante aziende rispondono a un contatto entro un'ora? Il 37%, il 70% o il 90%?\nRispondi nei commenti. Nel video la percentuale vera e il tempo medio di risposta, che fa riflettere. Fonte: Harvard Business Review.\n#clienti #vendite #crm #pmiitaliane #automazioni",
+          "video": "media/reel/R49.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R50",
+      "titolo": "La X del banner",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-04-13 18:30",
+      "dueAt": "2027-04-13T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Se clicchi la X sul banner dei cookie, cosa succede? Equivale a rifiutare.\nE poi: scorrere la pagina non è consenso. Niente cookie wall, il sito si usa anche senza accettare. I cookie tecnici non chiedono consenso. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nFonte: Garante Privacy, linee guida cookie 2021. Informazione generale, non è una consulenza legale.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R50.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Se clicchi la X sul banner dei cookie, cosa succede? Equivale a rifiutare.\nE poi: scorrere la pagina non è consenso. Niente cookie wall, il sito si usa anche senza accettare. I cookie tecnici non chiedono consenso. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nFonte: Garante Privacy, linee guida cookie 2021. Informazione generale, non è una consulenza legale.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R50.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R51",
+      "titolo": "La versione da telefono",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-04-15 18:30",
+      "dueAt": "2027-04-15T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Da telefono, quale versione funziona? A o B nei commenti.\nTesto leggibile, bottoni grandi, niente zoom. E c'è un motivo in più per farlo bene: nel video, come Google guarda il tuo sito.\n#mobilefirst #webdesign #ux #sitiweb #pmiitaliane",
+          "video": "media/reel/R51.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Da telefono, quale versione funziona? A o B nei commenti.\nTesto leggibile, bottoni grandi, niente zoom. E c'è un motivo in più per farlo bene: nel video, come Google guarda il tuo sito.\n#mobilefirst #webdesign #ux #sitiweb #pmiitaliane",
+          "video": "media/reel/R51.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R52",
+      "titolo": "Le foto stock",
+      "formato": "Vero o falso?",
+      "tipo": "reel",
+      "quando": "2027-04-20 18:30",
+      "dueAt": "2027-04-20T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Vero o falso: \"Le foto stock fanno sembrare il sito più professionale.\"\nVota nei commenti. Nel video cosa fanno davvero gli utenti con le foto stock, e a quale condizione le foto funzionano. Fonte: Nielsen Norman Group.\n#fotografia #webdesign #verofalso #sitiweb #pmiitaliane",
+          "video": "media/reel/R52.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Le foto stock fanno sembrare il sito più professionale.\"\nVota nei commenti. Nel video cosa fanno davvero gli utenti con le foto stock, e a quale condizione le foto funzionano. Fonte: Nielsen Norman Group.\n#fotografia #webdesign #verofalso #sitiweb #pmiitaliane",
+          "video": "media/reel/R52.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R53",
+      "titolo": "Tre secondi",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-04-22 18:30",
+      "dueAt": "2027-04-22T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quanto aspetti che un sito si apra? Due secondi, forse tre.\nIl 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi (fonte: Google). Per questo da noi: mobile-first, codice pulito, performance vere.\nOgni millisecondo è una scelta consapevole.\n#velocita #mobilefirst #sitiweb #webdesign #pmiitaliane",
+          "video": "media/reel/R53.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quanto aspetti che un sito si apra? Due secondi, forse tre.\nIl 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi (fonte: Google). Per questo da noi: mobile-first, codice pulito, performance vere.\nOgni millisecondo è una scelta consapevole.\n#velocita #mobilefirst #sitiweb #webdesign #pmiitaliane",
+          "video": "media/reel/R53.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R54",
+      "titolo": "Il primo banner",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-04-27 18:30",
+      "dueAt": "2027-04-27T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il primo banner pubblicitario della storia, 1994. Quanti lo cliccarono? Il 4%, il 14% o il 44%?\nRispondi nei commenti. Nel video la risposta, e cosa c'era scritto sopra. Avevano ragione.\n#storiadelweb #web #curiosita #marketing #bottegadigitale",
+          "video": "media/reel/R54.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il primo banner pubblicitario della storia, 1994. Quanti lo cliccarono? Il 4%, il 14% o il 44%?\nRispondi nei commenti. Nel video la risposta, e cosa c'era scritto sopra. Avevano ragione.\n#storiadelweb #web #curiosita #marketing #bottegadigitale",
+          "video": "media/reel/R54.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R55",
+      "titolo": "Basta Instagram",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-04-29 18:30",
+      "dueAt": "2027-04-29T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Basta Instagram?\nNel 2025 il 76,5% delle imprese italiane ha un sito, il 59% usa i social (fonte: Istat). Instagram è un profilo. Il sito è casa tua: un sito che ti fa prendere sul serio, trovato su Google, aggiornabile da te.\n#instagram #sitiweb #pmiitaliane #istat #bologna",
+          "video": "media/reel/R55.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Basta Instagram?\nNel 2025 il 76,5% delle imprese italiane ha un sito, il 59% usa i social (fonte: Istat). Instagram è un profilo. Il sito è casa tua: un sito che ti fa prendere sul serio, trovato su Google, aggiornabile da te.\n#instagram #sitiweb #pmiitaliane #istat #bologna",
+          "video": "media/reel/R55.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R56",
+      "titolo": "Rispondere alle recensioni",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-05-04 18:30",
+      "dueAt": "2027-05-04T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Arriva una recensione. Come reagisci? A o B nei commenti.\nRispondere mostra che tieni ai clienti. E nel video c'è un dettaglio che pochi sanno su cosa succede quando rispondi. Fonte: Google, guida del Profilo dell'Attività.\n#recensioni #googlebusiness #clienti #pmiitaliane #bologna",
+          "video": "media/reel/R56.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Arriva una recensione. Come reagisci? A o B nei commenti.\nRispondere mostra che tieni ai clienti. E nel video c'è un dettaglio che pochi sanno su cosa succede quando rispondi. Fonte: Google, guida del Profilo dell'Attività.\n#recensioni #googlebusiness #clienti #pmiitaliane #bologna",
+          "video": "media/reel/R56.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R57",
+      "titolo": "Il primo dominio .it",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-05-06 18:30",
+      "dueAt": "2027-05-06T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il primo dominio .it della storia: quando nasce? Nel 1995, nel 1987 o nel 2001?\nRispondi nei commenti. Nel video la data, il nome del dominio e chi gestisce ancora oggi il registro del .it.\n#dominio #storiadelweb #curiosita #italia #sitiweb",
+          "video": "media/reel/R57.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il primo dominio .it della storia: quando nasce? Nel 1995, nel 1987 o nel 2001?\nRispondi nei commenti. Nel video la data, il nome del dominio e chi gestisce ancora oggi il registro del .it.\n#dominio #storiadelweb #curiosita #italia #sitiweb",
+          "video": "media/reel/R57.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R58",
+      "titolo": "Accessibilita",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-05-11 18:30",
+      "dueAt": "2027-05-11T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il tuo e-commerce è accessibile?\nEuropean Accessibility Act: dal 28 giugno 2025 valgono obblighi per molti servizi digitali ai consumatori (in Italia, D.Lgs. 82/2022). Riguarda anche l'e-commerce. Riferimento tecnico: WCAG 2.1, livello AA. Le microimprese di servizi sono esenti.\nInformazione generale, non è una consulenza legale.\n#accessibilita #eaa #ecommerce #pmiitaliane #sitiweb",
+          "video": "media/reel/R58.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il tuo e-commerce è accessibile?\nEuropean Accessibility Act: dal 28 giugno 2025 valgono obblighi per molti servizi digitali ai consumatori (in Italia, D.Lgs. 82/2022). Riguarda anche l'e-commerce. Riferimento tecnico: WCAG 2.1, livello AA. Le microimprese di servizi sono esenti.\nInformazione generale, non è una consulenza legale.\n#accessibilita #eaa #ecommerce #pmiitaliane #sitiweb",
+          "video": "media/reel/R58.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R59",
+      "titolo": "Cosa significa QR",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-05-13 18:30",
+      "dueAt": "2027-05-13T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "QR code: cosa significa QR? Quick Response, Quality Ranking o Quick Read?\nRispondi nei commenti. Nel video la risposta e per cosa è nato, nel 1994. Non te lo aspetti.\n#qrcode #curiosita #storiadeltech #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R59.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "QR code: cosa significa QR? Quick Response, Quality Ranking o Quick Read?\nRispondi nei commenti. Nel video la risposta e per cosa è nato, nel 1994. Non te lo aspetti.\n#qrcode #curiosita #storiadeltech #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R59.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R60",
+      "titolo": "La scheda Google",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-05-18 18:30",
+      "dueAt": "2027-05-18T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il tuo nome su Google è così? \"La tua bottega - siti web Bologna economici migliori offerta\".\nLe regole per il Profilo dell'Attività: il nome reale, senza parole chiave aggiunte. Categorie, le più specifiche possibili. Orari aggiornati, anche quelli stagionali. Un profilo per ogni sede.\nDa noi, Google dal primo giorno. Fonte: linee guida di Google.\n#googlebusiness #googlemaps #seolocale #pmiitaliane #bologna",
+          "video": "media/reel/R60.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il tuo nome su Google è così? \"La tua bottega - siti web Bologna economici migliori offerta\".\nLe regole per il Profilo dell'Attività: il nome reale, senza parole chiave aggiunte. Categorie, le più specifiche possibili. Orari aggiornati, anche quelli stagionali. Un profilo per ogni sede.\nDa noi, Google dal primo giorno. Fonte: linee guida di Google.\n#googlebusiness #googlemaps #seolocale #pmiitaliane #bologna",
+          "video": "media/reel/R60.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R61",
+      "titolo": "Il testo citato dalle AI",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-05-20 18:30",
+      "dueAt": "2027-05-20T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale testo \"Chi siamo\" citerebbe un'AI? A o B nei commenti.\nDati concreti, fonti, citazioni. Nel video quanto possono pesare sulla visibilità nelle risposte delle AI, secondo uno studio sulla GEO.\n#geo #intelligenzaartificiale #copywriting #sitiweb #pmiitaliane",
+          "video": "media/reel/R61.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale testo \"Chi siamo\" citerebbe un'AI? A o B nei commenti.\nDati concreti, fonti, citazioni. Nel video quanto possono pesare sulla visibilità nelle risposte delle AI, secondo uno studio sulla GEO.\n#geo #intelligenzaartificiale #copywriting #sitiweb #pmiitaliane",
+          "video": "media/reel/R61.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R62",
+      "titolo": "Piu voci nel menu",
+      "formato": "Vero o falso?",
+      "tipo": "reel",
+      "quando": "2027-05-25 18:30",
+      "dueAt": "2027-05-25T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Vero o falso: \"Più voci metti nel menu, più è facile scegliere.\"\nVota nei commenti, poi guarda la risposta. Indizio: c'è una legge della psicologia degli anni '50 che ne parla.\n#ux #menu #verofalso #webdesign #sitiweb",
+          "video": "media/reel/R62.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Più voci metti nel menu, più è facile scegliere.\"\nVota nei commenti, poi guarda la risposta. Indizio: c'è una legge della psicologia degli anni '50 che ne parla.\n#ux #menu #verofalso #webdesign #sitiweb",
+          "video": "media/reel/R62.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R63",
+      "titolo": "Cinque domande",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-05-27 18:30",
+      "dueAt": "2027-05-27T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Prima di firmare, cinque domande da fare a un'agenzia.\nChi lavora davvero al progetto? A chi è intestato il dominio? Con quale tecnologia, e perché? Quando si pensa a Google? Cosa succede dopo il lancio?\nLe nostre risposte: Lorenzo e Tommaso. A te. Next.js, codice a mano. Dal primo giorno. Supporto post-lancio, incluso. Prezzi pubblici, tempi reali, limiti chiari.\n#sitiweb #pmiitaliane #consigli #bottegadigitale #bologna",
+          "video": "media/reel/R63.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Prima di firmare, cinque domande da fare a un'agenzia.\nChi lavora davvero al progetto? A chi è intestato il dominio? Con quale tecnologia, e perché? Quando si pensa a Google? Cosa succede dopo il lancio?\nLe nostre risposte: Lorenzo e Tommaso. A te. Next.js, codice a mano. Dal primo giorno. Supporto post-lancio, incluso. Prezzi pubblici, tempi reali, limiti chiari.\n#sitiweb #pmiitaliane #consigli #bottegadigitale #bologna",
+          "video": "media/reel/R63.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R64",
+      "titolo": "50 millisecondi",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-06-01 18:30",
+      "dueAt": "2027-06-01T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quanto ci mette qualcuno a giudicare il tuo sito? 50 millisecondi, 5 secondi o 30 secondi?\nRispondi nei commenti. Nel video la risposta, e cosa succede al giudizio dopo mezzo secondo. Fonte: Lindgaard et al.\n#webdesign #primaimpressione #ux #sitiweb #pmiitaliane",
+          "video": "media/reel/R64.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quanto ci mette qualcuno a giudicare il tuo sito? 50 millisecondi, 5 secondi o 30 secondi?\nRispondi nei commenti. Nel video la risposta, e cosa succede al giudizio dopo mezzo secondo. Fonte: Lindgaard et al.\n#webdesign #primaimpressione #ux #sitiweb #pmiitaliane",
+          "video": "media/reel/R64.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R65",
+      "titolo": "AI nelle imprese",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-06-03 18:30",
+      "dueAt": "2027-06-03T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "L'AI nelle imprese italiane, in un anno: dall'8,2% al 16,4% delle imprese con almeno 10 addetti (fonte: Istat).\nDa noi, da sempre: AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano, gli diamo un martello migliore.\n#intelligenzaartificiale #istat #pmiitaliane #artigianato #bottegadigitale",
+          "video": "media/reel/R65.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "L'AI nelle imprese italiane, in un anno: dall'8,2% al 16,4% delle imprese con almeno 10 addetti (fonte: Istat).\nDa noi, da sempre: AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano, gli diamo un martello migliore.\n#intelligenzaartificiale #istat #pmiitaliane #artigianato #bottegadigitale",
+          "video": "media/reel/R65.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R66",
+      "titolo": "Quale caricamento",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-06-08 18:30",
+      "dueAt": "2027-06-08T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale caricamento ti fa restare? A o B nei commenti.\nPer Google il contenuto principale deve comparire entro 2,5 secondi. Nel video quanto ci metteva in media una homepage mobile qualche anno fa.\n#velocita #corewebvitals #ux #sitiweb #pmiitaliane",
+          "video": "media/reel/R66.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale caricamento ti fa restare? A o B nei commenti.\nPer Google il contenuto principale deve comparire entro 2,5 secondi. Nel video quanto ci metteva in media una homepage mobile qualche anno fa.\n#velocita #corewebvitals #ux #sitiweb #pmiitaliane",
+          "video": "media/reel/R66.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R67",
+      "titolo": "Credibilita e design",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-06-10 18:30",
+      "dueAt": "2027-06-10T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quante persone giudicano la credibilità di un sito anche dal design? Una su dieci, quasi la metà o tutti?\nRispondi nei commenti. Nel video il dato, e in quale settore sale ancora. Fonte: Stanford Web Credibility Project.\n#webdesign #credibilita #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R67.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quante persone giudicano la credibilità di un sito anche dal design? Una su dieci, quasi la metà o tutti?\nRispondi nei commenti. Nel video il dato, e in quale settore sale ancora. Fonte: Stanford Web Credibility Project.\n#webdesign #credibilita #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R67.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R68",
+      "titolo": "Il giorno undici",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-06-15 18:30",
+      "dueAt": "2027-06-15T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il sito è online. E il giorno undici?\nLe chiavi sono tue: credenziali e dominio a tuo nome. Lo aggiorni da solo, con una guida scritta per te. Supporto post-lancio, incluso nel prezzo. E se serve altro, te lo diciamo chiaro.\nNiente sorprese alla consegna.\n#sitiweb #trasparenza #pmiitaliane #bottegadigitale #bologna",
+          "video": "media/reel/R68.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il sito è online. E il giorno undici?\nLe chiavi sono tue: credenziali e dominio a tuo nome. Lo aggiorni da solo, con una guida scritta per te. Supporto post-lancio, incluso nel prezzo. E se serve altro, te lo diciamo chiaro.\nNiente sorprese alla consegna.\n#sitiweb #trasparenza #pmiitaliane #bottegadigitale #bologna",
+          "video": "media/reel/R68.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R69",
+      "titolo": "Errori di accessibilita",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-06-17 18:30",
+      "dueAt": "2027-06-17T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il milione di siti più visitati al mondo: quante home page hanno errori di accessibilità? Il 25%, il 60% o il 95,9%?\nRispondi nei commenti. Nel video la risposta e l'errore più comune, quello che si vede a occhio nudo. Fonte: WebAIM Million.\n#accessibilita #webaim #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R69.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il milione di siti più visitati al mondo: quante home page hanno errori di accessibilità? Il 25%, il 60% o il 95,9%?\nRispondi nei commenti. Nel video la risposta e l'errore più comune, quello che si vede a occhio nudo. Fonte: WebAIM Million.\n#accessibilita #webaim #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R69.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R70",
+      "titolo": "Cosa e la GEO",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-06-22 18:30",
+      "dueAt": "2027-06-22T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "La SEO la conosci. E la GEO?\nGenerative Engine Optimization: farsi citare nelle risposte delle AI. Dall'8 ottobre 2025 AI Mode di Google parla anche italiano. Fonti, citazioni e dati possono portare fino al 40% di visibilità in più nelle risposte. Riempire di parole chiave? Non funziona.\nScrivi chiaro, cita le fonti, usa dati veri.\n#geo #seo #intelligenzaartificiale #sitiweb #pmiitaliane",
+          "video": "media/reel/R70.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "La SEO la conosci. E la GEO?\nGenerative Engine Optimization: farsi citare nelle risposte delle AI. Dall'8 ottobre 2025 AI Mode di Google parla anche italiano. Fonti, citazioni e dati possono portare fino al 40% di visibilità in più nelle risposte. Riempire di parole chiave? Non funziona.\nScrivi chiaro, cita le fonti, usa dati veri.\n#geo #seo #intelligenzaartificiale #sitiweb #pmiitaliane",
+          "video": "media/reel/R70.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R71",
+      "titolo": "La scheda Google",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-06-24 18:30",
+      "dueAt": "2027-06-24T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale scheda Google ti fa scegliere? A o B nei commenti.\nOrari aggiornati, anche quelli stagionali. Nel video un errore frequente che crea problemi su Maps. Fonte: linee guida del Profilo dell'Attività di Google.\n#googlebusiness #googlemaps #seolocale #pmiitaliane #bologna",
+          "video": "media/reel/R71.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale scheda Google ti fa scegliere? A o B nei commenti.\nOrari aggiornati, anche quelli stagionali. Nel video un errore frequente che crea problemi su Maps. Fonte: linee guida del Profilo dell'Attività di Google.\n#googlebusiness #googlemaps #seolocale #pmiitaliane #bologna",
+          "video": "media/reel/R71.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R72",
+      "titolo": "Parole chiave e AI",
+      "formato": "Vero o falso?",
+      "tipo": "reel",
+      "quando": "2027-06-29 18:30",
+      "dueAt": "2027-06-29T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Vero o falso: \"Ripetere le parole chiave ti fa citare dalle AI.\"\nVota nei commenti. Nel video cosa funziona davvero secondo lo studio sulla GEO, e quanto può pesare.\n#geo #seo #intelligenzaartificiale #verofalso #sitiweb",
+          "video": "media/reel/R72.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Ripetere le parole chiave ti fa citare dalle AI.\"\nVota nei commenti. Nel video cosa funziona davvero secondo lo studio sulla GEO, e quanto può pesare.\n#geo #seo #intelligenzaartificiale #verofalso #sitiweb",
+          "video": "media/reel/R72.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R73",
+      "titolo": "Lead caldi",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-07-01 18:30",
+      "dueAt": "2027-07-01T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Un cliente ti scrive alle 19:40. Quanto aspetti a rispondere?\nRispondere entro un'ora rende 7 volte più probabile qualificare il contatto, e fino a 60 volte rispetto a chi risponde dopo 24 ore. Eppure solo il 37% delle aziende risponde entro un'ora (fonte: Harvard Business Review).\nIl sito porta il contatto. La velocità la porti tu.\n#lead #clienti #automazioni #crm #pmiitaliane",
+          "video": "media/reel/R73.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Un cliente ti scrive alle 19:40. Quanto aspetti a rispondere?\nRispondere entro un'ora rende 7 volte più probabile qualificare il contatto, e fino a 60 volte rispetto a chi risponde dopo 24 ore. Eppure solo il 37% delle aziende risponde entro un'ora (fonte: Harvard Business Review).\nIl sito porta il contatto. La velocità la porti tu.\n#lead #clienti #automazioni #crm #pmiitaliane",
+          "video": "media/reel/R73.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R74",
+      "titolo": "Il carrello abbandonato",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-07-06 18:30",
+      "dueAt": "2027-07-06T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Perché tanti abbandonano il carrello? Per i colori, per troppe foto o per i costi extra?\nRispondi nei commenti. Nel video la percentuale e cosa intendiamo per costi extra. Fonte: Baymard Institute.\n#ecommerce #carrello #ux #pmiitaliane #vendereonline",
+          "video": "media/reel/R74.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Perché tanti abbandonano il carrello? Per i colori, per troppe foto o per i costi extra?\nRispondi nei commenti. Nel video la percentuale e cosa intendiamo per costi extra. Fonte: Baymard Institute.\n#ecommerce #carrello #ux #pmiitaliane #vendereonline",
+          "video": "media/reel/R74.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R75",
+      "titolo": "Cosa e un funnel",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-07-08 18:30",
+      "dueAt": "2027-07-08T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Cos'è un funnel?\nIl modello AIDA, il percorso di chi ti sceglie. Attenzione: ti trovano su Google o sui social. Interesse: il sito spiega chiaro. Desiderio: lavori, prezzi, persone vere. Azione: un bottone, scrivici.\nOgni passaggio perde qualcuno. Il sito serve a perderne meno.\n#funnel #marketing #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R75.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Cos'è un funnel?\nIl modello AIDA, il percorso di chi ti sceglie. Attenzione: ti trovano su Google o sui social. Interesse: il sito spiega chiaro. Desiderio: lavori, prezzi, persone vere. Azione: un bottone, scrivici.\nOgni passaggio perde qualcuno. Il sito serve a perderne meno.\n#funnel #marketing #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R75.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R76",
+      "titolo": "Form o WhatsApp",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-07-13 18:30",
+      "dueAt": "2027-07-13T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale contatto risponde prima: un modulo lungo o WhatsApp a un tocco? A o B nei commenti.\nMeno passaggi, conversazione più veloce. E rispondere entro un'ora cambia tutto: nel video quanto. Fonte: Harvard Business Review.\n#whatsapp #lead #ux #sitiweb #pmiitaliane",
+          "video": "media/reel/R76.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale contatto risponde prima: un modulo lungo o WhatsApp a un tocco? A o B nei commenti.\nMeno passaggi, conversazione più veloce. E rispondere entro un'ora cambia tutto: nel video quanto. Fonte: Harvard Business Review.\n#whatsapp #lead #ux #sitiweb #pmiitaliane",
+          "video": "media/reel/R76.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R77",
+      "titolo": "Quanti domini .it",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-07-15 18:30",
+      "dueAt": "2027-07-15T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quanti domini .it sono registrati? 350 mila, 3,5 milioni o 35 milioni?\nRispondi nei commenti. Nel video il numero esatto e quando è stato registrato il primo. Fonte: Registro .it, CNR.\n#dominio #italia #curiosita #sitiweb #storiadelweb",
+          "video": "media/reel/R77.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quanti domini .it sono registrati? 350 mila, 3,5 milioni o 35 milioni?\nRispondi nei commenti. Nel video il numero esatto e quando è stato registrato il primo. Fonte: Registro .it, CNR.\n#dominio #italia #curiosita #sitiweb #storiadelweb",
+          "video": "media/reel/R77.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R78",
+      "titolo": "Metterci la faccia",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-07-20 18:30",
+      "dueAt": "2027-07-20T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Foto stock o la tua faccia?\nLe foto decorative gli utenti le ignorano. Le foto di chi lavora davvero in azienda le guardano, con attenzione (fonte: Nielsen Norman Group).\nMetterci la faccia. Niente testimonial inventati.\n#fotografia #chisiamo #webdesign #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R78.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Foto stock o la tua faccia?\nLe foto decorative gli utenti le ignorano. Le foto di chi lavora davvero in azienda le guardano, con attenzione (fonte: Nielsen Norman Group).\nMetterci la faccia. Niente testimonial inventati.\n#fotografia #chisiamo #webdesign #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R78.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R79",
+      "titolo": "Cosa misura il CLS",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-07-22 18:30",
+      "dueAt": "2027-07-22T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Cosa misura il CLS di Google? I colori della pagina, il numero di link o quanto si sposta mentre carica?\nRispondi nei commenti. Nel video la risposta e la soglia \"buona\". Fonte: web.dev, Core Web Vitals.\n#corewebvitals #ux #velocita #sitiweb #pmiitaliane",
+          "video": "media/reel/R79.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Cosa misura il CLS di Google? I colori della pagina, il numero di link o quanto si sposta mentre carica?\nRispondi nei commenti. Nel video la risposta e la soglia \"buona\". Fonte: web.dev, Core Web Vitals.\n#corewebvitals #ux #velocita #sitiweb #pmiitaliane",
+          "video": "media/reel/R79.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R80",
+      "titolo": "I tre numeri di Google",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-07-27 18:30",
+      "dueAt": "2027-07-27T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Google misura il tuo sito con tre numeri.\nLCP, entro 2,5 secondi: quanto ci mette a comparire il contenuto principale. INP, entro 200 millisecondi: quanto risponde quando tocchi. CLS, entro 0,1: quanto si sposta mentre carica.\nSi chiamano Core Web Vitals. Noi li chiamiamo performance vere.\n#corewebvitals #seo #velocita #sitiweb #webdesign",
+          "video": "media/reel/R80.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Google misura il tuo sito con tre numeri.\nLCP, entro 2,5 secondi: quanto ci mette a comparire il contenuto principale. INP, entro 200 millisecondi: quanto risponde quando tocchi. CLS, entro 0,1: quanto si sposta mentre carica.\nSi chiamano Core Web Vitals. Noi li chiamiamo performance vere.\n#corewebvitals #seo #velocita #sitiweb #webdesign",
+          "video": "media/reel/R80.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R81",
+      "titolo": "La pagina prezzi",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-07-29 18:30",
+      "dueAt": "2027-07-29T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale pagina prezzi ispira fiducia? A o B nei commenti.\nPrezzi pubblici, tempi reali. Il nostro listino è pubblico: landing da 800 €, vetrina da 1.200 €. Scoprilo su diecibottega.it\n#prezzi #trasparenza #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R81.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale pagina prezzi ispira fiducia? A o B nei commenti.\nPrezzi pubblici, tempi reali. Il nostro listino è pubblico: landing da 800 €, vetrina da 1.200 €. Scoprilo su diecibottega.it\n#prezzi #trasparenza #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/reel/R81.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R82",
+      "titolo": "Il primo dominio .it",
+      "formato": "Vero o falso?",
+      "tipo": "reel",
+      "quando": "2027-08-03 18:30",
+      "dueAt": "2027-08-03T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Vero o falso: \"Il primo dominio .it è nato negli anni '80.\"\nVota nei commenti, poi guarda il video: c'è il nome del dominio e la data esatta. Fonte: CNR.\n#dominio #storiadelweb #verofalso #curiosita #italia",
+          "video": "media/reel/R82.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Il primo dominio .it è nato negli anni '80.\"\nVota nei commenti, poi guarda il video: c'è il nome del dominio e la data esatta. Fonte: CNR.\n#dominio #storiadelweb #verofalso #curiosita #italia",
+          "video": "media/reel/R82.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R83",
+      "titolo": "Perche su Maps",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-08-05 18:30",
+      "dueAt": "2027-08-05T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Perché su Maps compaiono loro e non tu?\nGoogle guarda tre cose: pertinenza, quanto il profilo risponde a ciò che si cerca; distanza, quanto sei lontano da chi cerca; prominenza, quanto sei conosciuto: link, recensioni, valutazioni. E rispondi alle recensioni: mostra che tieni al parere dei clienti.\nDa noi, il giorno dieci, Google Business Profile collegato.\n#googlemaps #seolocale #googlebusiness #pmiitaliane #bologna",
+          "video": "media/reel/R83.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Perché su Maps compaiono loro e non tu?\nGoogle guarda tre cose: pertinenza, quanto il profilo risponde a ciò che si cerca; distanza, quanto sei lontano da chi cerca; prominenza, quanto sei conosciuto: link, recensioni, valutazioni. E rispondi alle recensioni: mostra che tieni al parere dei clienti.\nDa noi, il giorno dieci, Google Business Profile collegato.\n#googlemaps #seolocale #googlebusiness #pmiitaliane #bologna",
+          "video": "media/reel/R83.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R84",
+      "titolo": "Il cookie wall",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-08-10 18:30",
+      "dueAt": "2027-08-10T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il cookie wall, cioè bloccare il sito finché non accetti: è sempre ammesso, non è ammesso o solo per l'e-commerce?\nRispondi nei commenti. Nel video la risposta del Garante Privacy (linee guida 2021).\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R84.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il cookie wall, cioè bloccare il sito finché non accetti: è sempre ammesso, non è ammesso o solo per l'e-commerce?\nRispondi nei commenti. Nel video la risposta del Garante Privacy (linee guida 2021).\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R84.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R85",
+      "titolo": "Come leggono il sito",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-08-12 18:30",
+      "dueAt": "2027-08-12T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Come leggono il tuo sito?\nNon leggono parola per parola. Due passate in alto, poi giù a sinistra. Le prime parole decidono quasi tutto (fonte: Nielsen Norman Group, eyetracking).\nPer questo pesiamo ogni parola. Soprattutto le prime.\n#copywriting #ux #webdesign #sitiweb #bottegadigitale",
+          "video": "media/reel/R85.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Come leggono il tuo sito?\nNon leggono parola per parola. Due passate in alto, poi giù a sinistra. Le prime parole decidono quasi tutto (fonte: Nielsen Norman Group, eyetracking).\nPer questo pesiamo ogni parola. Soprattutto le prime.\n#copywriting #ux #webdesign #sitiweb #bottegadigitale",
+          "video": "media/reel/R85.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R86",
+      "titolo": "Il dominio intestato",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-08-17 18:30",
+      "dueAt": "2027-08-17T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il tuo dominio: a chi è intestato? A o B nei commenti.\nIl dominio va intestato a te. Se è dell'agenzia, cambiare fornitore diventa difficile. Controlla oggi il tuo.\n#dominio #sitiweb #trasparenza #pmiitaliane #consigli",
+          "video": "media/reel/R86.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il tuo dominio: a chi è intestato? A o B nei commenti.\nIl dominio va intestato a te. Se è dell'agenzia, cambiare fornitore diventa difficile. Controlla oggi il tuo.\n#dominio #sitiweb #trasparenza #pmiitaliane #consigli",
+          "video": "media/reel/R86.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R87",
+      "titolo": "Una scheda per sede",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-08-19 18:30",
+      "dueAt": "2027-08-19T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Su Google, quante schede per ogni sede? Tre, quante vuoi o una?\nRispondi nei commenti. Nel video la risposta e la regola sul nome che molti ignorano. Fonte: linee guida del Profilo dell'Attività di Google.\n#googlebusiness #googlemaps #seolocale #pmiitaliane #bologna",
+          "video": "media/reel/R87.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Su Google, quante schede per ogni sede? Tre, quante vuoi o una?\nRispondi nei commenti. Nel video la risposta e la regola sul nome che molti ignorano. Fonte: linee guida del Profilo dell'Attività di Google.\n#googlebusiness #googlemaps #seolocale #pmiitaliane #bologna",
+          "video": "media/reel/R87.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R88",
+      "titolo": "Prima di scorrere",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-08-24 18:30",
+      "dueAt": "2027-08-24T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Prima di scorrere, hai già deciso?\nIl 57% del tempo si passa nella parte che vedi senza scorrere (fonte: Nielsen Norman Group). Sopra la piega servono tre cose: chi sei, in una riga. Cosa fai, senza gergo. Come contattarti, con un tocco.\nIl primo schermo lavora di più.\n#homepage #ux #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R88.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Prima di scorrere, hai già deciso?\nIl 57% del tempo si passa nella parte che vedi senza scorrere (fonte: Nielsen Norman Group). Sopra la piega servono tre cose: chi sei, in una riga. Cosa fai, senza gergo. Come contattarti, con un tocco.\nIl primo schermo lavora di più.\n#homepage #ux #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R88.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R89",
+      "titolo": "Contatti senza risposta",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2027-08-26 18:30",
+      "dueAt": "2027-08-26T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quante aziende non hanno mai risposto a un contatto? Il 3%, il 23% o il 53%?\nRispondi nei commenti, poi guarda il dato. Fonte: Harvard Business Review. Ogni contatto senza risposta è un cliente che va da un altro.\n#clienti #lead #crm #pmiitaliane #automazioni",
+          "video": "media/reel/R89.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quante aziende non hanno mai risposto a un contatto? Il 3%, il 23% o il 53%?\nRispondi nei commenti, poi guarda il dato. Fonte: Harvard Business Review. Ogni contatto senza risposta è un cliente che va da un altro.\n#clienti #lead #crm #pmiitaliane #automazioni",
+          "video": "media/reel/R89.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R90",
+      "titolo": "Troppe scelte",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-08-31 18:30",
+      "dueAt": "2027-08-31T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Troppe scelte? Un menu con quindici voci lascia indecisi. Un bottone solo, \"Scrivici\", fa decidere.\nPiù scelte, più tempo per decidere: lo dice la legge di Hick-Hyman, anni '50. Per questo la nostra landing page è una pagina con un obiettivo: farti contattare.\n#landingpage #ux #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R90.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Troppe scelte? Un menu con quindici voci lascia indecisi. Un bottone solo, \"Scrivici\", fa decidere.\nPiù scelte, più tempo per decidere: lo dice la legge di Hick-Hyman, anni '50. Per questo la nostra landing page è una pagina con un obiettivo: farti contattare.\n#landingpage #ux #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R90.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R91",
+      "titolo": "Quale checkout",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-09-02 18:30",
+      "dueAt": "2027-09-02T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale checkout fa comprare? A o B nei commenti.\nCosti chiari da subito, niente sorprese. Nel video quanti abbandonano il carrello per i costi extra. Fonte: Baymard Institute.\n#ecommerce #checkout #ux #pmiitaliane #vendereonline",
+          "video": "media/reel/R91.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quale checkout fa comprare? A o B nei commenti.\nCosti chiari da subito, niente sorprese. Nel video quanti abbandonano il carrello per i costi extra. Fonte: Baymard Institute.\n#ecommerce #checkout #ux #pmiitaliane #vendereonline",
+          "video": "media/reel/R91.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R92",
+      "titolo": "Risposte alle recensioni",
+      "formato": "Vero o falso?",
+      "tipo": "reel",
+      "quando": "2027-09-07 18:30",
+      "dueAt": "2027-09-07T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Vero o falso: \"Se rispondi a una recensione, chi l'ha scritta viene avvisato.\"\nVota nei commenti. Nel video la risposta, e un dettaglio su con quale nome compare la tua risposta. Fonte: Google, guida del Profilo dell'Attività.\n#recensioni #googlebusiness #verofalso #pmiitaliane #bologna",
+          "video": "media/reel/R92.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Se rispondi a una recensione, chi l'ha scritta viene avvisato.\"\nVota nei commenti. Nel video la risposta, e un dettaglio su con quale nome compare la tua risposta. Fonte: Google, guida del Profilo dell'Attività.\n#recensioni #googlebusiness #verofalso #pmiitaliane #bologna",
+          "video": "media/reel/R92.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R93",
+      "titolo": "Il primo sguardo",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-09-09 18:30",
+      "dueAt": "2027-09-09T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Primo sguardo: quale sito di uno studio dentistico ispira fiducia? A o B nei commenti.\nOrdine, spazio, un messaggio chiaro. Nel video in quanto tempo si forma il giudizio estetico: prima ancora di leggere. Fonte: Lindgaard et al.\n#webdesign #primaimpressione #fiducia #sitiweb #pmiitaliane",
+          "video": "media/reel/R93.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Primo sguardo: quale sito di uno studio dentistico ispira fiducia? A o B nei commenti.\nOrdine, spazio, un messaggio chiaro. Nel video in quanto tempo si forma il giudizio estetico: prima ancora di leggere. Fonte: Lindgaard et al.\n#webdesign #primaimpressione #fiducia #sitiweb #pmiitaliane",
+          "video": "media/reel/R93.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R94",
+      "titolo": "Il testo alternativo",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2027-09-14 18:30",
+      "dueAt": "2027-09-14T16:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Per chi non vede, quale immagine è leggibile? A o B nei commenti.\nIl testo alternativo descrive l'immagine a chi non la vede. Nel video quante immagini in home page ne sono prive, anche nei siti più visitati. Fonte: WebAIM Million.\n#accessibilita #alttext #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R94.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Per chi non vede, quale immagine è leggibile? A o B nei commenti.\nIl testo alternativo descrive l'immagine a chi non la vede. Nel video quante immagini in home page ne sono prive, anche nei siti più visitati. Fonte: WebAIM Million.\n#accessibilita #alttext #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R94.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    }
+  ]
+}
