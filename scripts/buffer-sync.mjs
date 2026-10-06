@@ -80,6 +80,20 @@ async function main() {
   }
   log("Canali:", Object.entries(canali).map(([s, c]) => `${s}=${c.name}`).join(", "));
 
+  // pulizia una tantum: elimina da Buffer i post elencati in coda/da-eliminare.json
+  if (fs.existsSync("coda/da-eliminare.json") && !DRY) {
+    const lista = JSON.parse(fs.readFileSync("coda/da-eliminare.json", "utf8"));
+    const rimasti = [];
+    for (const e of lista) {
+      try {
+        await gql(`mutation { deletePost(input: { id: ${JSON.stringify(e.id)} }) { __typename } }`);
+        log(`🗑 eliminato ${e.canale} ${e.dueAt}`);
+      } catch (err) { log(`✗ eliminazione ${e.id}: ${err.message}`); rimasti.push({ ...e, errore: err.message.slice(0, 300) }); }
+    }
+    if (rimasti.length) fs.writeFileSync("coda/da-eliminare.json", JSON.stringify(rimasti, null, 2));
+    else fs.unlinkSync("coda/da-eliminare.json");
+  }
+
   // post già programmati
   const programmati = {}; // channelId -> [{id, dueAt}]
   let after = null;
