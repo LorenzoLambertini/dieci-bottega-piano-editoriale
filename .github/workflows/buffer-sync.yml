@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "17 5 * * *"   # ogni mattina (07:17 ora italiana d'estate)
     - cron: "17 17 * * *"  # ogni sera (19:17 ora italiana d'estate)
+  push:
+    branches: [main]
+    paths: ["coda/coda.json", "coda/.prova", ".github/workflows/buffer-sync.yml", "scripts/buffer-sync.mjs"]
   workflow_dispatch:
     inputs:
       prova:
@@ -32,7 +35,9 @@ jobs:
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           DRY_RUN: ${{ inputs.prova && '1' || '0' }}
-        run: node scripts/buffer-sync.mjs
+        run: |
+          if [ -f coda/.prova ]; then export DRY_RUN=1; fi
+          node scripts/buffer-sync.mjs
       - name: Salva stato
         run: |
           git config user.name "dieci-bottega-bot"

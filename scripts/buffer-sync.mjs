@@ -12,7 +12,11 @@ const CODA = "coda/coda.json";
 const MARGINE_MS = 15 * 60 * 1000; // non programma nulla che esce tra meno di 15 minuti
 const MAX_TENTATIVI = 3;
 
-if (!KEY) { console.error("Manca BUFFER_API_KEY"); process.exit(1); }
+if (!KEY) {
+  fs.mkdirSync("coda", { recursive: true });
+  fs.writeFileSync("coda/STATO.md", `# Stato coda social\n\nUltimo controllo: ${new Date().toLocaleString("it-IT", { timeZone: "Europe/Rome" })}\n\n**Manca il secret BUFFER_API_KEY** nelle impostazioni del repo: non ho potuto parlare con Buffer.\n`);
+  console.error("Manca BUFFER_API_KEY"); process.exit(0);
+}
 
 const coda = JSON.parse(fs.readFileSync(CODA, "utf8"));
 const BASE = coda.baseUrl.replace(/\/?$/, "/");
