@@ -20,7 +20,7 @@
             "media/post/P01/slide05.png",
             "media/post/P01/slide06.png"
           ],
-          "stato": "da_programmare"
+          "stato": "scaduto"
         },
         "facebook": {
           "testo": "Ciao Bologna, siamo Dieci Bottega.\n\nSiamo in due: Lorenzo disegna e scrive il codice, Tommaso ti ascolta e segue il tuo progetto. Amici da più di dieci anni, oggi una bottega.\n\nFacciamo siti, CRM e automazioni per piccole attività e PMI. I prezzi sono pubblici e un sito vetrina è online in dieci giorni.\n\nQui racconteremo il mestiere, senza giri di parole.\n\nGuarda il listino: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=post&utm_campaign=p01\n\nÈ tutto nei dettagli.",
@@ -32,14 +32,14 @@
             "media/post/P01/slide05.png",
             "media/post/P01/slide06.png"
           ],
-          "stato": "da_programmare"
+          "stato": "scaduto"
         },
         "linkedin": {
           "testo": "Una bottega. Non un'agenzia.\n\nDieci Bottega nasce a Bologna da due amici che si conoscono da più di dieci anni. Lorenzo disegna e scrive il codice. Tommaso ascolta cosa serve a chi ha un'attività e segue il progetto dall'inizio alla fine.\n\nCostruiamo siti web, CRM e automazioni per piccole e medie imprese italiane. Partiamo da quattro regole:\n\n— Chi ti parla è chi fa il lavoro. Nessun passaggio di mano.\n— Il prezzo è scritto prima. Il listino è pubblico, non arriva dopo la terza riunione.\n— Il sito è online in dieci giorni. Veloci, non frettolosi.\n— L'AI è un attrezzo. Ci fa andare veloci sulle parti ripetitive. Cosa fare, e come, lo decidiamo noi.\n\nSu questa pagina racconteremo il mestiere: come lavoriamo, quanto costa, cosa conta davvero in un sito che deve portare clienti.\n\nListino e servizi: https://diecibottega.it/servizi?utm_source=linkedin&utm_medium=post&utm_campaign=p01\n\n#PMI #WebDesign #Bologna",
           "documento": "media/post/P01/carosello.pdf",
           "titoloDocumento": "Manifesto",
           "copertina": "media/post/P01/slide01.png",
-          "stato": "da_programmare"
+          "stato": "scaduto"
         }
       }
     },
@@ -54,12 +54,12 @@
         "instagram": {
           "testo": "Lavori bene. Ma online non si vede.\nIl tuo mestiere merita un sito che lo racconti come lo racconteresti tu, in bottega. Dieci giorni, non tre mesi. Al prezzo di un template, con la cura di un'agenzia.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
           "video": "media/reel/R01.mp4",
-          "stato": "da_programmare"
+          "stato": "scaduto"
         },
         "facebook": {
           "testo": "Lavori bene. Ma online non si vede.\nIl tuo mestiere merita un sito che lo racconti come lo racconteresti tu, in bottega. Dieci giorni, non tre mesi. Al prezzo di un template, con la cura di un'agenzia.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
           "video": "media/reel/R01.mp4",
-          "stato": "da_programmare"
+          "stato": "scaduto"
         }
       }
     },
@@ -99,12 +99,14 @@
         "instagram": {
           "testo": "Quale bottone ti fa venire voglia di prenotare? A o B, scrivilo nei commenti.\nLe nostre regole per i bottoni: contrasto forte, massimo tre parole, niente punti esclamativi. Parole che dicono cosa succede quando tocchi.\n#webdesign #microcopy #sitiweb #pmiitaliane #bologna",
           "video": "media/reel/R02.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3d8cc7b80e27772c2b769"
         },
         "facebook": {
           "testo": "Quale bottone ti fa venire voglia di prenotare? A o B, scrivilo nei commenti.\nLe nostre regole per i bottoni: contrasto forte, massimo tre parole, niente punti esclamativi. Parole che dicono cosa succede quando tocchi.\n#webdesign #microcopy #sitiweb #pmiitaliane #bologna",
           "video": "media/reel/R02.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac39876ece98e64bc155cdc"
         }
       }
     },
@@ -126,7 +128,9 @@
             "media/post/P04/slide06.png",
             "media/post/P04/slide07.png"
           ],
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac575558a697ec91171f750",
+          "programmatoIl": "2026-10-06T22:25:25.311Z"
         },
         "facebook": {
           "testo": "Quanto dovrebbe costare un sito?\n\nNon esiste una cifra giusta per tutti, ma ci sono 4 domande da fare a chiunque ti mandi un preventivo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nSalvalo per quando ti servirà. Il nostro listino è pubblico: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=post&utm_campaign=p04",
@@ -139,14 +143,16 @@
             "media/post/P04/slide06.png",
             "media/post/P04/slide07.png"
           ],
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ab6df9eb097c5b401a235b9"
         },
         "linkedin": {
           "testo": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tutti. Ma prima di confrontare preventivi, conviene capire cosa si sta confrontando. Di solito le strade sono tre:\n\n1. Il fai-da-te. Paghi poco al mese, il tempo lo metti tu. Il risultato dipende da un lavoro che non è il tuo.\n2. Il freelance a prezzo basso. Può andare benissimo o malissimo. Chiedi sempre chi aggiorna il sito dopo e a chi è intestato il dominio.\n3. L'agenzia tradizionale. Processo solido, tempi lunghi, preventivi spesso fuori scala per una piccola attività.\n\nQuattro domande da fare a chiunque, prima del prezzo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nNoi abbiamo scelto di scrivere il listino sul sito: landing page da 800 €, sito vetrina da 1.200 €, con tempi e cosa è incluso. Il prezzo giusto è quello che capisci prima di firmare.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=post&utm_campaign=p04\n\n#PMI #WebDesign #Preventivi",
           "documento": "media/post/P04/carosello.pdf",
           "titoloDocumento": "Listino",
           "copertina": "media/post/P04/slide01.png",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ab6df9bb097c5b401a23586"
         }
       }
     },
@@ -181,14 +187,16 @@
             "media/post/P05/slide06.png",
             "media/post/P05/slide07.png"
           ],
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ab6dfacf28173fa3f4e18b0"
         },
         "linkedin": {
           "testo": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
           "documento": "media/post/P05/carosello.pdf",
           "titoloDocumento": "Tip Visite",
           "copertina": "media/post/P05/slide01.png",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ab6dfa5dffba3cec6e44cc3"
         }
       }
     },
@@ -203,12 +211,15 @@
         "instagram": {
           "testo": "Un bottone. Quanto ci vuole a scriverlo?\nChiediamo all'AI otto varianti, poi scegliamo noi. L'AI è uno strumento, il criterio resta mestiere. Ogni font, ogni parola, ogni millisecondo è una scelta.\n#intelligenzaartificiale #microcopy #webdesign #bottegadigitale #bologna",
           "video": "media/reel/R03.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3d9278c74e278c8f39cd6"
         },
         "facebook": {
           "testo": "Un bottone. Quanto ci vuole a scriverlo?\nChiediamo all'AI otto varianti, poi scegliamo noi. L'AI è uno strumento, il criterio resta mestiere. Ogni font, ogni parola, ogni millisecondo è una scelta.\n#intelligenzaartificiale #microcopy #webdesign #bottegadigitale #bologna",
           "video": "media/reel/R03.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac575558a697ec91171f77b",
+          "programmatoIl": "2026-10-06T22:25:25.751Z"
         }
       }
     },
@@ -248,12 +259,14 @@
         "instagram": {
           "testo": "Un sito mobile ci mette più di 3 secondi a caricare. Quante visite si perdono?\nRisposta: il 53%, più di una su due (fonte: Google). E nel 2016 una homepage mobile in 3G ci metteva in media 19 secondi.\nTu quanto ci metti? Rispondi nei commenti, poi provalo dal telefono.\n#sitiweb #velocita #pmiitaliane #webdesign #bologna",
           "video": "media/reel/R04.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3d9375162d360af9e3d1a"
         },
         "facebook": {
           "testo": "Un sito mobile ci mette più di 3 secondi a caricare. Quante visite si perdono?\nRisposta: il 53%, più di una su due (fonte: Google). E nel 2016 una homepage mobile in 3G ci metteva in media 19 secondi.\nTu quanto ci metti? Rispondi nei commenti, poi provalo dal telefono.\n#sitiweb #velocita #pmiitaliane #webdesign #bologna",
           "video": "media/reel/R04.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3987c1cf337b59da72b51"
         }
       }
     },
@@ -286,14 +299,16 @@
             "media/post/P08/slide05.png",
             "media/post/P08/slide06.png"
           ],
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ab6dfbc80521ded551662bd"
         },
         "linkedin": {
           "testo": "Cosa fa l'AI. Cosa facciamo noi.\n\nTutti dicono di usare l'intelligenza artificiale. Noi preferiamo dire esattamente dove, e dove no.\n\nTesti: l'AI scrive una prima bozza con più varianti. Noi scegliamo quella che suona come il cliente.\nDesign: l'AI propone varianti di layout. Noi decidiamo cosa si vede per primo.\nCodice: l'AI accelera le parti ripetitive. Noi lo rileggiamo tutto, riga per riga.\nImmagini: l'AI solo dove non servono persone. Mai volti inventati, e lo dichiariamo.\n\nCosì chi lavora con noi sa cosa sta pagando: tempo risparmiato sulle parti ripetitive, e persone che decidono su tutto il resto.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.\n\n#IntelligenzaArtificiale #PMI #WebDesign",
           "documento": "media/post/P08/carosello.pdf",
           "titoloDocumento": "AI Mestiere",
           "copertina": "media/post/P08/slide01.png",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ab6dfb9914867df7194b051"
         }
       }
     },
@@ -328,14 +343,16 @@
             "media/post/P09/slide06.png",
             "media/post/P09/slide07.png"
           ],
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ab6dfc3f28173fa3f4e1971"
         },
         "linkedin": {
           "testo": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNon tutte le aziende hanno bisogno di un CRM. Excel può bastare, finché sei da solo e hai pochi contatti al mese.\n\nSmette di bastare quando:\n— due persone chiamano lo stesso cliente;\n— un preventivo resta senza risposta perché nessuno se lo ricordava;\n— il lunedì serve mezz'ora per capire come sta andando.\n\nUn CRM non è un software. È sapere, per ogni contatto, chi deve fare cosa e quando.\n\nLo costruiamo su misura, sul vostro modo di lavorare, con i dati che restano vostri. E se vi basta un foglio fatto bene, ve lo diciamo.\n\nCRM su misura, da 2.500 €: https://diecibottega.it/servizi/crm-su-misura?utm_source=linkedin&utm_medium=post&utm_campaign=p09\n\n#CRM #PMI #Vendite",
           "documento": "media/post/P09/carosello.pdf",
           "titoloDocumento": "CRM",
           "copertina": "media/post/P09/slide01.png",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ab6dfc0b097c5b401a237ba"
         }
       }
     },
@@ -350,7 +367,8 @@
         "instagram": {
           "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\nLanding page da 800 €, sito vetrina da 1.200 €, e-commerce light da 1.800 €. IVA esclusa, tempi scritti accanto al prezzo. 50% all'avvio, 50% al lancio, preventivo definitivo dopo il brief.\nIl listino completo è su diecibottega.it\n#sitiweb #pmiitaliane #prezzi #bologna #bottegadigitale",
           "video": "media/reel/R05.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3d96891c77f0a466b6cad"
         },
         "facebook": {
           "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\nLanding page da 800 €, sito vetrina da 1.200 €, e-commerce light da 1.800 €. IVA esclusa, tempi scritti accanto al prezzo. 50% all'avvio, 50% al lancio, preventivo definitivo dopo il brief.\nIl listino completo è su diecibottega.it\n#sitiweb #pmiitaliane #prezzi #bologna #bottegadigitale",
@@ -374,12 +392,14 @@
         "facebook": {
           "testo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
           "video": "media/post/P10/video.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ab6dfcdf59168c9752a884c"
         },
         "linkedin": {
           "testo": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando diciamo che un sito vetrina è online in dieci giorni, non vuol dire lavorare di fretta. Vuol dire che ogni fase ha i suoi giorni:\n\nGiorno 1-2 · Brief. Una call, poi un questionario. Capiamo cosa serve davvero.\nGiorno 3-5 · Design. Il cliente vede il sito prima che diventi codice. Due round di revisione.\nGiorno 6-8 · Sviluppo. Codice scritto a mano, veloce anche da telefono.\nGiorno 9-10 · Online. Test su telefono, SEO di base, consegna con credenziali e guida.\n\nPer questo possiamo dire prima quando il sito sarà online. Veloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p10\n\n#PMI #WebDesign #Processi",
           "video": "media/post/P10/video.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ab6dfcbb097c5b401a2384c"
         }
       }
     },
@@ -394,7 +414,8 @@
         "instagram": {
           "testo": "Due homepage per una ciclofficina di Bologna. Quale funziona meglio? A o B nei commenti, poi guarda la risposta.\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Il motivo è nel video.\n#webdesign #homepage #sitiweb #pmiitaliane #bologna",
           "video": "media/reel/R06.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3d97691c77f0a466b6e81"
         },
         "facebook": {
           "testo": "Due homepage per una ciclofficina di Bologna. Quale funziona meglio? A o B nei commenti, poi guarda la risposta.\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Il motivo è nel video.\n#webdesign #homepage #sitiweb #pmiitaliane #bologna",
@@ -435,7 +456,9 @@
           "documento": "media/post/P07/carosello.pdf",
           "titoloDocumento": "Prompt",
           "copertina": "media/post/P07/slide01.png",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac5755542e81c8a0b0b4e90",
+          "programmatoIl": "2026-10-06T22:25:26.003Z"
         }
       }
     },
@@ -486,7 +509,8 @@
         "instagram": {
           "testo": "Cosa significa GEO? Tre risposte, una sola giusta. Scrivi la tua nei commenti prima del reveal.\nSpoiler a metà: riguarda come farsi citare quando qualcuno chiede consiglio a un'AI. E i vecchi trucchi SEO lì non funzionano.\n#geo #seo #intelligenzaartificiale #sitiweb #pmiitaliane",
           "video": "media/reel/R07.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3d9825162d360af9e488e"
         },
         "facebook": {
           "testo": "Cosa significa GEO? Tre risposte, una sola giusta. Scrivi la tua nei commenti prima del reveal.\nSpoiler a metà: riguarda come farsi citare quando qualcuno chiede consiglio a un'AI. E i vecchi trucchi SEO lì non funzionano.\n#geo #seo #intelligenzaartificiale #sitiweb #pmiitaliane",
@@ -506,7 +530,8 @@
         "instagram": {
           "testo": "Come nasce un sito in dieci giorni.\nGiorno 1-2: brief e questionario, ascoltiamo prima di costruire. Giorno 3-5: design, AI-assisted e curato a mano. Giorno 6-8: sviluppo, codice pulito. Giorno 9-10: SEO, test su ogni dispositivo, online.\nDa zero a online, nei tempi detti.\n#sitiweb #webdesign #processo #bottegadigitale #bologna",
           "video": "media/reel/R08.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3d98e8c74e278c8f3abbb"
         },
         "facebook": {
           "testo": "Come nasce un sito in dieci giorni.\nGiorno 1-2: brief e questionario, ascoltiamo prima di costruire. Giorno 3-5: design, AI-assisted e curato a mano. Giorno 6-8: sviluppo, codice pulito. Giorno 9-10: SEO, test su ogni dispositivo, online.\nDa zero a online, nei tempi detti.\n#sitiweb #webdesign #processo #bottegadigitale #bologna",
@@ -549,7 +574,8 @@
         "instagram": {
           "testo": "Sul banner dei cookie clicchi la X. Cosa succede? Accetti tutto, il sito si blocca o rifiuti?\nRispondi nei commenti, poi guarda il video: c'è anche una cosa che quasi nessuno sa sullo scorrere la pagina. Fonte: Garante Privacy, linee guida 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
           "video": "media/reel/R09.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3d99ca790cb17e9fbda18"
         },
         "facebook": {
           "testo": "Sul banner dei cookie clicchi la X. Cosa succede? Accetti tutto, il sito si blocca o rifiuti?\nRispondi nei commenti, poi guarda il video: c'è anche una cosa che quasi nessuno sa sullo scorrere la pagina. Fonte: Garante Privacy, linee guida 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
@@ -592,7 +618,8 @@
         "instagram": {
           "testo": "Stessa attività, due siti.\nVilla Pet Sitter, pet sitter professionale a Bologna. Prima un vecchio sito WordPress, oggi un sito vetrina multipagina: servizi, prezzi, attestati, recensioni. Mobile-first, veloce, WhatsApp a un tocco.\nUn caso reale, fatto in bottega.\n#casostudio #sitiweb #webdesign #bologna #petsitter",
           "video": "media/reel/R10.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac3d9aaa790cb17e9fbdc26"
         },
         "facebook": {
           "testo": "Stessa attività, due siti.\nVilla Pet Sitter, pet sitter professionale a Bologna. Prima un vecchio sito WordPress, oggi un sito vetrina multipagina: servizi, prezzi, attestati, recensioni. Mobile-first, veloce, WhatsApp a un tocco.\nUn caso reale, fatto in bottega.\n#casostudio #sitiweb #webdesign #bologna #petsitter",
