@@ -84,14 +84,15 @@ async function main() {
   const programmati = {}; // channelId -> [{id, dueAt}]
   let after = null;
   for (let pagina = 0; pagina < 10; pagina++) {
-    const d = await gql(`query { posts(first: 100${after ? `, after: ${JSON.stringify(after)}` : ""}, input: { organizationId: ${JSON.stringify(org.id)}, filter: { status: [scheduled] } }) { edges { node { id dueAt text ${chFieldFromPost} } } pageInfo { hasNextPage endCursor } } }`);
+    const d = await gql(`query { posts(first: 100${after ? `, after: ${JSON.stringify(after)}` : ""}, input: { organizationId: ${JSON.stringify(org.id)}, filter: { status: [scheduled] } }) { edges { node { id dueAt text ${chFieldFromPost} ${postFields.has('assets') ? 'assets { source mimeType }' : ''} } } pageInfo { hasNextPage endCursor } } }`);
     for (const { node } of d.posts.edges) {
       const cid = node.channelId || node.channel?.id;
-      (programmati[cid] ||= []).push({ id: node.id, dueAt: node.dueAt, text: node.text || "" });
+      (programmati[cid] ||= []).push({ id: node.id, dueAt: node.dueAt, text: node.text || "", assets: (node.assets || []).map((a) => ({ src: a.source, tipo: a.mimeType })) });
     }
     if (!d.posts.pageInfo?.hasNextPage) break;
     after = d.posts.pageInfo.endCursor;
   }
+  fs.writeFileSync("coda/buffer-programmati.json", JSON.stringify(Object.fromEntries(Object.entries(canali).map(([s, c]) => [s, (programmati[c.id] || []).sort((a, b) => String(a.dueAt).localeCompare(String(b.dueAt)))])), null, 2));
   const liberi = {};
   for (const [s, c] of Object.entries(canali)) {
     const n = (programmati[c.id] || []).length;
