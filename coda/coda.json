@@ -105,10 +105,12 @@
         },
         "linkedin": {
           "testo": "Come lavoriamo, giorno per giorno. Lo trovi nel documento qui sotto.\n\nDieci giorni non sono una corsa: sono un calendario. Quando diciamo che un sito vetrina è online in dieci giorni, non vuol dire lavorare di fretta. Vuol dire che ogni fase ha i suoi giorni:\n\nGiorno 1-2 · Brief. Una call, poi un questionario. Capiamo cosa serve davvero.\nGiorno 3-5 · Design. Il cliente vede il sito prima che diventi codice. Due round di revisione.\nGiorno 6-8 · Sviluppo. Codice scritto a mano, veloce anche da telefono.\nGiorno 9-10 · Online. Test su telefono, SEO di base, consegna con credenziali e guida.\n\nPer questo possiamo dire prima quando il sito sarà online. Veloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p10\n\n#PMI #WebDesign #Processi",
-          "stato": "da_programmare",
+          "stato": "programmato",
           "documento": "media/post/P10/carosello.pdf",
           "titoloDocumento": "Dieci giorni · cosa succede ogni giorno",
-          "copertina": "media/post/P10/slide01.png"
+          "copertina": "media/post/P10/slide01.png",
+          "bufferId": "6ac67b7a4610dcaf932d0a1c",
+          "programmatoIl": "2026-10-07T17:03:54.725Z"
         }
       },
       "nota": "Il 7/10 alle 18:30 era uscito per errore come reel (video senza musica): ripubblicato come carosello alle 19:30; il reel va eliminato a mano dai social"
@@ -504,9 +506,7 @@
           "documento": "media/post/P07/carosello.pdf",
           "titoloDocumento": "Prompt",
           "copertina": "media/post/P07/slide01.png",
-          "stato": "programmato",
-          "bufferId": "6ac67b4828e9cd44033e052c",
-          "programmatoIl": "2026-10-07T17:03:04.702Z"
+          "stato": "da_programmare"
         }
       }
     },

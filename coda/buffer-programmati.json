@@ -1,6 +1,37 @@
 {
   "facebook": [
     {
+      "id": "6ac67b46e59f0d0f6165ca86",
+      "dueAt": "2026-10-07T17:30:00.000Z",
+      "text": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide04.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide05.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide06.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
+    {
       "id": "6ac5f1145355110416252f7e",
       "dueAt": "2026-10-08T16:30:00.000Z",
       "text": "Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A o B?\n\nScrivilo nei commenti, poi guarda la risposta nel video.",
@@ -42,6 +73,41 @@
         },
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide07.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "6ac67b47e59f0d0f6165cabe",
+      "dueAt": "2026-10-12T10:30:00.000Z",
+      "text": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il motivo è uno di questi 5: il contatto è in fondo, il modulo chiede troppo, non si capisce cosa fai, il numero non si può toccare da telefono, nessuno risponde in fretta.\n\nQuanti ne trovi sul tuo sito? Scrivici qui sotto o in privato: ti diciamo noi.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide04.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide05.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide06.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide07.png",
           "tipo": "image/png"
         }
       ]
@@ -181,6 +247,17 @@
       ]
     },
     {
+      "id": "6ac67b475dd7df060c6d94c1",
+      "dueAt": "2026-10-12T10:30:00.000Z",
+      "text": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/carosello.pdf",
+          "tipo": "application/pdf"
+        }
+      ]
+    },
+    {
       "id": "6ac5f11536c2a7788dd39fdc",
       "dueAt": "2026-10-13T16:30:00.000Z",
       "text": "Quanto ci vuole a scrivere il testo di un bottone?\n\nCon l'AI, pochi secondi per avere otto varianti. Poi comincia il lavoro vero: scartare quelle vaghe, quelle che mettono fretta, quelle che suonano da call center. Ne resta una.\n\nÈ il modo in cui usiamo l'intelligenza artificiale in bottega: accelera la prima bozza, non sceglie al posto nostro. Ogni font, ogni parola, ogni millisecondo resta una decisione consapevole.\n\nAI come strumento, mestiere come metodo.\n\n#IntelligenzaArtificiale #Copywriting #UX",
@@ -234,9 +311,62 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6ac67b485dd7df060c6d9502",
+      "dueAt": "2026-10-22T16:30:00.000Z",
+      "text": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac67b4828e9cd44033e052c",
+      "dueAt": "2026-10-23T10:30:00.000Z",
+      "text": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P07/carosello.pdf",
+          "tipo": "application/pdf"
+        }
+      ]
     }
   ],
   "instagram": [
+    {
+      "id": "6ac67b465dd7df060c6d9481",
+      "dueAt": "2026-10-07T17:30:00.000Z",
+      "text": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fase ha un giorno, ogni revisione ha un momento. Per questo possiamo dirti prima quando sarai online.\nScorri per vedere cosa succede ogni giorno.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide04.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide05.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide06.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
     {
       "id": "6ac3d8cc7b80e27772c2b769",
       "dueAt": "2026-10-08T16:30:00.000Z",
