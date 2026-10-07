@@ -69,29 +69,34 @@
       }
     },
     {
-      "id": "P03",
-      "titolo": "Reel Founder",
+      "id": "P10",
+      "titolo": "Reel Dieci Giorni",
       "tipo": "reel",
       "quando": "2026-10-07 18:30",
       "dueAt": "2026-10-07T16:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Siamo Tommaso e Lorenzo. Amici da più di dieci anni, oggi una bottega.\nUno sa fare, l'altro sa ascoltare. Se hai un'attività e ti serve un sito che lavori per te, scrivici. Ti rispondiamo noi, non un modulo.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
-          "video": "media/post/P03/video.mp4",
-          "stato": "manca_video"
+          "testo": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fase ha un giorno, ogni revisione ha un momento. Per questo possiamo dirti prima quando sarai online.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+          "video": "media/post/P10/video.mp4",
+          "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Lui disegna. Io parlo con te.\n\nSiamo Tommaso e Lorenzo, amici da più di dieci anni e oggi una bottega. Se hai un'attività e ti serve un sito che lavori per te, scrivici: ti rispondiamo noi, non un modulo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p03",
-          "video": "media/post/P03/video.mp4",
-          "stato": "manca_video"
+          "testo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
+          "video": "media/post/P10/video.mp4",
+          "stato": "programmato",
+          "bufferId": "6ac577e142e81c8a0b0bb0dd",
+          "programmatoIl": "2026-10-06T22:36:17.616Z",
+          "daAggiornare": true
         },
         "linkedin": {
-          "testo": "Lui disegna. Io parlo con te.\n\nCi conosciamo da più di dieci anni. Quest'anno abbiamo deciso di mettere insieme quello che sappiamo fare.\n\nLorenzo si occupa di design e codice: disegna il sito, lo scrive, cura i dettagli che non si vedono ma si sentono.\nTommaso si occupa dei clienti: capisce cosa serve davvero, dice quanto costa prima di iniziare e segue il progetto fino alla consegna.\n\nNessun account manager in mezzo. Quando scrivi a Dieci Bottega, ti rispondono le due persone che lavorano al tuo sito.\n\nParliamone: https://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p03\n\n#Founders #PMI #Bologna",
-          "video": "media/post/P03/video.mp4",
-          "stato": "manca_video"
+          "testo": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando diciamo che un sito vetrina è online in dieci giorni, non vuol dire lavorare di fretta. Vuol dire che ogni fase ha i suoi giorni:\n\nGiorno 1-2 · Brief. Una call, poi un questionario. Capiamo cosa serve davvero.\nGiorno 3-5 · Design. Il cliente vede il sito prima che diventi codice. Due round di revisione.\nGiorno 6-8 · Sviluppo. Codice scritto a mano, veloce anche da telefono.\nGiorno 9-10 · Online. Test su telefono, SEO di base, consegna con credenziali e guida.\n\nPer questo possiamo dire prima quando il sito sarà online. Veloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p10\n\n#PMI #WebDesign #Processi",
+          "video": "media/post/P10/video.mp4",
+          "stato": "programmato",
+          "bufferId": "6ac577e18a697ec911726a40",
+          "programmatoIl": "2026-10-06T22:36:17.991Z",
+          "daAggiornare": true
         }
-      },
-      "nota": "Serve il video girato: caricalo in media/post/P03/video.mp4 e cambia stato in da_programmare."
+      }
     },
     {
       "id": "R02",
@@ -423,32 +428,37 @@
       }
     },
     {
-      "id": "P10",
-      "titolo": "Reel Dieci Giorni",
+      "id": "P03",
+      "titolo": "Reel Founder",
       "tipo": "reel",
       "quando": "2026-10-21 18:30",
       "dueAt": "2026-10-21T16:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fase ha un giorno, ogni revisione ha un momento. Per questo possiamo dirti prima quando sarai online.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
-          "video": "media/post/P10/video.mp4",
-          "stato": "da_programmare"
+          "testo": "Siamo Tommaso e Lorenzo. Amici da più di dieci anni, oggi una bottega.\nUno sa fare, l'altro sa ascoltare. Se hai un'attività e ti serve un sito che lavori per te, scrivici. Ti rispondiamo noi, non un modulo.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+          "video": "media/post/P03/video.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
-          "video": "media/post/P10/video.mp4",
-          "stato": "programmato",
-          "bufferId": "6ac577e142e81c8a0b0bb0dd",
-          "programmatoIl": "2026-10-06T22:36:17.616Z"
+          "testo": "Lui disegna. Io parlo con te.\n\nSiamo Tommaso e Lorenzo, amici da più di dieci anni e oggi una bottega. Se hai un'attività e ti serve un sito che lavori per te, scrivici: ti rispondiamo noi, non un modulo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p03",
+          "video": "media/post/P03/video.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando diciamo che un sito vetrina è online in dieci giorni, non vuol dire lavorare di fretta. Vuol dire che ogni fase ha i suoi giorni:\n\nGiorno 1-2 · Brief. Una call, poi un questionario. Capiamo cosa serve davvero.\nGiorno 3-5 · Design. Il cliente vede il sito prima che diventi codice. Due round di revisione.\nGiorno 6-8 · Sviluppo. Codice scritto a mano, veloce anche da telefono.\nGiorno 9-10 · Online. Test su telefono, SEO di base, consegna con credenziali e guida.\n\nPer questo possiamo dire prima quando il sito sarà online. Veloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p10\n\n#PMI #WebDesign #Processi",
-          "video": "media/post/P10/video.mp4",
-          "stato": "programmato",
-          "bufferId": "6ac577e18a697ec911726a40",
-          "programmatoIl": "2026-10-06T22:36:17.991Z"
+          "testo": "Lui disegna. Io parlo con te.\n\nCi conosciamo da più di dieci anni. Quest'anno abbiamo deciso di mettere insieme quello che sappiamo fare.\n\nLorenzo si occupa di design e codice: disegna il sito, lo scrive, cura i dettagli che non si vedono ma si sentono.\nTommaso si occupa dei clienti: capisce cosa serve davvero, dice quanto costa prima di iniziare e segue il progetto fino alla consegna.\n\nNessun account manager in mezzo. Quando scrivi a Dieci Bottega, ti rispondono le due persone che lavorano al tuo sito.\n\nParliamone: https://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p03\n\n#Founders #PMI #Bologna",
+          "video": "media/post/P03/video.mp4",
+          "stato": "manca_video"
         }
-      }
+      },
+      "nota": "Serve il video girato: caricalo in media/post/P03/video.mp4 e cambia stato in da_programmare.",
+      "sostituzioni": [
+        {
+          "il": "2026-10-07T15:30:51.558Z",
+          "da": "2026-10-07 18:30",
+          "a": "2026-10-21 18:30",
+          "conContenuto": "P10"
+        }
+      ]
     },
     {
       "id": "R06",
