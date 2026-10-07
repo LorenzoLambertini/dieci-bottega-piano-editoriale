@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 07/10/2026, 18:51:29
+Ultimo controllo: 07/10/2026, 19:03:05
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,18 +12,18 @@ Ultimo controllo: 07/10/2026, 18:51:29
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-07 19:30 | P05 | Tip Visite | programmato | programmato | programmato |
+| 2026-10-07 19:30 | P10 | Carosello Dieci Giorni | programmato | programmato | da_programmare |
 | 2026-10-08 18:30 | R02 | Quale bottone | gia_in_buffer | programmato | programmato |
 | 2026-10-09 12:30 | P04 | Listino | programmato | programmato | programmato |
-| 2026-10-12 12:30 | P07 | Prompt | da_programmare | programmato | programmato |
+| 2026-10-12 12:30 | P05 | Tip Visite | da_programmare | programmato | programmato |
 | 2026-10-13 18:30 | R03 | Il bottone | gia_in_buffer | programmato | programmato |
 | 2026-10-14 18:30 | P06 | Reel Dettaglio | manca_video | manca_video | manca_video |
 | 2026-10-15 18:30 | R04 | Tre secondi su mobile | gia_in_buffer | programmato | programmato |
 | 2026-10-16 12:30 | P08 | AI Mestiere | da_programmare | programmato | programmato |
 | 2026-10-19 12:30 | P09 | CRM | da_programmare | programmato | programmato |
 | 2026-10-20 18:30 | R05 | Quanto costa un sito | gia_in_buffer | programmato | programmato |
-| 2026-10-21 18:30 | P10 | Reel Dieci Giorni | da_programmare | da_programmare | programmato |
-| 2026-10-22 18:30 | R06 | Quale homepage | gia_in_buffer | programmato | da_programmare |
+| 2026-10-22 18:30 | R06 | Quale homepage | gia_in_buffer | programmato | programmato |
+| 2026-10-23 12:30 | P07 | Prompt | da_programmare | da_programmare | programmato |
 | 2026-10-26 12:30 | P11 | Dieci Anni | da_programmare | da_programmare | da_programmare |
 | 2026-10-27 18:30 | R07 | Cosa significa GEO | gia_in_buffer | da_programmare | da_programmare |
 | 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
@@ -55,7 +55,6 @@ Ultimo controllo: 07/10/2026, 18:51:29
 
 ### linkedin
 
-- 07/10/26, 19:30 · 
 - 08/10/26, 18:30 · Due bottoni, stessa pagina. Uno porta prenotazioni, l'altro no. La dif
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Nessuna cifra vale per tutti. Ma prim
 - 12/10/26, 12:30 · 
@@ -64,7 +63,8 @@ Ultimo controllo: 07/10/2026, 18:51:29
 - 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
-- 21/10/26, 18:30 · 
+- 22/10/26, 18:30 · 
+- 23/10/26, 12:30 · 
 
 ### instagram
 
@@ -80,7 +80,12 @@ Ultimo controllo: 07/10/2026, 18:51:29
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
 
 
+## Errori
+
+- P10 linkedin: Invalid post: Whoops, it looks like you've already got this one scheduled or posted around the same time. We're not able to post the same thing twice so close together.
+
 ## Ultime sostituzioni automatiche
 
 - 07/10/2026, 17:30:51 · P03 "Reel Founder" (mancava il materiale) spostato al 2026-10-21 18:30; al suo posto il 2026-10-07 18:30 esce P10 "Reel Dieci Giorni"
 - 07/10/2026, 18:55 · Correzione manuale: P10 (reel) uscito al posto di P03 per la regola sostituzioni; su richiesta di Lorenzo il carosello P05 "Tip Visite" esce stasera alle 19:30, P07 passa al 12/10, P10 torna al 21/10, P03 al 28/10
+- 07/10/2026, 19:00 · Correzione: P10 "Dieci Giorni" era un carosello (slide senza musica), non un reel. Ripubblicato come carosello alle 19:30; P05 torna al 12/10, P07 al 23/10

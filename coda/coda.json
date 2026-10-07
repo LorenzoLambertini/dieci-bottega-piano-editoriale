@@ -77,7 +77,7 @@
       "canali": {
         "instagram": {
           "testo": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fase ha un giorno, ogni revisione ha un momento. Per questo possiamo dirti prima quando sarai online.\nScorri per vedere cosa succede ogni giorno.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
-          "stato": "da_programmare",
+          "stato": "programmato",
           "immagini": [
             "media/post/P10/slide01.png",
             "media/post/P10/slide02.png",
@@ -85,11 +85,13 @@
             "media/post/P10/slide04.png",
             "media/post/P10/slide05.png",
             "media/post/P10/slide06.png"
-          ]
+          ],
+          "bufferId": "6ac67b465dd7df060c6d9481",
+          "programmatoIl": "2026-10-07T17:03:02.338Z"
         },
         "facebook": {
           "testo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
-          "stato": "da_programmare",
+          "stato": "programmato",
           "immagini": [
             "media/post/P10/slide01.png",
             "media/post/P10/slide02.png",
@@ -97,17 +99,18 @@
             "media/post/P10/slide04.png",
             "media/post/P10/slide05.png",
             "media/post/P10/slide06.png"
-          ]
+          ],
+          "bufferId": "6ac67b46e59f0d0f6165ca86",
+          "programmatoIl": "2026-10-07T17:03:02.720Z"
         },
         "linkedin": {
           "testo": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando diciamo che un sito vetrina è online in dieci giorni, non vuol dire lavorare di fretta. Vuol dire che ogni fase ha i suoi giorni:\n\nGiorno 1-2 · Brief. Una call, poi un questionario. Capiamo cosa serve davvero.\nGiorno 3-5 · Design. Il cliente vede il sito prima che diventi codice. Due round di revisione.\nGiorno 6-8 · Sviluppo. Codice scritto a mano, veloce anche da telefono.\nGiorno 9-10 · Online. Test su telefono, SEO di base, consegna con credenziali e guida.\n\nPer questo possiamo dire prima quando il sito sarà online. Veloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p10\n\n#PMI #WebDesign #Processi",
-          "stato": "programmato",
-          "bufferId": "6ac67891ea45b37c36bb4e9c",
-          "programmatoIl": "2026-10-07T16:51:29.237Z",
+          "stato": "da_programmare",
           "documento": "media/post/P10/carosello.pdf",
           "titoloDocumento": "Dieci giorni · cosa succede ogni giorno",
           "copertina": "media/post/P10/slide01.png",
-          "daAggiornare": true
+          "tentativi": 1,
+          "ultimoErrore": "Invalid post: Whoops, it looks like you've already got this one scheduled or posted around the same time. We're not able to post the same thing twice so close together."
         }
       },
       "nota": "Il 7/10 alle 18:30 era uscito per errore come reel (video senza musica): ripubblicato come carosello alle 19:30; il reel va eliminato a mano dai social"
@@ -208,10 +211,7 @@
             "media/post/P05/slide06.png",
             "media/post/P05/slide07.png"
           ],
-          "stato": "programmato",
-          "bufferId": "6ac6788fe59f0d0f616538e5",
-          "programmatoIl": "2026-10-07T16:51:27.435Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il motivo è uno di questi 5: il contatto è in fondo, il modulo chiede troppo, non si capisce cosa fai, il numero non si può toccare da telefono, nessuno risponde in fretta.\n\nQuanti ne trovi sul tuo sito? Scrivici qui sotto o in privato: ti diciamo noi.",
@@ -225,9 +225,8 @@
             "media/post/P05/slide07.png"
           ],
           "stato": "programmato",
-          "bufferId": "6ac6788f28e9cd44033d88fb",
-          "programmatoIl": "2026-10-07T16:51:27.735Z",
-          "daAggiornare": true
+          "bufferId": "6ac67b47e59f0d0f6165cabe",
+          "programmatoIl": "2026-10-07T17:03:03.295Z"
         },
         "linkedin": {
           "testo": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
@@ -235,9 +234,8 @@
           "titoloDocumento": "Tip Visite",
           "copertina": "media/post/P05/slide01.png",
           "stato": "programmato",
-          "bufferId": "6ac6788fe59f0d0f6165390e",
-          "programmatoIl": "2026-10-07T16:51:28.028Z",
-          "daAggiornare": true
+          "bufferId": "6ac67b475dd7df060c6d94c1",
+          "programmatoIl": "2026-10-07T17:03:03.658Z"
         }
       }
     },
@@ -470,7 +468,9 @@
         "linkedin": {
           "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
           "video": "media/reel/R06.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac67b485dd7df060c6d9502",
+          "programmatoIl": "2026-10-07T17:03:04.363Z"
         }
       }
     },
@@ -499,10 +499,7 @@
             "media/post/P07/slide03.png",
             "media/post/P07/slide04.png"
           ],
-          "stato": "programmato",
-          "bufferId": "6ac6789028e9cd44033d8925",
-          "programmatoIl": "2026-10-07T16:51:28.514Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "linkedin": {
           "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
@@ -510,9 +507,8 @@
           "titoloDocumento": "Prompt",
           "copertina": "media/post/P07/slide01.png",
           "stato": "programmato",
-          "bufferId": "6ac6789028e9cd44033d894e",
-          "programmatoIl": "2026-10-07T16:51:28.781Z",
-          "daAggiornare": true
+          "bufferId": "6ac67b4828e9cd44033e052c",
+          "programmatoIl": "2026-10-07T17:03:04.702Z"
         }
       }
     },
