@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 07/10/2026, 14:01:35
+Ultimo controllo: 07/10/2026, 17:31:16
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -11,7 +11,7 @@ Ultimo controllo: 07/10/2026, 14:01:35
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-07 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
+| 2026-10-07 18:30 | P10 | Reel Dieci Giorni | da_programmare | programmato | programmato |
 | 2026-10-08 18:30 | R02 | Quale bottone | gia_in_buffer | programmato | programmato |
 | 2026-10-09 12:30 | P04 | Listino | programmato | programmato | programmato |
 | 2026-10-12 12:30 | P05 | Tip Visite | da_programmare | programmato | programmato |
@@ -21,7 +21,7 @@ Ultimo controllo: 07/10/2026, 14:01:35
 | 2026-10-16 12:30 | P08 | AI Mestiere | da_programmare | programmato | programmato |
 | 2026-10-19 12:30 | P09 | CRM | da_programmare | programmato | programmato |
 | 2026-10-20 18:30 | R05 | Quanto costa un sito | gia_in_buffer | programmato | programmato |
-| 2026-10-21 18:30 | P10 | Reel Dieci Giorni | da_programmare | programmato | programmato |
+| 2026-10-21 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
 | 2026-10-22 18:30 | R06 | Quale homepage | gia_in_buffer | programmato | da_programmare |
 | 2026-10-23 12:30 | P07 | Prompt | da_programmare | da_programmare | programmato |
 | 2026-10-26 12:30 | P11 | Dieci Anni | da_programmare | da_programmare | da_programmare |
@@ -41,6 +41,7 @@ Ultimo controllo: 07/10/2026, 14:01:35
 
 ### facebook
 
+- 07/10/26, 18:30 · 
 - 08/10/26, 18:30 · Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A 
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Non esiste una cifra giusta per tutti
 - 12/10/26, 12:30 · Il tuo sito ha visite ma nessuno ti scrive? Di solito il motivo è uno 
@@ -49,11 +50,11 @@ Ultimo controllo: 07/10/2026, 14:01:35
 - 16/10/26, 12:30 · Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no. L'AI ci ai
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
 - 20/10/26, 18:30 · Quanto costa un sito? "Dipende" non è una risposta. Landing page da 80
-- 21/10/26, 18:30 · Dieci giorni. Cosa succede ogni giorno. Brief, design, sviluppo, onlin
 - 22/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
 
 ### linkedin
 
+- 07/10/26, 18:30 · 
 - 08/10/26, 18:30 · Due bottoni, stessa pagina. Uno porta prenotazioni, l'altro no. La dif
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Nessuna cifra vale per tutti. Ma prim
 - 12/10/26, 12:30 · Il tuo sito ha visite. Nessuno ti scrive. Più traffico non vuol dire p
@@ -62,6 +63,9 @@ Ultimo controllo: 07/10/2026, 14:01:35
 - 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
-- 21/10/26, 18:30 · Dieci giorni non sono una corsa. Sono un calendario. Quando diciamo ch
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 
+
+## Ultime sostituzioni automatiche
+
+- 07/10/2026, 17:30:51 · P03 "Reel Founder" (mancava il materiale) spostato al 2026-10-21 18:30; al suo posto il 2026-10-07 18:30 esce P10 "Reel Dieci Giorni"
