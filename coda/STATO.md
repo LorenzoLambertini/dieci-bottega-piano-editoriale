@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 07/10/2026, 09:13:28
+Ultimo controllo: 07/10/2026, 09:50:06 (prova, niente inviato)
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -42,27 +42,27 @@ Ultimo controllo: 07/10/2026, 09:13:28
 
 ### facebook
 
-- 08/10/26, 18:30 · 
+- 08/10/26, 18:30 · Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A 
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Non esiste una cifra giusta per tutti
 - 12/10/26, 12:30 · Il tuo sito ha visite ma nessuno ti scrive? Di solito il motivo è uno 
-- 13/10/26, 18:30 · 
-- 15/10/26, 18:30 · 
+- 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Chiediamo all'AI otto variant
+- 15/10/26, 18:30 · Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora t
 - 16/10/26, 12:30 · Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no. L'AI ci ai
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
-- 20/10/26, 18:30 · 
+- 20/10/26, 18:30 · Quanto costa un sito? "Dipende" non è una risposta. Landing page da 80
 - 21/10/26, 18:30 · Dieci giorni. Cosa succede ogni giorno. Brief, design, sviluppo, onlin
-- 22/10/26, 18:30 · 
+- 22/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
 
 ### linkedin
 
-- 08/10/26, 18:30 · 
+- 08/10/26, 18:30 · Due bottoni, stessa pagina. Uno porta prenotazioni, l'altro no. La dif
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Nessuna cifra vale per tutti. Ma prim
 - 12/10/26, 12:30 · Il tuo sito ha visite. Nessuno ti scrive. Più traffico non vuol dire p
-- 13/10/26, 18:30 · 
-- 15/10/26, 18:30 · 
+- 13/10/26, 18:30 · Quanto ci vuole a scrivere il testo di un bottone? Con l'AI, pochi sec
+- 15/10/26, 18:30 · Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% dell
 - 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
-- 20/10/26, 18:30 · 
+- 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
 - 21/10/26, 18:30 · Dieci giorni non sono una corsa. Sono un calendario. Quando diciamo ch
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 
