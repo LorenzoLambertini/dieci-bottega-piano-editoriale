@@ -1,0 +1,221 @@
+<title>Cruscotto Dieci Bottega</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800;900&family=Cardo:ital@1&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: banco da lavoro — punteggio a sinistra, canali a destra, poi obiettivi, bilancio, contenuti */
+:root{
+  --bg:#F4EFE6; --surface:#FFFBF5; --line:#E8E2D6; --fg:#1A1414; --muted:#4A3838;
+  --brand:#E63B2E; --accent:#F2B8A2; --deep:#7A1818;
+  --ok:#2F7A4D; --warn:#B7791F; --bad:#C44A38;
+  --display:"Archivo",system-ui,sans-serif; --body:"Archivo",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace; --serif:"Cardo",Georgia,serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#1A1414; --surface:#241C1C; --line:#3A2E2E; --fg:#F4EFE6; --muted:#C9BBB0;
+  --brand:#F0503F; --accent:#F2B8A2; --deep:#F2B8A2; --ok:#5FBF85; --warn:#E0A84A; --bad:#F07A66; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1A1414; --surface:#241C1C; --line:#3A2E2E; --fg:#F4EFE6; --muted:#C9BBB0;
+  --brand:#F0503F; --accent:#F2B8A2; --deep:#F2B8A2; --ok:#5FBF85; --warn:#E0A84A; --bad:#F07A66; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5;margin:0}
+.wrap{max-width:1120px;margin:0 auto;padding-inline:16px;padding-block:28px 56px;display:grid;gap:28px}
+.lbl{font-family:var(--mono);font-weight:500;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-weight:900;text-transform:uppercase;letter-spacing:-.03em;font-size:clamp(28px,5vw,44px);line-height:1;margin:6px 0 0;text-wrap:balance}
+h2{font-family:var(--display);font-weight:800;letter-spacing:-.02em;font-size:20px;margin:0 0 12px}
+.head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:12px;border-bottom:2px solid var(--fg);padding-bottom:14px}
+.tag{font-family:var(--serif);font-style:italic;color:var(--muted);font-size:17px}
+.top{display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr);gap:20px}
+@media (max-width:760px){.top{grid-template-columns:minmax(0,1fr)}}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:18px}
+.score{display:grid;gap:10px;align-content:start}
+.big{font-family:var(--display);font-weight:900;font-size:88px;line-height:.9;letter-spacing:-.04em;font-variant-numeric:tabular-nums}
+.big small{font-size:22px;color:var(--muted);letter-spacing:0;font-weight:600}
+.delta{font-family:var(--mono);font-size:12px}
+.up{color:var(--ok)} .down{color:var(--bad)} .flat{color:var(--muted)}
+.chans{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+@media (max-width:760px){.chans{grid-template-columns:minmax(0,1fr)}}
+.ch{display:grid;gap:10px;align-content:start}
+.ch .row{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.ch .n{font-family:var(--display);font-weight:900;font-size:40px;line-height:1;font-variant-numeric:tabular-nums}
+.pill{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;padding:3px 7px;border-radius:99px;border:1px solid currentColor;white-space:nowrap}
+.pill.ok{color:var(--ok)} .pill.warn{color:var(--warn)} .pill.bad{color:var(--bad)}
+.parts{display:grid;gap:6px}
+.part{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 8px;font-size:12px}
+.bar{grid-column:1/-1;height:5px;background:var(--line);border-radius:3px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--brand)}
+.kv{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px 10px;font-size:13px;border-top:1px solid var(--line);padding-top:10px}
+.kv b{font-variant-numeric:tabular-nums;font-weight:600}
+.spark{width:100%;height:56px;display:block}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;font-family:var(--mono);font-weight:500;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:8px 10px;border-bottom:1px solid var(--line)}
+td{padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:middle;font-variant-numeric:tabular-nums}
+.tw{overflow-x:auto}
+.prog{min-width:120px}
+.prog .bar{height:7px}
+.two{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+@media (max-width:760px){.two{grid-template-columns:minmax(0,1fr)}}
+ul.list{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+ul.list li{padding-left:18px;position:relative;min-width:0}
+ul.list li::before{content:"";position:absolute;left:0;top:.6em;width:8px;height:8px;border-radius:2px;background:var(--mark,var(--muted))}
+.pos{--mark:var(--ok)} .neg{--mark:var(--bad)} .todo{--mark:var(--brand)}
+.empty{padding:40px 18px;text-align:center;color:var(--muted)}
+.foot{font-size:12px;color:var(--muted)}
+@media (prefers-reduced-motion:no-preference){.bar i{transition:width .3s ease-out}}
+</style>
+
+<div class="wrap">
+  <header class="head">
+    <div>
+      <div class="lbl">Dieci Bottega · Crescita social</div>
+      <h1>Cruscotto</h1>
+    </div>
+    <div style="text-align:right">
+      <div class="tag">È tutto nei dettagli.</div>
+      <div class="lbl" id="agg">In attesa dei dati</div>
+    </div>
+  </header>
+
+  <div id="vuoto" class="panel empty">
+    <h2>Nessun controllo ancora salvato</h2>
+    <p>I numeri arrivano ogni sera dal controllo delle 21 su Instagram, Facebook e LinkedIn.</p>
+  </div>
+
+  <div id="main" hidden style="display:grid;gap:28px">
+    <section class="top">
+      <div class="panel score">
+        <div class="lbl">Score complessivo</div>
+        <div class="big"><span id="sTot">–</span><small>/100</small></div>
+        <div class="delta" id="sDelta"></div>
+        <svg class="spark" id="spark" viewBox="0 0 280 56" preserveAspectRatio="none" aria-label="Andamento dello score"></svg>
+        <div class="foot" id="sNota"></div>
+      </div>
+      <div class="chans" id="chans"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Obiettivi · quanto ci manca</h2>
+      <div class="tw"><table>
+        <thead><tr><th>Scadenza</th><th>Canale</th><th>KPI</th><th>Ora</th><th>Obiettivo</th><th>Manca</th><th class="prog">Avanzamento</th></tr></thead>
+        <tbody id="obj"></tbody>
+      </table></div>
+    </section>
+
+    <section class="two">
+      <div class="panel"><h2>Cosa funziona</h2><ul class="list pos" id="pos"></ul></div>
+      <div class="panel"><h2>Cosa non funziona</h2><ul class="list neg" id="neg"></ul></div>
+    </section>
+
+    <section class="two">
+      <div class="panel"><h2>Priorità</h2><ul class="list todo" id="pri"></ul></div>
+      <div class="panel"><h2>Da fare per voi</h2><ul class="list todo" id="az"></ul></div>
+    </section>
+
+    <section class="panel">
+      <h2>Ultimi contenuti</h2>
+      <div class="tw"><table>
+        <thead><tr><th>Data</th><th>Contenuto</th><th>Formato</th><th>Canale</th><th>Visualizz.</th><th>Raggiunti</th><th>Interaz.</th><th>Salv.+cond.</th></tr></thead>
+        <tbody id="cont"></tbody>
+      </table></div>
+    </section>
+
+    <section class="panel">
+      <h2>Test in corso</h2>
+      <div class="tw"><table>
+        <thead><tr><th>Test</th><th>Ipotesi</th><th>Stato</th><th>Esito</th></tr></thead>
+        <tbody id="test"></tbody>
+      </table></div>
+    </section>
+
+    <p class="foot">Score per canale (0–100): crescita follower verso l'obiettivo a 7 giorni (40), persone raggiunte per post (30), interazioni su raggiunti (20), costanza di pubblicazione (10). Fonte: Supermetrics.</p>
+  </div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const NOMI = {instagram:"Instagram", facebook:"Facebook", linkedin:"LinkedIn"};
+const fmt = v => v == null ? "–" : (typeof v === "number" ? v.toLocaleString("it-IT") : esc(v));
+const dIt = d => d ? d.split("-").reverse().slice(0,2).join("/") : "";
+const stato = s => s >= 60 ? ["ok","Buono"] : s >= 30 ? ["warn","Da spingere"] : ["bad","Critico"];
+
+function delta(now, prev){
+  if (prev == null || now == null) return '<span class="flat">primo giorno, nessun confronto</span>';
+  const d = Math.round((now - prev) * 10) / 10;
+  const c = d > 0 ? "up" : d < 0 ? "down" : "flat";
+  return `<span class="${c}">${d > 0 ? "+" : ""}${d} rispetto a ieri</span>`;
+}
+
+function spark(hist){
+  const svg = $("spark"), W = 280, H = 56, p = 6;
+  if (hist.length < 2){ svg.innerHTML = `<text x="0" y="34" fill="var(--muted)" font-size="11" font-family="JetBrains Mono, monospace">ANDAMENTO DAL 2° GIORNO</text>`; return; }
+  const xs = i => p + i * (W - 2*p) / (hist.length - 1);
+  const ys = v => H - p - (v / 100) * (H - 2*p);
+  const pts = hist.map((h,i) => `${xs(i).toFixed(1)},${ys(h).toFixed(1)}`).join(" ");
+  const last = hist.length - 1;
+  svg.innerHTML =
+    `<line x1="0" x2="${W}" y1="${ys(50)}" y2="${ys(50)}" stroke="var(--line)" stroke-dasharray="3 3"/>` +
+    `<polygon points="${xs(0)},${H-p} ${pts} ${xs(last)},${H-p}" fill="var(--accent)" opacity=".45"/>` +
+    `<polyline points="${pts}" fill="none" stroke="var(--brand)" stroke-width="2" vector-effect="non-scaling-stroke"/>` +
+    `<circle cx="${xs(last)}" cy="${ys(hist[last])}" r="3.5" fill="var(--brand)"/>`;
+}
+
+function render(docs){
+  if (!docs.length){ $("vuoto").hidden = false; $("main").hidden = true; return; }
+  $("vuoto").hidden = true; $("main").hidden = false;
+  const g = docs[docs.length - 1], prev = docs.length > 1 ? docs[docs.length - 2] : null;
+  $("agg").textContent = "Aggiornato il " + g.data.split("-").reverse().join("/") + (g.ora ? " · " + g.ora : "");
+  $("sTot").textContent = g.score?.totale ?? "–";
+  $("sDelta").innerHTML = delta(g.score?.totale, prev?.score?.totale);
+  $("sNota").textContent = g.nota || "";
+  spark(docs.map(d => d.score?.totale ?? 0));
+
+  $("chans").innerHTML = ["instagram","facebook","linkedin"].map(k => {
+    const s = g.score?.[k] || {}, c = g.canali?.[k] || {}, pc = prev?.canali?.[k];
+    const [cl, tx] = stato(s.totale ?? 0);
+    const parti = [["Crescita follower","follower",40],["Persone raggiunte","raggiunti",30],["Interazioni","interazioni",20],["Costanza","costanza",10]];
+    const df = pc && c.follower != null && pc.follower != null ? c.follower - pc.follower : null;
+    return `<div class="panel ch">
+      <div class="row"><span class="lbl">${NOMI[k]}</span><span class="pill ${cl}">${tx}</span></div>
+      <div class="row"><span class="n">${fmt(s.totale)}</span><span class="delta">${delta(s.totale, prev?.score?.[k]?.totale)}</span></div>
+      <div class="parts">${parti.map(([n,key,max]) => {
+        const v = s[key] ?? 0;
+        return `<div class="part"><span>${n}</span><span>${fmt(v)}/${max}</span><div class="bar"><i style="width:${Math.min(100, v/max*100)}%"></i></div></div>`;
+      }).join("")}</div>
+      <div class="kv">
+        <span>Follower</span><b>${fmt(c.follower)}${df != null ? ` <span class="${df>0?"up":df<0?"down":"flat"}">(${df>0?"+":""}${df})</span>` : ""}</b>
+        <span>Raggiunti 7 gg</span><b>${fmt(c.raggiunti_7g)}</b>
+        <span>Visualizzazioni 7 gg</span><b>${fmt(c.visualizzazioni_7g)}</b>
+        <span>Interazioni 7 gg</span><b>${fmt(c.interazioni_7g)}</b>
+      </div>
+    </div>`;
+  }).join("");
+
+  $("obj").innerHTML = (g.obiettivi || []).map(o => {
+    const base = o.base ?? 0, span = (o.target - base) || 1;
+    const pct = Math.max(0, Math.min(100, ((o.attuale ?? base) - base) / span * 100));
+    const manca = o.attuale == null ? "n.d." : Math.max(0, o.target - o.attuale);
+    return `<tr><td>${dIt(o.scadenza)}</td><td>${esc(NOMI[o.canale] || o.canale)}</td><td>${esc(o.kpi)}</td>
+      <td>${fmt(o.attuale)}</td><td>${fmt(o.target)}</td><td><b>${fmt(manca)}</b></td>
+      <td class="prog"><div class="bar"><i style="width:${pct}%"></i></div><span class="lbl">${Math.round(pct)}%</span></td></tr>`;
+  }).join("");
+
+  const li = (id, arr) => $(id).innerHTML = (arr && arr.length ? arr : ["Niente da segnalare oggi"]).map(x => `<li>${esc(x)}</li>`).join("");
+  li("pos", g.positivi); li("neg", g.negativi); li("pri", g.priorita); li("az", g.azioni);
+
+  $("cont").innerHTML = (g.contenuti || []).map(c => `<tr><td>${dIt(c.data)}</td><td>${esc(c.titolo)}</td><td>${esc(c.formato)}</td>
+    <td>${esc(NOMI[c.canale] || c.canale)}</td><td>${fmt(c.visualizzazioni)}</td><td>${fmt(c.raggiunti)}</td><td>${fmt(c.interazioni)}</td><td>${fmt(c.salvataggi_condivisioni)}</td></tr>`).join("")
+    || `<tr><td colspan="8">Nessun contenuto negli ultimi 7 giorni</td></tr>`;
+
+  $("test").innerHTML = (g.test || []).map(t => `<tr><td><b>${esc(t.id)}</b></td><td>${esc(t.ipotesi)}</td><td>${esc(t.stato)}</td><td>${esc(t.esito || "–")}</td></tr>`).join("")
+    || `<tr><td colspan="4">Nessun test attivo</td></tr>`;
+}
+
+(async () => {
+  const db = window.claude ? await window.claude.use("db") : null;
+  if (!db){ $("vuoto").querySelector("p").textContent = "Apri il cruscotto da claude.ai con il tuo account per vedere i dati."; return; }
+  db.collection("giorni").orderBy("data","desc").limit(60).onSnapshot(
+    snap => render(snap.docs.map(d => d.data()).reverse()),
+    () => { $("vuoto").querySelector("p").textContent = "Dati non disponibili in questo momento. Riapri la pagina tra poco."; }
+  );
+})();
+</script>

@@ -15,3 +15,8 @@ Ciclo: PUBBLICA → MISURA → ANALIZZA → IMPARA → MODIFICA → RIPUBBLICA.
 - Mai un numero da solo: sempre contro media 7 giorni, media 30 giorni, stesso format.
 - Una variabile per test. Ogni test in `esperimenti.md`: ipotesi → esperimento → risultato → insight → azione.
 - Nessun dato inventato: se manca, si scrive cosa manca.
+
+## Cruscotto
+`crescita/dashboard.html` è pubblicato come artifact "Cruscotto Dieci Bottega" (https://claude.ai/artifact/67n95s52rGcZhWmVZzBuRk). La pagina legge i dati dal database dell'artifact (collezione `giorni`, un documento per giorno), che il controllo serale aggiorna.
+
+Score per canale (0–100): follower verso l'obiettivo a 7 giorni (40), persone raggiunte medie per post negli ultimi 7 giorni su 40 (30), interazioni/raggiunti su 5% (20), post usciti negli ultimi 7 giorni su 3 (10). Score totale = media dei tre canali.
