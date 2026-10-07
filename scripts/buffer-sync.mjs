@@ -186,6 +186,24 @@ async function main() {
     }
   }
 
+  // metriche dei post usciti (Buffer le aggiorna una volta al giorno)
+  try {
+    const perId = {};
+    for (const it of coda.contenuti) for (const [sv, c] of Object.entries(it.canali)) if (c.bufferId) perId[c.bufferId] = { id: it.id, titolo: it.titolo, tipo: it.tipo };
+    const righeM = [];
+    for (const [servizio, canale] of Object.entries(canali)) {
+      const d = await gql(`query { posts(first: 100, input: { organizationId: ${JSON.stringify(org.id)}, filter: { status: [sent], channelIds: [${JSON.stringify(canale.id)}] } }) { edges { node { id text dueAt sentAt metrics { type name value unit } metricsUpdatedAt } } } }`);
+      for (const { node } of d.posts.edges) {
+        const m = Object.fromEntries((node.metrics || []).map((x) => [x.type, x.value]));
+        righeM.push({ canale: servizio, bufferId: node.id, contenuto: perId[node.id]?.id || null, titolo: perId[node.id]?.titolo || (node.text || "").slice(0, 60), uscito: node.sentAt || node.dueAt, aggiornato: node.metricsUpdatedAt, metriche: m });
+      }
+    }
+    fs.mkdirSync("crescita/storico", { recursive: true });
+    fs.writeFileSync("crescita/metriche-post.json", JSON.stringify(righeM, null, 2));
+    if (!DRY) fs.writeFileSync(`crescita/storico/${new Date().toISOString().slice(0, 10)}.json`, JSON.stringify(righeM, null, 2));
+    log(`Metriche: ${righeM.length} post usciti letti`);
+  } catch (e) { log("Metriche non disponibili:", e.message); fs.mkdirSync("crescita", { recursive: true }); fs.writeFileSync("crescita/metriche-errore.txt", e.message); }
+
   // riepilogo leggibile
   const righe = ["# Stato coda social", "", `Ultimo controllo: ${new Date().toLocaleString("it-IT", { timeZone: "Europe/Rome" })}${DRY ? " (prova, niente inviato)" : ""}`, "",
     "| Canale | Programmati su Buffer | Slot liberi |", "|---|---|---|",
