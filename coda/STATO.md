@@ -1,12 +1,11 @@
 # Stato coda social
 
-Ultimo controllo: 07/10/2026, 09:52:29
+Ultimo controllo: 07/10/2026, 13:50:15
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
 | facebook | 10 | 0 |
 | linkedin | 10 | 0 |
-| instagram | 10 | 0 |
 
 ## Prossimi in coda
 
@@ -65,17 +64,4 @@ Ultimo controllo: 07/10/2026, 09:52:29
 - 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
 - 21/10/26, 18:30 · Dieci giorni non sono una corsa. Sono un calendario. Quando diciamo ch
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
-
-### instagram
-
-- 08/10/26, 18:30 · Quale bottone converte di più? Due versioni, una sola funziona meglio.
-- 09/10/26, 12:30 · Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tu
-- 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Per noi ogni font, ogni micro
-- 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
-- 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
-- 22/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
-- 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
-- 29/10/26, 18:30 · Come nasce un sito in 10 giorni. Giorno 1–2 brief, 3–5 design, 6–8 svi
-- 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
-- 05/11/26, 18:30 · Stessa attività. Due siti. Villa Pet Sitter, pet sitter professionale 
 
