@@ -314,5 +314,141 @@
         }
       ]
     }
+  ],
+  "instagram": [
+    {
+      "id": "6ac3d8cc7b80e27772c2b769",
+      "dueAt": "2026-10-08T16:30:00.000Z",
+      "text": "Quale bottone converte di più?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito con microcopy curato.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
+      "assets": [
+        {
+          "src": "https://cdn.jsdelivr.net/gh/LorenzoLambertini/dieci-bottega-piano-editoriale@reel-media/reel/R02.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac575558a697ec91171f750",
+      "dueAt": "2026-10-09T10:30:00.000Z",
+      "text": "Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tutti: chi possiede il dominio, chi aggiorna il sito, cosa succede dopo il lancio.\nSalvalo per quando qualcuno ti manda un preventivo. Il nostro listino è pubblico: link in bio.\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide04.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide05.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide06.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide07.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "6ac3d9278c74e278c8f39cd6",
+      "dueAt": "2026-10-13T16:30:00.000Z",
+      "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font, ogni microcopy, ogni millisecondo è una scelta consapevole. AI come strumento, mestiere come metodo.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
+      "assets": [
+        {
+          "src": "https://cdn.jsdelivr.net/gh/LorenzoLambertini/dieci-bottega-piano-editoriale@30c6061025fde580df0049cd614a63da6a4c93bf/reel/R03.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac3d9375162d360af9e3d1a",
+      "dueAt": "2026-10-15T16:30:00.000Z",
+      "text": "Un sito mobile ci mette più di 3 secondi. Quante visite si perdono?\n\nA) Il 15%\nB) Il 90%\nC) Il 53%\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito veloce, mobile-first.\n\nFonte: Google · The Need for Mobile Speed (dati 2016)\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #corewebvitals #velocitasito #mobilefirst",
+      "assets": [
+        {
+          "src": "https://cdn.jsdelivr.net/gh/LorenzoLambertini/dieci-bottega-piano-editoriale@30c6061025fde580df0049cd614a63da6a4c93bf/reel/R04.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac3d96891c77f0a466b6cad",
+      "dueAt": "2026-10-20T16:30:00.000Z",
+      "text": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
+      "assets": [
+        {
+          "src": "https://raw.githubusercontent.com/LorenzoLambertini/dieci-bottega-piano-editoriale/30c6061025fde580df0049cd614a63da6a4c93bf/reel/R05.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac3d97691c77f0a466b6e81",
+      "dueAt": "2026-10-22T16:30:00.000Z",
+      "text": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
+      "assets": [
+        {
+          "src": "https://raw.githubusercontent.com/LorenzoLambertini/dieci-bottega-piano-editoriale/30c6061025fde580df0049cd614a63da6a4c93bf/reel/R06.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac3d9825162d360af9e488e",
+      "dueAt": "2026-10-27T17:30:00.000Z",
+      "text": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Geolocalizzazione\nC) Google Engine Online\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito pronto per la GEO.\n\nFonte: Aggarwal et al., KDD 2024\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #geo #seo #intelligenzaartificiale",
+      "assets": [
+        {
+          "src": "https://raw.githubusercontent.com/LorenzoLambertini/dieci-bottega-piano-editoriale/30c6061025fde580df0049cd614a63da6a4c93bf/reel/R07.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac3d98e8c74e278c8f3abbb",
+      "dueAt": "2026-10-29T17:30:00.000Z",
+      "text": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
+      "assets": [
+        {
+          "src": "https://raw.githubusercontent.com/LorenzoLambertini/dieci-bottega-piano-editoriale/30c6061025fde580df0049cd614a63da6a4c93bf/reel/R08.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac3d99ca790cb17e9fbda18",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "text": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accetti tutto\nB) Il sito si blocca\nC) Rifiuti\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito in regola, cookie compresi.\n\nFonte: Garante Privacy · linee guida 2021\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #cookie #gdpr #privacy",
+      "assets": [
+        {
+          "src": "https://raw.githubusercontent.com/LorenzoLambertini/dieci-bottega-piano-editoriale/30c6061025fde580df0049cd614a63da6a4c93bf/reel/R09.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac3d9aaa790cb17e9fbdc26",
+      "dueAt": "2026-11-05T17:30:00.000Z",
+      "text": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio sito WordPress a un sito vetrina multipagina. Mobile-first, veloce, WhatsApp a un tocco. Dentro: servizi, prezzi, attestati, recensioni, galleria.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #primaedopo #restyling #piccoleimprese",
+      "assets": [
+        {
+          "src": "https://raw.githubusercontent.com/LorenzoLambertini/dieci-bottega-piano-editoriale/30c6061025fde580df0049cd614a63da6a4c93bf/reel/R10.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    }
   ]
 }

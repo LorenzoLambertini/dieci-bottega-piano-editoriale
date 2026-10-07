@@ -17,7 +17,7 @@
     "id": "6ab4510dea19ca0bdecc802f",
     "name": "diecibottega",
     "service": "instagram",
-    "isDisconnected": true,
+    "isDisconnected": false,
     "isLocked": false
   }
 ]

@@ -1,17 +1,18 @@
 # Stato coda social
 
-Ultimo controllo: 07/10/2026, 17:33:05
+Ultimo controllo: 07/10/2026, 17:35:26
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
 | facebook | 10 | 0 |
 | linkedin | 10 | 0 |
+| instagram | 10 | 0 |
 
 ## Prossimi in coda
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-07 18:30 | P10 | Reel Dieci Giorni | da_programmare | programmato | programmato |
+| 2026-10-07 18:30 | P10 | Reel Dieci Giorni | programmato | programmato | programmato |
 | 2026-10-08 18:30 | R02 | Quale bottone | gia_in_buffer | programmato | programmato |
 | 2026-10-09 12:30 | P04 | Listino | programmato | programmato | programmato |
 | 2026-10-12 12:30 | P05 | Tip Visite | da_programmare | programmato | programmato |
@@ -30,7 +31,7 @@ Ultimo controllo: 07/10/2026, 17:33:05
 | 2026-11-02 18:30 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
 | 2026-11-03 18:30 | R09 | La X dei cookie | gia_in_buffer | da_programmare | da_programmare |
 | 2026-11-04 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
-| 2026-11-05 18:30 | R10 | Prima e dopo | gia_in_buffer | da_programmare | da_programmare |
+| 2026-11-05 18:30 | R10 | Prima e dopo | da_programmare | da_programmare | da_programmare |
 | 2026-11-06 18:30 | S03 | Il passaparola non basta | manca_video | manca_video | manca_video |
 | 2026-11-09 18:30 | S04 | Sito del lunedì: l'agente immobiliare | manca_video | manca_video | manca_video |
 | 2026-11-10 18:30 | R11 | La foto del chi siamo | da_programmare | da_programmare | da_programmare |
@@ -64,6 +65,19 @@ Ultimo controllo: 07/10/2026, 17:33:05
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
+
+### instagram
+
+- 07/10/26, 18:30 · 
+- 08/10/26, 18:30 · Quale bottone converte di più? Due versioni, una sola funziona meglio.
+- 09/10/26, 12:30 · Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tu
+- 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Per noi ogni font, ogni micro
+- 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
+- 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
+- 22/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
+- 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
+- 29/10/26, 18:30 · Come nasce un sito in 10 giorni. Giorno 1–2 brief, 3–5 design, 6–8 svi
+- 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
 
 
 ## Ultime sostituzioni automatiche

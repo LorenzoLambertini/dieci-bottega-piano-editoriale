@@ -78,7 +78,9 @@
         "instagram": {
           "testo": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fase ha un giorno, ogni revisione ha un momento. Per questo possiamo dirti prima quando sarai online.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
           "video": "media/post/P10/video.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac666bee94c2c45e0075098",
+          "programmatoIl": "2026-10-07T15:35:26.138Z"
         },
         "facebook": {
           "testo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
@@ -705,8 +707,7 @@
         "instagram": {
           "testo": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio sito WordPress a un sito vetrina multipagina. Mobile-first, veloce, WhatsApp a un tocco. Dentro: servizi, prezzi, attestati, recensioni, galleria.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #primaedopo #restyling #piccoleimprese",
           "video": "media/reel/R10.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac3d9aaa790cb17e9fbdc26"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Stessa attività, due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio WordPress a un sito vetrina multipagina. Veloce da telefono, WhatsApp a un tocco, servizi e prezzi chiari.\n\nUn lavoro vero, fatto in bottega. Ti piace il prima o il dopo?",
