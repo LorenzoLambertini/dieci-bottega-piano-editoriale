@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 07/10/2026, 00:36:18
+Ultimo controllo: 07/10/2026, 09:13:28
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -43,27 +43,27 @@ Ultimo controllo: 07/10/2026, 00:36:18
 ### facebook
 
 - 08/10/26, 18:30 · 
-- 09/10/26, 12:30 · 
-- 12/10/26, 12:30 · 
+- 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Non esiste una cifra giusta per tutti
+- 12/10/26, 12:30 · Il tuo sito ha visite ma nessuno ti scrive? Di solito il motivo è uno 
 - 13/10/26, 18:30 · 
 - 15/10/26, 18:30 · 
-- 16/10/26, 12:30 · 
-- 19/10/26, 12:30 · 
+- 16/10/26, 12:30 · Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no. L'AI ci ai
+- 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
 - 20/10/26, 18:30 · 
-- 21/10/26, 18:30 · 
+- 21/10/26, 18:30 · Dieci giorni. Cosa succede ogni giorno. Brief, design, sviluppo, onlin
 - 22/10/26, 18:30 · 
 
 ### linkedin
 
 - 08/10/26, 18:30 · 
-- 09/10/26, 12:30 · 
-- 12/10/26, 12:30 · 
+- 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Nessuna cifra vale per tutti. Ma prim
+- 12/10/26, 12:30 · Il tuo sito ha visite. Nessuno ti scrive. Più traffico non vuol dire p
 - 13/10/26, 18:30 · 
 - 15/10/26, 18:30 · 
-- 16/10/26, 12:30 · 
-- 19/10/26, 12:30 · 
+- 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
+- 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · 
-- 21/10/26, 18:30 · 
+- 21/10/26, 18:30 · Dieci giorni non sono una corsa. Sono un calendario. Quando diciamo ch
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 
 ### instagram

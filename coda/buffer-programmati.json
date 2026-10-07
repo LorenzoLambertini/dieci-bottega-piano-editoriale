@@ -1,6 +1,209 @@
 {
-  "facebook": [],
+  "facebook": [
+    {
+      "id": "6ac577db8a697ec911726964",
+      "dueAt": "2026-10-09T10:30:00.000Z",
+      "text": "Quanto dovrebbe costare un sito?\n\nNon esiste una cifra giusta per tutti, ma ci sono 4 domande da fare a chiunque ti mandi un preventivo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nSalvalo per quando ti servirà. Il nostro listino è pubblico: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=post&utm_campaign=p04",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide04.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide05.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide06.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide07.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "6ac577dc2b46a5da666e7716",
+      "dueAt": "2026-10-12T10:30:00.000Z",
+      "text": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il motivo è uno di questi 5: il contatto è in fondo, il modulo chiede troppo, non si capisce cosa fai, il numero non si può toccare da telefono, nessuno risponde in fretta.\n\nQuanti ne trovi sul tuo sito? Scrivici qui sotto o in privato: ti diciamo noi.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide04.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide05.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide06.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide07.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "6ac577df8a697ec9117269e2",
+      "dueAt": "2026-10-16T10:30:00.000Z",
+      "text": "Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no.\n\nL'AI ci aiuta con le bozze e le parti ripetitive. Le scelte, i testi finali e ogni riga di codice li rivediamo noi. E non usiamo mai volti inventati.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P08/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P08/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P08/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P08/slide04.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P08/slide05.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P08/slide06.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "6ac577df8a697ec911726a0b",
+      "dueAt": "2026-10-19T10:30:00.000Z",
+      "text": "Contatti sparsi tra Excel, WhatsApp e mail?\n\nSe due persone chiamano lo stesso cliente, o un preventivo resta senza risposta perché nessuno se lo ricordava, stai perdendo clienti che avevi già.\n\nCostruiamo CRM su misura, con i dati che restano tuoi. E se ti basta un foglio fatto bene, te lo diciamo.\n\nhttps://diecibottega.it/servizi/crm-su-misura?utm_source=facebook&utm_medium=post&utm_campaign=p09",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide04.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide05.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide06.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide07.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "6ac577e142e81c8a0b0bb0dd",
+      "dueAt": "2026-10-21T16:30:00.000Z",
+      "text": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/video.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    }
+  ],
   "linkedin": [
+    {
+      "id": "6ac577db2b46a5da666e76e3",
+      "dueAt": "2026-10-09T10:30:00.000Z",
+      "text": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tutti. Ma prima di confrontare preventivi, conviene capire cosa si sta confrontando. Di solito le strade sono tre:\n\n1. Il fai-da-te. Paghi poco al mese, il tempo lo metti tu. Il risultato dipende da un lavoro che non è il tuo.\n2. Il freelance a prezzo basso. Può andare benissimo o malissimo. Chiedi sempre chi aggiorna il sito dopo e a chi è intestato il dominio.\n3. L'agenzia tradizionale. Processo solido, tempi lunghi, preventivi spesso fuori scala per una piccola attività.\n\nQuattro domande da fare a chiunque, prima del prezzo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nNoi abbiamo scelto di scrivere il listino sul sito: landing page da 800 €, sito vetrina da 1.200 €, con tempi e cosa è incluso. Il prezzo giusto è quello che capisci prima di firmare.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=post&utm_campaign=p04\n\n#PMI #WebDesign #Preventivi",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/carosello.pdf",
+          "tipo": "application/pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac577dc8a697ec9117269b0",
+      "dueAt": "2026-10-12T10:30:00.000Z",
+      "text": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/carosello.pdf",
+          "tipo": "application/pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac577df42e81c8a0b0bb07c",
+      "dueAt": "2026-10-16T10:30:00.000Z",
+      "text": "Cosa fa l'AI. Cosa facciamo noi.\n\nTutti dicono di usare l'intelligenza artificiale. Noi preferiamo dire esattamente dove, e dove no.\n\nTesti: l'AI scrive una prima bozza con più varianti. Noi scegliamo quella che suona come il cliente.\nDesign: l'AI propone varianti di layout. Noi decidiamo cosa si vede per primo.\nCodice: l'AI accelera le parti ripetitive. Noi lo rileggiamo tutto, riga per riga.\nImmagini: l'AI solo dove non servono persone. Mai volti inventati, e lo dichiariamo.\n\nCosì chi lavora con noi sa cosa sta pagando: tempo risparmiato sulle parti ripetitive, e persone che decidono su tutto il resto.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.\n\n#IntelligenzaArtificiale #PMI #WebDesign",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P08/carosello.pdf",
+          "tipo": "application/pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac577e0280171da8dd32b8d",
+      "dueAt": "2026-10-19T10:30:00.000Z",
+      "text": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNon tutte le aziende hanno bisogno di un CRM. Excel può bastare, finché sei da solo e hai pochi contatti al mese.\n\nSmette di bastare quando:\n— due persone chiamano lo stesso cliente;\n— un preventivo resta senza risposta perché nessuno se lo ricordava;\n— il lunedì serve mezz'ora per capire come sta andando.\n\nUn CRM non è un software. È sapere, per ogni contatto, chi deve fare cosa e quando.\n\nLo costruiamo su misura, sul vostro modo di lavorare, con i dati che restano vostri. E se vi basta un foglio fatto bene, ve lo diciamo.\n\nCRM su misura, da 2.500 €: https://diecibottega.it/servizi/crm-su-misura?utm_source=linkedin&utm_medium=post&utm_campaign=p09\n\n#CRM #PMI #Vendite",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/carosello.pdf",
+          "tipo": "application/pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac577e18a697ec911726a40",
+      "dueAt": "2026-10-21T16:30:00.000Z",
+      "text": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando diciamo che un sito vetrina è online in dieci giorni, non vuol dire lavorare di fretta. Vuol dire che ogni fase ha i suoi giorni:\n\nGiorno 1-2 · Brief. Una call, poi un questionario. Capiamo cosa serve davvero.\nGiorno 3-5 · Design. Il cliente vede il sito prima che diventi codice. Due round di revisione.\nGiorno 6-8 · Sviluppo. Codice scritto a mano, veloce anche da telefono.\nGiorno 9-10 · Online. Test su telefono, SEO di base, consegna con credenziali e guida.\n\nPer questo possiamo dire prima quando il sito sarà online. Veloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p10\n\n#PMI #WebDesign #Processi",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/video.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ac5755542e81c8a0b0b4e90",
       "dueAt": "2026-10-23T10:30:00.000Z",
