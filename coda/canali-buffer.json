@@ -1,0 +1,23 @@
+[
+  {
+    "id": "6ab6dedeea19ca0bdeeadf4d",
+    "name": "Dieci Bottega",
+    "service": "facebook",
+    "isDisconnected": false,
+    "isLocked": false
+  },
+  {
+    "id": "6ab66887ea19ca0bdee4c792",
+    "name": "diecibottega",
+    "service": "linkedin",
+    "isDisconnected": false,
+    "isLocked": false
+  },
+  {
+    "id": "6ab4510dea19ca0bdecc802f",
+    "name": "diecibottega",
+    "service": "instagram",
+    "isDisconnected": true,
+    "isLocked": false
+  }
+]

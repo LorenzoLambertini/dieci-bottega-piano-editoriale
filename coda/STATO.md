@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 07/10/2026, 17:31:16
+Ultimo controllo: 07/10/2026, 17:33:05
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -41,7 +41,7 @@ Ultimo controllo: 07/10/2026, 17:31:16
 
 ### facebook
 
-- 07/10/26, 18:30 · 
+- 07/10/26, 18:30 · Dieci giorni. Cosa succede ogni giorno. Brief, design, sviluppo, onlin
 - 08/10/26, 18:30 · Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A 
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Non esiste una cifra giusta per tutti
 - 12/10/26, 12:30 · Il tuo sito ha visite ma nessuno ti scrive? Di solito il motivo è uno 
@@ -54,7 +54,7 @@ Ultimo controllo: 07/10/2026, 17:31:16
 
 ### linkedin
 
-- 07/10/26, 18:30 · 
+- 07/10/26, 18:30 · Dieci giorni non sono una corsa. Sono un calendario. Quando diciamo ch
 - 08/10/26, 18:30 · Due bottoni, stessa pagina. Uno porta prenotazioni, l'altro no. La dif
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Nessuna cifra vale per tutti. Ma prim
 - 12/10/26, 12:30 · Il tuo sito ha visite. Nessuno ti scrive. Più traffico non vuol dire p
