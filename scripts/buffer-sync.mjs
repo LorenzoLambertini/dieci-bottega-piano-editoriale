@@ -78,6 +78,7 @@ async function main() {
     if (c.isDisconnected || c.isLocked) continue;
     if (!canali[c.service]) canali[c.service] = c; // instagram, facebook, linkedin
   }
+  fs.writeFileSync("coda/canali-buffer.json", JSON.stringify(chd.channels, null, 2));
   log("Canali:", Object.entries(canali).map(([s, c]) => `${s}=${c.name}`).join(", "));
 
   // pulizia una tantum: elimina da Buffer i post elencati in coda/da-eliminare.json
