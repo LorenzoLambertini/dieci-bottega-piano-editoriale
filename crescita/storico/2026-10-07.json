@@ -1,6 +1,22 @@
 [
   {
     "canale": "facebook",
+    "bufferId": "6ac665c375e2178a9949fcc5",
+    "contenuto": null,
+    "titolo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, svil",
+    "uscito": "2026-10-07T16:30:29.293Z",
+    "aggiornato": "2026-10-07T16:32:11.882Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
     "bufferId": "6ac4c5d35eb2d92e7a5cc9aa",
     "contenuto": null,
     "titolo": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
@@ -49,6 +65,22 @@
   },
   {
     "canale": "linkedin",
+    "bufferId": "6ac665c475e2178a9949fcf0",
+    "contenuto": null,
+    "titolo": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando",
+    "uscito": "2026-10-07T16:30:28.665Z",
+    "aggiornato": "2026-10-07T15:31:16.034Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
     "bufferId": "6ac4c5c8f3da78683bb55179",
     "contenuto": null,
     "titolo": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
@@ -81,11 +113,20 @@
   },
   {
     "canale": "instagram",
+    "bufferId": "6ac666bee94c2c45e0075098",
+    "contenuto": null,
+    "titolo": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fa",
+    "uscito": "2026-10-07T16:30:55.529Z",
+    "aggiornato": "2026-10-07T15:35:26.039Z",
+    "metriche": {}
+  },
+  {
+    "canale": "instagram",
     "bufferId": "6ac53fd6308dd81662b88965",
     "contenuto": null,
     "titolo": "👀 👀👀",
     "uscito": "2026-10-06T16:43:35.000Z",
-    "aggiornato": "2026-10-07T15:35:07.209Z",
+    "aggiornato": "2026-10-07T16:33:36.232Z",
     "metriche": {
       "views": 3,
       "reach": 0,

@@ -1,17 +1,6 @@
 {
   "facebook": [
     {
-      "id": "6ac665c375e2178a9949fcc5",
-      "dueAt": "2026-10-07T16:30:00.000Z",
-      "text": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/video.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ac5f1145355110416252f7e",
       "dueAt": "2026-10-08T16:30:00.000Z",
       "text": "Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A o B?\n\nScrivilo nei commenti, poi guarda la risposta nel video.",
@@ -53,41 +42,6 @@
         },
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/slide07.png",
-          "tipo": "image/png"
-        }
-      ]
-    },
-    {
-      "id": "6ac577dc2b46a5da666e7716",
-      "dueAt": "2026-10-12T10:30:00.000Z",
-      "text": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il motivo è uno di questi 5: il contatto è in fondo, il modulo chiede troppo, non si capisce cosa fai, il numero non si può toccare da telefono, nessuno risponde in fretta.\n\nQuanti ne trovi sul tuo sito? Scrivici qui sotto o in privato: ti diciamo noi.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide01.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide02.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide03.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide04.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide05.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide06.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide07.png",
           "tipo": "image/png"
         }
       ]
@@ -205,17 +159,6 @@
   ],
   "linkedin": [
     {
-      "id": "6ac665c475e2178a9949fcf0",
-      "dueAt": "2026-10-07T16:30:00.000Z",
-      "text": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando diciamo che un sito vetrina è online in dieci giorni, non vuol dire lavorare di fretta. Vuol dire che ogni fase ha i suoi giorni:\n\nGiorno 1-2 · Brief. Una call, poi un questionario. Capiamo cosa serve davvero.\nGiorno 3-5 · Design. Il cliente vede il sito prima che diventi codice. Due round di revisione.\nGiorno 6-8 · Sviluppo. Codice scritto a mano, veloce anche da telefono.\nGiorno 9-10 · Online. Test su telefono, SEO di base, consegna con credenziali e guida.\n\nPer questo possiamo dire prima quando il sito sarà online. Veloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p10\n\n#PMI #WebDesign #Processi",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/video.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ac5f114df05c83428d8a9fb",
       "dueAt": "2026-10-08T16:30:00.000Z",
       "text": "Due bottoni, stessa pagina. Uno porta prenotazioni, l'altro no.\n\nLa differenza non è il colore preferito del titolare. Sono tre regole che applichiamo a ogni bottone:\n— contrasto forte, si vede subito;\n— massimo tre parole;\n— dice cosa succede quando lo tocchi. Niente \"Clicca qui\".\n\nSembra un dettaglio. È il punto esatto in cui un visitatore diventa un cliente, oppure se ne va.\n\n#UX #Microcopy #PMI",
@@ -233,17 +176,6 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P04/carosello.pdf",
-          "tipo": "application/pdf"
-        }
-      ]
-    },
-    {
-      "id": "6ac577dc8a697ec9117269b0",
-      "dueAt": "2026-10-12T10:30:00.000Z",
-      "text": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/carosello.pdf",
           "tipo": "application/pdf"
         }
       ]
@@ -300,17 +232,6 @@
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R05.mp4",
           "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ac5755542e81c8a0b0b4e90",
-      "dueAt": "2026-10-23T10:30:00.000Z",
-      "text": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P07/carosello.pdf",
-          "tipo": "application/pdf"
         }
       ]
     }
@@ -435,17 +356,6 @@
       "assets": [
         {
           "src": "https://raw.githubusercontent.com/LorenzoLambertini/dieci-bottega-piano-editoriale/30c6061025fde580df0049cd614a63da6a4c93bf/reel/R09.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ac3d9aaa790cb17e9fbdc26",
-      "dueAt": "2026-11-05T17:30:00.000Z",
-      "text": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio sito WordPress a un sito vetrina multipagina. Mobile-first, veloce, WhatsApp a un tocco. Dentro: servizi, prezzi, attestati, recensioni, galleria.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #primaedopo #restyling #piccoleimprese",
-      "assets": [
-        {
-          "src": "https://raw.githubusercontent.com/LorenzoLambertini/dieci-bottega-piano-editoriale/30c6061025fde580df0049cd614a63da6a4c93bf/reel/R10.mp4",
           "tipo": "video/mp4"
         }
       ]
