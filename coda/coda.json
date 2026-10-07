@@ -69,32 +69,50 @@
       }
     },
     {
-      "id": "P10",
-      "titolo": "Reel Dieci Giorni",
-      "tipo": "reel",
-      "quando": "2026-10-07 18:30",
-      "dueAt": "2026-10-07T16:30:00.000Z",
+      "id": "P05",
+      "titolo": "Tip Visite",
+      "tipo": "carosello",
+      "quando": "2026-10-07 19:30",
+      "dueAt": "2026-10-07T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fase ha un giorno, ogni revisione ha un momento. Per questo possiamo dirti prima quando sarai online.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
-          "video": "media/post/P10/video.mp4",
-          "stato": "programmato",
-          "bufferId": "6ac666bee94c2c45e0075098",
-          "programmatoIl": "2026-10-07T15:35:26.138Z"
+          "testo": "Più visite non vuol dire più clienti. Spesso il problema è in 5 punti che si sistemano in un pomeriggio.\nQuanti ne hai trovati sul tuo sito?\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
+          "immagini": [
+            "media/post/P05/slide01.png",
+            "media/post/P05/slide02.png",
+            "media/post/P05/slide03.png",
+            "media/post/P05/slide04.png",
+            "media/post/P05/slide05.png",
+            "media/post/P05/slide06.png",
+            "media/post/P05/slide07.png"
+          ],
+          "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
-          "video": "media/post/P10/video.mp4",
+          "testo": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il motivo è uno di questi 5: il contatto è in fondo, il modulo chiede troppo, non si capisce cosa fai, il numero non si può toccare da telefono, nessuno risponde in fretta.\n\nQuanti ne trovi sul tuo sito? Scrivici qui sotto o in privato: ti diciamo noi.",
+          "immagini": [
+            "media/post/P05/slide01.png",
+            "media/post/P05/slide02.png",
+            "media/post/P05/slide03.png",
+            "media/post/P05/slide04.png",
+            "media/post/P05/slide05.png",
+            "media/post/P05/slide06.png",
+            "media/post/P05/slide07.png"
+          ],
           "stato": "programmato",
-          "bufferId": "6ac665c375e2178a9949fcc5",
-          "programmatoIl": "2026-10-07T15:31:15.744Z"
+          "bufferId": "6ac577dc2b46a5da666e7716",
+          "programmatoIl": "2026-10-06T22:36:12.556Z",
+          "daAggiornare": true
         },
         "linkedin": {
-          "testo": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando diciamo che un sito vetrina è online in dieci giorni, non vuol dire lavorare di fretta. Vuol dire che ogni fase ha i suoi giorni:\n\nGiorno 1-2 · Brief. Una call, poi un questionario. Capiamo cosa serve davvero.\nGiorno 3-5 · Design. Il cliente vede il sito prima che diventi codice. Due round di revisione.\nGiorno 6-8 · Sviluppo. Codice scritto a mano, veloce anche da telefono.\nGiorno 9-10 · Online. Test su telefono, SEO di base, consegna con credenziali e guida.\n\nPer questo possiamo dire prima quando il sito sarà online. Veloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p10\n\n#PMI #WebDesign #Processi",
-          "video": "media/post/P10/video.mp4",
+          "testo": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
+          "documento": "media/post/P05/carosello.pdf",
+          "titoloDocumento": "Tip Visite",
+          "copertina": "media/post/P05/slide01.png",
           "stato": "programmato",
-          "bufferId": "6ac665c475e2178a9949fcf0",
-          "programmatoIl": "2026-10-07T15:31:16.154Z"
+          "bufferId": "6ac577dc8a697ec9117269b0",
+          "programmatoIl": "2026-10-06T22:36:12.871Z",
+          "daAggiornare": true
         }
       }
     },
@@ -177,48 +195,41 @@
       }
     },
     {
-      "id": "P05",
-      "titolo": "Tip Visite",
+      "id": "P07",
+      "titolo": "Prompt",
       "tipo": "carosello",
       "quando": "2026-10-12 12:30",
       "dueAt": "2026-10-12T10:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Più visite non vuol dire più clienti. Spesso il problema è in 5 punti che si sistemano in un pomeriggio.\nQuanti ne hai trovati sul tuo sito?\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
+          "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto quello che mi restituisce.\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente mi paga. — Lorenzo\n\n#intelligenzaartificiale #copywriting #webdesign #bologna #sitiweb",
           "immagini": [
-            "media/post/P05/slide01.png",
-            "media/post/P05/slide02.png",
-            "media/post/P05/slide03.png",
-            "media/post/P05/slide04.png",
-            "media/post/P05/slide05.png",
-            "media/post/P05/slide06.png",
-            "media/post/P05/slide07.png"
+            "media/post/P07/slide01.png",
+            "media/post/P07/slide02.png",
+            "media/post/P07/slide03.png",
+            "media/post/P07/slide04.png"
           ],
           "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il motivo è uno di questi 5: il contatto è in fondo, il modulo chiede troppo, non si capisce cosa fai, il numero non si può toccare da telefono, nessuno risponde in fretta.\n\nQuanti ne trovi sul tuo sito? Scrivici qui sotto o in privato: ti diciamo noi.",
+          "testo": "Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.\n\nQuanto ci mettiamo noi a scegliere quello giusto? Un po' di più. Su otto proposte ne teniamo una: \"Iniziamo\". Un verbo, zero pressione.\n\nIl lavoro non è generare. È scegliere.",
           "immagini": [
-            "media/post/P05/slide01.png",
-            "media/post/P05/slide02.png",
-            "media/post/P05/slide03.png",
-            "media/post/P05/slide04.png",
-            "media/post/P05/slide05.png",
-            "media/post/P05/slide06.png",
-            "media/post/P05/slide07.png"
+            "media/post/P07/slide01.png",
+            "media/post/P07/slide02.png",
+            "media/post/P07/slide03.png",
+            "media/post/P07/slide04.png"
           ],
-          "stato": "programmato",
-          "bufferId": "6ac577dc2b46a5da666e7716",
-          "programmatoIl": "2026-10-06T22:36:12.556Z"
+          "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
-          "documento": "media/post/P05/carosello.pdf",
-          "titoloDocumento": "Tip Visite",
-          "copertina": "media/post/P05/slide01.png",
+          "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
+          "documento": "media/post/P07/carosello.pdf",
+          "titoloDocumento": "Prompt",
+          "copertina": "media/post/P07/slide01.png",
           "stato": "programmato",
-          "bufferId": "6ac577dc8a697ec9117269b0",
-          "programmatoIl": "2026-10-06T22:36:12.871Z"
+          "bufferId": "6ac5755542e81c8a0b0b4e90",
+          "programmatoIl": "2026-10-06T22:25:26.003Z",
+          "daAggiornare": true
         }
       }
     },
@@ -428,37 +439,29 @@
       }
     },
     {
-      "id": "P03",
-      "titolo": "Reel Founder",
+      "id": "P10",
+      "titolo": "Reel Dieci Giorni",
       "tipo": "reel",
       "quando": "2026-10-21 18:30",
       "dueAt": "2026-10-21T16:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Siamo Tommaso e Lorenzo. Amici da più di dieci anni, oggi una bottega.\nUno sa fare, l'altro sa ascoltare. Se hai un'attività e ti serve un sito che lavori per te, scrivici. Ti rispondiamo noi, non un modulo.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
-          "video": "media/post/P03/video.mp4",
-          "stato": "manca_video"
+          "testo": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fase ha un giorno, ogni revisione ha un momento. Per questo possiamo dirti prima quando sarai online.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+          "video": "media/post/P10/video.mp4",
+          "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Lui disegna. Io parlo con te.\n\nSiamo Tommaso e Lorenzo, amici da più di dieci anni e oggi una bottega. Se hai un'attività e ti serve un sito che lavori per te, scrivici: ti rispondiamo noi, non un modulo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p03",
-          "video": "media/post/P03/video.mp4",
-          "stato": "manca_video"
+          "testo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
+          "video": "media/post/P10/video.mp4",
+          "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "Lui disegna. Io parlo con te.\n\nCi conosciamo da più di dieci anni. Quest'anno abbiamo deciso di mettere insieme quello che sappiamo fare.\n\nLorenzo si occupa di design e codice: disegna il sito, lo scrive, cura i dettagli che non si vedono ma si sentono.\nTommaso si occupa dei clienti: capisce cosa serve davvero, dice quanto costa prima di iniziare e segue il progetto fino alla consegna.\n\nNessun account manager in mezzo. Quando scrivi a Dieci Bottega, ti rispondono le due persone che lavorano al tuo sito.\n\nParliamone: https://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p03\n\n#Founders #PMI #Bologna",
-          "video": "media/post/P03/video.mp4",
-          "stato": "manca_video"
+          "testo": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando diciamo che un sito vetrina è online in dieci giorni, non vuol dire lavorare di fretta. Vuol dire che ogni fase ha i suoi giorni:\n\nGiorno 1-2 · Brief. Una call, poi un questionario. Capiamo cosa serve davvero.\nGiorno 3-5 · Design. Il cliente vede il sito prima che diventi codice. Due round di revisione.\nGiorno 6-8 · Sviluppo. Codice scritto a mano, veloce anche da telefono.\nGiorno 9-10 · Online. Test su telefono, SEO di base, consegna con credenziali e guida.\n\nPer questo possiamo dire prima quando il sito sarà online. Veloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p10\n\n#PMI #WebDesign #Processi",
+          "video": "media/post/P10/video.mp4",
+          "stato": "da_programmare"
         }
       },
-      "nota": "Serve il video girato: caricalo in media/post/P03/video.mp4 e cambia stato in da_programmare.",
-      "sostituzioni": [
-        {
-          "il": "2026-10-07T15:30:51.558Z",
-          "da": "2026-10-07 18:30",
-          "a": "2026-10-21 18:30",
-          "conContenuto": "P10"
-        }
-      ]
+      "nota": "Uscito per errore il 7/10 18:30 (sostituzione), da eliminare a mano dai social; ripubblicato il 21/10"
     },
     {
       "id": "R06",
@@ -485,44 +488,6 @@
           "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
           "video": "media/reel/R06.mp4",
           "stato": "da_programmare"
-        }
-      }
-    },
-    {
-      "id": "P07",
-      "titolo": "Prompt",
-      "tipo": "carosello",
-      "quando": "2026-10-23 12:30",
-      "dueAt": "2026-10-23T10:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto quello che mi restituisce.\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente mi paga. — Lorenzo\n\n#intelligenzaartificiale #copywriting #webdesign #bologna #sitiweb",
-          "immagini": [
-            "media/post/P07/slide01.png",
-            "media/post/P07/slide02.png",
-            "media/post/P07/slide03.png",
-            "media/post/P07/slide04.png"
-          ],
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.\n\nQuanto ci mettiamo noi a scegliere quello giusto? Un po' di più. Su otto proposte ne teniamo una: \"Iniziamo\". Un verbo, zero pressione.\n\nIl lavoro non è generare. È scegliere.",
-          "immagini": [
-            "media/post/P07/slide01.png",
-            "media/post/P07/slide02.png",
-            "media/post/P07/slide03.png",
-            "media/post/P07/slide04.png"
-          ],
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
-          "documento": "media/post/P07/carosello.pdf",
-          "titoloDocumento": "Prompt",
-          "copertina": "media/post/P07/slide01.png",
-          "stato": "programmato",
-          "bufferId": "6ac5755542e81c8a0b0b4e90",
-          "programmatoIl": "2026-10-06T22:25:26.003Z"
         }
       }
     },
@@ -587,6 +552,39 @@
           "stato": "da_programmare"
         }
       }
+    },
+    {
+      "id": "P03",
+      "titolo": "Reel Founder",
+      "tipo": "reel",
+      "quando": "2026-10-28 18:30",
+      "dueAt": "2026-10-28T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Siamo Tommaso e Lorenzo. Amici da più di dieci anni, oggi una bottega.\nUno sa fare, l'altro sa ascoltare. Se hai un'attività e ti serve un sito che lavori per te, scrivici. Ti rispondiamo noi, non un modulo.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+          "video": "media/post/P03/video.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Lui disegna. Io parlo con te.\n\nSiamo Tommaso e Lorenzo, amici da più di dieci anni e oggi una bottega. Se hai un'attività e ti serve un sito che lavori per te, scrivici: ti rispondiamo noi, non un modulo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p03",
+          "video": "media/post/P03/video.mp4",
+          "stato": "manca_video"
+        },
+        "linkedin": {
+          "testo": "Lui disegna. Io parlo con te.\n\nCi conosciamo da più di dieci anni. Quest'anno abbiamo deciso di mettere insieme quello che sappiamo fare.\n\nLorenzo si occupa di design e codice: disegna il sito, lo scrive, cura i dettagli che non si vedono ma si sentono.\nTommaso si occupa dei clienti: capisce cosa serve davvero, dice quanto costa prima di iniziare e segue il progetto fino alla consegna.\n\nNessun account manager in mezzo. Quando scrivi a Dieci Bottega, ti rispondono le due persone che lavorano al tuo sito.\n\nParliamone: https://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p03\n\n#Founders #PMI #Bologna",
+          "video": "media/post/P03/video.mp4",
+          "stato": "manca_video"
+        }
+      },
+      "nota": "Serve il video girato: caricalo in media/post/P03/video.mp4 e cambia stato in da_programmare.",
+      "sostituzioni": [
+        {
+          "il": "2026-10-07T15:30:51.558Z",
+          "da": "2026-10-07 18:30",
+          "a": "2026-10-21 18:30",
+          "conContenuto": "P10"
+        }
+      ]
     },
     {
       "id": "R08",
