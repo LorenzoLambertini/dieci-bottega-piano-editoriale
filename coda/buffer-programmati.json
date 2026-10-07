@@ -1,37 +1,6 @@
 {
   "facebook": [
     {
-      "id": "6ac67b46e59f0d0f6165ca86",
-      "dueAt": "2026-10-07T17:30:00.000Z",
-      "text": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, sviluppo, online: ogni fase ha i suoi giorni. Per questo possiamo dirti prima quando il tuo sito sarà online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p10",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide01.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide02.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide03.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide04.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide05.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide06.png",
-          "tipo": "image/png"
-        }
-      ]
-    },
-    {
       "id": "6ac5f1145355110416252f7e",
       "dueAt": "2026-10-08T16:30:00.000Z",
       "text": "Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A o B?\n\nScrivilo nei commenti, poi guarda la risposta nel video.",
@@ -322,51 +291,9 @@
           "tipo": "video/mp4"
         }
       ]
-    },
-    {
-      "id": "6ac67b4828e9cd44033e052c",
-      "dueAt": "2026-10-23T10:30:00.000Z",
-      "text": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P07/carosello.pdf",
-          "tipo": "application/pdf"
-        }
-      ]
     }
   ],
   "instagram": [
-    {
-      "id": "6ac67b465dd7df060c6d9481",
-      "dueAt": "2026-10-07T17:30:00.000Z",
-      "text": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fase ha un giorno, ogni revisione ha un momento. Per questo possiamo dirti prima quando sarai online.\nScorri per vedere cosa succede ogni giorno.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide01.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide02.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide03.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide04.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide05.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P10/slide06.png",
-          "tipo": "image/png"
-        }
-      ]
-    },
     {
       "id": "6ac3d8cc7b80e27772c2b769",
       "dueAt": "2026-10-08T16:30:00.000Z",

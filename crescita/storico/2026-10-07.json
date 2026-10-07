@@ -1,6 +1,22 @@
 [
   {
     "canale": "facebook",
+    "bufferId": "6ac67b46e59f0d0f6165ca86",
+    "contenuto": "P10",
+    "titolo": "Carosello Dieci Giorni",
+    "uscito": "2026-10-07T17:30:16.415Z",
+    "aggiornato": "2026-10-07T17:31:19.359Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
     "bufferId": "6ac665c375e2178a9949fcc5",
     "contenuto": null,
     "titolo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, svil",
@@ -65,6 +81,22 @@
   },
   {
     "canale": "linkedin",
+    "bufferId": "6ac67b7a4610dcaf932d0a1c",
+    "contenuto": "P10",
+    "titolo": "Carosello Dieci Giorni",
+    "uscito": "2026-10-07T17:30:26.960Z",
+    "aggiornato": "2026-10-07T17:03:54.611Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
     "bufferId": "6ac665c475e2178a9949fcf0",
     "contenuto": null,
     "titolo": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando",
@@ -110,6 +142,15 @@
       "reach": 2,
       "shares": 0
     }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac67b465dd7df060c6d9481",
+    "contenuto": "P10",
+    "titolo": "Carosello Dieci Giorni",
+    "uscito": "2026-10-07T17:31:08.665Z",
+    "aggiornato": "2026-10-07T17:03:02.183Z",
+    "metriche": {}
   },
   {
     "canale": "instagram",

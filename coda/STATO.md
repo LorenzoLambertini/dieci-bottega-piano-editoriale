@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 07/10/2026, 19:03:55
+Ultimo controllo: 07/10/2026, 23:59:17
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,10 +12,9 @@ Ultimo controllo: 07/10/2026, 19:03:55
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-07 19:30 | P10 | Carosello Dieci Giorni | programmato | programmato | programmato |
 | 2026-10-08 18:30 | R02 | Quale bottone | gia_in_buffer | programmato | programmato |
 | 2026-10-09 12:30 | P04 | Listino | programmato | programmato | programmato |
-| 2026-10-12 12:30 | P05 | Tip Visite | da_programmare | programmato | programmato |
+| 2026-10-12 12:30 | P05 | Tip Visite | programmato | programmato | programmato |
 | 2026-10-13 18:30 | R03 | Il bottone | gia_in_buffer | programmato | programmato |
 | 2026-10-14 18:30 | P06 | Reel Dettaglio | manca_video | manca_video | manca_video |
 | 2026-10-15 18:30 | R04 | Tre secondi su mobile | gia_in_buffer | programmato | programmato |
@@ -23,7 +22,7 @@ Ultimo controllo: 07/10/2026, 19:03:55
 | 2026-10-19 12:30 | P09 | CRM | da_programmare | programmato | programmato |
 | 2026-10-20 18:30 | R05 | Quanto costa un sito | gia_in_buffer | programmato | programmato |
 | 2026-10-22 18:30 | R06 | Quale homepage | gia_in_buffer | programmato | programmato |
-| 2026-10-23 12:30 | P07 | Prompt | da_programmare | da_programmare | da_programmare |
+| 2026-10-23 12:30 | P07 | Prompt | da_programmare | programmato | programmato |
 | 2026-10-26 12:30 | P11 | Dieci Anni | da_programmare | da_programmare | da_programmare |
 | 2026-10-27 18:30 | R07 | Cosa significa GEO | gia_in_buffer | da_programmare | da_programmare |
 | 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
@@ -37,12 +36,12 @@ Ultimo controllo: 07/10/2026, 19:03:55
 | 2026-11-10 18:30 | R11 | La foto del chi siamo | da_programmare | da_programmare | da_programmare |
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-11-12 18:30 | R12 | Solo qualche visita persa | da_programmare | da_programmare | da_programmare |
+| 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 07/10/26, 19:30 · Dieci giorni. Cosa succede ogni giorno. Brief, design, sviluppo, onlin
 - 08/10/26, 18:30 · Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A 
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Non esiste una cifra giusta per tutti
 - 12/10/26, 12:30 · Il tuo sito ha visite ma nessuno ti scrive? Di solito il motivo è uno 
@@ -52,10 +51,10 @@ Ultimo controllo: 07/10/2026, 19:03:55
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
 - 20/10/26, 18:30 · Quanto costa un sito? "Dipende" non è una risposta. Landing page da 80
 - 22/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
+- 23/10/26, 12:30 · 
 
 ### linkedin
 
-- 07/10/26, 19:30 · 
 - 08/10/26, 18:30 · Due bottoni, stessa pagina. Uno porta prenotazioni, l'altro no. La dif
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Nessuna cifra vale per tutti. Ma prim
 - 12/10/26, 12:30 · Il tuo sito ha visite. Nessuno ti scrive. Più traffico non vuol dire p
@@ -65,12 +64,13 @@ Ultimo controllo: 07/10/2026, 19:03:55
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
 - 22/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
+- 23/10/26, 12:30 · 
 
 ### instagram
 
-- 07/10/26, 19:30 · Dieci giorni non sono una corsa. Sono un calendario. Ogni fase ha un g
 - 08/10/26, 18:30 · Quale bottone converte di più? Due versioni, una sola funziona meglio.
 - 09/10/26, 12:30 · Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tu
+- 12/10/26, 12:30 · 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Per noi ogni font, ogni micro
 - 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
 - 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
