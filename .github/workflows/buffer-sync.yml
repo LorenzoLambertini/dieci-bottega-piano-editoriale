@@ -4,9 +4,10 @@ on:
   schedule:
     - cron: "17 5 * * *"   # ogni mattina (07:17 ora italiana d'estate)
     - cron: "17 17 * * *"  # ogni sera (19:17 ora italiana d'estate)
+    - cron: "*/30 6-18 * * *"  # ogni 30 minuti: sostituisce i contenuti senza materiale 2 ore prima
   push:
     branches: [main]
-    paths: ["coda/coda.json", "coda/.prova", ".github/workflows/buffer-sync.yml", "scripts/buffer-sync.mjs"]
+    paths: ["coda/coda.json", "coda/.prova", ".github/workflows/buffer-sync.yml", "scripts/buffer-sync.mjs", "scripts/sostituisci.mjs"]
   workflow_dispatch:
     inputs:
       prova:
@@ -31,7 +32,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Sostituisci contenuti senza materiale
+        id: sost
+        run: node scripts/sostituisci.mjs
       - name: Controlla slot e programma
+        if: github.event.schedule != '*/30 6-18 * * *' || steps.sost.outputs.cambiato == '1'
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           DRY_RUN: ${{ inputs.prova && '1' || '0' }}
@@ -42,6 +47,6 @@ jobs:
         run: |
           git config user.name "dieci-bottega-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add coda/ crescita/
+          git add coda/ crescita/ 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Coda: aggiornata da Buffer sync"
           git push

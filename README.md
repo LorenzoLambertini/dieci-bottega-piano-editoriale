@@ -28,6 +28,16 @@ Stati: `da_programmare`, `programmato`, `gia_in_buffer` (quel giorno c'era già 
 2. GitHub → questo repo → Settings → Secrets and variables → Actions → New repository secret: nome `BUFFER_API_KEY`, valore la chiave.
 3. Actions → "Riempi Buffer" → Run workflow (prima con "Solo prova" spuntato, poi senza).
 
+## Regola delle sostituzioni
+
+Se 2 ore prima dell'uscita un contenuto è ancora senza materiale (stato `manca_video` o `manca_materiale`: clip, voce, indicazioni), `scripts/sostituisci.mjs` lo scambia di data con il contenuto pronto più adatto nei 21 giorni successivi:
+- stesso formato (reel con reel, carosello con carosello) e stesso orario;
+- preferibilmente della stessa famiglia (P identità, R rubriche, S strategia);
+- preso da almeno 4 giorni dopo, per non svuotare i giorni vicini;
+- mai lo stesso tipo di contenuto appena uscito.
+
+Il contenuto senza materiale prende la data dell'altro e resta in attesa. Se un canale è pieno, viene tolto da Buffer il post più lontano, che torna in coda. Lo storico è in `coda/sostituzioni.md` e in `coda/STATO.md`. Il controllo gira ogni 30 minuti dalle 8 alle 20.
+
 ## Aggiungere o cambiare contenuti
 
 Si modifica `coda/coda.json` (o si chiede a Claude di farlo). I file vanno in `media/`.

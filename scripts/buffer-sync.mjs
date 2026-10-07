@@ -124,6 +124,35 @@ async function main() {
     log(`${s}: ${n} programmati, ${liberi[s]} slot liberi`);
   }
 
+  // contenuti in uscita entro 3 ore (es. dopo una sostituzione) con il canale pieno:
+  // libero lo slot togliendo il post più lontano, che tornerà in coda e sarà riprogrammato
+  {
+    const adesso = Date.now();
+    for (const [s, canale] of Object.entries(canali)) {
+      const urgenti = coda.contenuti.filter((i) => i.canali[s]?.stato === "da_programmare" &&
+        new Date(i.dueAt).getTime() > adesso + MARGINE_MS && new Date(i.dueAt).getTime() - adesso <= 3 * 3600e3);
+      let servono = urgenti.length - liberi[s];
+      const lista = (programmati[canale.id] ||= []);
+      while (servono > 0) {
+        const lontano = [...lista].filter((p) => new Date(p.dueAt).getTime() - adesso > 3 * 864e5).sort((a, b) => String(b.dueAt).localeCompare(String(a.dueAt)))[0];
+        if (!lontano) break;
+        if (!DRY) {
+          try { await gql(`mutation { deletePost(input: { id: ${JSON.stringify(lontano.id)} }) { __typename } }`); }
+          catch (e) { log(`✗ non riesco a liberare uno slot su ${s}: ${e.message}`); break; }
+        }
+        lista.splice(lista.indexOf(lontano), 1);
+        for (const i of coda.contenuti) {
+          const c = i.canali[s];
+          if (c && (c.bufferId === lontano.id || (c.stato === "gia_in_buffer" && giornoRoma(i.dueAt) === giornoRoma(lontano.dueAt)))) {
+            c.stato = "da_programmare"; delete c.bufferId; delete c.programmatoIl;
+          }
+        }
+        liberi[s]++; servono--;
+        log(`↧ ${s}: tolto il post del ${giornoRoma(lontano.dueAt)} per far posto a un'uscita imminente (tornerà in coda)`);
+      }
+    }
+  }
+
   const ora = Date.now();
   const ig = campi(schema, "InstagramPostMetadataInput");
   const fb = campi(schema, "FacebookPostMetadataInput");
@@ -220,6 +249,10 @@ async function main() {
   }
   const errori = coda.contenuti.flatMap((i) => Object.entries(i.canali).filter(([, c]) => c.ultimoErrore).map(([s, c]) => `- ${i.id} ${s}: ${c.ultimoErrore}`));
   if (errori.length) righe.push("", "## Errori", "", ...errori);
+  if (fs.existsSync("coda/sostituzioni.md")) {
+    const ultime = fs.readFileSync("coda/sostituzioni.md", "utf8").split("\n").filter((r) => r.startsWith("- ")).slice(-5);
+    if (ultime.length) righe.push("", "## Ultime sostituzioni automatiche", "", ...ultime);
+  }
   fs.writeFileSync("coda/STATO.md", righe.join("\n") + "\n");
 
   if (!DRY) fs.writeFileSync(CODA, JSON.stringify(coda, null, 2) + "\n");
