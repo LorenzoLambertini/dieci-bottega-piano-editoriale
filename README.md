@@ -7,6 +7,13 @@
 - `media/` — immagini, PDF e video, serviti da GitHub Pages così Buffer li può scaricare.
 - `scripts/buffer-sync.mjs` + `.github/workflows/buffer-sync.yml` — due volte al giorno controlla quanti post sono programmati su ogni canale Buffer e riempie gli slot liberi (piano gratuito: 10 per canale) con i prossimi contenuti in ordine di data.
 
+## Testi per canale
+
+Stesso contenuto e stesso giorno ovunque, ma il testo cambia con il social:
+- **Instagram**: breve, domanda per i commenti, 5 hashtag.
+- **Facebook**: tono da vicino di bottega, una domanda, niente muri di hashtag, link solo quando serve (con UTM).
+- **LinkedIn**: punto di vista dell'imprenditore, risposta e fonte subito, cosa cambia per un'azienda, 3 hashtag.
+
 ## Come funziona
 
 1. Ogni contenuto in `coda.json` ha una data (`quando`, ora italiana) e, per ogni canale, uno `stato`.

@@ -94,6 +94,16 @@ async function main() {
     else fs.unlinkSync("coda/da-eliminare.json");
   }
 
+  // testi cambiati dopo la programmazione: elimina il vecchio post, verrà ricreato con il testo nuovo
+  if (!DRY) for (const item of coda.contenuti) for (const [servizio, c] of Object.entries(item.canali)) {
+    if (!c.daAggiornare || !c.bufferId) continue;
+    try {
+      await gql(`mutation { deletePost(input: { id: ${JSON.stringify(c.bufferId)} }) { __typename } }`);
+      log(`↻ ${item.id} ${servizio}: vecchio testo rimosso, lo riprogrammo`);
+      c.stato = "da_programmare"; delete c.bufferId; delete c.programmatoIl; delete c.daAggiornare;
+    } catch (e) { log(`✗ aggiornamento ${item.id} ${servizio}: ${e.message}`); }
+  }
+
   // post già programmati
   const programmati = {}; // channelId -> [{id, dueAt}]
   let after = null;
@@ -194,7 +204,7 @@ async function main() {
   if (errori.length) righe.push("", "## Errori", "", ...errori);
   fs.writeFileSync("coda/STATO.md", righe.join("\n") + "\n");
 
-  if (cambiato && !DRY) fs.writeFileSync(CODA, JSON.stringify(coda, null, 2) + "\n");
+  if (!DRY) fs.writeFileSync(CODA, JSON.stringify(coda, null, 2) + "\n");
   log(`Fatto: ${creati} nuovi post su Buffer.`);
 }
 
