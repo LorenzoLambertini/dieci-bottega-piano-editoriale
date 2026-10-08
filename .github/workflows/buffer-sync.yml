@@ -7,7 +7,7 @@ on:
     - cron: "*/30 6-18 * * *"  # ogni 30 minuti: sostituisce i contenuti senza materiale 2 ore prima
   push:
     branches: [main]
-    paths: ["coda/coda.json", "coda/.prova", ".github/workflows/buffer-sync.yml", "scripts/buffer-sync.mjs", "scripts/sostituisci.mjs"]
+    paths: ["coda/coda.json", "coda/.prova", ".github/workflows/buffer-sync.yml", "scripts/buffer-sync.mjs", "scripts/sostituisci.mjs", "scripts/diagnosi.mjs"]
   workflow_dispatch:
     inputs:
       prova:
@@ -43,6 +43,7 @@ jobs:
         run: |
           if [ -f coda/.prova ]; then export DRY_RUN=1; fi
           node scripts/buffer-sync.mjs
+          node scripts/diagnosi.mjs || true
       - name: Salva stato
         run: |
           git config user.name "dieci-bottega-bot"
