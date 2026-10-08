@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 08/10/2026, 19:17:39
+Ultimo controllo: 08/10/2026, 19:20:14
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
