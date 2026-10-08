@@ -1,37 +1,6 @@
 {
- "aggiornato": "2026-10-08T17:21+00:00",
+ "aggiornato": "2026-10-08T18:50+00:00",
  "contenuti": [
-  {
-   "id": "R02",
-   "titolo": "Quale bottone",
-   "tipo": "reel",
-   "quando": "2026-10-08 18:45",
-   "dueAt": "2026-10-08T16:45:00.000Z",
-   "slide": [],
-   "poster": "img/R02_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R02.mp4",
-   "durata": 30,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Quale bottone converte di più?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito con microcopy curato.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A o B?\n\nScrivilo nei commenti, poi guarda la risposta nel video.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Due bottoni, stessa pagina. Uno porta prenotazioni, l'altro no.\n\nLa differenza non è il colore preferito del titolare. Sono tre regole che applichiamo a ogni bottone:\n— contrasto forte, si vede subito;\n— massimo tre parole;\n— dice cosa succede quando lo tocchi. Niente \"Clicca qui\".\n\nSembra un dettaglio. È il punto esatto in cui un visitatore diventa un cliente, oppure se ne va.\n\n#UX #Microcopy #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "P04",
    "titolo": "Listino",
