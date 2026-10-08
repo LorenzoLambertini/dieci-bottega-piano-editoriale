@@ -465,24 +465,18 @@
       "canali": {
         "instagram": {
           "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
-          "video": "media/reel/R06b.mp4",
-          "stato": "da_programmare",
-          "tentativi": 1,
-          "ultimoErrore": "Invalid post: Video could not be read from its URL."
+          "video": "media/reel/R06c.mp4",
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
-          "video": "media/reel/R06b.mp4",
-          "stato": "da_programmare",
-          "tentativi": 1,
-          "ultimoErrore": "Invalid post: Video could not be read from its URL."
+          "video": "media/reel/R06c.mp4",
+          "stato": "da_programmare"
         },
         "linkedin": {
           "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
-          "video": "media/reel/R06b.mp4",
-          "stato": "da_programmare",
-          "tentativi": 1,
-          "ultimoErrore": "Invalid post: Video could not be read from its URL."
+          "video": "media/reel/R06c.mp4",
+          "stato": "da_programmare"
         }
       }
     },
