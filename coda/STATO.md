@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 08/10/2026, 19:13:08
+Ultimo controllo: 08/10/2026, 19:15:53
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -51,7 +51,7 @@ Ultimo controllo: 08/10/2026, 19:13:08
 - 20/10/26, 18:30 · Quanto costa un sito? "Dipende" non è una risposta. Landing page da 80
 - 23/10/26, 12:30 · Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.
 - 26/10/26, 12:30 · 2020. Nessuno dei due immaginava Dieci Bottega. Siamo Lorenzo e Tommas
-- 27/10/26, 18:30 · 
+- 27/10/26, 18:30 · Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi t
 
 ### linkedin
 
@@ -64,7 +64,7 @@ Ultimo controllo: 08/10/2026, 19:13:08
 - 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 - 26/10/26, 12:30 · Sei anni prima di Dieci Bottega, eravamo già in due. Questa foto è del
-- 27/10/26, 18:30 · 
+- 27/10/26, 18:30 · GEO sta per Generative Engine Optimization: l'insieme di accorgimenti 
 
 ### instagram
 
@@ -77,7 +77,7 @@ Ultimo controllo: 08/10/2026, 19:13:08
 - 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 - 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
-- 27/10/26, 18:30 · 
+- 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
 
 
 ## Errori
