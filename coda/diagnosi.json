@@ -993,6 +993,19 @@
     "sending": [],
     "sent": [
       {
+        "id": "6ac7e535af3660f60d660e7b",
+        "dueAt": "2026-10-08T16:59:14.000Z",
+        "sentAt": "2026-10-08T16:59:14.000Z",
+        "text": "",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "network"
+      },
+      {
         "id": "6ac7c7c934ed38f0ddb3509e",
         "dueAt": "2026-10-08T16:45:00.000Z",
         "sentAt": "2026-10-08T16:46:05.401Z",
@@ -1217,8 +1230,8 @@
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Thu, 08 Oct 2026 17:21:03 GMT 2888614",
-    "media/reel/R07.mp4": "200 Thu, 08 Oct 2026 17:21:03 GMT 3173777",
-    "index.html": "200 Thu, 08 Oct 2026 17:21:03 GMT 104461"
+    "media/reel/R02.mp4": "200 Thu, 08 Oct 2026 18:52:59 GMT 2888614",
+    "media/reel/R07.mp4": "200 Thu, 08 Oct 2026 18:52:59 GMT 3173777",
+    "index.html": "200 Thu, 08 Oct 2026 18:52:59 GMT 104461"
   }
 }

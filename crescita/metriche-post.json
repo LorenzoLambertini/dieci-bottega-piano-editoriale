@@ -177,6 +177,21 @@
   },
   {
     "canale": "instagram",
+    "bufferId": "6ac7e535af3660f60d660e7b",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-10-08T16:59:14.000Z",
+    "aggiornato": "2026-10-08T21:50:12.575Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
     "bufferId": "6ac7c7c934ed38f0ddb3509e",
     "contenuto": "R02",
     "titolo": "Quale bottone",

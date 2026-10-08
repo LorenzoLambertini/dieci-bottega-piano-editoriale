@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 08/10/2026, 19:21:12
+Ultimo controllo: 09/10/2026, 00:05:03
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -49,7 +49,7 @@ Ultimo controllo: 08/10/2026, 19:21:12
 - 16/10/26, 12:30 · Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no. L'AI ci ai
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
 - 20/10/26, 18:30 · Quanto costa un sito? "Dipende" non è una risposta. Landing page da 80
-- 22/10/26, 18:30 · 
+- 22/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
 - 23/10/26, 12:30 · Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.
 - 26/10/26, 12:30 · 2020. Nessuno dei due immaginava Dieci Bottega. Siamo Lorenzo e Tommas
 
@@ -62,7 +62,7 @@ Ultimo controllo: 08/10/2026, 19:21:12
 - 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
-- 22/10/26, 18:30 · 
+- 22/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 - 26/10/26, 12:30 · Sei anni prima di Dieci Bottega, eravamo già in due. Questa foto è del
 
@@ -75,7 +75,7 @@ Ultimo controllo: 08/10/2026, 19:21:12
 - 16/10/26, 12:30 · Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no
 - 19/10/26, 12:30 · Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide
 - 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
-- 22/10/26, 18:30 · 
+- 22/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 - 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
 
