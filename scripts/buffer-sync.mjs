@@ -9,7 +9,7 @@ const API = "https://api.buffer.com";
 const KEY = process.env.BUFFER_API_KEY;
 const DRY = process.env.DRY_RUN === "1" || process.env.DRY_RUN === "true";
 const CODA = "coda/coda.json";
-const MARGINE_MS = 15 * 60 * 1000; // non programma nulla che esce tra meno di 15 minuti
+const MARGINE_MS = 2 * 60 * 1000; // non programma nulla che esce tra meno di 2 minuti
 const MAX_TENTATIVI = 3;
 
 if (!KEY) {
