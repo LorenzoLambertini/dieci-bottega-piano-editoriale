@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 08/10/2026, 19:16:42
+Ultimo controllo: 08/10/2026, 19:17:39
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -79,12 +79,6 @@ Ultimo controllo: 08/10/2026, 19:16:42
 - 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
 - 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
 
-
-## Errori
-
-- R06 instagram: Invalid post: Video could not be read from its URL.
-- R06 facebook: Invalid post: Video could not be read from its URL.
-- R06 linkedin: Invalid post: Video could not be read from its URL.
 
 ## Ultime sostituzioni automatiche
 
