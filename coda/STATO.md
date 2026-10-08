@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 08/10/2026, 19:20:14
+Ultimo controllo: 08/10/2026, 19:21:12
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -20,10 +20,10 @@ Ultimo controllo: 08/10/2026, 19:20:14
 | 2026-10-16 12:30 | P08 | AI Mestiere | programmato | programmato | programmato |
 | 2026-10-19 12:30 | P09 | CRM | programmato | programmato | programmato |
 | 2026-10-20 18:30 | R05 | Quanto costa un sito | programmato | programmato | programmato |
-| 2026-10-22 18:30 | R06 | Quale homepage | da_programmare | da_programmare | da_programmare |
+| 2026-10-22 18:30 | R06 | Quale homepage | programmato | programmato | programmato |
 | 2026-10-23 12:30 | P07 | Prompt | programmato | programmato | programmato |
 | 2026-10-26 12:30 | P11 | Dieci Anni | programmato | programmato | programmato |
-| 2026-10-27 18:30 | R07 | Cosa significa GEO | programmato | programmato | programmato |
+| 2026-10-27 18:30 | R07 | Cosa significa GEO | da_programmare | da_programmare | da_programmare |
 | 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
 | 2026-10-29 18:30 | R08 | Da zero a online | da_programmare | da_programmare | da_programmare |
 | 2026-11-02 18:30 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
@@ -49,9 +49,9 @@ Ultimo controllo: 08/10/2026, 19:20:14
 - 16/10/26, 12:30 · Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no. L'AI ci ai
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
 - 20/10/26, 18:30 · Quanto costa un sito? "Dipende" non è una risposta. Landing page da 80
+- 22/10/26, 18:30 · 
 - 23/10/26, 12:30 · Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.
 - 26/10/26, 12:30 · 2020. Nessuno dei due immaginava Dieci Bottega. Siamo Lorenzo e Tommas
-- 27/10/26, 18:30 · Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi t
 
 ### linkedin
 
@@ -62,9 +62,9 @@ Ultimo controllo: 08/10/2026, 19:20:14
 - 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
+- 22/10/26, 18:30 · 
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 - 26/10/26, 12:30 · Sei anni prima di Dieci Bottega, eravamo già in due. Questa foto è del
-- 27/10/26, 18:30 · GEO sta per Generative Engine Optimization: l'insieme di accorgimenti 
 
 ### instagram
 
@@ -75,9 +75,9 @@ Ultimo controllo: 08/10/2026, 19:20:14
 - 16/10/26, 12:30 · Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no
 - 19/10/26, 12:30 · Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide
 - 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
+- 22/10/26, 18:30 · 
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 - 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
-- 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
 
 
 ## Ultime sostituzioni automatiche

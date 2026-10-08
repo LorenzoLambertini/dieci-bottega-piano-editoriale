@@ -600,10 +600,10 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6ac7cf23f4c7c231297d8b2d",
-        "dueAt": "2026-10-27T17:30:00.000Z",
+        "id": "6ac7d107f4c7c231297ddec0",
+        "dueAt": "2026-10-22T16:30:00.000Z",
         "sentAt": null,
-        "text": "GEO sta per Generative Engine Optimization: l'insieme di acc",
+        "text": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nL",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -613,10 +613,10 @@
         "via": "buffer"
       },
       {
-        "id": "6ac7cf235b76911addd915e6",
-        "dueAt": "2026-10-27T17:30:00.000Z",
+        "id": "6ac7d107d3b0be2fc4117166",
+        "dueAt": "2026-10-22T16:30:00.000Z",
         "sentAt": null,
-        "text": "Cosa significa GEO? Te lo diciamo senza giri di parole: è co",
+        "text": "Una ciclofficina di Bologna, due homepage. Quale funziona me",
         "channelService": "facebook",
         "error": null,
         "notificationStatus": null,
@@ -626,10 +626,10 @@
         "via": "buffer"
       },
       {
-        "id": "6ac7cf22f4c7c231297d8ace",
-        "dueAt": "2026-10-27T17:30:00.000Z",
+        "id": "6ac7d107777d0616a6fa76a2",
+        "dueAt": "2026-10-22T16:30:00.000Z",
         "sentAt": null,
-        "text": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Ge",
+        "text": "Quale homepage funziona meglio?\n\nDue versioni, una sola funz",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -1217,8 +1217,8 @@
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Thu, 08 Oct 2026 17:18:35 GMT 2888614",
-    "media/reel/R07.mp4": "200 Thu, 08 Oct 2026 17:18:35 GMT 3173777",
-    "index.html": "200 Thu, 08 Oct 2026 17:18:35 GMT 104461"
+    "media/reel/R02.mp4": "200 Thu, 08 Oct 2026 17:21:03 GMT 2888614",
+    "media/reel/R07.mp4": "200 Thu, 08 Oct 2026 17:21:03 GMT 3173777",
+    "index.html": "200 Thu, 08 Oct 2026 17:21:03 GMT 104461"
   }
 }
