@@ -125,18 +125,18 @@ async function main() {
     log(`${s}: ${n} programmati, ${liberi[s]} slot liberi`);
   }
 
-  // contenuti in uscita entro 3 ore (es. dopo una sostituzione) con il canale pieno:
-  // libero lo slot togliendo il post più lontano, che tornerà in coda e sarà riprogrammato
+  // ordine della coda: se un contenuto pronto esce PRIMA dell'ultimo post già su Buffer e il canale è pieno,
+  // tolgo il post più lontano (tornerà in coda) così Buffer contiene sempre le prossime uscite in ordine di data
   {
     const adesso = Date.now();
     for (const [s, canale] of Object.entries(canali)) {
-      const urgenti = coda.contenuti.filter((i) => i.canali[s]?.stato === "da_programmare" &&
-        new Date(i.dueAt).getTime() > adesso + MARGINE_MS && new Date(i.dueAt).getTime() - adesso <= 3 * 3600e3);
-      let servono = urgenti.length - liberi[s];
       const lista = (programmati[canale.id] ||= []);
-      while (servono > 0) {
-        const lontano = [...lista].filter((p) => new Date(p.dueAt).getTime() - adesso > 3 * 864e5).sort((a, b) => String(b.dueAt).localeCompare(String(a.dueAt)))[0];
-        if (!lontano) break;
+      const attesa = coda.contenuti.filter((i) => i.canali[s]?.stato === "da_programmare" && !i.canali[s]?.ultimoErrore &&
+        new Date(i.dueAt).getTime() > adesso + MARGINE_MS).sort((a, b) => a.dueAt.localeCompare(b.dueAt));
+      for (const it of attesa) {
+        if (liberi[s] > 0) { liberi[s]--; continue; }
+        const lontano = [...lista].sort((a, b) => String(b.dueAt).localeCompare(String(a.dueAt)))[0];
+        if (!lontano || String(lontano.dueAt) <= it.dueAt) break;
         if (!DRY) {
           try { await gql(`mutation { deletePost(input: { id: ${JSON.stringify(lontano.id)} }) { __typename } }`); }
           catch (e) { log(`✗ non riesco a liberare uno slot su ${s}: ${e.message}`); break; }
@@ -148,11 +148,12 @@ async function main() {
             c.stato = "da_programmare"; delete c.bufferId; delete c.programmatoIl;
           }
         }
-        liberi[s]++; servono--;
-        log(`↧ ${s}: tolto il post del ${giornoRoma(lontano.dueAt)} per far posto a un'uscita imminente (tornerà in coda)`);
+        log(`↧ ${s}: tolto il post del ${giornoRoma(lontano.dueAt)} per far posto a ${it.id} (${it.quando}), tornerà in coda`);
       }
+      liberi[s] = Math.max(0, LIMITE - lista.length);
     }
   }
+
 
   const ora = Date.now();
   const ig = campi(schema, "InstagramPostMetadataInput");
