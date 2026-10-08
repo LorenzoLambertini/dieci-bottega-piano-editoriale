@@ -40,5 +40,10 @@ try {
     } catch (e) { out.post[stato] = "ERR " + e.message.slice(0, 300); }
   }
 } catch (e) { out.errore = e.message; }
+out.link = {};
+for (const u of ["media/reel/R06b.mp4", "media/reel/R02.mp4", "media/reel/R07.mp4", "index.html"]) {
+  try { const r = await fetch("https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/" + u, { method: "HEAD" }); out.link[u] = r.status + " " + (r.headers.get("last-modified") || "") + " " + (r.headers.get("content-length") || ""); }
+  catch (e) { out.link[u] = "ERR " + e.message; }
+}
 fs.writeFileSync("coda/diagnosi.json", JSON.stringify(out, null, 2));
 console.log("diagnosi scritta");
