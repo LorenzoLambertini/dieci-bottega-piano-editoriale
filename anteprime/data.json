@@ -1,19 +1,19 @@
 {
- "aggiornato": "2026-10-08T12:27+00:00",
+ "aggiornato": "2026-10-08T17:21+00:00",
  "contenuti": [
   {
    "id": "R02",
    "titolo": "Quale bottone",
    "tipo": "reel",
-   "quando": "2026-10-08 18:30",
-   "dueAt": "2026-10-08T16:30:00.000Z",
+   "quando": "2026-10-08 18:45",
+   "dueAt": "2026-10-08T16:45:00.000Z",
    "slide": [],
    "poster": "img/R02_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R02.mp4",
    "durata": 30,
    "canali": {
     "instagram": {
-     "stato": "gia_in_buffer",
+     "stato": "programmato",
      "testo": "Quale bottone converte di più?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito con microcopy curato.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
      "formato": "video",
      "errore": null
@@ -122,7 +122,7 @@
    "durata": 25,
    "canali": {
     "instagram": {
-     "stato": "gia_in_buffer",
+     "stato": "programmato",
      "testo": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font, ogni microcopy, ogni millisecondo è una scelta consapevole. AI come strumento, mestiere come metodo.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
      "formato": "video",
      "errore": null
@@ -184,7 +184,7 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "gia_in_buffer",
+     "stato": "programmato",
      "testo": "Un sito mobile ci mette più di 3 secondi. Quante visite si perdono?\n\nA) Il 15%\nB) Il 90%\nC) Il 53%\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito veloce, mobile-first.\n\nFonte: Google · The Need for Mobile Speed (dati 2016)\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #corewebvitals #velocitasito #mobilefirst",
      "formato": "video",
      "errore": null
@@ -222,7 +222,7 @@
    "durata": null,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no.\nCosì sai cosa stai pagando: tempo risparmiato sulle parti ripetitive, e persone che decidono su tutto il resto.\n\n#bologna #pmiitaliane #intelligenzaartificiale #webdesign #sitiweb",
      "formato": "immagini",
      "errore": null
@@ -261,7 +261,7 @@
    "durata": null,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide 3, 4 o 5, stai perdendo clienti che avevi già.\nCostruiamo CRM su misura, con i dati che restano tuoi. E se ti basta un foglio fatto bene, te lo diciamo.\n\n#pmiitaliane #crm #bologna #automazioni #piccoleimprese",
      "formato": "immagini",
      "errore": null
@@ -292,7 +292,7 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "gia_in_buffer",
+     "stato": "programmato",
      "testo": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
      "formato": "video",
      "errore": null
@@ -319,11 +319,11 @@
    "dueAt": "2026-10-22T16:30:00.000Z",
    "slide": [],
    "poster": "img/R06_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06.mp4",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06c.mp4",
    "durata": 30,
    "canali": {
     "instagram": {
-     "stato": "gia_in_buffer",
+     "stato": "programmato",
      "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
      "formato": "video",
      "errore": null
@@ -359,7 +359,7 @@
    "durata": null,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto quello che mi restituisce.\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente mi paga. — Lorenzo\n\n#intelligenzaartificiale #copywriting #webdesign #bologna #sitiweb",
      "formato": "immagini",
      "errore": null
@@ -395,19 +395,19 @@
    "durata": null,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Prima di Dieci Bottega c'erano due amici. Da più di dieci anni.\nUno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività.\nOggi abbiamo messo insieme quello che sappiamo fare. Ed è per questo che, quando ci scrivi, ti rispondono le stesse due persone che lavorano al tuo sito.\n\n#bologna #bottegadigitale #founders #pmiitaliane #webdesign",
      "formato": "immagini",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Lorenzo e Tommaso, amici da più di dieci anni. Oggi abbiamo messo insieme quello che sappiamo fare: siti, CRM e automazioni per chi ha un'attività.\n\nQuando ci scrivi, ti rispondiamo noi. Gli stessi che lavorano al tuo sito.",
      "formato": "immagini",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta foto è del 2020. Lorenzo e Tommaso, amici da più di dieci anni.\n\nIn questi anni uno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività, e a dirlo in modo semplice.\n\nNel 2026 abbiamo deciso di mettere insieme quello che sappiamo fare. È per questo che, quando scrivi a Dieci Bottega, ti rispondono le stesse due persone che lavoreranno al tuo sito.\n\nAmici da dieci anni. Una bottega da oggi.\n\n#Founders #Bologna #PMI",
      "formato": "documento",
      "errore": null
@@ -426,7 +426,7 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "gia_in_buffer",
+     "stato": "da_programmare",
      "testo": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Geolocalizzazione\nC) Google Engine Online\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito pronto per la GEO.\n\nFonte: Aggarwal et al., KDD 2024\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #geo #seo #intelligenzaartificiale",
      "formato": "video",
      "errore": null
@@ -496,7 +496,7 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "gia_in_buffer",
+     "stato": "da_programmare",
      "testo": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
      "formato": "video",
      "errore": null
@@ -558,7 +558,7 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "gia_in_buffer",
+     "stato": "da_programmare",
      "testo": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accetti tutto\nB) Il sito si blocca\nC) Rifiuti\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito in regola, cookie compresi.\n\nFonte: Garante Privacy · linee guida 2021\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #cookie #gdpr #privacy",
      "formato": "video",
      "errore": null
