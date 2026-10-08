@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 07/10/2026, 23:59:17
+Ultimo controllo: 08/10/2026, 14:05:21
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -51,7 +51,7 @@ Ultimo controllo: 07/10/2026, 23:59:17
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
 - 20/10/26, 18:30 · Quanto costa un sito? "Dipende" non è una risposta. Landing page da 80
 - 22/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
-- 23/10/26, 12:30 · 
+- 23/10/26, 12:30 · Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.
 
 ### linkedin
 
@@ -64,13 +64,13 @@ Ultimo controllo: 07/10/2026, 23:59:17
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
 - 22/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
-- 23/10/26, 12:30 · 
+- 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 
 ### instagram
 
 - 08/10/26, 18:30 · Quale bottone converte di più? Due versioni, una sola funziona meglio.
 - 09/10/26, 12:30 · Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tu
-- 12/10/26, 12:30 · 
+- 12/10/26, 12:30 · Più visite non vuol dire più clienti. Spesso il problema è in 5 punti 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Per noi ogni font, ogni micro
 - 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
 - 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
