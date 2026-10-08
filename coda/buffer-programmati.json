@@ -170,17 +170,6 @@
       ]
     },
     {
-      "id": "6ac5f118c22c37a573bd27d4",
-      "dueAt": "2026-10-22T16:30:00.000Z",
-      "text": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ac6c0b401166a3e1c07290e",
       "dueAt": "2026-10-23T10:30:00.000Z",
       "text": "Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.\n\nQuanto ci mettiamo noi a scegliere quello giusto? Un po' di più. Su otto proposte ne teniamo una: \"Iniziamo\". Un verbo, zero pressione.\n\nIl lavoro non è generare. È scegliere.",
@@ -301,17 +290,6 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R05.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ac67b485dd7df060c6d9502",
-      "dueAt": "2026-10-22T16:30:00.000Z",
-      "text": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06.mp4",
           "tipo": "video/mp4"
         }
       ]
@@ -510,17 +488,6 @@
       ]
     },
     {
-      "id": "6ac7c76a6d8b6991f804c0ed",
-      "dueAt": "2026-10-22T16:30:00.000Z",
-      "text": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ac7c76a226f4504d36d55dc",
       "dueAt": "2026-10-23T10:30:00.000Z",
       "text": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto quello che mi restituisce.\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente mi paga. — Lorenzo\n\n#intelligenzaartificiale #copywriting #webdesign #bologna #sitiweb",
@@ -539,6 +506,29 @@
         },
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P07/slide04.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "6ac7c8cc431a2c8b2e822d85",
+      "dueAt": "2026-10-26T11:30:00.000Z",
+      "text": "Prima di Dieci Bottega c'erano due amici. Da più di dieci anni.\nUno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività.\nOggi abbiamo messo insieme quello che sappiamo fare. Ed è per questo che, quando ci scrivi, ti rispondono le stesse due persone che lavorano al tuo sito.\n\n#bologna #bottegadigitale #founders #pmiitaliane #webdesign",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide04.png",
           "tipo": "image/png"
         }
       ]

@@ -600,10 +600,36 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6ac7c8cc431a2c8b2e822d85",
-        "dueAt": "2026-10-26T11:30:00.000Z",
+        "id": "6ac7cf23f4c7c231297d8b2d",
+        "dueAt": "2026-10-27T17:30:00.000Z",
         "sentAt": null,
-        "text": "Prima di Dieci Bottega c'erano due amici. Da più di dieci an",
+        "text": "GEO sta per Generative Engine Optimization: l'insieme di acc",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac7cf235b76911addd915e6",
+        "dueAt": "2026-10-27T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Cosa significa GEO? Te lo diciamo senza giri di parole: è co",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac7cf22f4c7c231297d8ace",
+        "dueAt": "2026-10-27T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Ge",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -613,10 +639,10 @@
         "via": "buffer"
       },
       {
-        "id": "6ac7c76a6d8b6991f804c0ed",
-        "dueAt": "2026-10-22T16:30:00.000Z",
+        "id": "6ac7c8cc431a2c8b2e822d85",
+        "dueAt": "2026-10-26T11:30:00.000Z",
         "sentAt": null,
-        "text": "Quale homepage funziona meglio?\n\nDue versioni, una sola funz",
+        "text": "Prima di Dieci Bottega c'erano due amici. Da più di dieci an",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -769,19 +795,6 @@
         "via": "buffer"
       },
       {
-        "id": "6ac67b485dd7df060c6d9502",
-        "dueAt": "2026-10-22T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nL",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6ac67b47e59f0d0f6165cabe",
         "dueAt": "2026-10-12T10:30:00.000Z",
         "sentAt": null,
@@ -800,19 +813,6 @@
         "sentAt": null,
         "text": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non ",
         "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac5f118c22c37a573bd27d4",
-        "dueAt": "2026-10-22T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Una ciclofficina di Bologna, due homepage. Quale funziona me",
-        "channelService": "facebook",
         "error": null,
         "notificationStatus": null,
         "schedulingType": "automatic",
