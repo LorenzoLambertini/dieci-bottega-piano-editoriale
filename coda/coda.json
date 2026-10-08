@@ -120,14 +120,13 @@
       "titolo": "Quale bottone",
       "formato": "A o B?",
       "tipo": "reel",
-      "quando": "2026-10-08 18:30",
-      "dueAt": "2026-10-08T16:30:00.000Z",
+      "quando": "2026-10-08 19:15",
+      "dueAt": "2026-10-08T17:15:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Quale bottone converte di più?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito con microcopy curato.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
           "video": "media/reel/R02.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac3d8cc7b80e27772c2b769"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A o B?\n\nScrivilo nei commenti, poi guarda la risposta nel video.",
@@ -143,7 +142,8 @@
           "bufferId": "6ac5f114df05c83428d8a9fb",
           "programmatoIl": "2026-10-07T07:13:24.686Z"
         }
-      }
+      },
+      "nota": "Instagram: il post caricato da fuori aveva un link al video non pubblico (403); ripubblicato alle 19:15 con il link giusto"
     },
     {
       "id": "P04",
@@ -252,8 +252,7 @@
         "instagram": {
           "testo": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font, ogni microcopy, ogni millisecondo è una scelta consapevole. AI come strumento, mestiere come metodo.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
           "video": "media/reel/R03.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac3d9278c74e278c8f39cd6"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Un bottone. Quanto ci vuole a scriverlo?\n\nChiediamo all'AI otto varianti, poi scegliamo noi quella giusta. L'AI è uno strumento, il criterio resta mestiere.\n\nTu come lo scriveresti il bottone del tuo sito?",
@@ -307,8 +306,7 @@
         "instagram": {
           "testo": "Un sito mobile ci mette più di 3 secondi. Quante visite si perdono?\n\nA) Il 15%\nB) Il 90%\nC) Il 53%\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito veloce, mobile-first.\n\nFonte: Google · The Need for Mobile Speed (dati 2016)\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #corewebvitals #velocitasito #mobilefirst",
           "video": "media/reel/R04.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac3d9375162d360af9e3d1a"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora ti stai perdendo una visita su due.\n\nIndovina la percentuale esatta nei commenti, poi guarda il video. E prova adesso il tuo sito dal telefono: quanto ci mette?",
@@ -429,8 +427,7 @@
         "instagram": {
           "testo": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
           "video": "media/reel/R05.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac3d96891c77f0a466b6cad"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page da 800 €, sito vetrina da 1.200 €, e-commerce light da 1.800 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
@@ -459,8 +456,7 @@
         "instagram": {
           "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
           "video": "media/reel/R06.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac3d97691c77f0a466b6e81"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
@@ -569,8 +565,7 @@
         "instagram": {
           "testo": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Geolocalizzazione\nC) Google Engine Online\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito pronto per la GEO.\n\nFonte: Aggarwal et al., KDD 2024\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #geo #seo #intelligenzaartificiale",
           "video": "media/reel/R07.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac3d9825162d360af9e488e"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi trovare quando qualcuno chiede consiglio a un'intelligenza artificiale invece che a Google.\n\nScrivi nei commenti se l'avevi già sentita.",
@@ -628,8 +623,7 @@
         "instagram": {
           "testo": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
           "video": "media/reel/R08.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac3d98e8c74e278c8f3abbb"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 design, 6-8 sviluppo, 9-10 online. Ogni fase ha il suo giorno: per questo ti diciamo prima quando sarai online.\n\nDomande sul metodo? Scrivile qui sotto.",
@@ -682,8 +676,7 @@
         "instagram": {
           "testo": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accetti tutto\nB) Il sito si blocca\nC) Rifiuti\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito in regola, cookie compresi.\n\nFonte: Garante Privacy · linee guida 2021\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #cookie #gdpr #privacy",
           "video": "media/reel/R09.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac3d99ca790cb17e9fbda18"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o blocchi il sito?\n\nQuasi tutti sbagliano. Rispondi nei commenti, poi guarda il video.",
