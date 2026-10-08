@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 08/10/2026, 18:40:11
+Ultimo controllo: 08/10/2026, 18:41:46
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,7 @@ Ultimo controllo: 08/10/2026, 18:40:11
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-08 19:15 | R02 | Quale bottone | programmato | programmato | programmato |
+| 2026-10-08 18:45 | R02 | Quale bottone | programmato | programmato | programmato |
 | 2026-10-09 12:30 | P04 | Listino | programmato | programmato | programmato |
 | 2026-10-12 12:30 | P05 | Tip Visite | programmato | programmato | programmato |
 | 2026-10-13 18:30 | R03 | Il bottone | programmato | programmato | programmato |
@@ -68,16 +68,16 @@ Ultimo controllo: 08/10/2026, 18:40:11
 
 ### instagram
 
-- 08/10/26, 19:15 · 
+- 08/10/26, 18:45 · 
 - 09/10/26, 12:30 · Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tu
 - 12/10/26, 12:30 · Più visite non vuol dire più clienti. Spesso il problema è in 5 punti 
-- 13/10/26, 18:30 · 
-- 15/10/26, 18:30 · 
+- 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Per noi ogni font, ogni micro
+- 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
 - 16/10/26, 12:30 · Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no
-- 19/10/26, 12:30 · 
-- 20/10/26, 18:30 · 
-- 22/10/26, 18:30 · 
-- 23/10/26, 12:30 · 
+- 19/10/26, 12:30 · Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide
+- 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
+- 22/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
+- 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
 
 
 ## Ultime sostituzioni automatiche

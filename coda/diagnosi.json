@@ -600,6 +600,19 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6ac7c7c934ed38f0ddb3509e",
+        "dueAt": "2026-10-08T16:45:00.000Z",
+        "sentAt": null,
+        "text": "Quale bottone converte di più?\n\nDue versioni, una sola funzi",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6ac7c76a6d8b6991f804c0ed",
         "dueAt": "2026-10-22T16:30:00.000Z",
         "sentAt": null,
@@ -669,19 +682,6 @@
         "dueAt": "2026-10-13T16:30:00.000Z",
         "sentAt": null,
         "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font,",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac7c767431a2c8b2e81db55",
-        "dueAt": "2026-10-08T17:15:00.000Z",
-        "sentAt": null,
-        "text": "Quale bottone converte di più?\n\nDue versioni, una sola funzi",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,

@@ -411,6 +411,28 @@
       ]
     },
     {
+      "id": "6ac7c7686d8b6991f804c080",
+      "dueAt": "2026-10-13T16:30:00.000Z",
+      "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font, ogni microcopy, ogni millisecondo è una scelta consapevole. AI come strumento, mestiere come metodo.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R03.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac7c7686f30750f2f4c994b",
+      "dueAt": "2026-10-15T16:30:00.000Z",
+      "text": "Un sito mobile ci mette più di 3 secondi. Quante visite si perdono?\n\nA) Il 15%\nB) Il 90%\nC) Il 53%\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito veloce, mobile-first.\n\nFonte: Google · The Need for Mobile Speed (dati 2016)\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #corewebvitals #velocitasito #mobilefirst",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R04.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ac7c72534ed38f0ddb332ba",
       "dueAt": "2026-10-16T10:30:00.000Z",
       "text": "Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no.\nCosì sai cosa stai pagando: tempo risparmiato sulle parti ripetitive, e persone che decidono su tutto il resto.\n\n#bologna #pmiitaliane #intelligenzaartificiale #webdesign #sitiweb",
@@ -437,6 +459,86 @@
         },
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P08/slide06.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "6ac7c76939900b379e540330",
+      "dueAt": "2026-10-19T10:30:00.000Z",
+      "text": "Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide 3, 4 o 5, stai perdendo clienti che avevi già.\nCostruiamo CRM su misura, con i dati che restano tuoi. E se ti basta un foglio fatto bene, te lo diciamo.\n\n#pmiitaliane #crm #bologna #automazioni #piccoleimprese",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide04.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide05.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide06.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide07.png",
+          "tipo": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "6ac7c769226f4504d36d558c",
+      "dueAt": "2026-10-20T16:30:00.000Z",
+      "text": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R05.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac7c76a6d8b6991f804c0ed",
+      "dueAt": "2026-10-22T16:30:00.000Z",
+      "text": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ac7c76a226f4504d36d55dc",
+      "dueAt": "2026-10-23T10:30:00.000Z",
+      "text": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto quello che mi restituisce.\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente mi paga. — Lorenzo\n\n#intelligenzaartificiale #copywriting #webdesign #bologna #sitiweb",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P07/slide01.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P07/slide02.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P07/slide03.png",
+          "tipo": "image/png"
+        },
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P07/slide04.png",
           "tipo": "image/png"
         }
       ]
