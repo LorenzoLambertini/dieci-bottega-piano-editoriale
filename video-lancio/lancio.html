@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="it"><head><meta charset="utf-8">
+<style>
+/* Dieci Bottega · video di lancio 1080x1920
+   Personalità motion: Premium/Corporate (brand: 150–400 ms, niente rimbalzi)
+   Easing firma: entrata (0.2,0,0,1) · uscita (0.3,0,1,1) · sullo schermo (0.4,0,0.2,1)
+   Durate: rapida 250 ms · standard 400 ms · lenta 650 ms · rivelazione 900 ms */
+@font-face{font-family:Archivo;src:url(assets/Archivo.ttf);font-weight:100 900;font-stretch:62% 125%}
+@font-face{font-family:Cardo;src:url(assets/Cardo-Italic.ttf);font-style:italic}
+@font-face{font-family:Mono;src:url(assets/JetBrainsMono.ttf);font-weight:100 800}
+:root{--obs:#1A1414;--rose:#E63B2E;--ivory:#F4EFE6;--peach:#F2B8A2;--burg:#7A1818;--plum:#4A3838;--ash:#E8E2D6}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--obs)}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden;background:var(--obs);font-family:Archivo}
+.scene{position:absolute;inset:0;overflow:hidden;visibility:hidden}
+.abs{position:absolute}
+.mono{font-family:Mono;font-weight:500;letter-spacing:.12em;text-transform:uppercase}
+.disp{font-weight:900;text-transform:uppercase;letter-spacing:-.04em;line-height:.9}
+.serif{font-family:Cardo;font-style:italic;font-weight:400}
+.mask{overflow:hidden;display:block}
+.mask>span{display:block;will-change:transform}
+.panel{position:absolute;left:0;width:1080px;height:1920px;z-index:50}
+#bar{position:absolute;left:80px;top:150px;width:920px;height:6px;background:rgba(244,239,230,.18);z-index:60;border-radius:3px;overflow:hidden}
+#bar i{display:block;height:100%;width:0;background:var(--ivory)}
+#grain{position:absolute;inset:-40px;z-index:70;pointer-events:none;opacity:.05;mix-blend-mode:overlay}
+</style></head><body>
+<div id="stage">
+  <div id="bar"><i></i></div>
+
+  <!-- A · gancio -->
+  <section class="scene" id="A" style="background:var(--obs)">
+    <div class="abs mono" id="A_lbl" style="left:80px;top:200px;font-size:26px;color:var(--peach)">Dieci Bottega · Bologna</div>
+    <div class="abs disp" id="A_h" style="left:76px;top:360px;font-size:150px;color:var(--ivory)">
+      <span class="mask"><span>Quanto</span></span><span class="mask"><span>aspetti</span></span><span class="mask"><span>un sito?</span></span>
+    </div>
+    <div class="abs" id="A_cnt" style="left:76px;top:880px;height:430px;width:930px;overflow:hidden">
+      <div id="A_num" class="disp" style="font-size:420px;color:var(--rose);line-height:430px;position:absolute;left:0;top:0">30</div>
+    </div>
+    <div class="abs mono" id="A_unit" style="left:84px;top:1330px;font-size:40px;color:var(--ivory)">giorni</div>
+    <div class="abs serif" id="A_tag" style="left:80px;top:1400px;font-size:76px;color:var(--peach)">Veloci, non frettolosi.</div>
+    <div class="abs" id="A_rule" style="left:84px;top:1520px;height:6px;width:0;background:var(--rose)"></div>
+  </section>
+
+  <!-- C · processo -->
+  <section class="scene" id="C" style="background:var(--ivory)">
+    <div class="abs mono" id="C_lbl" style="left:80px;top:220px;font-size:26px;color:var(--rose)">Come lavoriamo · Brief → Live</div>
+    <div class="abs disp" id="C_h" style="left:76px;top:280px;font-size:104px;color:var(--obs);letter-spacing:-.035em">
+      <span class="mask"><span>Ogni giorno</span></span><span class="mask"><span>ha il suo lavoro.</span></span>
+    </div>
+    <div class="abs" id="C_line" style="left:80px;top:600px;width:4px;height:0;background:var(--rose)"></div>
+    <div id="C_rows"></div>
+    <div class="abs" id="C_days" style="left:80px;top:1560px;display:flex;gap:14px"></div>
+  </section>
+
+  <!-- D · prezzo -->
+  <section class="scene" id="D" style="background:var(--rose)">
+    <div class="abs mono" id="D_lbl" style="left:80px;top:220px;font-size:26px;color:var(--ivory)">Prezzo come promessa</div>
+    <div class="abs disp" id="D_h" style="left:76px;top:290px;font-size:118px;color:var(--ivory);letter-spacing:-.035em">
+      <span class="mask"><span>Al prezzo di</span></span><span class="mask"><span>un template,</span></span>
+    </div>
+    <div class="abs serif" id="D_s" style="left:80px;top:540px;font-size:92px;color:var(--ivory)"><span class="mask"><span>con la cura di un'agenzia.</span></span></div>
+    <div id="D_rows"></div>
+    <div class="abs mono" id="D_note" style="left:80px;top:1460px;font-size:24px;color:var(--ivory);opacity:.85">Listino pubblico · IVA esclusa · diecibottega.it</div>
+  </section>
+
+  <!-- E · mestiere -->
+  <section class="scene" id="E" style="background:var(--obs)">
+    <div class="abs mono" id="E_lbl" style="left:80px;top:220px;font-size:26px;color:var(--peach)">AI + mestiere</div>
+    <div class="abs disp" id="E_h" style="left:76px;top:280px;font-size:96px;white-space:nowrap;color:var(--ivory);letter-spacing:-.035em"><span class="mask"><span>L'AI è un attrezzo.</span></span></div>
+    <div class="abs serif" id="E_s" style="left:80px;top:390px;font-size:72px;color:var(--peach)"><span class="mask"><span>Il mestiere lo mettiamo noi.</span></span></div>
+    <div class="abs" id="E_win" style="left:110px;top:560px;width:860px;height:900px;background:var(--ivory);border-radius:22px;overflow:hidden">
+      <div style="height:64px;background:var(--ash);display:flex;align-items:center;gap:12px;padding-left:26px">
+        <i style="width:16px;height:16px;border-radius:50%;background:#C9BBB0"></i><i style="width:16px;height:16px;border-radius:50%;background:#C9BBB0"></i><i style="width:16px;height:16px;border-radius:50%;background:#C9BBB0"></i>
+        <span class="mono" style="margin-left:24px;font-size:20px;color:var(--plum);letter-spacing:.04em;text-transform:none">iltuosito.it</span>
+      </div>
+      <div class="abs eb" id="E_nav" style="left:44px;top:104px;width:772px;height:30px;display:flex;justify-content:space-between;align-items:center"><b style="width:120px;height:26px;background:var(--obs);border-radius:4px"></b><span style="display:flex;gap:18px"><b style="width:70px;height:14px;background:#C9BBB0;border-radius:7px"></b><b style="width:70px;height:14px;background:#C9BBB0;border-radius:7px"></b><b style="width:70px;height:14px;background:#C9BBB0;border-radius:7px"></b></span></div>
+      <div class="abs eb disp" id="E_t1" style="left:44px;top:190px;font-size:76px;color:var(--obs);letter-spacing:-.035em">Riparazioni<br>bici a <span style="color:var(--rose)">Bologna.</span></div>
+      <div class="abs eb" id="E_t2" style="left:46px;top:370px;width:520px;height:16px;background:#C9BBB0;border-radius:8px"></div>
+      <div class="abs eb" id="E_t3" style="left:46px;top:400px;width:430px;height:16px;background:#C9BBB0;border-radius:8px"></div>
+      <div class="abs eb" id="E_btn" style="left:46px;top:450px;padding:22px 36px;background:var(--rose);color:var(--ivory);border-radius:40px;font-weight:700;font-size:32px">Prenota la riparazione →</div>
+      <div class="abs eb" id="E_img" style="left:44px;top:570px;width:772px;height:290px;background:var(--peach);border-radius:16px"></div>
+      <div class="abs" id="E_ok" style="left:640px;top:440px;width:110px;height:110px;border-radius:50%;background:var(--obs);display:grid;place-items:center">
+        <svg width="60" height="60" viewBox="0 0 60 60"><path id="E_chk" d="M14 31 L26 43 L47 19" fill="none" stroke="#F4EFE6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="60" stroke-dashoffset="60"/></svg>
+      </div>
+    </div>
+    <svg class="abs" id="E_cur" width="64" height="64" viewBox="0 0 24 24" style="left:0;top:0;z-index:5"><path d="M4 2 L4 20 L9 15 L12.5 22 L15.5 20.6 L12 13.8 L19 13.8 Z" fill="#F4EFE6" stroke="#1A1414" stroke-width="1.3" stroke-linejoin="round"/></svg>
+  </section>
+
+  <!-- F · promesse -->
+  <section class="scene" id="F" style="background:var(--peach)">
+    <div class="abs mono" id="F_lbl" style="left:80px;top:220px;font-size:26px;color:var(--plum)">La bottega</div>
+    <div id="F_rows"></div>
+  </section>
+
+  <!-- G · chiusura -->
+  <section class="scene" id="G" style="background:var(--ivory)">
+    <div class="abs" id="G_logo" style="left:240px;top:560px;width:600px;height:331px;overflow:hidden"><img src="assets/logo-rose.png" style="width:600px;display:block"></div>
+    <div class="abs disp" id="G_name" style="left:0;width:1080px;text-align:center;top:960px;font-size:118px;color:var(--obs);letter-spacing:-.04em;text-transform:none;line-height:.92"><span class="mask"><span>dieci</span></span><span class="mask"><span>bottega</span></span></div>
+    <div class="abs serif" id="G_tag" style="left:0;width:1080px;text-align:center;top:1210px;font-size:66px;color:var(--rose)">È tutto nei dettagli.</div>
+    <div class="abs mono" id="G_cta" style="left:50%;top:1330px;transform:translateX(-50%);font-size:30px;color:var(--ivory);background:var(--obs);padding:28px 46px;border-radius:60px;white-space:nowrap">Inizia il progetto →</div>
+    <div class="abs mono" id="G_url" style="left:0;width:1080px;text-align:center;top:1480px;font-size:26px;color:var(--plum)">diecibottega.it · prima call gratuita</div>
+  </section>
+
+  <div class="panel" id="P1"></div><div class="panel" id="P2"></div>
+  <canvas id="grain" width="290" height="510"></canvas>
+</div>
+<script>
+// ---------- easing (cubic-bezier) ----------
+function bez(x1,y1,x2,y2){
+  const cx=3*x1,bx=3*(x2-x1)-cx,ax=1-cx-bx,cy=3*y1,by=3*(y2-y1)-cy,ay=1-cy-by;
+  const X=t=>((ax*t+bx)*t+cx)*t, Y=t=>((ay*t+by)*t+cy)*t, dX=t=>(3*ax*t+2*bx)*t+cx;
+  return x=>{ if(x<=0)return 0; if(x>=1)return 1; let t=x; for(let i=0;i<8;i++){const d=dX(t); if(Math.abs(d)<1e-6)break; t-= (X(t)-x)/d;} t=Math.min(1,Math.max(0,t)); return Y(t); };
+}
+const IN=bez(.2,0,0,1), OUT=bez(.3,0,1,1), MOVE=bez(.4,0,.2,1), EMPH=bez(.05,.7,.1,1);
+const cl=v=>Math.min(1,Math.max(0,v));
+const p=(t,t0,d,e=IN)=>e(cl((t-t0)/d));
+const lerp=(a,b,k)=>a+(b-a)*k;
+const $=id=>document.getElementById(id);
+function set(el,{x=0,y=0,s=1,o=1,r=0}={}){ el.style.transform=`translate(${x}px,${y}px) scale(${s}) rotate(${r}deg)`; el.style.opacity=o; }
+// rivelazione a maschera: riga che sale dal basso (entrata 400–650 ms), uscita verso l'alto (250 ms)
+function lines(container,t,t0,stagger=.12,dur=.6,tOut=null,outStag=.06){
+  [...container.querySelectorAll('.mask>span')].forEach((s,i)=>{
+    const k=p(t,t0+i*stagger,dur,IN); let y=lerp(105,0,k);
+    if(tOut!==null){ const ko=p(t,tOut+i*outStag,.28,OUT); y-=ko*105; }
+    s.style.transform=`translateY(${y}%)`;
+  });
+}
+
+// ---------- costruzione righe ----------
+const STEPS=[["1–2","Brief.","Una call, poi un questionario."],["3–5","Design.","Vedi il sito prima del codice."],["6–8","Sviluppo.","Codice scritto, non trascinato."],["9–10","Online.","Test su telefono, SEO, consegna."]];
+$('C_rows').innerHTML=STEPS.map((s,i)=>`<div class="abs" id="C_r${i}" style="left:80px;top:${600+i*225}px;width:920px;display:grid;grid-template-columns:390px 1fr;align-items:baseline">
+  <div class="disp" style="font-size:124px;color:var(--rose);letter-spacing:-.05em;padding-left:44px;white-space:nowrap">${s[0]}</div>
+  <div><div style="font-weight:800;font-size:64px;color:var(--obs);letter-spacing:-.03em">${s[1]}</div><div style="font-size:36px;color:var(--plum);margin-top:6px">${s[2]}</div></div></div>`).join('');
+$('C_days').innerHTML=[...Array(10)].map((_,i)=>`<div style="width:78px;height:78px;border-radius:50%;border:3px solid var(--obs);display:grid;place-items:center;font-family:Mono;font-weight:600;font-size:26px;color:var(--obs)" id="C_d${i}">${i+1}</div>`).join('');
+const PRICES=[["Landing page","5–7 giorni","da € 800"],["Sito vetrina","10 giorni","da € 1.200"],["E-commerce light","12–15 giorni","da € 1.800"]];
+$('D_rows').innerHTML=PRICES.map((r,i)=>`<div class="abs" id="D_r${i}" style="left:80px;top:${760+i*215}px;width:920px;height:180px;border:3px solid var(--ivory);border-radius:24px;display:flex;justify-content:space-between;align-items:center;padding:0 44px;color:var(--ivory)">
+  <div><div style="font-weight:800;font-size:56px;letter-spacing:-.025em">${r[0]}</div><div class="mono" style="font-size:24px;margin-top:8px;opacity:.9">${r[1]}</div></div>
+  <div style="font-weight:900;font-size:62px;letter-spacing:-.03em;white-space:nowrap">${r[2]}</div></div>`).join('');
+const PROM=["Chi ti parla<br>fa il lavoro.","Il prezzo<br>è scritto prima.","Da Bologna,<br>per tutta Italia."];
+$('F_rows').innerHTML=PROM.map((r,i)=>`<div class="abs disp" id="F_r${i}" style="left:76px;top:${340+i*380}px;font-size:112px;color:var(--plum);letter-spacing:-.035em;text-transform:none;line-height:.95">${r.split('<br>').map(l=>`<span class="mask"><span>${l}</span></span>`).join('')}</div>`).join('');
+
+// ---------- tempi delle scene (s) ----------
+const T={A:0, C:7.0, D:13.7, E:19.2, F:24.6, G:27.9, END:31.5};
+const PAN=.45; // durata wipe a pannello
+function scene(id,on){ $(id).style.visibility=on?'visible':'hidden'; }
+function wipe(t,t0,color,el){ // pannello che sale e copre (400–500 ms), poi lascia la nuova scena
+  const k=p(t,t0-PAN,PAN,MOVE);
+  el.style.background=color; el.style.top=lerp(1920,0,k)+'px';
+  el.style.display=(t>t0-PAN&&t<t0+.02)?'block':'none';
+}
+
+// ---------- grana (strato ambientale) ----------
+const g=$('grain'),gx=g.getContext('2d'); let seed=1; const rnd=()=>{seed=(seed*16807)%2147483647;return seed/2147483647;};
+function grain(f){ seed=1+(f%7)*7919; const im=gx.createImageData(290,510); for(let i=0;i<im.data.length;i+=4){const v=rnd()*255;im.data[i]=im.data[i+1]=im.data[i+2]=v;im.data[i+3]=255;} gx.putImageData(im,0,0); g.style.width='1160px';g.style.height='2000px'; }
+
+function render(t,frame=0){
+  grain(Math.floor(frame/2));
+  // barra di avanzamento (ambientale, per tutto il video)
+  $('bar').firstElementChild.style.width=(cl(t/(T.END-.6))*100)+'%';
+  const barDark=(t>=T.C&&t<T.D)||(t>=T.F);
+  $('bar').style.background=barDark?'rgba(26,20,20,.15)':'rgba(244,239,230,.18)';
+  $('bar').firstElementChild.style.background=barDark?'#1A1414':'#F4EFE6';
+  $('bar').style.opacity= t>T.G+.2 ? 1-p(t,T.G+.2,.4,OUT) : 1;
+
+  ['A','C','D','E','F','G'].forEach(id=>scene(id,false));
+  // ===== A · gancio + svolta (0 → 7.0)
+  if(t<T.C){ scene('A',true);
+    const a=t;
+    set($('A_lbl'),{y:lerp(24,0,p(a,0,.45)),o:p(a,0,.45)});
+    lines($('A_h'),a,.0,.1,.55,3.05);
+    // contatore 30 → 60 → 90: ogni cambio rotola (uscita 220 ms, entrata 320 ms)
+    const num=$('A_num'); const show=p(a,.9,.5);
+    const seq=[[0,30],[1.55,60],[2.15,90]];
+    let val=30, y=0;
+    for(const [ts,v] of seq){ if(a>=ts) val=v; }
+    // rotolo sui cambi
+    for(const [ts] of seq.slice(1)){ const ko=p(a,ts-.22,.22,OUT), ki=p(a,ts,.32,IN); if(a>=ts-.22&&a<ts) y=-430*ko; if(a>=ts&&a<ts+.32) y=430*(1-ki); }
+    // svolta: 90 → 10 rallentando (3.2 → 4.6)
+    if(a>=3.2){ const k=p(a,3.2,1.4,bez(.15,.6,.25,1)); val=Math.round(lerp(90,10,k)); y=0; }
+    num.textContent=val;
+    const settle = a>=4.6 ? lerp(.96,1,p(a,4.6,.35,IN)) : (a>=3.2? .96:1);
+    num.style.transform=`translateY(${a<.9?430*(1-show):y}px) scale(${settle})`; num.style.transformOrigin='left center';
+    num.style.color = a>=4.45 ? '#E63B2E' : (a>=3.2 ? '#F2B8A2':'#E63B2E');
+    // contatore sale al centro della scena dopo la svolta
+    const up=p(a,3.0,.65,MOVE); $('A_cnt').style.transform=`translateY(${-500*up}px)`;
+    $('A_unit').style.transform=`translateY(${-500*up + lerp(20,0,p(a,1.1,.4))}px)`; $('A_unit').style.opacity=p(a,1.1,.4);
+    $('A_unit').textContent = a>=4.55 ? 'giorni. Fatto bene.' : 'giorni';
+    set($('A_tag'),{y:lerp(30,0,p(a,4.95,.5))-500*up,o:p(a,4.95,.5)});
+    $('A_rule').style.width=(560*p(a,5.25,.55,IN))+'px'; $('A_rule').style.transform=`translateY(${-500*up}px)`;
+    // ambientale: leggerissimo zoom della scena
+    $('A').style.transform=`scale(${1+.015*cl(a/7)})`;
+  }
+  // ===== C · processo
+  if(t>=T.C && t<T.D){ scene('C',true); const c=t-T.C;
+    set($('C_lbl'),{y:lerp(24,0,p(c,.1,.45)),o:p(c,.1,.45)});
+    lines($('C_h'),c,.2,.12,.6);
+    const rowT=[1.0,2.25,3.5,4.75];
+    $('C_line').style.height=(lerp(0,840,p(c,.9,4.4,MOVE)))+'px';
+    rowT.forEach((rt,i)=>{ const k=p(c,rt,.55); set($('C_r'+i),{x:lerp(60,0,k),o:k}); });
+    for(let i=0;i<10;i++){ const d=$('C_d'+i); const lim=[1,2.0,3.25,4.5,5.4][Math.min(4,Math.floor(i/2.5))];
+      const on=c>=1.0+ i*0.48; const k=p(c,1.0+i*0.48,.25);
+      d.style.background=on?`rgba(230,59,46,${k})`:'transparent'; d.style.borderColor=on?'#E63B2E':'#1A1414'; d.style.color=on&&k>.5?'#F4EFE6':'#1A1414';
+      d.style.transform=`scale(${on?lerp(.9,1,k):1})`; }
+    $('C').style.transform=`translateY(${-6*c}px)`;
+  }
+  // ===== D · prezzo
+  if(t>=T.D && t<T.E){ scene('D',true); const d=t-T.D;
+    set($('D_lbl'),{y:lerp(24,0,p(d,.1,.45)),o:p(d,.1,.45)});
+    lines($('D_h'),d,.15,.12,.6);
+    lines($('D_s'),d,.75,.12,.65);
+    [0,1,2].forEach(i=>{ const k=p(d,1.7+i*.12,.5); set($('D_r'+i),{y:lerp(50,0,k),o:k}); });
+    // enfasi sul sito vetrina: si riempie d'avorio
+    const em=p(d,3.2,.4,MOVE), r1=$('D_r1'); r1.style.background=`rgba(244,239,230,${em})`; r1.style.color=em>.5?'#E63B2E':'#F4EFE6';
+    set($('D_note'),{o:.85*p(d,2.4,.5),y:lerp(16,0,p(d,2.4,.5))});
+    $('D').style.transform=`scale(${1+.012*cl(d/5.5)})`;
+  }
+  // ===== E · mestiere
+  if(t>=T.E && t<T.F){ scene('E',true); const e=t-T.E;
+    set($('E_lbl'),{y:lerp(24,0,p(e,.1,.45)),o:p(e,.1,.45)});
+    lines($('E_h'),e,.15,.12,.6); lines($('E_s'),e,.55,.12,.6);
+    const w=p(e,.9,.6); set($('E_win'),{y:lerp(40,0,w),s:lerp(.98,1,w),o:w});
+    [['E_nav',1.35],['E_t1',1.55],['E_t2',1.8],['E_t3',1.9],['E_btn',2.1],['E_img',2.3]].forEach(([id,ts])=>{const k=p(e,ts,.45); set($(id),{y:lerp(24,0,k),o:k});});
+    // cursore su arco verso il bottone, pressione, conferma
+    const cur=$('E_cur'); const km=p(e,2.6,.9,MOVE);
+    const sx=880,sy=1610,ex=420,ey=1070; const mx=820,my=1140; // punto di controllo dell'arco
+    const bx=(1-km)*(1-km)*sx+2*(1-km)*km*mx+km*km*ex, by=(1-km)*(1-km)*sy+2*(1-km)*km*my+km*km*ey;
+    const press = e>=3.55 && e<3.75 ? .9 : 1;
+    set(cur,{x:bx,y:by,s:press,o:p(e,2.5,.25)});
+    const bp = e>=3.55 && e<3.72 ? .97 : 1; $('E_btn').style.transform+=` scale(${bp})`;
+    const ok=p(e,3.75,.35,IN); $('E_ok').style.transform=`scale(${lerp(.6,1,ok)})`; $('E_ok').style.opacity=ok;
+    $('E_chk').style.strokeDashoffset=60*(1-p(e,3.95,.4,IN));
+  }
+  // ===== F · promesse
+  if(t>=T.F && t<T.G){ scene('F',true); const f=t-T.F;
+    set($('F_lbl'),{y:lerp(24,0,p(f,.1,.45)),o:p(f,.1,.45)});
+    [0,1,2].forEach(i=>lines($('F_r'+i),f,.2+i*.75,.1,.6));
+    $('F').style.transform=`translateY(${-8*f}px)`;
+  }
+  // ===== G · chiusura
+  if(t>=T.G){ scene('G',true); const q=t-T.G;
+    const lk=p(q,.15,.8,IN); const lg=$('G_logo'); lg.style.clipPath=`inset(0 ${100-lk*100}% 0 0)`; lg.style.transform=`translateY(${lerp(20,0,lk)}px)`;
+    lines($('G_name'),q,.55,.12,.6);
+    set($('G_tag'),{y:lerp(24,0,p(q,1.1,.5)),o:p(q,1.1,.5)});
+    const ck=p(q,1.5,.5); const pulse = q>2.6 ? 1+.025*Math.sin((q-2.6)*Math.PI*1.2)**2 : 1;
+    $('G_cta').style.transform=`translateX(-50%) translateY(${lerp(30,0,ck)}px) scale(${pulse})`; $('G_cta').style.opacity=ck;
+    set($('G_url'),{o:p(q,1.8,.5),y:lerp(16,0,p(q,1.8,.5))});
+  }
+  // pannelli di passaggio
+  wipe(t,T.C,'#F4EFE6',$('P1'));
+  if(t>T.C+.1) wipe(t,T.D,'#E63B2E',$('P1'));
+  wipe(t,T.E,'#1A1414',$('P2'));
+  if(t>T.E+.1) wipe(t,T.F,'#F2B8A2',$('P2'));
+  if(t>T.F+.1) wipe(t,T.G,'#F4EFE6',$('P1'));
+}
+window.render=render; window.DURATA=T.END;
+document.fonts.ready.then(()=>{ window.pronto=true; render(0); });
+</script></body></html>
