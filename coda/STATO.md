@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 08/10/2026, 14:05:21
+Ultimo controllo: 08/10/2026, 18:39:03
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,18 +12,17 @@ Ultimo controllo: 08/10/2026, 14:05:21
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-08 18:30 | R02 | Quale bottone | gia_in_buffer | programmato | programmato |
 | 2026-10-09 12:30 | P04 | Listino | programmato | programmato | programmato |
 | 2026-10-12 12:30 | P05 | Tip Visite | programmato | programmato | programmato |
 | 2026-10-13 18:30 | R03 | Il bottone | gia_in_buffer | programmato | programmato |
 | 2026-10-14 18:30 | P06 | Reel Dettaglio | manca_video | manca_video | manca_video |
 | 2026-10-15 18:30 | R04 | Tre secondi su mobile | gia_in_buffer | programmato | programmato |
-| 2026-10-16 12:30 | P08 | AI Mestiere | da_programmare | programmato | programmato |
+| 2026-10-16 12:30 | P08 | AI Mestiere | programmato | programmato | programmato |
 | 2026-10-19 12:30 | P09 | CRM | da_programmare | programmato | programmato |
 | 2026-10-20 18:30 | R05 | Quanto costa un sito | gia_in_buffer | programmato | programmato |
 | 2026-10-22 18:30 | R06 | Quale homepage | gia_in_buffer | programmato | programmato |
 | 2026-10-23 12:30 | P07 | Prompt | da_programmare | programmato | programmato |
-| 2026-10-26 12:30 | P11 | Dieci Anni | da_programmare | da_programmare | da_programmare |
+| 2026-10-26 12:30 | P11 | Dieci Anni | da_programmare | programmato | programmato |
 | 2026-10-27 18:30 | R07 | Cosa significa GEO | gia_in_buffer | da_programmare | da_programmare |
 | 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
 | 2026-10-29 18:30 | R08 | Da zero a online | gia_in_buffer | da_programmare | da_programmare |
@@ -37,12 +36,12 @@ Ultimo controllo: 08/10/2026, 14:05:21
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-11-12 18:30 | R12 | Solo qualche visita persa | da_programmare | da_programmare | da_programmare |
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
+| 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 08/10/26, 18:30 · Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A 
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Non esiste una cifra giusta per tutti
 - 12/10/26, 12:30 · Il tuo sito ha visite ma nessuno ti scrive? Di solito il motivo è uno 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Chiediamo all'AI otto variant
@@ -52,10 +51,10 @@ Ultimo controllo: 08/10/2026, 14:05:21
 - 20/10/26, 18:30 · Quanto costa un sito? "Dipende" non è una risposta. Landing page da 80
 - 22/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
 - 23/10/26, 12:30 · Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.
+- 26/10/26, 12:30 · 
 
 ### linkedin
 
-- 08/10/26, 18:30 · Due bottoni, stessa pagina. Uno porta prenotazioni, l'altro no. La dif
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Nessuna cifra vale per tutti. Ma prim
 - 12/10/26, 12:30 · Il tuo sito ha visite. Nessuno ti scrive. Più traffico non vuol dire p
 - 13/10/26, 18:30 · Quanto ci vuole a scrivere il testo di un bottone? Con l'AI, pochi sec
@@ -65,14 +64,15 @@ Ultimo controllo: 08/10/2026, 14:05:21
 - 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
 - 22/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
+- 26/10/26, 12:30 · 
 
 ### instagram
 
-- 08/10/26, 18:30 · Quale bottone converte di più? Due versioni, una sola funziona meglio.
 - 09/10/26, 12:30 · Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tu
 - 12/10/26, 12:30 · Più visite non vuol dire più clienti. Spesso il problema è in 5 punti 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Per noi ogni font, ogni micro
 - 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
+- 16/10/26, 12:30 · 
 - 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
 - 22/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
 - 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz

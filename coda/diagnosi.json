@@ -1,0 +1,1222 @@
+{
+  "statiPossibili": [
+    "draft",
+    "error",
+    "needs_approval",
+    "scheduled",
+    "sending",
+    "sent"
+  ],
+  "tipi": {
+    "error": "PostPublishingError",
+    "metadata": "PostMetadata",
+    "notificationStatus": "NotificationStatus",
+    "schedulingType": "SchedulingType",
+    "shareMode": "ShareMode",
+    "status": "PostStatus",
+    "via": "PostVia"
+  },
+  "sottotipi": {
+    "error": {
+      "kind": "OBJECT",
+      "fields": [
+        {
+          "name": "message",
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "name": "String"
+            }
+          }
+        },
+        {
+          "name": "rawError",
+          "type": {
+            "kind": "SCALAR",
+            "name": "String",
+            "ofType": null
+          }
+        },
+        {
+          "name": "supportUrl",
+          "type": {
+            "kind": "SCALAR",
+            "name": "String",
+            "ofType": null
+          }
+        }
+      ],
+      "enumValues": null,
+      "possibleTypes": null
+    },
+    "metadata": {
+      "kind": "UNION",
+      "fields": null,
+      "enumValues": null,
+      "possibleTypes": [
+        {
+          "name": "InstagramPostMetadata"
+        },
+        {
+          "name": "FacebookPostMetadata"
+        },
+        {
+          "name": "LinkedInPostMetadata"
+        },
+        {
+          "name": "TwitterPostMetadata"
+        },
+        {
+          "name": "PinterestPostMetadata"
+        },
+        {
+          "name": "GoogleBusinessPostMetadata"
+        },
+        {
+          "name": "YoutubePostMetadata"
+        },
+        {
+          "name": "MastodonPostMetadata"
+        },
+        {
+          "name": "TiktokPostMetadata"
+        },
+        {
+          "name": "ThreadsPostMetadata"
+        },
+        {
+          "name": "BlueskyPostMetadata"
+        },
+        {
+          "name": "SubstackPostMetadata"
+        }
+      ]
+    },
+    "notificationStatus": {
+      "kind": "ENUM",
+      "fields": null,
+      "enumValues": [
+        {
+          "name": "markedAsPublished"
+        },
+        {
+          "name": "notified"
+        }
+      ],
+      "possibleTypes": null
+    },
+    "schedulingType": {
+      "kind": "ENUM",
+      "fields": null,
+      "enumValues": [
+        {
+          "name": "automatic"
+        },
+        {
+          "name": "notification"
+        }
+      ],
+      "possibleTypes": null
+    },
+    "shareMode": {
+      "kind": "ENUM",
+      "fields": null,
+      "enumValues": [
+        {
+          "name": "addToQueue"
+        },
+        {
+          "name": "customScheduled"
+        },
+        {
+          "name": "shareNext"
+        },
+        {
+          "name": "shareNow"
+        }
+      ],
+      "possibleTypes": null
+    },
+    "status": {
+      "kind": "ENUM",
+      "fields": null,
+      "enumValues": [
+        {
+          "name": "draft"
+        },
+        {
+          "name": "error"
+        },
+        {
+          "name": "needs_approval"
+        },
+        {
+          "name": "scheduled"
+        },
+        {
+          "name": "sending"
+        },
+        {
+          "name": "sent"
+        }
+      ],
+      "possibleTypes": null
+    },
+    "via": {
+      "kind": "ENUM",
+      "fields": null,
+      "enumValues": [
+        {
+          "name": "api"
+        },
+        {
+          "name": "buffer"
+        },
+        {
+          "name": "network"
+        }
+      ],
+      "possibleTypes": null
+    }
+  },
+  "canali": [
+    {
+      "id": "6ab6dedeea19ca0bdeeadf4d",
+      "name": "Dieci Bottega",
+      "service": "facebook",
+      "isDisconnected": false,
+      "isLocked": false
+    },
+    {
+      "id": "6ab66887ea19ca0bdee4c792",
+      "name": "diecibottega",
+      "service": "linkedin",
+      "isDisconnected": false,
+      "isLocked": false
+    },
+    {
+      "id": "6ab4510dea19ca0bdecc802f",
+      "name": "diecibottega",
+      "service": "instagram",
+      "isDisconnected": false,
+      "isLocked": false
+    }
+  ],
+  "post": {
+    "draft": [
+      {
+        "id": "6ac3d9b300f193294b793fc6",
+        "dueAt": "2026-11-05T11:30:00.000Z",
+        "sentAt": null,
+        "text": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter pro",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9af91c77f0a466b7ad5",
+        "dueAt": "2026-11-05T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter pro",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9a65162d360af9e4e75",
+        "dueAt": "2026-11-03T11:30:00.000Z",
+        "sentAt": null,
+        "text": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accett",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9a291c77f0a466b77c6",
+        "dueAt": "2026-11-03T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accett",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9978c74e278c8f3acfc",
+        "dueAt": "2026-10-29T11:30:00.000Z",
+        "sentAt": null,
+        "text": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 desi",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d994a790cb17e9fbd8eb",
+        "dueAt": "2026-10-29T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 desi",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d98ba790cb17e9fbd77f",
+        "dueAt": "2026-10-27T11:30:00.000Z",
+        "sentAt": null,
+        "text": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Ge",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9878c74e278c8f3aa72",
+        "dueAt": "2026-10-27T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Ge",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d97e00f193294b7936f1",
+        "dueAt": "2026-10-22T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Quale homepage funziona meglio?\n\nPrima di guardare il video,",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d97b00f193294b79366c",
+        "dueAt": "2026-10-22T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Quale homepage funziona meglio?\n\nDue versioni, una sola funz",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9728c74e278c8f3a717",
+        "dueAt": "2026-10-20T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d96fa790cb17e9fbd1e0",
+        "dueAt": "2026-10-20T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9407b80e27772c2cfe4",
+        "dueAt": "2026-10-15T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Un sito mobile ci mette più di 3 secondi. Quante visite si p",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d93d91c77f0a466b5f3d",
+        "dueAt": "2026-10-15T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Un sito mobile ci mette più di 3 secondi. Quante visite si p",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9348c74e278c8f39f45",
+        "dueAt": "2026-10-13T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font,",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9338c74e278c8f39f1f",
+        "dueAt": "2026-10-13T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font,",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d8dd7b80e27772c2bc30",
+        "dueAt": "2026-10-08T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Quale bottone converte di più?\n\nPrima di guardare il video, ",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d8ce7b80e27772c2b7bd",
+        "dueAt": "2026-10-08T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Quale bottone converte di più?\n\nDue versioni, una sola funzi",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d8c85162d360af9e27eb",
+        "dueAt": "2026-10-06T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d8af5162d360af9e214b",
+        "dueAt": "2026-10-06T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6abc41d03b1eb12e6e3a15b9",
+        "dueAt": "2026-10-26T11:30:00.000Z",
+        "sentAt": null,
+        "text": "Prima di Dieci Bottega c'erano due amici. Da più di dieci an",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6abc41cff3db08ac926ad2ab",
+        "dueAt": "2026-10-21T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fa",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6abc41cfbc79f721888bde2a",
+        "dueAt": "2026-10-23T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Il prompt che usiamo per scrivere il testo di un bottone. E ",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6abc41cef3db08ac926ad284",
+        "dueAt": "2026-10-16T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove,",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6abc41ced3050be9e378689d",
+        "dueAt": "2026-10-19T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi n",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6abc41cdbc79f721888bdddb",
+        "dueAt": "2026-10-14T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Molti dettagli che fanno perdere clienti non si vedono finch",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6abc41cca1ba5ce146df634e",
+        "dueAt": "2026-10-12T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Più visite non vuol dire più clienti. Spesso il problema è i",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6abc41cca1ba5ce146df6331",
+        "dueAt": "2026-10-09T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Nessuna risposta vale per tutti. Ma ci sono domande che valg",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6abc41b2bc79f721888bdca6",
+        "dueAt": "2026-10-07T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Siamo Tommaso e Lorenzo. Amici da più di dieci anni, oggi un",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      },
+      {
+        "id": "6ab6dfdaf28173fa3f4e20d6",
+        "dueAt": "2026-10-26T11:00:00.000Z",
+        "sentAt": null,
+        "text": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Loren",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "draft",
+        "via": "buffer"
+      }
+    ],
+    "error": [
+      {
+        "id": "6ac3d8cc7b80e27772c2b769",
+        "dueAt": "2026-10-08T16:32:30.907Z",
+        "sentAt": null,
+        "text": "Quale bottone converte di più?\n\nDue versioni, una sola funzi",
+        "channelService": "instagram",
+        "error": {
+          "rawError": "Media URL is not publicly accessible (HTTP 403). Ensure the media URL is publicly reachable before publishing.",
+          "supportUrl": null
+        },
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "error",
+        "via": "buffer"
+      }
+    ],
+    "needs_approval": [],
+    "scheduled": [
+      {
+        "id": "6ac7c726431a2c8b2e81cbb2",
+        "dueAt": "2026-10-26T11:30:00.000Z",
+        "sentAt": null,
+        "text": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac7c726226f4504d36d445a",
+        "dueAt": "2026-10-26T11:30:00.000Z",
+        "sentAt": null,
+        "text": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Loren",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac7c72534ed38f0ddb332ba",
+        "dueAt": "2026-10-16T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove,",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac6c0b45632f7b74bcda35f",
+        "dueAt": "2026-10-23T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Il prompt che uso per scrivere il testo di un bottone. E per",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac6c0b401166a3e1c07290e",
+        "dueAt": "2026-10-23T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Quanto ci mette l'AI a scrivere il testo di un bottone? Poch",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac6c0b357f9bd074d1a376c",
+        "dueAt": "2026-10-12T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Più visite non vuol dire più clienti. Spesso il problema è i",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac67b485dd7df060c6d9502",
+        "dueAt": "2026-10-22T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nL",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac67b47e59f0d0f6165cabe",
+        "dueAt": "2026-10-12T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il mo",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac67b475dd7df060c6d94c1",
+        "dueAt": "2026-10-12T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non ",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac5f118c22c37a573bd27d4",
+        "dueAt": "2026-10-22T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Una ciclofficina di Bologna, due homepage. Quale funziona me",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac5f117c22c37a573bd27a8",
+        "dueAt": "2026-10-20T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Quanto costa un sito? Nel nostro settore la risposta più com",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac5f1175355110416252feb",
+        "dueAt": "2026-10-20T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac5f1165355110416252fb9",
+        "dueAt": "2026-10-15T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Se un sito da mobile ci mette più di 3 secondi a caricare, i",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac5f11636c2a7788dd3a012",
+        "dueAt": "2026-10-15T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac5f11536c2a7788dd39fdc",
+        "dueAt": "2026-10-13T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Quanto ci vuole a scrivere il testo di un bottone?\n\nCon l'AI",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac5f115203d24e39e12359d",
+        "dueAt": "2026-10-13T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nChiediamo all'AI o",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac577e0280171da8dd32b8d",
+        "dueAt": "2026-10-19T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNo",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac577df8a697ec911726a0b",
+        "dueAt": "2026-10-19T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Contatti sparsi tra Excel, WhatsApp e mail?\n\nSe due persone ",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac577df8a697ec9117269e2",
+        "dueAt": "2026-10-16T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no.\n",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac577df42e81c8a0b0bb07c",
+        "dueAt": "2026-10-16T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Cosa fa l'AI. Cosa facciamo noi.\n\nTutti dicono di usare l'in",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac577db8a697ec911726964",
+        "dueAt": "2026-10-09T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Quanto dovrebbe costare un sito?\n\nNon esiste una cifra giust",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac577db2b46a5da666e76e3",
+        "dueAt": "2026-10-09T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tut",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac575558a697ec91171f750",
+        "dueAt": "2026-10-09T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Nessuna risposta vale per tutti. Ma ci sono domande che valg",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d99ca790cb17e9fbda18",
+        "dueAt": "2026-11-03T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accett",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d98e8c74e278c8f3abbb",
+        "dueAt": "2026-10-29T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 desi",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9825162d360af9e488e",
+        "dueAt": "2026-10-27T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Ge",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d97691c77f0a466b6e81",
+        "dueAt": "2026-10-22T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Quale homepage funziona meglio?\n\nDue versioni, una sola funz",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d96891c77f0a466b6cad",
+        "dueAt": "2026-10-20T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9375162d360af9e3d1a",
+        "dueAt": "2026-10-15T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Un sito mobile ci mette più di 3 secondi. Quante visite si p",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d9278c74e278c8f39cd6",
+        "dueAt": "2026-10-13T16:30:00.000Z",
+        "sentAt": null,
+        "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font,",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      }
+    ],
+    "sending": [],
+    "sent": [
+      {
+        "id": "6ac67b7a4610dcaf932d0a1c",
+        "dueAt": "2026-10-07T17:30:00.000Z",
+        "sentAt": "2026-10-07T17:30:26.960Z",
+        "text": "Come lavoriamo, giorno per giorno. Lo trovi nel documento qu",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac67b46e59f0d0f6165ca86",
+        "dueAt": "2026-10-07T17:30:00.000Z",
+        "sentAt": "2026-10-07T17:30:16.415Z",
+        "text": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, svil",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac67b465dd7df060c6d9481",
+        "dueAt": "2026-10-07T17:30:00.000Z",
+        "sentAt": "2026-10-07T17:31:08.665Z",
+        "text": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fa",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac666bee94c2c45e0075098",
+        "dueAt": "2026-10-07T16:30:00.000Z",
+        "sentAt": "2026-10-07T16:30:55.529Z",
+        "text": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fa",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac665c475e2178a9949fcf0",
+        "dueAt": "2026-10-07T16:30:00.000Z",
+        "sentAt": "2026-10-07T16:30:28.665Z",
+        "text": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac665c375e2178a9949fcc5",
+        "dueAt": "2026-10-07T16:30:00.000Z",
+        "sentAt": "2026-10-07T16:30:29.293Z",
+        "text": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, svil",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac5f114df05c83428d8a9fb",
+        "dueAt": "2026-10-08T16:30:00.000Z",
+        "sentAt": "2026-10-08T16:30:52.628Z",
+        "text": "Due bottoni, stessa pagina. Uno porta prenotazioni, l'altro ",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac5f1145355110416252f7e",
+        "dueAt": "2026-10-08T16:30:00.000Z",
+        "sentAt": "2026-10-08T16:30:45.602Z",
+        "text": "Due bottoni, stessa pagina. Quale ti fa venire voglia di pre",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac53fd6308dd81662b88965",
+        "dueAt": "2026-10-06T16:43:35.000Z",
+        "sentAt": "2026-10-06T16:43:35.000Z",
+        "text": "👀 👀👀",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "network"
+      },
+      {
+        "id": "6ac4c63860cabbfaf184c4e5",
+        "dueAt": "2026-10-05T12:29:20.000Z",
+        "sentAt": "2026-10-05T12:29:20.000Z",
+        "text": "Dieci Bottega è una bottega digitale di Bologna.\nSiamo in du",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "network"
+      },
+      {
+        "id": "6ac4c5d35eb2d92e7a5cc9aa",
+        "dueAt": "2026-10-06T16:30:00.000Z",
+        "sentAt": "2026-10-06T16:30:36.099Z",
+        "text": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac4c5c8f3da78683bb55179",
+        "dueAt": "2026-10-06T10:30:00.000Z",
+        "sentAt": "2026-10-06T10:30:27.622Z",
+        "text": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3d8a491c77f0a466b3afa",
+        "dueAt": "2026-10-06T16:30:00.000Z",
+        "sentAt": "2026-10-06T16:32:35.854Z",
+        "text": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac3c166d2c8adcae8f71d17",
+        "dueAt": "2026-10-05T12:51:44.000Z",
+        "sentAt": "2026-10-05T12:51:44.000Z",
+        "text": "",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "network"
+      },
+      {
+        "id": "6ab6df7edffba3cec6e448e6",
+        "dueAt": "2026-10-05T12:30:00.000Z",
+        "sentAt": "2026-10-05T12:31:03.721Z",
+        "text": "Ciao Bologna, siamo Dieci Bottega.\n\nSiamo in due: Lorenzo di",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ab6df72dffba3cec6e4487a",
+        "dueAt": "2026-10-05T06:30:00.000Z",
+        "sentAt": "2026-10-05T06:30:43.574Z",
+        "text": "Una bottega. Non un'agenzia.\n\nDieci Bottega nasce a Bologna ",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      }
+    ]
+  }
+}

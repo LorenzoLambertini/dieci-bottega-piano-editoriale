@@ -343,7 +343,9 @@
             "media/post/P08/slide05.png",
             "media/post/P08/slide06.png"
           ],
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac7c72534ed38f0ddb332ba",
+          "programmatoIl": "2026-10-08T16:39:01.952Z"
         },
         "facebook": {
           "testo": "Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no.\n\nL'AI ci aiuta con le bozze e le parti ripetitive. Le scelte, i testi finali e ogni riga di codice li rivediamo noi. E non usiamo mai volti inventati.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.",
@@ -541,14 +543,18 @@
             "media/post/P11/slide03.png",
             "media/post/P11/slide04.png"
           ],
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac7c726226f4504d36d445a",
+          "programmatoIl": "2026-10-08T16:39:02.407Z"
         },
         "linkedin": {
           "testo": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta foto è del 2020. Lorenzo e Tommaso, amici da più di dieci anni.\n\nIn questi anni uno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività, e a dirlo in modo semplice.\n\nNel 2026 abbiamo deciso di mettere insieme quello che sappiamo fare. È per questo che, quando scrivi a Dieci Bottega, ti rispondono le stesse due persone che lavoreranno al tuo sito.\n\nAmici da dieci anni. Una bottega da oggi.\n\n#Founders #Bologna #PMI",
           "documento": "media/post/P11/carosello.pdf",
           "titoloDocumento": "Dieci Anni",
           "copertina": "media/post/P11/slide01.png",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac7c726431a2c8b2e81cbb2",
+          "programmatoIl": "2026-10-08T16:39:02.728Z"
         }
       }
     },
