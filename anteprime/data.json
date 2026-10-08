@@ -1,0 +1,984 @@
+{
+ "aggiornato": "2026-10-08T12:27+00:00",
+ "contenuti": [
+  {
+   "id": "R02",
+   "titolo": "Quale bottone",
+   "tipo": "reel",
+   "quando": "2026-10-08 18:30",
+   "dueAt": "2026-10-08T16:30:00.000Z",
+   "slide": [],
+   "poster": "img/R02_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R02.mp4",
+   "durata": 30,
+   "canali": {
+    "instagram": {
+     "stato": "gia_in_buffer",
+     "testo": "Quale bottone converte di più?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito con microcopy curato.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "programmato",
+     "testo": "Due bottoni, stessa pagina. Quale ti fa venire voglia di prenotare, A o B?\n\nScrivilo nei commenti, poi guarda la risposta nel video.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "programmato",
+     "testo": "Due bottoni, stessa pagina. Uno porta prenotazioni, l'altro no.\n\nLa differenza non è il colore preferito del titolare. Sono tre regole che applichiamo a ogni bottone:\n— contrasto forte, si vede subito;\n— massimo tre parole;\n— dice cosa succede quando lo tocchi. Niente \"Clicca qui\".\n\nSembra un dettaglio. È il punto esatto in cui un visitatore diventa un cliente, oppure se ne va.\n\n#UX #Microcopy #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "P04",
+   "titolo": "Listino",
+   "tipo": "carosello",
+   "quando": "2026-10-09 12:30",
+   "dueAt": "2026-10-09T10:30:00.000Z",
+   "slide": [
+    "img/P04_01.jpg",
+    "img/P04_02.jpg",
+    "img/P04_03.jpg",
+    "img/P04_04.jpg",
+    "img/P04_05.jpg",
+    "img/P04_06.jpg",
+    "img/P04_07.jpg"
+   ],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "programmato",
+     "testo": "Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tutti: chi possiede il dominio, chi aggiorna il sito, cosa succede dopo il lancio.\nSalvalo per quando qualcuno ti manda un preventivo. Il nostro listino è pubblico: link in bio.\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
+     "formato": "immagini",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "programmato",
+     "testo": "Quanto dovrebbe costare un sito?\n\nNon esiste una cifra giusta per tutti, ma ci sono 4 domande da fare a chiunque ti mandi un preventivo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nSalvalo per quando ti servirà. Il nostro listino è pubblico: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=post&utm_campaign=p04",
+     "formato": "immagini",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "programmato",
+     "testo": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tutti. Ma prima di confrontare preventivi, conviene capire cosa si sta confrontando. Di solito le strade sono tre:\n\n1. Il fai-da-te. Paghi poco al mese, il tempo lo metti tu. Il risultato dipende da un lavoro che non è il tuo.\n2. Il freelance a prezzo basso. Può andare benissimo o malissimo. Chiedi sempre chi aggiorna il sito dopo e a chi è intestato il dominio.\n3. L'agenzia tradizionale. Processo solido, tempi lunghi, preventivi spesso fuori scala per una piccola attività.\n\nQuattro domande da fare a chiunque, prima del prezzo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nNoi abbiamo scelto di scrivere il listino sul sito: landing page da 800 €, sito vetrina da 1.200 €, con tempi e cosa è incluso. Il prezzo giusto è quello che capisci prima di firmare.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=post&utm_campaign=p04\n\n#PMI #WebDesign #Preventivi",
+     "formato": "documento",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "P05",
+   "titolo": "Tip Visite",
+   "tipo": "carosello",
+   "quando": "2026-10-12 12:30",
+   "dueAt": "2026-10-12T10:30:00.000Z",
+   "slide": [
+    "img/P05_01.jpg",
+    "img/P05_02.jpg",
+    "img/P05_03.jpg",
+    "img/P05_04.jpg",
+    "img/P05_05.jpg",
+    "img/P05_06.jpg",
+    "img/P05_07.jpg"
+   ],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "programmato",
+     "testo": "Più visite non vuol dire più clienti. Spesso il problema è in 5 punti che si sistemano in un pomeriggio.\nQuanti ne hai trovati sul tuo sito?\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
+     "formato": "immagini",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "programmato",
+     "testo": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il motivo è uno di questi 5: il contatto è in fondo, il modulo chiede troppo, non si capisce cosa fai, il numero non si può toccare da telefono, nessuno risponde in fretta.\n\nQuanti ne trovi sul tuo sito? Scrivici qui sotto o in privato: ti diciamo noi.",
+     "formato": "immagini",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "programmato",
+     "testo": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
+     "formato": "documento",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R03",
+   "titolo": "Il bottone",
+   "tipo": "reel",
+   "quando": "2026-10-13 18:30",
+   "dueAt": "2026-10-13T16:30:00.000Z",
+   "slide": [],
+   "poster": "img/R03_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R03.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "gia_in_buffer",
+     "testo": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font, ogni microcopy, ogni millisecondo è una scelta consapevole. AI come strumento, mestiere come metodo.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "programmato",
+     "testo": "Un bottone. Quanto ci vuole a scriverlo?\n\nChiediamo all'AI otto varianti, poi scegliamo noi quella giusta. L'AI è uno strumento, il criterio resta mestiere.\n\nTu come lo scriveresti il bottone del tuo sito?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "programmato",
+     "testo": "Quanto ci vuole a scrivere il testo di un bottone?\n\nCon l'AI, pochi secondi per avere otto varianti. Poi comincia il lavoro vero: scartare quelle vaghe, quelle che mettono fretta, quelle che suonano da call center. Ne resta una.\n\nÈ il modo in cui usiamo l'intelligenza artificiale in bottega: accelera la prima bozza, non sceglie al posto nostro. Ogni font, ogni parola, ogni millisecondo resta una decisione consapevole.\n\nAI come strumento, mestiere come metodo.\n\n#IntelligenzaArtificiale #Copywriting #UX",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "P06",
+   "titolo": "Reel Dettaglio",
+   "tipo": "reel",
+   "quando": "2026-10-14 18:30",
+   "dueAt": "2026-10-14T16:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Molti dettagli che fanno perdere clienti non si vedono finché non provi il sito con una mano, in piedi, in tram.\nProva il tuo adesso: riesci a prenotare con il pollice? Ogni settimana un dettaglio nuovo.\n\n#webdesign #ux #ristorantibologna #sitiweb #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Prova il tuo sito con una mano sola, in piedi: riesci a prenotare con il pollice?\n\nUn bottone troppo piccolo è la differenza tra una prenotazione e una chiamata persa. Si sistema in dieci minuti.\n\nOgni settimana un dettaglio nuovo. È tutto nei dettagli.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Un bottone troppo piccolo costa più di quanto sembra.\n\nLe linee guida di Apple e Google chiedono un'area toccabile di almeno 44-48 punti. Molti siti di ristoranti, studi e negozi hanno ancora il pulsante \"Prenota\" o \"Chiama\" minuscolo, in alto, dove il pollice non arriva.\n\nDa telefono, in piedi, con una mano sola, quel bottone non lo premi. E la prenotazione diventa una chiamata persa.\n\nLa correzione richiede dieci minuti: più grande, più in basso, più contrasto.\n\nÈ il tipo di dettaglio che non compare in nessun preventivo, ma che decide se un sito lavora o no.\n\n#UX #WebDesign #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R04",
+   "titolo": "Tre secondi su mobile",
+   "tipo": "reel",
+   "quando": "2026-10-15 18:30",
+   "dueAt": "2026-10-15T16:30:00.000Z",
+   "slide": [],
+   "poster": "img/R04_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R04.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "gia_in_buffer",
+     "testo": "Un sito mobile ci mette più di 3 secondi. Quante visite si perdono?\n\nA) Il 15%\nB) Il 90%\nC) Il 53%\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito veloce, mobile-first.\n\nFonte: Google · The Need for Mobile Speed (dati 2016)\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #corewebvitals #velocitasito #mobilefirst",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "programmato",
+     "testo": "Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora ti stai perdendo una visita su due.\n\nIndovina la percentuale esatta nei commenti, poi guarda il video. E prova adesso il tuo sito dal telefono: quanto ci mette?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "programmato",
+     "testo": "Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% delle visite viene abbandonato. Più di una su due. (Fonte: Google)\n\nPer una piccola attività significa questo: metà delle persone che ti hanno cercato, magari dopo un passaparola, chiude la pagina prima di vedere cosa fai.\n\nNon serve un sito più bello. Serve un sito più leggero: immagini ottimizzate, codice pulito, niente plugin superflui.\n\nHai mai misurato il tuo?\n\n#Performance #SitiWeb #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "P08",
+   "titolo": "AI Mestiere",
+   "tipo": "carosello",
+   "quando": "2026-10-16 12:30",
+   "dueAt": "2026-10-16T10:30:00.000Z",
+   "slide": [
+    "img/P08_01.jpg",
+    "img/P08_02.jpg",
+    "img/P08_03.jpg",
+    "img/P08_04.jpg",
+    "img/P08_05.jpg",
+    "img/P08_06.jpg"
+   ],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no.\nCosì sai cosa stai pagando: tempo risparmiato sulle parti ripetitive, e persone che decidono su tutto il resto.\n\n#bologna #pmiitaliane #intelligenzaartificiale #webdesign #sitiweb",
+     "formato": "immagini",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "programmato",
+     "testo": "Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no.\n\nL'AI ci aiuta con le bozze e le parti ripetitive. Le scelte, i testi finali e ogni riga di codice li rivediamo noi. E non usiamo mai volti inventati.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.",
+     "formato": "immagini",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "programmato",
+     "testo": "Cosa fa l'AI. Cosa facciamo noi.\n\nTutti dicono di usare l'intelligenza artificiale. Noi preferiamo dire esattamente dove, e dove no.\n\nTesti: l'AI scrive una prima bozza con più varianti. Noi scegliamo quella che suona come il cliente.\nDesign: l'AI propone varianti di layout. Noi decidiamo cosa si vede per primo.\nCodice: l'AI accelera le parti ripetitive. Noi lo rileggiamo tutto, riga per riga.\nImmagini: l'AI solo dove non servono persone. Mai volti inventati, e lo dichiariamo.\n\nCosì chi lavora con noi sa cosa sta pagando: tempo risparmiato sulle parti ripetitive, e persone che decidono su tutto il resto.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.\n\n#IntelligenzaArtificiale #PMI #WebDesign",
+     "formato": "documento",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "P09",
+   "titolo": "CRM",
+   "tipo": "carosello",
+   "quando": "2026-10-19 12:30",
+   "dueAt": "2026-10-19T10:30:00.000Z",
+   "slide": [
+    "img/P09_01.jpg",
+    "img/P09_02.jpg",
+    "img/P09_03.jpg",
+    "img/P09_04.jpg",
+    "img/P09_05.jpg",
+    "img/P09_06.jpg",
+    "img/P09_07.jpg"
+   ],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide 3, 4 o 5, stai perdendo clienti che avevi già.\nCostruiamo CRM su misura, con i dati che restano tuoi. E se ti basta un foglio fatto bene, te lo diciamo.\n\n#pmiitaliane #crm #bologna #automazioni #piccoleimprese",
+     "formato": "immagini",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "programmato",
+     "testo": "Contatti sparsi tra Excel, WhatsApp e mail?\n\nSe due persone chiamano lo stesso cliente, o un preventivo resta senza risposta perché nessuno se lo ricordava, stai perdendo clienti che avevi già.\n\nCostruiamo CRM su misura, con i dati che restano tuoi. E se ti basta un foglio fatto bene, te lo diciamo.\n\nhttps://diecibottega.it/servizi/crm-su-misura?utm_source=facebook&utm_medium=post&utm_campaign=p09",
+     "formato": "immagini",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "programmato",
+     "testo": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNon tutte le aziende hanno bisogno di un CRM. Excel può bastare, finché sei da solo e hai pochi contatti al mese.\n\nSmette di bastare quando:\n— due persone chiamano lo stesso cliente;\n— un preventivo resta senza risposta perché nessuno se lo ricordava;\n— il lunedì serve mezz'ora per capire come sta andando.\n\nUn CRM non è un software. È sapere, per ogni contatto, chi deve fare cosa e quando.\n\nLo costruiamo su misura, sul vostro modo di lavorare, con i dati che restano vostri. E se vi basta un foglio fatto bene, ve lo diciamo.\n\nCRM su misura, da 2.500 €: https://diecibottega.it/servizi/crm-su-misura?utm_source=linkedin&utm_medium=post&utm_campaign=p09\n\n#CRM #PMI #Vendite",
+     "formato": "documento",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R05",
+   "titolo": "Quanto costa un sito",
+   "tipo": "reel",
+   "quando": "2026-10-20 18:30",
+   "dueAt": "2026-10-20T16:30:00.000Z",
+   "slide": [],
+   "poster": "img/R05_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R05.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "gia_in_buffer",
+     "testo": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "programmato",
+     "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page da 800 €, sito vetrina da 1.200 €, e-commerce light da 1.800 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "programmato",
+     "testo": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page da 800 €, consegna 5–7 giorni\n— Sito vetrina da 1.200 €, consegna 10 giorni\n— E-commerce light da 1.800 €, consegna 12–15 giorni\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R06",
+   "titolo": "Quale homepage",
+   "tipo": "reel",
+   "quando": "2026-10-22 18:30",
+   "dueAt": "2026-10-22T16:30:00.000Z",
+   "slide": [],
+   "poster": "img/R06_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06.mp4",
+   "durata": 30,
+   "canali": {
+    "instagram": {
+     "stato": "gia_in_buffer",
+     "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "programmato",
+     "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "programmato",
+     "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "P07",
+   "titolo": "Prompt",
+   "tipo": "carosello",
+   "quando": "2026-10-23 12:30",
+   "dueAt": "2026-10-23T10:30:00.000Z",
+   "slide": [
+    "img/P07_01.jpg",
+    "img/P07_02.jpg",
+    "img/P07_03.jpg",
+    "img/P07_04.jpg"
+   ],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto quello che mi restituisce.\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente mi paga. — Lorenzo\n\n#intelligenzaartificiale #copywriting #webdesign #bologna #sitiweb",
+     "formato": "immagini",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "programmato",
+     "testo": "Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.\n\nQuanto ci mettiamo noi a scegliere quello giusto? Un po' di più. Su otto proposte ne teniamo una: \"Iniziamo\". Un verbo, zero pressione.\n\nIl lavoro non è generare. È scegliere.",
+     "formato": "immagini",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "programmato",
+     "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
+     "formato": "documento",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "P11",
+   "titolo": "Dieci Anni",
+   "tipo": "carosello",
+   "quando": "2026-10-26 12:30",
+   "dueAt": "2026-10-26T11:30:00.000Z",
+   "slide": [
+    "img/P11_01.jpg",
+    "img/P11_02.jpg",
+    "img/P11_03.jpg",
+    "img/P11_04.jpg"
+   ],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Prima di Dieci Bottega c'erano due amici. Da più di dieci anni.\nUno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività.\nOggi abbiamo messo insieme quello che sappiamo fare. Ed è per questo che, quando ci scrivi, ti rispondono le stesse due persone che lavorano al tuo sito.\n\n#bologna #bottegadigitale #founders #pmiitaliane #webdesign",
+     "formato": "immagini",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Lorenzo e Tommaso, amici da più di dieci anni. Oggi abbiamo messo insieme quello che sappiamo fare: siti, CRM e automazioni per chi ha un'attività.\n\nQuando ci scrivi, ti rispondiamo noi. Gli stessi che lavorano al tuo sito.",
+     "formato": "immagini",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta foto è del 2020. Lorenzo e Tommaso, amici da più di dieci anni.\n\nIn questi anni uno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività, e a dirlo in modo semplice.\n\nNel 2026 abbiamo deciso di mettere insieme quello che sappiamo fare. È per questo che, quando scrivi a Dieci Bottega, ti rispondono le stesse due persone che lavoreranno al tuo sito.\n\nAmici da dieci anni. Una bottega da oggi.\n\n#Founders #Bologna #PMI",
+     "formato": "documento",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R07",
+   "titolo": "Cosa significa GEO",
+   "tipo": "reel",
+   "quando": "2026-10-27 18:30",
+   "dueAt": "2026-10-27T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R07_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R07.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "gia_in_buffer",
+     "testo": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Geolocalizzazione\nC) Google Engine Online\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito pronto per la GEO.\n\nFonte: Aggarwal et al., KDD 2024\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #geo #seo #intelligenzaartificiale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi trovare quando qualcuno chiede consiglio a un'intelligenza artificiale invece che a Google.\n\nScrivi nei commenti se l'avevi già sentita.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "GEO sta per Generative Engine Optimization: l'insieme di accorgimenti per farsi citare nelle risposte delle AI, non solo comparire tra i risultati di Google.\n\nSempre più persone chiedono a ChatGPT o all'AI di Google \"chi fa siti a Bologna\" o \"un buon ristorante qui vicino\". La risposta cita poche fonti.\n\nUno studio del 2024 (Aggarwal et al., KDD) mostra che riempire le pagine di parole chiave lì non funziona. Funzionano testi chiari, dati concreti, fonti citate.\n\nLa buona notizia: è esattamente come dovrebbe essere scritto un buon sito.\n\n#GEO #SEO #IntelligenzaArtificiale",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "P03",
+   "titolo": "Reel Founder",
+   "tipo": "reel",
+   "quando": "2026-10-28 18:30",
+   "dueAt": "2026-10-28T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Siamo Tommaso e Lorenzo. Amici da più di dieci anni, oggi una bottega.\nUno sa fare, l'altro sa ascoltare. Se hai un'attività e ti serve un sito che lavori per te, scrivici. Ti rispondiamo noi, non un modulo.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Lui disegna. Io parlo con te.\n\nSiamo Tommaso e Lorenzo, amici da più di dieci anni e oggi una bottega. Se hai un'attività e ti serve un sito che lavori per te, scrivici: ti rispondiamo noi, non un modulo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p03",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Lui disegna. Io parlo con te.\n\nCi conosciamo da più di dieci anni. Quest'anno abbiamo deciso di mettere insieme quello che sappiamo fare.\n\nLorenzo si occupa di design e codice: disegna il sito, lo scrive, cura i dettagli che non si vedono ma si sentono.\nTommaso si occupa dei clienti: capisce cosa serve davvero, dice quanto costa prima di iniziare e segue il progetto fino alla consegna.\n\nNessun account manager in mezzo. Quando scrivi a Dieci Bottega, ti rispondono le due persone che lavorano al tuo sito.\n\nParliamone: https://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p03\n\n#Founders #PMI #Bologna",
+     "formato": "video",
+     "errore": null
+    }
+   },
+   "sostituzioni": [
+    {
+     "il": "2026-10-07T15:30:51.558Z",
+     "da": "2026-10-07 18:30",
+     "a": "2026-10-21 18:30",
+     "conContenuto": "P10"
+    }
+   ]
+  },
+  {
+   "id": "R08",
+   "titolo": "Da zero a online",
+   "tipo": "reel",
+   "quando": "2026-10-29 18:30",
+   "dueAt": "2026-10-29T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R08_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R08.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "gia_in_buffer",
+     "testo": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 design, 6-8 sviluppo, 9-10 online. Ogni fase ha il suo giorno: per questo ti diciamo prima quando sarai online.\n\nDomande sul metodo? Scrivile qui sotto.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un calendario, non con la fretta:\nGiorno 1–2 · Brief e questionario. Ascoltiamo prima di costruire.\nGiorno 3–5 · Design. AI-assisted, curato a mano. Due round di revisione.\nGiorno 6–8 · Sviluppo. Codice scritto a mano.\nGiorno 9–10 · SEO di base, test su più dispositivi, online. Credenziali consegnate al cliente.\n\nQuando ogni fase ha il suo giorno, la data di consegna smette di essere una promessa e diventa un piano.\n\n#Processi #WebDesign #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S01",
+   "titolo": "Sito del lunedì: il ristorante",
+   "tipo": "reel",
+   "quando": "2026-11-02 18:30",
+   "dueAt": "2026-11-02T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\nTre dettagli che mandano il cliente dal vicino: «Benvenuti» al posto di cosa fai e dove sei, il menu in PDF, la prenotazione solo per telefono.\nHai un locale? Commenta SITO e il prossimo lunedì guardo il tuo.\n#ristorantibologna #sitiweb #bologna #pmiitaliane #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\n\n\"Benvenuti\" invece di cosa fai e dove sei, menu in PDF, prenotazione solo per telefono. Tre dettagli che mandano il cliente dal vicino.\n\nHai un locale? Scrivi SITO nei commenti e lunedì prossimo guardiamo il tuo.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Trenta secondi sul sito di un ristorante (fittizio). Tre problemi che vediamo ogni settimana:\n\n1. In alto c'è scritto \"Benvenuti\". Non cosa si mangia, non dove.\n2. Il menu è un PDF: da telefono si zooma, si scorre, si rinuncia.\n3. Per prenotare bisogna chiamare. Alle dieci di sera, il locale è chiuso.\n\nIl risultato: il cliente prenota dal vicino, e il titolare non lo saprà mai.\n\nSi sistema così: cosa fai e dove sei in alto, menu leggibile da telefono, prenotazione online.\n\n#Ristorazione #SitiWeb #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R09",
+   "titolo": "La X dei cookie",
+   "tipo": "reel",
+   "quando": "2026-11-03 18:30",
+   "dueAt": "2026-11-03T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R09_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "gia_in_buffer",
+     "testo": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accetti tutto\nB) Il sito si blocca\nC) Rifiuti\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito in regola, cookie compresi.\n\nFonte: Garante Privacy · linee guida 2021\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #cookie #gdpr #privacy",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o blocchi il sito?\n\nQuasi tutti sbagliano. Rispondi nei commenti, poi guarda il video.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad accettare.\n\nE c'è di più: anche scorrere la pagina non vale come consenso. Serve un sì esplicito. (Garante Privacy, linee guida 2021)\n\nPer chi ha un sito aziendale vuol dire controllare due cose: che la X ci sia, e che il sito non tratti la chiusura o lo scroll come un consenso.\n\nSono dettagli tecnici, ma su un sito in regola non si discute.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S02",
+   "titolo": "Il numero che non si clicca",
+   "tipo": "reel",
+   "quando": "2026-11-04 18:30",
+   "dueAt": "2026-11-04T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\nSe è solo testo, chi ti cerca deve copiarlo, uscire, incollarlo. Cinque passaggi invece di uno. Molti si fermano prima.\nProva sul tuo adesso e scrivimi com'è andata.\n#sitiweb #ux #mobile #pmiitaliane #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\n\nSe è solo testo, il cliente deve copiarlo e incollarlo. Cinque passaggi invece di uno. Prova adesso e dimmi com'è andata.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Un test da 10 secondi per il sito della tua attività: aprilo da telefono e tocca il numero.\n\nSe parte la chiamata, bene. Se è solo testo, il cliente deve selezionarlo, copiarlo, uscire, aprire il telefono, incollarlo. Cinque passaggi invece di uno.\n\nÈ una riga di codice. Ed è uno dei motivi più frequenti per cui un sito \"ha visite ma nessuno chiama\".\n\n#UX #Mobile #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R10",
+   "titolo": "Prima e dopo",
+   "tipo": "reel",
+   "quando": "2026-11-05 18:30",
+   "dueAt": "2026-11-05T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R10_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R10.mp4",
+   "durata": 26,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio sito WordPress a un sito vetrina multipagina. Mobile-first, veloce, WhatsApp a un tocco. Dentro: servizi, prezzi, attestati, recensioni, galleria.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #primaedopo #restyling #piccoleimprese",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Stessa attività, due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio WordPress a un sito vetrina multipagina. Veloce da telefono, WhatsApp a un tocco, servizi e prezzi chiari.\n\nUn lavoro vero, fatto in bottega. Ti piace il prima o il dopo?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Caso reale: Villa Pet Sitter, pet sitter professionale a Bologna.\n\nPrima: un sito WordPress datato, lento da telefono, servizi difficili da trovare.\nDopo: un sito vetrina multipagina con servizi, prezzi, attestati e recensioni. Pensato prima per il telefono, veloce, con WhatsApp a un tocco.\n\nIl servizio era già eccellente. Il sito ora lo dice in tre secondi.\n\n#CasoStudio #WebDesign #Bologna",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S03",
+   "titolo": "Il passaparola non basta",
+   "tipo": "reel",
+   "quando": "2026-11-06 18:30",
+   "dueAt": "2026-11-06T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "«Lavoro bene, mi basta il passaparola.»\nIl passaparola porta il tuo nome. Poi chi lo riceve ti cerca su Google. Se trova un sito vecchio, o niente, il consiglio si raffredda. Il sito non sostituisce il passaparola: lo conferma.\nVero o falso? Scrivilo nei commenti.\n#passaparola #pmiitaliane #sitiweb #artigiani #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "\"Lavoro bene, mi basta il passaparola.\" Vero o falso?\n\nIl passaparola porta il tuo nome. Ma poi chi lo riceve ti cerca su Google. Cosa trova?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "\"Il passaparola non è una strategia. È fortuna con un nome più elegante.\"\n\nIl passaparola funziona: porta il tuo nome. Poi chi lo riceve fa una cosa sola, ti cerca su Google. Se trova un sito del 2015, o niente, il consiglio dell'amico si raffredda.\n\nIl sito non sostituisce il passaparola. Lo conferma.\n\nChi ti consigliano deve trovarti in tre secondi.\n\n#Passaparola #PMI #SitiWeb",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S04",
+   "titolo": "Sito del lunedì: l'agente immobiliare",
+   "tipo": "reel",
+   "quando": "2026-11-09 18:30",
+   "dueAt": "2026-11-09T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Sito del lunedì: l'agente immobiliare.\n\nTre cose devono stare in alto: la tua faccia e il tuo nome, la zona in cui lavori, WhatsApp a un tocco. Nella casa ci si fida di una persona.\n\nSei un agente? Scrivi SITO nei commenti.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Il sito di un agente immobiliare (fittizio), in trenta secondi.\n\n1. In alto c'è solo il logo dell'agenzia. Nessuna faccia, nessun nome.\n2. \"Soluzioni immobiliari\": in che zona? Vendita, affitto, valutazioni?\n3. Il contatto è un modulo con dieci campi, in fondo alla pagina.\n\nNella casa le persone si fidano di una persona, non di un marchio senza volto.\n\nSi sistema così: foto e nome in alto, zona e servizio in una riga, WhatsApp a un tocco.\n\n#Immobiliare #AgentiImmobiliari #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R11",
+   "titolo": "La foto del chi siamo",
+   "tipo": "reel",
+   "quando": "2026-11-10 18:30",
+   "dueAt": "2026-11-10T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R11_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R11.mp4",
+   "durata": 30,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nLe persone vere vengono guardate, le foto stock vengono ignorate. Nel video c'è il dato (fonte: Nielsen Norman Group).\n#webdesign #chisiamo #fotografia #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Pagina \"Chi siamo\": foto di gruppo da catalogo o la faccia vera di chi lavora? A o B?\n\nScrivi la tua nei commenti.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Nella pagina \"Chi siamo\" le persone vere vengono guardate. Le foto stock vengono ignorate.\n\nGli studi di eyetracking di Nielsen Norman Group lo mostrano da anni: le foto del team reale vengono osservate più a lungo del testo, anche quando il testo occupa più spazio. Le immagini generiche, invece, l'occhio le salta.\n\nPer una piccola impresa è un vantaggio enorme: la faccia del titolare costa meno di qualsiasi foto stock, e vale di più.\n\n#WebDesign #Fiducia #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S05",
+   "titolo": "Il cliente delle 22",
+   "tipo": "reel",
+   "quando": "2026-11-11 18:30",
+   "dueAt": "2026-11-11T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Sono le dieci di sera, cerchi un fisioterapista. Ne trovi due.\nIl primo ha un sito del 2015: numero non cliccabile, niente orari. Il secondo dice cosa fa e ha un bottone: prenota. Magari il primo era più bravo. Il cliente non lo saprà mai.\nSe conosci qualcuno bravissimo con un sito così, mandagli questo video.\n#fisioterapia #sitiweb #prenotazioni #pmiitaliane #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Sono le dieci di sera, cerchi un fisioterapista. Trovi due siti: uno del 2015, uno chiaro con il bottone \"prenota\".\n\nChi chiami? Se conosci qualcuno bravissimo con un sito vecchio, mandagli questo video.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Sono le dieci di sera. Una persona cerca un fisioterapista per il giorno dopo.\n\nTrova due siti. Il primo è del 2015: numero non cliccabile, niente orari. Il secondo dice cosa fa e ha un bottone: prenota.\n\nForse il primo era più bravo. Il cliente non lo saprà mai.\n\nOnline non vince il più bravo. Vince chi si fa capire in tre secondi.\n\n#Sanità #SitiWeb #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R12",
+   "titolo": "Solo qualche visita persa",
+   "tipo": "reel",
+   "quando": "2026-11-12 18:30",
+   "dueAt": "2026-11-12T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R12_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R12.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\n\nVota nei commenti. Il numero vero ti farà riaprire il tuo sito dal telefono.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Falso.\n\nSu mobile, oltre i 3 secondi di caricamento se ne va il 53% delle visite. Più di una su due. (Google)\n\nIl punto non è la velocità in sé. È che quelle visite erano persone che ti avevano già scelto abbastanza da cercarti.\n\n#Performance #Mobile #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S06",
+   "titolo": "WhatsApp, mail, DM",
+   "tipo": "reel",
+   "quando": "2026-11-13 18:30",
+   "dueAt": "2026-11-13T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "WhatsApp, mail, Instagram, una telefonata. Quattro richieste oggi: quante ne ricordi venerdì?\nUna finisce sotto il gruppo di famiglia, una in spam, un messaggio letto e dimenticato. Un cliente perso non fa rumore. La soluzione non è lavorare di più: è un solo posto dove arriva tutto.\nRispondi sinceramente nei commenti: quante richieste hai perso questo mese?\n#crm #agenteimmobiliare #clienti #pmiitaliane #automazioni",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "WhatsApp, mail, Instagram, una telefonata. Quattro richieste oggi: quante ne ricordi venerdì?\n\nUn cliente perso non fa rumore. Quante richieste ti sono sfuggite questo mese? Rispondi sinceramente.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "WhatsApp, email, messaggi su Instagram, una telefonata. Quattro richieste in un giorno.\n\nUna finisce sotto il gruppo di famiglia. Una in spam. Un messaggio letto e dimenticato.\n\nLo vediamo spesso negli studi e nelle agenzie immobiliari: le richieste arrivano, il problema è dove finiscono. E un cliente perso non fa rumore.\n\nLa soluzione non è lavorare di più. È un posto solo dove arriva tutto, con un promemoria se non hai risposto.\n\n#CRM #Lead #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S07",
+   "titolo": "Sito del lunedì: il menu in PDF",
+   "tipo": "reel",
+   "quando": "2026-11-16 18:30",
+   "dueAt": "2026-11-16T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Sito del lunedì: il menu in PDF.\nDa telefono si scarica, si zooma, si scorre di lato, e il prezzo è tagliato. Scritto nella pagina invece si legge al volo, lo aggiorni tu e Google lo trova.\nHai un locale? Commenta SITO e il prossimo lunedì guardo il tuo.\n#ristoranti #menu #sitiweb #bologna #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Sito del lunedì: il menu in PDF.\n\nDa telefono si scarica, si zooma, si scorre di lato. Scritto nella pagina invece si legge al volo, lo aggiorni tu e Google lo trova.\n\nHai un locale? Scrivi SITO nei commenti.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Il menu in PDF è il modo più elegante per far scappare un cliente da telefono.\n\nSi scarica, si apre un foglio A4, si zooma, si scorre di lato, il prezzo è tagliato. Venti secondi e il cliente non sa ancora se fate la tagliatella.\n\nLo stesso menu scritto nella pagina si legge al volo, si aggiorna in un minuto e viene letto da Google. Che un PDF, spesso, lo ignora.\n\n#Ristorazione #UX #SitiWeb",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R13",
+   "titolo": "A volte diciamo di no",
+   "tipo": "reel",
+   "quando": "2026-11-17 18:30",
+   "dueAt": "2026-11-17T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R13_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R13.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "A volte diciamo di no.\nNon venderemo mai \"veloce\" a chi vuole approfondito, né \"approfondito\" a chi vuole veloce. Se il progetto non è adatto a noi, te lo diciamo subito. Nessun obbligo, solo una conversazione onesta.\nMeglio perdere un cliente che mentirgli.\n#bottegadigitale #onesta #pmiitaliane #sitiweb #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "A volte diciamo di no.\n\nSe il tuo progetto non è adatto a noi, te lo diciamo subito. Nessun obbligo, solo una conversazione onesta. Meglio perdere un cliente che mentirgli.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "A volte diciamo di no a un cliente.\n\nNon venderemo mai \"veloce\" a chi ha bisogno di un progetto approfondito, né \"approfondito\" a chi ha bisogno di partire in pochi giorni. Se un progetto non è adatto a noi, lo diciamo alla prima call.\n\nCosta qualche contratto. Ci fa guadagnare la cosa che conta di più in una bottega: la fiducia di chi poi lavora con noi.\n\nMeglio perdere un cliente che mentirgli.\n\n#Valori #PMI #Bologna",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S08",
+   "titolo": "Cosa c'è in 800 €",
+   "tipo": "reel",
+   "quando": "2026-11-18 18:30",
+   "dueAt": "2026-11-18T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "800 €, una landing page. Ecco cosa c'è dentro, voce per voce.\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un form testato che ti arriva davvero. Le basi per farti trovare su Google. Una revisione, consegna in sette giorni. IVA esclusa.\nIl listino completo è sul sito. Link in bio.\n#prezzi #landingpage #sitiweb #pmiitaliane #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Cosa c'è dentro una landing page da 800 €?\n\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un modulo che ti arriva davvero. Le basi per Google. Una revisione, consegna in sette giorni.\n\nListino completo: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=S08",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "800 € per una landing page. Ecco cosa c'è dentro, voce per voce:\n\n— una pagina su misura per il mestiere del cliente, non un template generico;\n— funziona da telefono, perché è lì che ti cercano;\n— un modulo testato che arriva davvero;\n— le basi per farsi trovare su Google;\n— una revisione, consegna in sette giorni. IVA esclusa.\n\nCosa non c'è: riunioni inutili, preventivi gonfiati, tre mesi di attesa.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=S08\n\n#Prezzi #LandingPage #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R14",
+   "titolo": "Rispondere entro un’ora",
+   "tipo": "reel",
+   "quando": "2026-11-19 18:30",
+   "dueAt": "2026-11-19T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R14_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R14.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Rispondi a un contatto entro un'ora. Quanto ti avvantaggia rispetto a chi aspetta un giorno?\n7 volte, 2 volte o 100 volte? Scrivi la tua nei commenti, la risposta (e un dato che fa male) è nel video. Fonte: Harvard Business Review.\n#clienti #pmiitaliane #crm #vendite #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Ti arriva un contatto. Se rispondi entro un'ora, quanto ti avvantaggia rispetto a chi aspetta un giorno?\n\n2 volte, 7 volte o 100 volte? Scrivi la tua, la risposta è nel video.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Chi risponde a un nuovo contatto entro un'ora ha 7 volte più probabilità di qualificarlo rispetto a chi aspetta anche solo un'ora in più. Rispetto a chi aspetta 24 ore, 60 volte. E il 23% delle aziende non risponde mai. (Harvard Business Review)\n\nIl sito porta il contatto. Ma la vendita si decide nella prima ora.\n\nUn modulo che arriva subito al telefono giusto e una risposta automatica di conferma valgono più di qualsiasi campagna.\n\n#Vendite #CRM #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S09",
+   "titolo": "Le 5 domande",
+   "tipo": "reel",
+   "quando": "2026-11-20 18:30",
+   "dueAt": "2026-11-20T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Siete aperti a pranzo? Quanto costa? Dove parcheggio? C'è posto sabato?\nSe rispondi a mano alle stesse domande ogni giorno, conta quanto tempo ci passi. Le risposte scritte bene sul sito e un assistente per le domande semplici ti restituiscono ore. Quelle difficili arrivano comunque a te.\nScrivi nei commenti la domanda che ti fanno più spesso.\n#automazioni #intelligenzaartificiale #pmiitaliane #ristoranti #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Siete aperti a pranzo? Quanto costa? Dove parcheggio? C'è posto sabato?\n\nSe rispondi alle stesse domande ogni giorno, conta quanto tempo ci passi. Qual è la domanda che ti fanno più spesso?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Cinque domande, sessanta volte a settimana. Un minuto ciascuna. Fanno un'ora alla settimana, ogni settimana.\n\n\"Siete aperti a pranzo?\" \"Quanto costa?\" \"Dove parcheggio?\"\n\nDue interventi semplici:\n1. Le risposte scritte bene sul sito, in alto, dove si vedono.\n2. Un assistente che risponde alle domande semplici e passa a te quelle difficili.\n\nL'AI non decide per te. Ti restituisce il lunedì mattina.\n\nContenuto realizzato con il supporto dell'AI, rivisto da noi.\n\n#Automazioni #IntelligenzaArtificiale #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  }
+ ]
+}

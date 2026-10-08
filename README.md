@@ -41,3 +41,6 @@ Il contenuto senza materiale prende la data dell'altro e resta in attesa. Se un 
 ## Aggiungere o cambiare contenuti
 
 Si modifica `coda/coda.json` (o si chiede a Claude di farlo). I file vanno in `media/`.
+
+## App "Prossime uscite"
+`anteprime/` è l'artifact con le anteprime dei prossimi 45 giorni (https://claude.ai/artifact/TjJ5dLpsWNcvj6SejqVqhm). Per aggiornarlo: `python3 scripts/anteprime.py`, poi ripubblicare `anteprime/index.html` con i file elencati in `anteprime/files.json`.
