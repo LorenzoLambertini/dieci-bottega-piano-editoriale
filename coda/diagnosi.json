@@ -600,10 +600,10 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6ac7c7c934ed38f0ddb3509e",
-        "dueAt": "2026-10-08T16:45:00.000Z",
+        "id": "6ac7c8cc431a2c8b2e822d85",
+        "dueAt": "2026-10-26T11:30:00.000Z",
         "sentAt": null,
-        "text": "Quale bottone converte di più?\n\nDue versioni, una sola funzi",
+        "text": "Prima di Dieci Bottega c'erano due amici. Da più di dieci an",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -992,6 +992,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6ac7c7c934ed38f0ddb3509e",
+        "dueAt": "2026-10-08T16:45:00.000Z",
+        "sentAt": "2026-10-08T16:46:05.401Z",
+        "text": "Quale bottone converte di più?\n\nDue versioni, una sola funzi",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6ac67b7a4610dcaf932d0a1c",
         "dueAt": "2026-10-07T17:30:00.000Z",

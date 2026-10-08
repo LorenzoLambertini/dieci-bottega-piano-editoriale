@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 08/10/2026, 18:41:46
+Ultimo controllo: 08/10/2026, 18:46:05
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 08/10/2026, 18:41:46
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-08 18:45 | R02 | Quale bottone | programmato | programmato | programmato |
 | 2026-10-09 12:30 | P04 | Listino | programmato | programmato | programmato |
 | 2026-10-12 12:30 | P05 | Tip Visite | programmato | programmato | programmato |
 | 2026-10-13 18:30 | R03 | Il bottone | programmato | programmato | programmato |
@@ -23,7 +22,7 @@ Ultimo controllo: 08/10/2026, 18:41:46
 | 2026-10-20 18:30 | R05 | Quanto costa un sito | programmato | programmato | programmato |
 | 2026-10-22 18:30 | R06 | Quale homepage | programmato | programmato | programmato |
 | 2026-10-23 12:30 | P07 | Prompt | programmato | programmato | programmato |
-| 2026-10-26 12:30 | P11 | Dieci Anni | da_programmare | programmato | programmato |
+| 2026-10-26 12:30 | P11 | Dieci Anni | programmato | programmato | programmato |
 | 2026-10-27 18:30 | R07 | Cosa significa GEO | da_programmare | da_programmare | da_programmare |
 | 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
 | 2026-10-29 18:30 | R08 | Da zero a online | da_programmare | da_programmare | da_programmare |
@@ -37,6 +36,7 @@ Ultimo controllo: 08/10/2026, 18:41:46
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-11-12 18:30 | R12 | Solo qualche visita persa | da_programmare | da_programmare | da_programmare |
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
+| 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
 
 ## Cosa c'è su Buffer adesso
 
@@ -68,7 +68,6 @@ Ultimo controllo: 08/10/2026, 18:41:46
 
 ### instagram
 
-- 08/10/26, 18:45 · 
 - 09/10/26, 12:30 · Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tu
 - 12/10/26, 12:30 · Più visite non vuol dire più clienti. Spesso il problema è in 5 punti 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Per noi ogni font, ogni micro
@@ -78,6 +77,7 @@ Ultimo controllo: 08/10/2026, 18:41:46
 - 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
 - 22/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
 - 23/10/26, 12:30 · Il prompt che uso per scrivere il testo di un bottone. E perché butto 
+- 26/10/26, 12:30 · 
 
 
 ## Ultime sostituzioni automatiche

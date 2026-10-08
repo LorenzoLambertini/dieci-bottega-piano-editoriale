@@ -543,7 +543,9 @@
             "media/post/P11/slide03.png",
             "media/post/P11/slide04.png"
           ],
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac7c8cc431a2c8b2e822d85",
+          "programmatoIl": "2026-10-08T16:46:04.766Z"
         },
         "facebook": {
           "testo": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Lorenzo e Tommaso, amici da più di dieci anni. Oggi abbiamo messo insieme quello che sappiamo fare: siti, CRM e automazioni per chi ha un'attività.\n\nQuando ci scrivi, ti rispondiamo noi. Gli stessi che lavorano al tuo sito.",
