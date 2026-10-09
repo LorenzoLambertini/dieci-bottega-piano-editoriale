@@ -196,6 +196,58 @@
       }
     },
     {
+      "id": "R10",
+      "titolo": "Prima e dopo",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-10-10 11:00",
+      "dueAt": "2026-10-10T09:00:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio sito WordPress a un sito vetrina multipagina. Mobile-first, veloce, WhatsApp a un tocco. Dentro: servizi, prezzi, attestati, recensioni, galleria.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #primaedopo #restyling #piccoleimprese",
+          "video": "media/reel/R10.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Stessa attività, due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio WordPress a un sito vetrina multipagina. Veloce da telefono, WhatsApp a un tocco, servizi e prezzi chiari.\n\nUn lavoro vero, fatto in bottega. Ti piace il prima o il dopo?",
+          "video": "media/reel/R10.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Caso reale: Villa Pet Sitter, pet sitter professionale a Bologna.\n\nPrima: un sito WordPress datato, lento da telefono, servizi difficili da trovare.\nDopo: un sito vetrina multipagina con servizi, prezzi, attestati e recensioni. Pensato prima per il telefono, veloce, con WhatsApp a un tocco.\n\nIl servizio era già eccellente. Il sito ora lo dice in tre secondi.\n\n#CasoStudio #WebDesign #Bologna",
+          "video": "media/reel/R10.mp4",
+          "stato": "da_programmare"
+        }
+      },
+      "nota": "Anticipato al weekend (caso studio): sabato mattina"
+    },
+    {
+      "id": "R35",
+      "titolo": "Distanza zero",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-10-11 11:00",
+      "dueAt": "2026-10-11T09:00:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quanto è lontana la tua web agency?\nNoi parliamo italiano e lavoriamo da Bologna. Conosciamo le PMI perché ci viviamo in mezzo. La distanza zero è il nostro vantaggio.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #prossimita #bottegadigitale #sitiweb",
+          "video": "media/reel/R35.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quanto è lontana la tua web agency?\n\nNoi parliamo italiano, lavoriamo da Bologna e conosciamo le piccole attività perché ci viviamo in mezzo. Distanza zero.",
+          "video": "media/reel/R35.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Quanto è lontana la tua web agency?\n\nNon parliamo di chilometri. Parliamo di quanto conosce il tuo mercato, la tua città, il modo in cui i tuoi clienti cercano e scelgono.\n\nNoi lavoriamo da Bologna, con PMI italiane, in italiano. Conosciamo le attività perché ci passiamo davanti ogni giorno.\n\nLa distanza zero è il nostro vantaggio competitivo.\n\n#Bologna #PMI #Prossimità",
+          "video": "media/reel/R35.mp4",
+          "stato": "da_programmare"
+        }
+      },
+      "nota": "Anticipato al weekend (prossimità): domenica mattina"
+    },
+    {
       "id": "P05",
       "titolo": "Tip Visite",
       "tipo": "carosello",
@@ -735,26 +787,26 @@
       }
     },
     {
-      "id": "R10",
-      "titolo": "Prima e dopo",
+      "id": "R23",
+      "titolo": "Perche Bottega",
       "formato": "Informativo",
       "tipo": "reel",
       "quando": "2026-11-05 18:30",
       "dueAt": "2026-11-05T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio sito WordPress a un sito vetrina multipagina. Mobile-first, veloce, WhatsApp a un tocco. Dentro: servizi, prezzi, attestati, recensioni, galleria.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #primaedopo #restyling #piccoleimprese",
-          "video": "media/reel/R10.mp4",
+          "testo": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
+          "video": "media/reel/R23.mp4",
           "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Stessa attività, due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio WordPress a un sito vetrina multipagina. Veloce da telefono, WhatsApp a un tocco, servizi e prezzi chiari.\n\nUn lavoro vero, fatto in bottega. Ti piace il prima o il dopo?",
-          "video": "media/reel/R10.mp4",
+          "testo": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
+          "video": "media/reel/R23.mp4",
           "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "Caso reale: Villa Pet Sitter, pet sitter professionale a Bologna.\n\nPrima: un sito WordPress datato, lento da telefono, servizi difficili da trovare.\nDopo: un sito vetrina multipagina con servizi, prezzi, attestati e recensioni. Pensato prima per il telefono, veloce, con WhatsApp a un tocco.\n\nIl servizio era già eccellente. Il sito ora lo dice in tre secondi.\n\n#CasoStudio #WebDesign #Bologna",
-          "video": "media/reel/R10.mp4",
+          "testo": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
+          "video": "media/reel/R23.mp4",
           "stato": "da_programmare"
         }
       }
@@ -1340,31 +1392,6 @@
       }
     },
     {
-      "id": "R23",
-      "titolo": "Perche Bottega",
-      "formato": "Informativo",
-      "tipo": "reel",
-      "quando": "2027-01-07 18:30",
-      "dueAt": "2027-01-07T17:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
-          "video": "media/reel/R23.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
-          "video": "media/reel/R23.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
-          "video": "media/reel/R23.mp4",
-          "stato": "da_programmare"
-        }
-      }
-    },
-    {
       "id": "R24",
       "titolo": "Il tempo LCP",
       "formato": "Quiz",
@@ -1635,31 +1662,6 @@
         "linkedin": {
           "testo": "Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano, arrivato insieme ad altre 36 lingue in un colpo solo.\n\nVuol dire che una parte dei tuoi clienti non scorre più dieci link blu: legge una risposta scritta dall'AI, che cita poche fonti.\n\nEssere tra quelle fonti dipende da quanto il tuo sito è chiaro, aggiornato e concreto. Non da quante parole chiave contiene.\n\n#AIMode #GEO #PMI",
           "video": "media/reel/R34.mp4",
-          "stato": "da_programmare"
-        }
-      }
-    },
-    {
-      "id": "R35",
-      "titolo": "Distanza zero",
-      "formato": "Informativo",
-      "tipo": "reel",
-      "quando": "2027-02-18 18:30",
-      "dueAt": "2027-02-18T17:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Quanto è lontana la tua web agency?\nNoi parliamo italiano e lavoriamo da Bologna. Conosciamo le PMI perché ci viviamo in mezzo. La distanza zero è il nostro vantaggio.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #prossimita #bottegadigitale #sitiweb",
-          "video": "media/reel/R35.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Quanto è lontana la tua web agency?\n\nNoi parliamo italiano, lavoriamo da Bologna e conosciamo le piccole attività perché ci viviamo in mezzo. Distanza zero.",
-          "video": "media/reel/R35.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Quanto è lontana la tua web agency?\n\nNon parliamo di chilometri. Parliamo di quanto conosce il tuo mercato, la tua città, il modo in cui i tuoi clienti cercano e scelgono.\n\nNoi lavoriamo da Bologna, con PMI italiane, in italiano. Conosciamo le attività perché ci passiamo davanti ogni giorno.\n\nLa distanza zero è il nostro vantaggio competitivo.\n\n#Bologna #PMI #Prossimità",
-          "video": "media/reel/R35.mp4",
           "stato": "da_programmare"
         }
       }
