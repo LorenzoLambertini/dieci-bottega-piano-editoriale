@@ -151,8 +151,8 @@
       "id": "P04",
       "titolo": "Listino",
       "tipo": "carosello",
-      "quando": "2026-10-09 12:30",
-      "dueAt": "2026-10-09T10:30:00.000Z",
+      "quando": "2026-10-09 14:00",
+      "dueAt": "2026-10-09T12:00:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tutti: chi possiede il dominio, chi aggiorna il sito, cosa succede dopo il lancio.\nSalvalo per quando qualcuno ti manda un preventivo. Il nostro listino è pubblico: link in bio.\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
@@ -162,10 +162,10 @@
             "media/post/P04/slide03.png",
             "media/post/P04/slide04.png",
             "media/post/P04/slide05.png",
-            "media/post/P04/slide06.png",
+            "media/post/P04/slide06-v2.png",
             "media/post/P04/slide07.png"
           ],
-          "stato": "pausa",
+          "stato": "da_programmare",
           "programmatoIl": "2026-10-06T22:25:25.311Z"
         },
         "facebook": {
@@ -176,22 +176,22 @@
             "media/post/P04/slide03.png",
             "media/post/P04/slide04.png",
             "media/post/P04/slide05.png",
-            "media/post/P04/slide06.png",
+            "media/post/P04/slide06-v2.png",
             "media/post/P04/slide07.png"
           ],
-          "stato": "pausa",
+          "stato": "da_programmare",
           "programmatoIl": "2026-10-06T22:36:11.686Z"
         },
         "linkedin": {
-          "testo": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tutti. Ma prima di confrontare preventivi, conviene capire cosa si sta confrontando. Di solito le strade sono tre:\n\n1. Il fai-da-te. Paghi poco al mese, il tempo lo metti tu. Il risultato dipende da un lavoro che non è il tuo.\n2. Il freelance a prezzo basso. Può andare benissimo o malissimo. Chiedi sempre chi aggiorna il sito dopo e a chi è intestato il dominio.\n3. L'agenzia tradizionale. Processo solido, tempi lunghi, preventivi spesso fuori scala per una piccola attività.\n\nQuattro domande da fare a chiunque, prima del prezzo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nNoi abbiamo scelto di scrivere il listino sul sito: landing page da 800 €, sito vetrina da 1.200 €, con tempi e cosa è incluso. Il prezzo giusto è quello che capisci prima di firmare.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=post&utm_campaign=p04\n\n#PMI #WebDesign #Preventivi",
-          "documento": "media/post/P04/carosello.pdf",
+          "testo": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tutti. Ma prima di confrontare preventivi, conviene capire cosa si sta confrontando. Di solito le strade sono tre:\n\n1. Il fai-da-te. Paghi poco al mese, il tempo lo metti tu. Il risultato dipende da un lavoro che non è il tuo.\n2. Il freelance a prezzo basso. Può andare benissimo o malissimo. Chiedi sempre chi aggiorna il sito dopo e a chi è intestato il dominio.\n3. L'agenzia tradizionale. Processo solido, tempi lunghi, preventivi spesso fuori scala per una piccola attività.\n\nQuattro domande da fare a chiunque, prima del prezzo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nNoi abbiamo scelto di scrivere il listino sul sito: landing page 800–1.000 € in circa 7 giorni, sito vetrina 1.500–2.000 € in 10–14 giorni, con cosa è incluso. Il prezzo giusto è quello che capisci prima di firmare.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=post&utm_campaign=p04\n\n#PMI #WebDesign #Preventivi",
+          "documento": "media/post/P04/carosello-v2.pdf",
           "titoloDocumento": "Listino",
           "copertina": "media/post/P04/slide01.png",
-          "stato": "pausa",
+          "stato": "da_programmare",
           "programmatoIl": "2026-10-06T22:36:12.043Z"
         }
       },
-      "nota": "In pausa il 9/10: prezzi da aggiornare al nuovo listino"
+      "nota": "Prezzi aggiornati al nuovo listino il 9/10; uscita spostata alle 14:00"
     },
     {
       "id": "R10",
