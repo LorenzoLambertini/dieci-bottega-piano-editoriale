@@ -1,45 +1,6 @@
 {
- "aggiornato": "2026-10-09T08:56+00:00",
+ "aggiornato": "2026-10-09T18:50+00:00",
  "contenuti": [
-  {
-   "id": "P04",
-   "titolo": "Listino",
-   "tipo": "carosello",
-   "quando": "2026-10-09 12:30",
-   "dueAt": "2026-10-09T10:30:00.000Z",
-   "slide": [
-    "img/P04_01.jpg",
-    "img/P04_02.jpg",
-    "img/P04_03.jpg",
-    "img/P04_04.jpg",
-    "img/P04_05.jpg",
-    "img/P04_06.jpg",
-    "img/P04_07.jpg"
-   ],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tutti: chi possiede il dominio, chi aggiorna il sito, cosa succede dopo il lancio.\nSalvalo per quando qualcuno ti manda un preventivo. Il nostro listino è pubblico: link in bio.\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
-     "formato": "immagini",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Quanto dovrebbe costare un sito?\n\nNon esiste una cifra giusta per tutti, ma ci sono 4 domande da fare a chiunque ti mandi un preventivo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nSalvalo per quando ti servirà. Il nostro listino è pubblico: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=post&utm_campaign=p04",
-     "formato": "immagini",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tutti. Ma prima di confrontare preventivi, conviene capire cosa si sta confrontando. Di solito le strade sono tre:\n\n1. Il fai-da-te. Paghi poco al mese, il tempo lo metti tu. Il risultato dipende da un lavoro che non è il tuo.\n2. Il freelance a prezzo basso. Può andare benissimo o malissimo. Chiedi sempre chi aggiorna il sito dopo e a chi è intestato il dominio.\n3. L'agenzia tradizionale. Processo solido, tempi lunghi, preventivi spesso fuori scala per una piccola attività.\n\nQuattro domande da fare a chiunque, prima del prezzo:\n— Chi scrive i testi?\n— Di chi sono dominio e dati?\n— Cosa succede dopo il lancio?\n— Quanto dura il lavoro?\n\nNoi abbiamo scelto di scrivere il listino sul sito: landing page da 800 €, sito vetrina da 1.200 €, con tempi e cosa è incluso. Il prezzo giusto è quello che capisci prima di firmare.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=post&utm_campaign=p04\n\n#PMI #WebDesign #Preventivi",
-     "formato": "documento",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "R10",
    "titolo": "Prima e dopo",
@@ -305,7 +266,7 @@
     },
     "linkedin": {
      "stato": "programmato",
-     "testo": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNon tutte le aziende hanno bisogno di un CRM. Excel può bastare, finché sei da solo e hai pochi contatti al mese.\n\nSmette di bastare quando:\n— due persone chiamano lo stesso cliente;\n— un preventivo resta senza risposta perché nessuno se lo ricordava;\n— il lunedì serve mezz'ora per capire come sta andando.\n\nUn CRM non è un software. È sapere, per ogni contatto, chi deve fare cosa e quando.\n\nLo costruiamo su misura, sul vostro modo di lavorare, con i dati che restano vostri. E se vi basta un foglio fatto bene, ve lo diciamo.\n\nCRM su misura, da 2.500 €: https://diecibottega.it/servizi/crm-su-misura?utm_source=linkedin&utm_medium=post&utm_campaign=p09\n\n#CRM #PMI #Vendite",
+     "testo": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNon tutte le aziende hanno bisogno di un CRM. Excel può bastare, finché sei da solo e hai pochi contatti al mese.\n\nSmette di bastare quando:\n— due persone chiamano lo stesso cliente;\n— un preventivo resta senza risposta perché nessuno se lo ricordava;\n— il lunedì serve mezz'ora per capire come sta andando.\n\nUn CRM non è un software. È sapere, per ogni contatto, chi deve fare cosa e quando.\n\nLo costruiamo su misura, sul vostro modo di lavorare, con i dati che restano vostri. E se vi basta un foglio fatto bene, ve lo diciamo.\n\nCRM su misura, 2.500–4.000 €: https://diecibottega.it/servizi/crm-su-misura?utm_source=linkedin&utm_medium=post&utm_campaign=p09\n\n#CRM #PMI #Vendite",
      "formato": "documento",
      "errore": null
     }
@@ -319,24 +280,24 @@
    "dueAt": "2026-10-20T16:30:00.000Z",
    "slide": [],
    "poster": "img/R05_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R05.mp4",
-   "durata": 29,
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R05b.mp4",
+   "durata": 28,
    "canali": {
     "instagram": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "programmato",
-     "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page da 800 €, sito vetrina da 1.200 €, e-commerce light da 1.800 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
+     "stato": "da_programmare",
+     "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page 800–1.000 €, sito vetrina 1.500–2.000 €, e-commerce light 1.800–3.200 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "programmato",
-     "testo": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page da 800 €, consegna 5–7 giorni\n— Sito vetrina da 1.200 €, consegna 10 giorni\n— E-commerce light da 1.800 €, consegna 12–15 giorni\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
+     "stato": "da_programmare",
+     "testo": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page, 800–1.000 €, circa 7 giorni\n— Sito vetrina (5–7 pagine), 1.500–2.000 €, 10–14 giorni\n— Sito completo (8–12 pagine + blog), 2.500–3.500 €, 3–4 settimane\n— E-commerce light, 1.800–3.200 €\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
      "formato": "video",
      "errore": null
     }
@@ -354,19 +315,19 @@
    "durata": 30,
    "canali": {
     "instagram": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
      "formato": "video",
      "errore": null
@@ -390,19 +351,19 @@
    "durata": null,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto quello che mi restituisce.\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente mi paga. — Lorenzo\n\n#intelligenzaartificiale #copywriting #webdesign #bologna #sitiweb",
      "formato": "immagini",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.\n\nQuanto ci mettiamo noi a scegliere quello giusto? Un po' di più. Su otto proposte ne teniamo una: \"Iniziamo\". Un verbo, zero pressione.\n\nIl lavoro non è generare. È scegliere.",
      "formato": "immagini",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
      "formato": "documento",
      "errore": null
@@ -931,19 +892,19 @@
    "canali": {
     "instagram": {
      "stato": "manca_video",
-     "testo": "800 €, una landing page. Ecco cosa c'è dentro, voce per voce.\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un form testato che ti arriva davvero. Le basi per farti trovare su Google. Una revisione, consegna in sette giorni. IVA esclusa.\nIl listino completo è sul sito. Link in bio.\n#prezzi #landingpage #sitiweb #pmiitaliane #bottegadigitale",
+     "testo": "800 €, una landing page. Ecco cosa c'è dentro, voce per voce.\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un form testato che ti arriva davvero. Le basi per farti trovare su Google. Una revisione, consegna in circa sette giorni. Da 800 a 1.000 €, IVA esclusa.\nIl listino completo è sul sito. Link in bio.\n#prezzi #landingpage #sitiweb #pmiitaliane #bottegadigitale",
      "formato": "video",
      "errore": null
     },
     "facebook": {
      "stato": "manca_video",
-     "testo": "Cosa c'è dentro una landing page da 800 €?\n\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un modulo che ti arriva davvero. Le basi per Google. Una revisione, consegna in sette giorni.\n\nListino completo: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=S08",
+     "testo": "Cosa c'è dentro una landing page da 800 €?\n\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un modulo che ti arriva davvero. Le basi per Google. Una revisione, consegna in circa sette giorni. Da 800 a 1.000 €.\n\nListino completo: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=S08",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
      "stato": "manca_video",
-     "testo": "800 € per una landing page. Ecco cosa c'è dentro, voce per voce:\n\n— una pagina su misura per il mestiere del cliente, non un template generico;\n— funziona da telefono, perché è lì che ti cercano;\n— un modulo testato che arriva davvero;\n— le basi per farsi trovare su Google;\n— una revisione, consegna in sette giorni. IVA esclusa.\n\nCosa non c'è: riunioni inutili, preventivi gonfiati, tre mesi di attesa.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=S08\n\n#Prezzi #LandingPage #PMI",
+     "testo": "800 € per una landing page. Ecco cosa c'è dentro, voce per voce:\n\n— una pagina su misura per il mestiere del cliente, non un template generico;\n— funziona da telefono, perché è lì che ti cercano;\n— un modulo testato che arriva davvero;\n— le basi per farsi trovare su Google;\n— una revisione, consegna in circa sette giorni. Da 800 a 1.000 €, IVA esclusa.\n\nCosa non c'è: riunioni inutili, preventivi gonfiati, tre mesi di attesa.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=S08\n\n#Prezzi #LandingPage #PMI",
      "formato": "video",
      "errore": null
     }
@@ -1006,6 +967,37 @@
     "linkedin": {
      "stato": "manca_video",
      "testo": "Cinque domande, sessanta volte a settimana. Un minuto ciascuna. Fanno un'ora alla settimana, ogni settimana.\n\n\"Siete aperti a pranzo?\" \"Quanto costa?\" \"Dove parcheggio?\"\n\nDue interventi semplici:\n1. Le risposte scritte bene sul sito, in alto, dove si vedono.\n2. Un assistente che risponde alle domande semplici e passa a te quelle difficili.\n\nL'AI non decide per te. Ti restituisce il lunedì mattina.\n\nContenuto realizzato con il supporto dell'AI, rivisto da noi.\n\n#Automazioni #IntelligenzaArtificiale #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S10",
+   "titolo": "Sito del lunedì: audit su richiesta",
+   "tipo": "reel",
+   "quando": "2026-11-23 18:30",
+   "dueAt": "2026-11-23T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "«Ho un sito ma non mi scrive nessuno.» Ok, guardiamo perché.\nOggi un sito vero, mandato da chi ha commentato SITO, con il suo permesso. Tre cose che bloccano le richieste e come si sistemano.\nVuoi che guardiamo il tuo? Commenta SITO.\n#audit #sitiweb #pmiitaliane #bologna #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "\"Ho un sito ma non mi scrive nessuno.\" Oggi guardiamo un sito vero che ci è stato mandato, con il permesso del titolare.\n\nVuoi che guardiamo il tuo? Scrivi SITO nei commenti.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "\"Ho un sito ma non mi scrive nessuno.\"\n\nOggi guardiamo un sito reale, con il permesso del titolare, e i tre motivi più comuni per cui le richieste non arrivano:\n1. in alto non è chiaro cosa fa l'attività;\n2. il contatto è solo in fondo alla pagina;\n3. il modulo chiede troppi campi.\n\nOgnuno si sistema in poche ore. Insieme fanno la differenza tra un sito vetrina e un sito che lavora.\n\n#Audit #SitiWeb #PMI",
      "formato": "video",
      "errore": null
     }
