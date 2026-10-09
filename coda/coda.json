@@ -206,17 +206,23 @@
         "instagram": {
           "testo": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio sito WordPress a un sito vetrina multipagina. Mobile-first, veloce, WhatsApp a un tocco. Dentro: servizi, prezzi, attestati, recensioni, galleria.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #primaedopo #restyling #piccoleimprese",
           "video": "media/reel/R10.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac8ac1f2fb5bb53de190498",
+          "programmatoIl": "2026-10-09T08:55:59.934Z"
         },
         "facebook": {
           "testo": "Stessa attività, due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio WordPress a un sito vetrina multipagina. Veloce da telefono, WhatsApp a un tocco, servizi e prezzi chiari.\n\nUn lavoro vero, fatto in bottega. Ti piace il prima o il dopo?",
           "video": "media/reel/R10.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac8ac20599dfbfee2db9f36",
+          "programmatoIl": "2026-10-09T08:56:00.268Z"
         },
         "linkedin": {
           "testo": "Caso reale: Villa Pet Sitter, pet sitter professionale a Bologna.\n\nPrima: un sito WordPress datato, lento da telefono, servizi difficili da trovare.\nDopo: un sito vetrina multipagina con servizi, prezzi, attestati e recensioni. Pensato prima per il telefono, veloce, con WhatsApp a un tocco.\n\nIl servizio era già eccellente. Il sito ora lo dice in tre secondi.\n\n#CasoStudio #WebDesign #Bologna",
           "video": "media/reel/R10.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac8ac204936802f8bcea3d7",
+          "programmatoIl": "2026-10-09T08:56:00.597Z"
         }
       },
       "nota": "Anticipato al weekend (caso studio): sabato mattina"
@@ -232,17 +238,23 @@
         "instagram": {
           "testo": "Quanto è lontana la tua web agency?\nNoi parliamo italiano e lavoriamo da Bologna. Conosciamo le PMI perché ci viviamo in mezzo. La distanza zero è il nostro vantaggio.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #prossimita #bottegadigitale #sitiweb",
           "video": "media/reel/R35.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac8ac212fb5bb53de1904e1",
+          "programmatoIl": "2026-10-09T08:56:01.233Z"
         },
         "facebook": {
           "testo": "Quanto è lontana la tua web agency?\n\nNoi parliamo italiano, lavoriamo da Bologna e conosciamo le piccole attività perché ci viviamo in mezzo. Distanza zero.",
           "video": "media/reel/R35.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac8ac21599dfbfee2db9fa0",
+          "programmatoIl": "2026-10-09T08:56:01.590Z"
         },
         "linkedin": {
           "testo": "Quanto è lontana la tua web agency?\n\nNon parliamo di chilometri. Parliamo di quanto conosce il tuo mercato, la tua città, il modo in cui i tuoi clienti cercano e scelgono.\n\nNoi lavoriamo da Bologna, con PMI italiane, in italiano. Conosciamo le attività perché ci passiamo davanti ogni giorno.\n\nLa distanza zero è il nostro vantaggio competitivo.\n\n#Bologna #PMI #Prossimità",
           "video": "media/reel/R35.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac8ac212fb5bb53de190514",
+          "programmatoIl": "2026-10-09T08:56:01.919Z"
         }
       },
       "nota": "Anticipato al weekend (prossimità): domenica mattina"
@@ -553,9 +565,7 @@
             "media/post/P07/slide03.png",
             "media/post/P07/slide04.png"
           ],
-          "stato": "programmato",
-          "bufferId": "6ac7c76a226f4504d36d55dc",
-          "programmatoIl": "2026-10-08T16:40:11.008Z"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.\n\nQuanto ci mettiamo noi a scegliere quello giusto? Un po' di più. Su otto proposte ne teniamo una: \"Iniziamo\". Un verbo, zero pressione.\n\nIl lavoro non è generare. È scegliere.",
@@ -565,18 +575,14 @@
             "media/post/P07/slide03.png",
             "media/post/P07/slide04.png"
           ],
-          "stato": "programmato",
-          "bufferId": "6ac6c0b401166a3e1c07290e",
-          "programmatoIl": "2026-10-07T21:59:16.199Z"
+          "stato": "da_programmare"
         },
         "linkedin": {
           "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
           "documento": "media/post/P07/carosello.pdf",
           "titoloDocumento": "Prompt",
           "copertina": "media/post/P07/slide01.png",
-          "stato": "programmato",
-          "bufferId": "6ac6c0b45632f7b74bcda35f",
-          "programmatoIl": "2026-10-07T21:59:16.780Z"
+          "stato": "da_programmare"
         }
       }
     },
@@ -595,9 +601,7 @@
             "media/post/P11/slide03.png",
             "media/post/P11/slide04.png"
           ],
-          "stato": "programmato",
-          "bufferId": "6ac7c8cc431a2c8b2e822d85",
-          "programmatoIl": "2026-10-08T16:46:04.766Z"
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Lorenzo e Tommaso, amici da più di dieci anni. Oggi abbiamo messo insieme quello che sappiamo fare: siti, CRM e automazioni per chi ha un'attività.\n\nQuando ci scrivi, ti rispondiamo noi. Gli stessi che lavorano al tuo sito.",
@@ -607,18 +611,14 @@
             "media/post/P11/slide03.png",
             "media/post/P11/slide04.png"
           ],
-          "stato": "programmato",
-          "bufferId": "6ac7c726226f4504d36d445a",
-          "programmatoIl": "2026-10-08T16:39:02.407Z"
+          "stato": "da_programmare"
         },
         "linkedin": {
           "testo": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta foto è del 2020. Lorenzo e Tommaso, amici da più di dieci anni.\n\nIn questi anni uno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività, e a dirlo in modo semplice.\n\nNel 2026 abbiamo deciso di mettere insieme quello che sappiamo fare. È per questo che, quando scrivi a Dieci Bottega, ti rispondono le stesse due persone che lavoreranno al tuo sito.\n\nAmici da dieci anni. Una bottega da oggi.\n\n#Founders #Bologna #PMI",
           "documento": "media/post/P11/carosello.pdf",
           "titoloDocumento": "Dieci Anni",
           "copertina": "media/post/P11/slide01.png",
-          "stato": "programmato",
-          "bufferId": "6ac7c726431a2c8b2e81cbb2",
-          "programmatoIl": "2026-10-08T16:39:02.728Z"
+          "stato": "da_programmare"
         }
       }
     },
