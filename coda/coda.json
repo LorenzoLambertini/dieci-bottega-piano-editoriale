@@ -619,7 +619,8 @@
           "copertina": "media/post/P11/slide01.png",
           "stato": "da_programmare"
         }
-      }
+      },
+      "nota": "9/10: tolto a mano da Buffer per liberare lo slot del Listino; rientra in automatico"
     },
     {
       "id": "R07",
