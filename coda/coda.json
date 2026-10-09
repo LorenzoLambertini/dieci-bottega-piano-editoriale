@@ -497,17 +497,23 @@
         "instagram": {
           "testo": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
           "video": "media/reel/R05b.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac95f89b07d37ac975130bc",
+          "programmatoIl": "2026-10-09T21:41:29.360Z"
         },
         "facebook": {
           "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page 800–1.000 €, sito vetrina 1.500–2.000 €, e-commerce light 1.800–3.200 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
           "video": "media/reel/R05b.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac95f89c4de2d2b1208866d",
+          "programmatoIl": "2026-10-09T21:41:29.683Z"
         },
         "linkedin": {
           "testo": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page, 800–1.000 €, circa 7 giorni\n— Sito vetrina (5–7 pagine), 1.500–2.000 €, 10–14 giorni\n— Sito completo (8–12 pagine + blog), 2.500–3.500 €, 3–4 settimane\n— E-commerce light, 1.800–3.200 €\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
           "video": "media/reel/R05b.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac95f89d9cab260a7a4146c",
+          "programmatoIl": "2026-10-09T21:41:30.031Z"
         }
       },
       "nota": "Video rifatto il 9/10 con il listino nuovo (video-lancio/r05.html)"
@@ -523,17 +529,20 @@
         "instagram": {
           "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
           "video": "media/reel/R06c.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac7d107777d0616a6fa76a2"
         },
         "facebook": {
           "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
           "video": "media/reel/R06c.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac7d107d3b0be2fc4117166"
         },
         "linkedin": {
           "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
           "video": "media/reel/R06c.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6ac7d107f4c7c231297ddec0"
         }
       },
       "nota": "9/10: Lorenzo lo toglie a mano da Buffer per fare spazio al Listino; il sync lo rimette (se è ancora lì lo riconosce e non lo duplica)"
@@ -595,7 +604,9 @@
             "media/post/P11/slide03.png",
             "media/post/P11/slide04.png"
           ],
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac95f8af91f772d4572aed4",
+          "programmatoIl": "2026-10-09T21:41:30.347Z"
         },
         "facebook": {
           "testo": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Lorenzo e Tommaso, amici da più di dieci anni. Oggi abbiamo messo insieme quello che sappiamo fare: siti, CRM e automazioni per chi ha un'attività.\n\nQuando ci scrivi, ti rispondiamo noi. Gli stessi che lavorano al tuo sito.",
@@ -605,14 +616,18 @@
             "media/post/P11/slide03.png",
             "media/post/P11/slide04.png"
           ],
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac95f8ab07d37ac975130e8",
+          "programmatoIl": "2026-10-09T21:41:30.559Z"
         },
         "linkedin": {
           "testo": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta foto è del 2020. Lorenzo e Tommaso, amici da più di dieci anni.\n\nIn questi anni uno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività, e a dirlo in modo semplice.\n\nNel 2026 abbiamo deciso di mettere insieme quello che sappiamo fare. È per questo che, quando scrivi a Dieci Bottega, ti rispondono le stesse due persone che lavoreranno al tuo sito.\n\nAmici da dieci anni. Una bottega da oggi.\n\n#Founders #Bologna #PMI",
           "documento": "media/post/P11/carosello.pdf",
           "titoloDocumento": "Dieci Anni",
           "copertina": "media/post/P11/slide01.png",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac95f8abba9419ccbe058a7",
+          "programmatoIl": "2026-10-09T21:41:30.799Z"
         }
       }
     },

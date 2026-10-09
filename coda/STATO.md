@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 09/10/2026, 12:25:16
+Ultimo controllo: 09/10/2026, 23:41:31
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -21,9 +21,8 @@ Ultimo controllo: 09/10/2026, 12:25:16
 | 2026-10-16 12:30 | P08 | AI Mestiere | programmato | programmato | programmato |
 | 2026-10-19 12:30 | P09 | CRM | programmato | programmato | programmato |
 | 2026-10-20 18:30 | R05 | Quanto costa un sito | programmato | programmato | programmato |
-| 2026-10-22 18:30 | R06 | Quale homepage | programmato | programmato | programmato |
 | 2026-10-23 12:30 | P07 | Prompt | programmato | programmato | programmato |
-| 2026-10-26 12:30 | P11 | Dieci Anni | da_programmare | da_programmare | da_programmare |
+| 2026-10-26 12:30 | P11 | Dieci Anni | programmato | programmato | programmato |
 | 2026-10-27 18:30 | R07 | Cosa significa GEO | da_programmare | da_programmare | da_programmare |
 | 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
 | 2026-10-29 18:30 | R08 | Da zero a online | da_programmare | da_programmare | da_programmare |
@@ -37,6 +36,7 @@ Ultimo controllo: 09/10/2026, 12:25:16
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-11-12 18:30 | R12 | Solo qualche visita persa | da_programmare | da_programmare | da_programmare |
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
+| 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
 
 ## Cosa c'è su Buffer adesso
 
@@ -49,9 +49,9 @@ Ultimo controllo: 09/10/2026, 12:25:16
 - 15/10/26, 18:30 · Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora t
 - 16/10/26, 12:30 · Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no. L'AI ci ai
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
-- 20/10/26, 18:30 · Quanto costa un sito? "Dipende" non è una risposta. Landing page da 80
+- 20/10/26, 18:30 · 
 - 22/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
-- 23/10/26, 12:30 · 
+- 26/10/26, 12:30 · 
 
 ### linkedin
 
@@ -62,9 +62,9 @@ Ultimo controllo: 09/10/2026, 12:25:16
 - 15/10/26, 18:30 · Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% dell
 - 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
-- 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
+- 20/10/26, 18:30 · 
 - 22/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
-- 23/10/26, 12:30 · 
+- 26/10/26, 12:30 · 
 
 ### instagram
 
@@ -75,9 +75,9 @@ Ultimo controllo: 09/10/2026, 12:25:16
 - 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
 - 16/10/26, 12:30 · Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no
 - 19/10/26, 12:30 · Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide
-- 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
+- 20/10/26, 18:30 · 
 - 22/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
-- 23/10/26, 12:30 · 
+- 26/10/26, 12:30 · 
 
 
 ## Ultime sostituzioni automatiche
