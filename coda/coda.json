@@ -165,8 +165,7 @@
             "media/post/P04/slide06.png",
             "media/post/P04/slide07.png"
           ],
-          "stato": "programmato",
-          "bufferId": "6ac575558a697ec91171f750",
+          "stato": "pausa",
           "programmatoIl": "2026-10-06T22:25:25.311Z"
         },
         "facebook": {
@@ -180,8 +179,7 @@
             "media/post/P04/slide06.png",
             "media/post/P04/slide07.png"
           ],
-          "stato": "programmato",
-          "bufferId": "6ac577db8a697ec911726964",
+          "stato": "pausa",
           "programmatoIl": "2026-10-06T22:36:11.686Z"
         },
         "linkedin": {
@@ -189,11 +187,11 @@
           "documento": "media/post/P04/carosello.pdf",
           "titoloDocumento": "Listino",
           "copertina": "media/post/P04/slide01.png",
-          "stato": "programmato",
-          "bufferId": "6ac577db2b46a5da666e76e3",
+          "stato": "pausa",
           "programmatoIl": "2026-10-06T22:36:12.043Z"
         }
-      }
+      },
+      "nota": "In pausa il 9/10: prezzi da aggiornare al nuovo listino (BASIC/PRO/PREMIUM)"
     },
     {
       "id": "R10",
