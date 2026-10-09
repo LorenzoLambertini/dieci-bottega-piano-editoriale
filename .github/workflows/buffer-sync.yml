@@ -45,6 +45,7 @@ jobs:
           node scripts/buffer-sync.mjs
           node scripts/diagnosi.mjs || true
       - name: Salva stato
+        if: always()
         run: |
           git config user.name "dieci-bottega-bot"
           git config user.email "actions@users.noreply.github.com"

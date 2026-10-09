@@ -261,4 +261,4 @@ async function main() {
   log(`Fatto: ${creati} nuovi post su Buffer.`);
 }
 
-main().catch((e) => { console.error(e); process.exit(1); });
+main().catch((e) => { console.error(e); try { fs.writeFileSync("coda/errore-sync.txt", new Date().toISOString() + "\n" + (e.stack || e.message)); } catch {} process.exit(1); });
