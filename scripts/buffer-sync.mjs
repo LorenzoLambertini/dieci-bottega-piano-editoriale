@@ -41,6 +41,7 @@ async function gql(query, variables) {
 const TIPI = ["Post", "PostInputMetaData", "InstagramPostMetadataInput", "FacebookPostMetadataInput",
   "LinkedInPostMetadataInput", "VideoAssetInput", "DocumentAssetInput", "ImageAssetInput", "PostType", "Channel"];
 async function leggiSchema() {
+  try { const st = fs.statSync("coda/buffer-schema.json"); if (Date.now() - st.mtimeMs < 7 * 864e5) return JSON.parse(fs.readFileSync("coda/buffer-schema.json", "utf8")); } catch {}
   const q = "query {" + TIPI.map((t, i) => `t${i}: __type(name: "${t}") { name kind fields { name } inputFields { name type { kind name ofType { kind name ofType { name } } } } enumValues { name } }`).join(" ") + "}";
   try {
     const d = await gql(q);
@@ -217,8 +218,8 @@ async function main() {
     }
   }
 
-  // metriche dei post usciti (Buffer le aggiorna una volta al giorno)
-  try {
+  // metriche dei post usciti (Buffer le aggiorna una volta al giorno): solo nel giro serale, per risparmiare richieste
+  if (process.env.COMPLETO === "1") try {
     const perId = {};
     for (const it of coda.contenuti) for (const [sv, c] of Object.entries(it.canali)) if (c.bufferId) perId[c.bufferId] = { id: it.id, titolo: it.titolo, tipo: it.tipo };
     const righeM = [];

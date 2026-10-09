@@ -132,10 +132,10 @@ $('C_rows').innerHTML=STEPS.map((s,i)=>`<div class="abs" id="C_r${i}" style="lef
   <div class="disp" style="font-size:124px;color:var(--rose);letter-spacing:-.05em;padding-left:44px;white-space:nowrap">${s[0]}</div>
   <div><div style="font-weight:800;font-size:64px;color:var(--obs);letter-spacing:-.03em">${s[1]}</div><div style="font-size:36px;color:var(--plum);margin-top:6px">${s[2]}</div></div></div>`).join('');
 $('C_days').innerHTML=[...Array(10)].map((_,i)=>`<div style="width:78px;height:78px;border-radius:50%;border:3px solid var(--obs);display:grid;place-items:center;font-family:Mono;font-weight:600;font-size:26px;color:var(--obs)" id="C_d${i}">${i+1}</div>`).join('');
-const PRICES=[["Landing page","5–7 giorni","da € 800"],["Sito vetrina","10 giorni","da € 1.200"],["E-commerce light","12–15 giorni","da € 1.800"]];
+const PRICES=[["Basic","Una pagina · circa 7 giorni","800–1.000 €"],["Pro","5–7 pagine · 10–14 giorni","1.500–2.000 €"],["Premium","8–12 pagine + blog · 3–4 settimane","2.500–3.500 €"]];
 $('D_rows').innerHTML=PRICES.map((r,i)=>`<div class="abs" id="D_r${i}" style="left:80px;top:${760+i*215}px;width:920px;height:180px;border:3px solid var(--ivory);border-radius:24px;display:flex;justify-content:space-between;align-items:center;padding:0 44px;color:var(--ivory)">
-  <div><div style="font-weight:800;font-size:56px;letter-spacing:-.025em">${r[0]}</div><div class="mono" style="font-size:24px;margin-top:8px;opacity:.9">${r[1]}</div></div>
-  <div style="font-weight:900;font-size:62px;letter-spacing:-.03em;white-space:nowrap">${r[2]}</div></div>`).join('');
+  <div><div style="font-weight:800;font-size:58px;letter-spacing:-.025em">${r[0]}</div><div class="mono" style="font-size:19px;margin-top:8px;opacity:.9;letter-spacing:.05em;white-space:nowrap">${r[1]}</div></div>
+  <div style="font-weight:900;font-size:54px;letter-spacing:-.03em;white-space:nowrap">${r[2]}</div></div>`).join('');
 const PROM=["Chi ti parla<br>fa il lavoro.","Il prezzo<br>è scritto prima.","Da Bologna,<br>per tutta Italia."];
 $('F_rows').innerHTML=PROM.map((r,i)=>`<div class="abs disp" id="F_r${i}" style="left:76px;top:${340+i*380}px;font-size:112px;color:var(--plum);letter-spacing:-.035em;text-transform:none;line-height:.95">${r.split('<br>').map(l=>`<span class="mask"><span>${l}</span></span>`).join('')}</div>`).join('');
 

@@ -10,7 +10,7 @@ with sync_playwright() as pw:
     b = pw.chromium.launch(executable_path=exe, args=["--allow-file-access-from-files"])
     pg = b.new_page(viewport={"width": 1080, "height": 1920}, device_scale_factor=1)
     errs = []; pg.on("pageerror", lambda e: errs.append(str(e)))
-    pg.goto("file://" + os.path.join(HERE, "lancio.html")); pg.wait_for_function("window.pronto===true", timeout=20000)
+    pg.goto("file://" + os.path.join(HERE, os.environ.get("PAGINA", "lancio.html"))); pg.wait_for_function("window.pronto===true", timeout=20000)
     if errs: print("ERRORI", errs)
     if mode == "anteprima":
         out = sys.argv[2]

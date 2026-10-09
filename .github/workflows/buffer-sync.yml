@@ -42,8 +42,9 @@ jobs:
           DRY_RUN: ${{ inputs.prova && '1' || '0' }}
         run: |
           if [ -f coda/.prova ]; then export DRY_RUN=1; fi
+          export COMPLETO=0; if [ "${{ github.event.schedule }}" = "17 17 * * *" ]; then export COMPLETO=1; fi
           node scripts/buffer-sync.mjs
-          node scripts/diagnosi.mjs || true
+          if [ "$COMPLETO" = "1" ]; then node scripts/diagnosi.mjs || true; fi
       - name: Salva stato
         if: always()
         run: |

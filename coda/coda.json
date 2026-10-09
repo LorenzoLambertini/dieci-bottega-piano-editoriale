@@ -165,7 +165,7 @@
             "media/post/P04/slide06-v2.png",
             "media/post/P04/slide07.png"
           ],
-          "stato": "da_programmare",
+          "stato": "pausa",
           "programmatoIl": "2026-10-06T22:25:25.311Z"
         },
         "facebook": {
@@ -179,7 +179,7 @@
             "media/post/P04/slide06-v2.png",
             "media/post/P04/slide07.png"
           ],
-          "stato": "da_programmare",
+          "stato": "pausa",
           "programmatoIl": "2026-10-06T22:36:11.686Z"
         },
         "linkedin": {
@@ -187,11 +187,11 @@
           "documento": "media/post/P04/carosello-v2.pdf",
           "titoloDocumento": "Listino",
           "copertina": "media/post/P04/slide01.png",
-          "stato": "da_programmare",
+          "stato": "pausa",
           "programmatoIl": "2026-10-06T22:36:12.043Z"
         }
       },
-      "nota": "Prezzi aggiornati al nuovo listino il 9/10; uscita spostata alle 14:00"
+      "nota": "Prezzi aggiornati il 9/10. In pausa: Lorenzo lo pubblica a mano alle 14 (Buffer al limite di richieste). Se non lo fa, rimettere da_programmare."
     },
     {
       "id": "R10",
@@ -476,7 +476,7 @@
           "programmatoIl": "2026-10-06T22:36:15.977Z"
         },
         "linkedin": {
-          "testo": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNon tutte le aziende hanno bisogno di un CRM. Excel può bastare, finché sei da solo e hai pochi contatti al mese.\n\nSmette di bastare quando:\n— due persone chiamano lo stesso cliente;\n— un preventivo resta senza risposta perché nessuno se lo ricordava;\n— il lunedì serve mezz'ora per capire come sta andando.\n\nUn CRM non è un software. È sapere, per ogni contatto, chi deve fare cosa e quando.\n\nLo costruiamo su misura, sul vostro modo di lavorare, con i dati che restano vostri. E se vi basta un foglio fatto bene, ve lo diciamo.\n\nCRM su misura, da 2.500 €: https://diecibottega.it/servizi/crm-su-misura?utm_source=linkedin&utm_medium=post&utm_campaign=p09\n\n#CRM #PMI #Vendite",
+          "testo": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNon tutte le aziende hanno bisogno di un CRM. Excel può bastare, finché sei da solo e hai pochi contatti al mese.\n\nSmette di bastare quando:\n— due persone chiamano lo stesso cliente;\n— un preventivo resta senza risposta perché nessuno se lo ricordava;\n— il lunedì serve mezz'ora per capire come sta andando.\n\nUn CRM non è un software. È sapere, per ogni contatto, chi deve fare cosa e quando.\n\nLo costruiamo su misura, sul vostro modo di lavorare, con i dati che restano vostri. E se vi basta un foglio fatto bene, ve lo diciamo.\n\nCRM su misura, 2.500–4.000 €: https://diecibottega.it/servizi/crm-su-misura?utm_source=linkedin&utm_medium=post&utm_campaign=p09\n\n#CRM #PMI #Vendite",
           "documento": "media/post/P09/carosello.pdf",
           "titoloDocumento": "CRM",
           "copertina": "media/post/P09/slide01.png",
@@ -496,26 +496,21 @@
       "canali": {
         "instagram": {
           "testo": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
-          "video": "media/reel/R05.mp4",
-          "stato": "programmato",
-          "bufferId": "6ac7c769226f4504d36d558c",
-          "programmatoIl": "2026-10-08T16:40:10.077Z"
+          "video": "media/reel/R05b.mp4",
+          "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page da 800 €, sito vetrina da 1.200 €, e-commerce light da 1.800 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
-          "video": "media/reel/R05.mp4",
-          "stato": "programmato",
-          "bufferId": "6ac5f1175355110416252feb",
-          "programmatoIl": "2026-10-07T07:13:27.201Z"
+          "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page 800–1.000 €, sito vetrina 1.500–2.000 €, e-commerce light 1.800–3.200 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
+          "video": "media/reel/R05b.mp4",
+          "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page da 800 €, consegna 5–7 giorni\n— Sito vetrina da 1.200 €, consegna 10 giorni\n— E-commerce light da 1.800 €, consegna 12–15 giorni\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
-          "video": "media/reel/R05.mp4",
-          "stato": "programmato",
-          "bufferId": "6ac5f117c22c37a573bd27a8",
-          "programmatoIl": "2026-10-07T07:13:27.644Z"
+          "testo": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page, 800–1.000 €, circa 7 giorni\n— Sito vetrina (5–7 pagine), 1.500–2.000 €, 10–14 giorni\n— Sito completo (8–12 pagine + blog), 2.500–3.500 €, 3–4 settimane\n— E-commerce light, 1.800–3.200 €\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
+          "video": "media/reel/R05b.mp4",
+          "stato": "da_programmare"
         }
-      }
+      },
+      "nota": "Video rifatto il 9/10 con il listino nuovo (video-lancio/r05.html)"
     },
     {
       "id": "R06",
@@ -1042,17 +1037,17 @@
       "nota": "Da girare: Apertura grafica «800 €» (motion) + Lorenzo o Tommaso in camera con le voci in sovrimpressione. Quando il video è pronto va in media/strategia/S08.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "800 €, una landing page. Ecco cosa c'è dentro, voce per voce.\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un form testato che ti arriva davvero. Le basi per farti trovare su Google. Una revisione, consegna in sette giorni. IVA esclusa.\nIl listino completo è sul sito. Link in bio.\n#prezzi #landingpage #sitiweb #pmiitaliane #bottegadigitale",
+          "testo": "800 €, una landing page. Ecco cosa c'è dentro, voce per voce.\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un form testato che ti arriva davvero. Le basi per farti trovare su Google. Una revisione, consegna in circa sette giorni. Da 800 a 1.000 €, IVA esclusa.\nIl listino completo è sul sito. Link in bio.\n#prezzi #landingpage #sitiweb #pmiitaliane #bottegadigitale",
           "video": "media/strategia/S08.mp4",
           "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Cosa c'è dentro una landing page da 800 €?\n\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un modulo che ti arriva davvero. Le basi per Google. Una revisione, consegna in sette giorni.\n\nListino completo: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=S08",
+          "testo": "Cosa c'è dentro una landing page da 800 €?\n\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un modulo che ti arriva davvero. Le basi per Google. Una revisione, consegna in circa sette giorni. Da 800 a 1.000 €.\n\nListino completo: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=S08",
           "video": "media/strategia/S08.mp4",
           "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "800 € per una landing page. Ecco cosa c'è dentro, voce per voce:\n\n— una pagina su misura per il mestiere del cliente, non un template generico;\n— funziona da telefono, perché è lì che ti cercano;\n— un modulo testato che arriva davvero;\n— le basi per farsi trovare su Google;\n— una revisione, consegna in sette giorni. IVA esclusa.\n\nCosa non c'è: riunioni inutili, preventivi gonfiati, tre mesi di attesa.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=S08\n\n#Prezzi #LandingPage #PMI",
+          "testo": "800 € per una landing page. Ecco cosa c'è dentro, voce per voce:\n\n— una pagina su misura per il mestiere del cliente, non un template generico;\n— funziona da telefono, perché è lì che ti cercano;\n— un modulo testato che arriva davvero;\n— le basi per farsi trovare su Google;\n— una revisione, consegna in circa sette giorni. Da 800 a 1.000 €, IVA esclusa.\n\nCosa non c'è: riunioni inutili, preventivi gonfiati, tre mesi di attesa.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=S08\n\n#Prezzi #LandingPage #PMI",
           "video": "media/strategia/S08.mp4",
           "stato": "manca_video"
         }
@@ -1554,21 +1549,22 @@
       "dueAt": "2027-02-02T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Base, Standard o Premium? Tre livelli di cura, tempi scritti accanto.\nBase, 5-7 giorni: solidità, niente fronzoli. Standard, 8-12 giorni: su misura, due round di revisione. Premium, 14-21 giorni: design custom, revisioni illimitate.\nIn tutti i livelli: revisioni, messa online e supporto dopo il lancio. Niente preventivi a sorpresa. Tariffe su diecibottega.it\n#prezzi #sitiweb #pmiitaliane #bottegadigitale #bologna",
+          "testo": "Basic, Pro o Premium? Tre pacchetti, prezzo e tempi scritti accanto.\nBasic, una pagina: 800–1.000 €, circa 7 giorni. Pro, 5–7 pagine: 1.500–2.000 €, 10–14 giorni. Premium, 8–12 pagine più blog: 2.500–3.500 €, 3–4 settimane.\nIn tutti: revisioni, messa online e supporto dopo il lancio. Niente preventivi a sorpresa. Listino su diecibottega.it\n#prezzi #sitiweb #pmiitaliane #bottegadigitale #bologna",
           "video": "media/reel/R30.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         },
         "facebook": {
-          "testo": "Base, Standard o Premium?\n\nBase in 5-7 giorni, Standard in 8-12 con due round di revisione, Premium in 14-21 con design su misura e revisioni illimitate. In tutti: supporto dopo il lancio. Niente sorprese.\n\nTariffe: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R30",
+          "testo": "Basic, Pro o Premium?\n\nBasic: una pagina, 800–1.000 €, circa 7 giorni. Pro: 5–7 pagine, 1.500–2.000 €, 10–14 giorni. Premium: 8–12 pagine con blog, 2.500–3.500 €, 3–4 settimane. In tutti: supporto dopo il lancio. Niente sorprese.\n\nListino: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R30",
           "video": "media/reel/R30.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         },
         "linkedin": {
-          "testo": "Tre livelli di cura, tempi scritti accanto:\n\nBase · 5–7 giorni. Solidità, niente fronzoli.\nStandard · 8–12 giorni. Su misura, due round di revisione.\nPremium · 14–21 giorni. Design custom, revisioni illimitate.\n\nIn tutti: revisioni, messa online e supporto dopo il lancio.\n\nScegliere il livello giusto è parte del lavoro. Spesso il Base basta, e lo diciamo.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R30\n\n#Prezzi #PMI #WebDesign",
+          "testo": "Tre pacchetti, prezzo e tempi scritti accanto:\n\nBasic · una pagina · 800–1.000 € · circa 7 giorni.\nPro · 5–7 pagine · 1.500–2.000 € · 10–14 giorni.\nPremium · 8–12 pagine + blog · 2.500–3.500 € · 3–4 settimane.\n\nIn tutti: revisioni, messa online e supporto dopo il lancio.\n\nScegliere il pacchetto giusto è parte del lavoro. Spesso il Basic basta, e lo diciamo.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R30\n\n#PMI #WebDesign #Prezzi",
           "video": "media/reel/R30.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         }
-      }
+      },
+      "nota": "Video con i livelli vecchi (Base/Standard/Premium): da rifare con i pacchetti Basic/Pro/Premium"
     },
     {
       "id": "R31",
@@ -1904,21 +1900,22 @@
       "dueAt": "2027-03-25T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Soluzioni digitali, visibilità digitale, strategie omnicanale. Gergo da agenzia.\nNoi non vendiamo soluzioni digitali. Diciamo cosa facciamo, in quanti giorni e a quanto: sito vetrina, 10 giorni, da 1.200 €. Vendiamo lavoro fatto bene.\n#bottegadigitale #trasparenza #sitiweb #pmiitaliane #bologna",
+          "testo": "Soluzioni digitali, visibilità digitale, strategie omnicanale. Gergo da agenzia.\nNoi non vendiamo soluzioni digitali. Diciamo cosa facciamo, in quanti giorni e a quanto: sito vetrina, 10–14 giorni, da 1.500 €. Vendiamo lavoro fatto bene.\n#bottegadigitale #trasparenza #sitiweb #pmiitaliane #bologna",
           "video": "media/reel/R45.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         },
         "facebook": {
-          "testo": "Soluzioni digitali, visibilità digitale, strategie omnicanale. Hai capito cosa ti vendono?\n\nNoi diciamo cosa facciamo, in quanti giorni e a quanto: sito vetrina, 10 giorni, da 1.200 €.",
+          "testo": "Soluzioni digitali, visibilità digitale, strategie omnicanale. Hai capito cosa ti vendono?\n\nNoi diciamo cosa facciamo, in quanti giorni e a quanto: sito vetrina, 10–14 giorni, da 1.500 €.",
           "video": "media/reel/R45.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         },
         "linkedin": {
-          "testo": "Soluzioni digitali. Visibilità digitale. Strategie omnicanale. Digital transformation.\n\nIl gergo da agenzia ha un problema: dopo averlo letto, il cliente non sa ancora cosa comprerà.\n\nNoi preferiamo dire tre cose: cosa facciamo, in quanti giorni, a quanto. Sito vetrina, 10 giorni, da 1.200 €.\n\nNon vendiamo soluzioni digitali. Vendiamo lavoro fatto bene.\n\n#Comunicazione #PMI #WebDesign",
+          "testo": "Soluzioni digitali. Visibilità digitale. Strategie omnicanale. Digital transformation.\n\nIl gergo da agenzia ha un problema: dopo averlo letto, il cliente non sa ancora cosa comprerà.\n\nNoi preferiamo dire tre cose: cosa facciamo, in quanti giorni, a quanto. Sito vetrina, 10–14 giorni, da 1.500 €.\n\nNon vendiamo soluzioni digitali. Vendiamo lavoro fatto bene.\n\n#Comunicazione #PMI #WebDesign",
           "video": "media/reel/R45.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         }
-      }
+      },
+      "nota": "Video mostra \"10 giorni · da €1.200\": da correggere"
     },
     {
       "id": "R46",
@@ -2306,19 +2303,20 @@
         "instagram": {
           "testo": "Quale testo \"Chi siamo\" citerebbe un'AI? A o B nei commenti.\nDati concreti, fonti, citazioni. Nel video quanto possono pesare sulla visibilità nelle risposte delle AI, secondo uno studio sulla GEO.\n#geo #intelligenzaartificiale #copywriting #sitiweb #pmiitaliane",
           "video": "media/reel/R61.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         },
         "facebook": {
           "testo": "Due testi \"Chi siamo\": uno pieno di belle parole, l'altro con prezzi e tempi veri. Quale citerebbe un'intelligenza artificiale, A o B?",
           "video": "media/reel/R61.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         },
         "linkedin": {
           "testo": "Quale testo \"Chi siamo\" citerebbe un'intelligenza artificiale?\n\nNon quello con \"siamo leader nel settore, soluzioni innovative e di qualità\". Quello con dati concreti: cosa fai, in quanto tempo, a quanto, per chi.\n\nUno studio sulla GEO (Aggarwal et al., KDD 2024) ha misurato che fonti, citazioni e dati possono portare fino al 40% di visibilità in più nelle risposte generate.\n\nScrivere chiaro, ancora una volta, è la strategia migliore.\n\n#GEO #Copywriting #IntelligenzaArtificiale",
           "video": "media/reel/R61.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         }
-      }
+      },
+      "nota": "Video mostra \"sito vetrina da €1.200\": da correggere"
     },
     {
       "id": "R62",
@@ -2804,21 +2802,22 @@
       "dueAt": "2027-07-29T16:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Quale pagina prezzi ispira fiducia? A o B nei commenti.\nPrezzi pubblici, tempi reali. Il nostro listino è pubblico: landing da 800 €, vetrina da 1.200 €. Scoprilo su diecibottega.it\n#prezzi #trasparenza #sitiweb #pmiitaliane #bottegadigitale",
+          "testo": "Quale pagina prezzi ispira fiducia? A o B nei commenti.\nPrezzi pubblici, tempi reali. Il nostro listino è pubblico: landing da 800 €, vetrina da 1.500 €. Scoprilo su diecibottega.it\n#prezzi #trasparenza #sitiweb #pmiitaliane #bottegadigitale",
           "video": "media/reel/R81.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         },
         "facebook": {
           "testo": "Due pagine prezzi: una con i prezzi scritti, una con \"contattaci per un preventivo\". Quale ti ispira più fiducia, A o B?\n\nIl nostro listino è pubblico: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R81",
           "video": "media/reel/R81.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         },
         "linkedin": {
-          "testo": "Una pagina prezzi con le cifre scritte o una con \"contattaci per un preventivo personalizzato\"?\n\nLa seconda protegge l'agenzia. La prima rispetta il cliente.\n\nIl nostro listino è pubblico: landing page da 800 €, sito vetrina da 1.200 €. Prezzi pubblici, tempi reali.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R81\n\n#Prezzi #Trasparenza #PMI",
+          "testo": "Una pagina prezzi con le cifre scritte o una con \"contattaci per un preventivo personalizzato\"?\n\nLa seconda protegge l'agenzia. La prima rispetta il cliente.\n\nIl nostro listino è pubblico: landing page da 800 €, sito vetrina da 1.500 €. Prezzi pubblici, tempi reali.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R81\n\n#Prezzi #Trasparenza #PMI",
           "video": "media/reel/R81.mp4",
-          "stato": "da_programmare"
+          "stato": "pausa"
         }
-      }
+      },
+      "nota": "Video mostra \"vetrina da €1.200\": da correggere"
     },
     {
       "id": "R82",

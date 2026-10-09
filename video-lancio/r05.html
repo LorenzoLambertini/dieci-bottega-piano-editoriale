@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="it"><head><meta charset="utf-8">
+<style>
+/* Dieci Bottega · R05 "Quanto costa un sito?" (listino ottobre 2026) · 1080x1920
+   Stessa grammatica di movimento del video di lancio: entrata (0.2,0,0,1), uscita (0.3,0,1,1), spostamenti (0.4,0,0.2,1) */
+@font-face{font-family:Archivo;src:url(assets/Archivo.ttf);font-weight:100 900;font-stretch:62% 125%}
+@font-face{font-family:Cardo;src:url(assets/Cardo-Italic.ttf);font-style:italic}
+@font-face{font-family:Mono;src:url(assets/JetBrainsMono.ttf);font-weight:100 800}
+:root{--obs:#1A1414;--rose:#E63B2E;--ivory:#F4EFE6;--peach:#F2B8A2;--plum:#4A3838;--ash:#E8E2D6}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--obs)}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden;font-family:Archivo}
+.scene{position:absolute;inset:0;overflow:hidden;visibility:hidden}
+.abs{position:absolute}
+.mono{font-family:Mono;font-weight:500;letter-spacing:.12em;text-transform:uppercase}
+.disp{font-weight:900;text-transform:uppercase;letter-spacing:-.04em;line-height:.9}
+.serif{font-family:Cardo;font-style:italic}
+.mask{overflow:hidden;display:block}.mask>span{display:block}
+.panel{position:absolute;left:0;width:1080px;height:1920px;z-index:50}
+#bar{position:absolute;left:80px;top:150px;width:920px;height:6px;z-index:60;border-radius:3px;overflow:hidden}
+#bar i{display:block;height:100%;width:0}
+#grain{position:absolute;inset:-40px;z-index:70;opacity:.05;mix-blend-mode:overlay}
+.card{position:absolute;left:80px;width:920px;border-radius:26px;padding:34px 40px;display:flex;justify-content:space-between;align-items:center}
+.row{position:absolute;left:80px;width:920px;display:flex;justify-content:space-between;align-items:baseline;padding:26px 0;border-bottom:2px solid rgba(244,239,230,.25)}
+</style></head><body>
+<div id="stage">
+  <div id="bar"><i></i></div>
+  <section class="scene" id="A" style="background:var(--rose)">
+    <div class="abs mono" id="A_l" style="left:80px;top:220px;font-size:26px;color:var(--ivory)">Listino · Ottobre 2026</div>
+    <div class="abs disp" id="A_h" style="left:76px;top:420px;font-size:150px;color:var(--ivory)"><span class="mask"><span>Quanto</span></span><span class="mask"><span>costa</span></span><span class="mask"><span>un sito?</span></span></div>
+    <div class="abs mono" id="A_k" style="left:80px;top:960px;font-size:26px;color:var(--ivory);opacity:.85">La risposta di solito</div>
+    <div class="abs serif" id="A_d" style="left:76px;top:1010px;font-size:130px;color:var(--ivory)">«Dipende.»<i id="A_x" class="abs" style="left:0;top:78px;height:8px;width:0;background:var(--obs)"></i></div>
+    <div class="abs disp" id="A_n" style="left:76px;top:1240px;font-size:96px;color:var(--obs);text-transform:none;letter-spacing:-.035em"><span class="mask"><span>Da noi c'è</span></span><span class="mask"><span>un listino.</span></span></div>
+  </section>
+  <section class="scene" id="B" style="background:var(--ivory)">
+    <div class="abs mono" id="B_l" style="left:80px;top:220px;font-size:26px;color:var(--rose)">Siti · tre pacchetti</div>
+    <div class="abs disp" id="B_h" style="left:76px;top:280px;font-size:100px;color:var(--obs);letter-spacing:-.035em"><span class="mask"><span>Prezzo e tempi</span></span><span class="mask"><span>scritti prima.</span></span></div>
+    <div id="B_cards"></div>
+    <div class="abs mono" id="B_n" style="left:80px;top:1470px;font-size:24px;color:var(--plum)">IVA esclusa · preventivo definitivo dopo il brief</div>
+  </section>
+  <section class="scene" id="C" style="background:var(--obs)">
+    <div class="abs mono" id="C_l" style="left:80px;top:220px;font-size:26px;color:var(--peach)">E non solo siti</div>
+    <div class="abs disp" id="C_h" style="left:76px;top:280px;font-size:100px;color:var(--ivory);letter-spacing:-.035em"><span class="mask"><span>Anche questo</span></span><span class="mask"><span>ha un prezzo.</span></span></div>
+    <div id="C_rows"></div>
+  </section>
+  <section class="scene" id="D" style="background:var(--peach)">
+    <div class="abs mono" id="D_l" style="left:80px;top:220px;font-size:26px;color:var(--plum)">Come si paga</div>
+    <div class="abs disp" id="D_h" style="left:76px;top:420px;font-size:128px;color:var(--plum);text-transform:none;letter-spacing:-.04em;line-height:.95"><span class="mask"><span>50% all'avvio.</span></span><span class="mask"><span>50% al lancio.</span></span></div>
+    <div class="abs serif" id="D_s" style="left:80px;top:760px;font-size:82px;color:var(--rose)"><span class="mask"><span>Niente sorprese a metà.</span></span></div>
+    <div class="abs" id="D_c" style="left:80px;top:960px;padding:30px 40px;border-radius:24px;background:var(--plum);color:var(--ivory)"><div style="font-weight:800;font-size:52px;letter-spacing:-.02em">Prima call gratuita</div><div class="mono" style="font-size:24px;margin-top:10px;opacity:.9">30 minuti · senza impegno</div></div>
+  </section>
+  <section class="scene" id="E" style="background:var(--ivory)">
+    <div class="abs" id="E_logo" style="left:240px;top:560px;width:600px;height:331px;overflow:hidden"><img src="assets/logo-rose.png" style="width:600px;display:block"></div>
+    <div class="abs disp" id="E_name" style="left:0;width:1080px;text-align:center;top:960px;font-size:118px;color:var(--obs);text-transform:none;line-height:.92"><span class="mask"><span>dieci</span></span><span class="mask"><span>bottega</span></span></div>
+    <div class="abs serif" id="E_tag" style="left:0;width:1080px;text-align:center;top:1210px;font-size:66px;color:var(--rose)">È tutto nei dettagli.</div>
+    <div class="abs mono" id="E_cta" style="left:50%;top:1330px;transform:translateX(-50%);font-size:30px;color:var(--ivory);background:var(--obs);padding:28px 46px;border-radius:60px;white-space:nowrap">Listino completo →</div>
+    <div class="abs mono" id="E_url" style="left:0;width:1080px;text-align:center;top:1480px;font-size:26px;color:var(--plum)">diecibottega.it/servizi</div>
+  </section>
+  <div class="panel" id="P1"></div>
+  <canvas id="grain" width="290" height="510"></canvas>
+</div>
+<script>
+function bez(x1,y1,x2,y2){const cx=3*x1,bx=3*(x2-x1)-cx,ax=1-cx-bx,cy=3*y1,by=3*(y2-y1)-cy,ay=1-cy-by;const X=t=>((ax*t+bx)*t+cx)*t,Y=t=>((ay*t+by)*t+cy)*t,dX=t=>(3*ax*t+2*bx)*t+cx;return x=>{if(x<=0)return 0;if(x>=1)return 1;let t=x;for(let i=0;i<8;i++){const d=dX(t);if(Math.abs(d)<1e-6)break;t-=(X(t)-x)/d;}t=Math.min(1,Math.max(0,t));return Y(t);};}
+const IN=bez(.2,0,0,1),OUT=bez(.3,0,1,1),MOVE=bez(.4,0,.2,1);
+const cl=v=>Math.min(1,Math.max(0,v)),p=(t,t0,d,e=IN)=>e(cl((t-t0)/d)),lerp=(a,b,k)=>a+(b-a)*k,$=id=>document.getElementById(id);
+function set(el,{x=0,y=0,s=1,o=1}={}){el.style.transform=`translate(${x}px,${y}px) scale(${s})`;el.style.opacity=o;}
+function lines(c,t,t0,st=.12,dur=.6){[...c.querySelectorAll('.mask>span')].forEach((s,i)=>{s.style.transform=`translateY(${lerp(105,0,p(t,t0+i*st,dur))}%)`;});}
+const PK=[["Basic","Una pagina","circa 7 giorni","800–1.000 €"],["Pro","5–7 pagine","10–14 giorni","1.500–2.000 €"],["Premium","8–12 pagine + blog","3–4 settimane","2.500–3.500 €"]];
+$('B_cards').innerHTML=PK.map((r,i)=>`<div class="card" id="B_c${i}" style="top:${580+i*270}px;height:230px;${i==1?'background:var(--obs);color:var(--ivory)':'background:var(--ash);color:var(--obs)'}">
+ <div><div style="font-weight:900;font-size:66px;letter-spacing:-.03em">${r[0]}</div><div class="mono" style="font-size:19px;margin-top:10px;opacity:.85;letter-spacing:.05em;white-space:nowrap">${r[1]} · ${r[2]}</div>${i==1?'<div class="mono" style="font-size:18px;margin-top:10px;color:var(--peach)">Il più scelto</div>':''}</div>
+ <div style="font-weight:900;font-size:56px;letter-spacing:-.03em;white-space:nowrap;${i==1?'color:var(--peach)':'color:var(--rose)'}">${r[3]}</div></div>`).join('');
+const AL=[["E-commerce light","1.800–3.200 €"],["CRM su misura","2.500–4.000 €"],["SEO on-page","600–1.200 €"],["Google Business Profile","150 €"],["Video spot","50 € ogni 30 s"]];
+$('C_rows').innerHTML=AL.map((r,i)=>`<div class="row" id="C_r${i}" style="top:${600+i*150}px;color:var(--ivory)"><div style="font-weight:700;font-size:48px;letter-spacing:-.02em">${r[0]}</div><div style="font-weight:900;font-size:50px;letter-spacing:-.02em;color:var(--peach);white-space:nowrap">${r[1]}</div></div>`).join('');
+const T={A:0,B:5.2,C:13.6,D:20.4,E:24.8,END:28.5}, PAN=.45;
+const g=$('grain'),gx=g.getContext('2d');let seed=1;const rnd=()=>{seed=(seed*16807)%2147483647;return seed/2147483647;};
+function grain(f){seed=1+(f%7)*7919;const im=gx.createImageData(290,510);for(let i=0;i<im.data.length;i+=4){const v=rnd()*255;im.data[i]=im.data[i+1]=im.data[i+2]=v;im.data[i+3]=255;}gx.putImageData(im,0,0);g.style.width='1160px';g.style.height='2000px';}
+function wipe(t,t0,color){const el=$('P1');const k=p(t,t0-PAN,PAN,MOVE);if(t>t0-PAN&&t<t0+.02){el.style.display='block';el.style.background=color;el.style.top=lerp(1920,0,k)+'px';}}
+function render(t,frame=0){
+  grain(Math.floor(frame/2)); $('P1').style.display='none';
+  const light=(t>=T.B&&t<T.C)||(t>=T.D);
+  $('bar').style.background=light?'rgba(26,20,20,.15)':'rgba(244,239,230,.25)'; $('bar').firstElementChild.style.background=light?'#1A1414':'#F4EFE6';
+  $('bar').firstElementChild.style.width=(cl(t/(T.END-.6))*100)+'%'; $('bar').style.opacity=t>T.E+.2?1-p(t,T.E+.2,.4,OUT):1;
+  ['A','B','C','D','E'].forEach(i=>$(i).style.visibility='hidden');
+  if(t<T.B){$('A').style.visibility='visible';const a=t;
+    set($('A_l'),{y:lerp(24,0,p(a,0,.45)),o:p(a,0,.45)}); lines($('A_h'),a,0,.1,.55);
+    set($('A_k'),{o:.85*p(a,1.3,.4),y:lerp(16,0,p(a,1.3,.4))}); set($('A_d'),{o:p(a,1.45,.5),y:lerp(30,0,p(a,1.45,.5))});
+    $('A_x').style.width=(470*p(a,2.5,.4,IN))+'px'; $('A_d').style.opacity=a>2.9?lerp(1,.45,p(a,2.9,.3)):$('A_d').style.opacity;
+    lines($('A_n'),a,3.1,.12,.6); $('A').style.transform=`scale(${1+.012*cl(a/5)})`;}
+  if(t>=T.B&&t<T.C){$('B').style.visibility='visible';const b=t-T.B;
+    set($('B_l'),{y:lerp(24,0,p(b,.1,.45)),o:p(b,.1,.45)}); lines($('B_h'),b,.2,.12,.6);
+    [0,1,2].forEach(i=>{const k=p(b,1.1+i*.9,.55);set($('B_c'+i),{x:lerp(70,0,k),o:k});});
+    const em=p(b,4.6,.4,MOVE); $('B_c1').style.transform+=` scale(${lerp(1,1.02,em)})`;
+    set($('B_n'),{o:p(b,4.2,.5),y:lerp(14,0,p(b,4.2,.5))}); $('B').style.transform=`translateY(${-5*b}px)`;}
+  if(t>=T.C&&t<T.D){$('C').style.visibility='visible';const c=t-T.C;
+    set($('C_l'),{y:lerp(24,0,p(c,.1,.45)),o:p(c,.1,.45)}); lines($('C_h'),c,.2,.12,.6);
+    [0,1,2,3,4].forEach(i=>{const k=p(c,1.1+i*.55,.5);set($('C_r'+i),{y:lerp(36,0,k),o:k});}); $('C').style.transform=`scale(${1+.01*cl(c/6.8)})`;}
+  if(t>=T.D&&t<T.E){$('D').style.visibility='visible';const d=t-T.D;
+    set($('D_l'),{y:lerp(24,0,p(d,.1,.45)),o:p(d,.1,.45)}); lines($('D_h'),d,.2,.15,.6); lines($('D_s'),d,1.0,.12,.6);
+    const k=p(d,1.7,.55); set($('D_c'),{y:lerp(40,0,k),o:k}); $('D').style.transform=`translateY(${-6*d}px)`;}
+  if(t>=T.E){$('E').style.visibility='visible';const q=t-T.E;
+    const lk=p(q,.15,.8); $('E_logo').style.clipPath=`inset(0 ${100-lk*100}% 0 0)`;
+    lines($('E_name'),q,.55,.12,.6); set($('E_tag'),{y:lerp(24,0,p(q,1.1,.5)),o:p(q,1.1,.5)});
+    const ck=p(q,1.5,.5); $('E_cta').style.transform=`translateX(-50%) translateY(${lerp(30,0,ck)}px)`; $('E_cta').style.opacity=ck;
+    set($('E_url'),{o:p(q,1.8,.5),y:lerp(16,0,p(q,1.8,.5))});}
+  wipe(t,T.B,'#F4EFE6'); wipe(t,T.C,'#1A1414'); wipe(t,T.D,'#F2B8A2'); wipe(t,T.E,'#F4EFE6');
+}
+window.render=render; window.DURATA=T.END;
+document.fonts.ready.then(()=>{window.pronto=true;render(0);});
+</script></body></html>

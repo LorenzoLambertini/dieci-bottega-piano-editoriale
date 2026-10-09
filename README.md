@@ -44,3 +44,6 @@ Si modifica `coda/coda.json` (o si chiede a Claude di farlo). I file vanno in `m
 
 ## App "Prossime uscite"
 `anteprime/` è l'artifact con le anteprime dei prossimi 45 giorni (https://claude.ai/artifact/TjJ5dLpsWNcvj6SejqVqhm). Per aggiornarlo: `python3 scripts/anteprime.py`, poi ripubblicare `anteprime/index.html` con i file elencati in `anteprime/files.json`.
+
+## Listino
+Prezzi e tempi validi per tutti i contenuti: `listino.md`. Prima di pubblicare qualcosa con prezzi, controllare che coincida.
