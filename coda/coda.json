@@ -563,7 +563,9 @@
             "media/post/P07/slide03.png",
             "media/post/P07/slide04.png"
           ],
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac8c10a3cdd14dcd2692820",
+          "programmatoIl": "2026-10-09T10:25:14.807Z"
         },
         "facebook": {
           "testo": "Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.\n\nQuanto ci mettiamo noi a scegliere quello giusto? Un po' di più. Su otto proposte ne teniamo una: \"Iniziamo\". Un verbo, zero pressione.\n\nIl lavoro non è generare. È scegliere.",
@@ -573,14 +575,18 @@
             "media/post/P07/slide03.png",
             "media/post/P07/slide04.png"
           ],
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac8c10a9fc66ba0d7112bdc",
+          "programmatoIl": "2026-10-09T10:25:15.119Z"
         },
         "linkedin": {
           "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
           "documento": "media/post/P07/carosello.pdf",
           "titoloDocumento": "Prompt",
           "copertina": "media/post/P07/slide01.png",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ac8c10b4cc914d0620a5d87",
+          "programmatoIl": "2026-10-09T10:25:15.380Z"
         }
       }
     },
