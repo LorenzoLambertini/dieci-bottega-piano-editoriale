@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 09/10/2026, 10:56:02
+Ultimo controllo: 09/10/2026, 12:15:54
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 09/10/2026, 10:56:02
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-09 12:30 | P04 | Listino | programmato | programmato | programmato |
 | 2026-10-10 11:00 | R10 | Prima e dopo | programmato | programmato | programmato |
 | 2026-10-11 11:00 | R35 | Distanza zero | programmato | programmato | programmato |
 | 2026-10-12 12:30 | P05 | Tip Visite | programmato | programmato | programmato |
@@ -37,14 +36,15 @@ Ultimo controllo: 09/10/2026, 10:56:02
 | 2026-11-10 18:30 | R11 | La foto del chi siamo | da_programmare | da_programmare | da_programmare |
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-11-12 18:30 | R12 | Solo qualche visita persa | da_programmare | da_programmare | da_programmare |
+| 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Non esiste una cifra giusta per tutti
-- 10/10/26, 11:00 · 
-- 11/10/26, 11:00 · 
+- 10/10/26, 11:00 · Stessa attività, due siti. Villa Pet Sitter, pet sitter professionale 
+- 11/10/26, 11:00 · Quanto è lontana la tua web agency? Noi parliamo italiano, lavoriamo d
 - 12/10/26, 12:30 · Il tuo sito ha visite ma nessuno ti scrive? Di solito il motivo è uno 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Chiediamo all'AI otto variant
 - 15/10/26, 18:30 · Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora t
@@ -56,8 +56,8 @@ Ultimo controllo: 09/10/2026, 10:56:02
 ### linkedin
 
 - 09/10/26, 12:30 · Quanto dovrebbe costare un sito? Nessuna cifra vale per tutti. Ma prim
-- 10/10/26, 11:00 · 
-- 11/10/26, 11:00 · 
+- 10/10/26, 11:00 · Caso reale: Villa Pet Sitter, pet sitter professionale a Bologna. Prim
+- 11/10/26, 11:00 · Quanto è lontana la tua web agency? Non parliamo di chilometri. Parlia
 - 12/10/26, 12:30 · Il tuo sito ha visite. Nessuno ti scrive. Più traffico non vuol dire p
 - 13/10/26, 18:30 · Quanto ci vuole a scrivere il testo di un bottone? Con l'AI, pochi sec
 - 15/10/26, 18:30 · Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% dell
@@ -69,8 +69,8 @@ Ultimo controllo: 09/10/2026, 10:56:02
 ### instagram
 
 - 09/10/26, 12:30 · Nessuna risposta vale per tutti. Ma ci sono domande che valgono per tu
-- 10/10/26, 11:00 · 
-- 11/10/26, 11:00 · 
+- 10/10/26, 11:00 · Stessa attività. Due siti. Villa Pet Sitter, pet sitter professionale 
+- 11/10/26, 11:00 · Quanto è lontana la tua web agency? Noi parliamo italiano e lavoriamo 
 - 12/10/26, 12:30 · Più visite non vuol dire più clienti. Spesso il problema è in 5 punti 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Per noi ogni font, ogni micro
 - 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
