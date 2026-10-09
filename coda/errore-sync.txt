@@ -1,4 +1,4 @@
-2026-10-09T11:00:34.255Z
+2026-10-09T11:51:15.475Z
 Error: Buffer 429: [{"message":"Too many requests from this client. Please try again later.","extensions":{"code":"RATE_LIMIT_EXCEEDED","window":"24h"}}]
     at gql (file:///home/runner/work/dieci-bottega-piano-editoriale/dieci-bottega-piano-editoriale/scripts/buffer-sync.mjs:35:11)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
