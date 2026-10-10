@@ -642,17 +642,23 @@
         "instagram": {
           "testo": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Geolocalizzazione\nC) Google Engine Online\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito pronto per la GEO.\n\nFonte: Aggarwal et al., KDD 2024\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #geo #seo #intelligenzaartificiale",
           "video": "media/reel/R07.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aca1de6d9cab260a7c06628",
+          "programmatoIl": "2026-10-10T11:13:43.108Z"
         },
         "facebook": {
           "testo": "Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi trovare quando qualcuno chiede consiglio a un'intelligenza artificiale invece che a Google.\n\nScrivi nei commenti se l'avevi già sentita.",
           "video": "media/reel/R07.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aca1de7f91f772d458f19c3",
+          "programmatoIl": "2026-10-10T11:13:43.455Z"
         },
         "linkedin": {
           "testo": "GEO sta per Generative Engine Optimization: l'insieme di accorgimenti per farsi citare nelle risposte delle AI, non solo comparire tra i risultati di Google.\n\nSempre più persone chiedono a ChatGPT o all'AI di Google \"chi fa siti a Bologna\" o \"un buon ristorante qui vicino\". La risposta cita poche fonti.\n\nUno studio del 2024 (Aggarwal et al., KDD) mostra che riempire le pagine di parole chiave lì non funziona. Funzionano testi chiari, dati concreti, fonti citate.\n\nLa buona notizia: è esattamente come dovrebbe essere scritto un buon sito.\n\n#GEO #SEO #IntelligenzaArtificiale",
           "video": "media/reel/R07.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aca1de7b07d37ac976df660",
+          "programmatoIl": "2026-10-10T11:13:43.768Z"
         }
       }
     },

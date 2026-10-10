@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 09/10/2026, 23:41:31
+Ultimo controllo: 10/10/2026, 13:13:44
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 09/10/2026, 23:41:31
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-10 11:00 | R10 | Prima e dopo | programmato | programmato | programmato |
 | 2026-10-11 11:00 | R35 | Distanza zero | programmato | programmato | programmato |
 | 2026-10-12 12:30 | P05 | Tip Visite | programmato | programmato | programmato |
 | 2026-10-13 18:30 | R03 | Il bottone | programmato | programmato | programmato |
@@ -23,7 +22,7 @@ Ultimo controllo: 09/10/2026, 23:41:31
 | 2026-10-20 18:30 | R05 | Quanto costa un sito | programmato | programmato | programmato |
 | 2026-10-23 12:30 | P07 | Prompt | programmato | programmato | programmato |
 | 2026-10-26 12:30 | P11 | Dieci Anni | programmato | programmato | programmato |
-| 2026-10-27 18:30 | R07 | Cosa significa GEO | da_programmare | da_programmare | da_programmare |
+| 2026-10-27 18:30 | R07 | Cosa significa GEO | programmato | programmato | programmato |
 | 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
 | 2026-10-29 18:30 | R08 | Da zero a online | da_programmare | da_programmare | da_programmare |
 | 2026-11-02 18:30 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
@@ -37,47 +36,48 @@ Ultimo controllo: 09/10/2026, 23:41:31
 | 2026-11-12 18:30 | R12 | Solo qualche visita persa | da_programmare | da_programmare | da_programmare |
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
 | 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
+| 2026-11-17 18:30 | R13 | A volte diciamo di no | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 10/10/26, 11:00 · Stessa attività, due siti. Villa Pet Sitter, pet sitter professionale 
 - 11/10/26, 11:00 · Quanto è lontana la tua web agency? Noi parliamo italiano, lavoriamo d
 - 12/10/26, 12:30 · Il tuo sito ha visite ma nessuno ti scrive? Di solito il motivo è uno 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Chiediamo all'AI otto variant
 - 15/10/26, 18:30 · Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora t
 - 16/10/26, 12:30 · Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no. L'AI ci ai
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
-- 20/10/26, 18:30 · 
+- 20/10/26, 18:30 · Quanto costa un sito? "Dipende" non è una risposta. Landing page 800–1
 - 22/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
-- 26/10/26, 12:30 · 
+- 26/10/26, 12:30 · 2020. Nessuno dei due immaginava Dieci Bottega. Siamo Lorenzo e Tommas
+- 27/10/26, 18:30 · 
 
 ### linkedin
 
-- 10/10/26, 11:00 · Caso reale: Villa Pet Sitter, pet sitter professionale a Bologna. Prim
 - 11/10/26, 11:00 · Quanto è lontana la tua web agency? Non parliamo di chilometri. Parlia
 - 12/10/26, 12:30 · Il tuo sito ha visite. Nessuno ti scrive. Più traffico non vuol dire p
 - 13/10/26, 18:30 · Quanto ci vuole a scrivere il testo di un bottone? Con l'AI, pochi sec
 - 15/10/26, 18:30 · Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% dell
 - 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
-- 20/10/26, 18:30 · 
+- 20/10/26, 18:30 · Quanto costa un sito? Nel nostro settore la risposta più comune è "dip
 - 22/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
-- 26/10/26, 12:30 · 
+- 26/10/26, 12:30 · Sei anni prima di Dieci Bottega, eravamo già in due. Questa foto è del
+- 27/10/26, 18:30 · 
 
 ### instagram
 
-- 10/10/26, 11:00 · Stessa attività. Due siti. Villa Pet Sitter, pet sitter professionale 
 - 11/10/26, 11:00 · Quanto è lontana la tua web agency? Noi parliamo italiano e lavoriamo 
 - 12/10/26, 12:30 · Più visite non vuol dire più clienti. Spesso il problema è in 5 punti 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Per noi ogni font, ogni micro
 - 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
 - 16/10/26, 12:30 · Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no
 - 19/10/26, 12:30 · Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide
-- 20/10/26, 18:30 · 
+- 20/10/26, 18:30 · Quanto costa un sito? Niente preventivi a sorpresa: listino trasparent
 - 22/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
-- 26/10/26, 12:30 · 
+- 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
+- 27/10/26, 18:30 · 
 
 
 ## Ultime sostituzioni automatiche
