@@ -1,37 +1,6 @@
 {
- "aggiornato": "2026-10-09T18:50+00:00",
+ "aggiornato": "2026-10-10T18:52+00:00",
  "contenuti": [
-  {
-   "id": "R10",
-   "titolo": "Prima e dopo",
-   "tipo": "reel",
-   "quando": "2026-10-10 11:00",
-   "dueAt": "2026-10-10T09:00:00.000Z",
-   "slide": [],
-   "poster": "img/R10_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R10.mp4",
-   "durata": 26,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio sito WordPress a un sito vetrina multipagina. Mobile-first, veloce, WhatsApp a un tocco. Dentro: servizi, prezzi, attestati, recensioni, galleria.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #primaedopo #restyling #piccoleimprese",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Stessa attività, due siti.\n\nVilla Pet Sitter, pet sitter professionale a Bologna: dal vecchio WordPress a un sito vetrina multipagina. Veloce da telefono, WhatsApp a un tocco, servizi e prezzi chiari.\n\nUn lavoro vero, fatto in bottega. Ti piace il prima o il dopo?",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Caso reale: Villa Pet Sitter, pet sitter professionale a Bologna.\n\nPrima: un sito WordPress datato, lento da telefono, servizi difficili da trovare.\nDopo: un sito vetrina multipagina con servizi, prezzi, attestati e recensioni. Pensato prima per il telefono, veloce, con WhatsApp a un tocco.\n\nIl servizio era già eccellente. Il sito ora lo dice in tre secondi.\n\n#CasoStudio #WebDesign #Bologna",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "R35",
    "titolo": "Distanza zero",
@@ -284,19 +253,19 @@
    "durata": 28,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page 800–1.000 €, sito vetrina 1.500–2.000 €, e-commerce light 1.800–3.200 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page, 800–1.000 €, circa 7 giorni\n— Sito vetrina (5–7 pagine), 1.500–2.000 €, 10–14 giorni\n— Sito completo (8–12 pagine + blog), 2.500–3.500 €, 3–4 settimane\n— E-commerce light, 1.800–3.200 €\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
      "formato": "video",
      "errore": null
@@ -315,19 +284,19 @@
    "durata": 30,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "gia_in_buffer",
      "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "gia_in_buffer",
      "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "gia_in_buffer",
      "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
      "formato": "video",
      "errore": null
@@ -387,19 +356,19 @@
    "durata": null,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Prima di Dieci Bottega c'erano due amici. Da più di dieci anni.\nUno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività.\nOggi abbiamo messo insieme quello che sappiamo fare. Ed è per questo che, quando ci scrivi, ti rispondono le stesse due persone che lavorano al tuo sito.\n\n#bologna #bottegadigitale #founders #pmiitaliane #webdesign",
      "formato": "immagini",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Lorenzo e Tommaso, amici da più di dieci anni. Oggi abbiamo messo insieme quello che sappiamo fare: siti, CRM e automazioni per chi ha un'attività.\n\nQuando ci scrivi, ti rispondiamo noi. Gli stessi che lavorano al tuo sito.",
      "formato": "immagini",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta foto è del 2020. Lorenzo e Tommaso, amici da più di dieci anni.\n\nIn questi anni uno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività, e a dirlo in modo semplice.\n\nNel 2026 abbiamo deciso di mettere insieme quello che sappiamo fare. È per questo che, quando scrivi a Dieci Bottega, ti rispondono le stesse due persone che lavoreranno al tuo sito.\n\nAmici da dieci anni. Una bottega da oggi.\n\n#Founders #Bologna #PMI",
      "formato": "documento",
      "errore": null
@@ -418,19 +387,19 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Geolocalizzazione\nC) Google Engine Online\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito pronto per la GEO.\n\nFonte: Aggarwal et al., KDD 2024\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #geo #seo #intelligenzaartificiale",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi trovare quando qualcuno chiede consiglio a un'intelligenza artificiale invece che a Google.\n\nScrivi nei commenti se l'avevi già sentita.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "GEO sta per Generative Engine Optimization: l'insieme di accorgimenti per farsi citare nelle risposte delle AI, non solo comparire tra i risultati di Google.\n\nSempre più persone chiedono a ChatGPT o all'AI di Google \"chi fa siti a Bologna\" o \"un buon ristorante qui vicino\". La risposta cita poche fonti.\n\nUno studio del 2024 (Aggarwal et al., KDD) mostra che riempire le pagine di parole chiave lì non funziona. Funzionano testi chiari, dati concreti, fonti citate.\n\nLa buona notizia: è esattamente come dovrebbe essere scritto un buon sito.\n\n#GEO #SEO #IntelligenzaArtificiale",
      "formato": "video",
      "errore": null
@@ -998,6 +967,37 @@
     "linkedin": {
      "stato": "manca_video",
      "testo": "\"Ho un sito ma non mi scrive nessuno.\"\n\nOggi guardiamo un sito reale, con il permesso del titolare, e i tre motivi più comuni per cui le richieste non arrivano:\n1. in alto non è chiaro cosa fa l'attività;\n2. il contatto è solo in fondo alla pagina;\n3. il modulo chiede troppi campi.\n\nOgnuno si sistema in poche ore. Insieme fanno la differenza tra un sito vetrina e un sito che lavora.\n\n#Audit #SitiWeb #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R15",
+   "titolo": "Il giorno dieci",
+   "tipo": "reel",
+   "quando": "2026-11-24 18:30",
+   "dueAt": "2026-11-24T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R15_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R15.mp4",
+   "durata": 26,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Il giorno dieci, cosa hai in mano?\nUn sito online, con un calendario che conosci dal primo giorno. Due round di revisione. Google dal primo giorno: SEO di base, sitemap, scheda Google Business collegata. E le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#sitiweb #bottegadigitale #pmiitaliane #webdesign #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Il giorno dieci, cosa hai in mano?\n\nIl sito online, due round di revisione fatti, Google dal primo giorno e le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Cosa consegniamo il giorno dieci di un progetto:\n\n1. Il sito online, con un calendario che il cliente conosce dal primo giorno.\n2. Due round di revisione già fatti.\n3. Google dal primo giorno: SEO di base, sitemap, Profilo dell'Attività collegato.\n4. Le chiavi di casa: credenziali, dominio intestato al cliente, una guida per aggiornarlo da solo.\n\nL'ultimo punto è quello che molti dimenticano di chiedere. È anche quello che conta di più quando, un giorno, vorrai cambiare fornitore.\n\n#WebDesign #Trasparenza #PMI",
      "formato": "video",
      "errore": null
     }
