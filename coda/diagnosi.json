@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6aca1de7f91f772d458f19c3",
+        "dueAt": "2026-10-27T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Cosa significa GEO? Te lo diciamo senza giri di parole: è co",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6aca1de7b07d37ac976df660",
+        "dueAt": "2026-10-27T17:30:00.000Z",
+        "sentAt": null,
+        "text": "GEO sta per Generative Engine Optimization: l'insieme di acc",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6aca1de6d9cab260a7c06628",
+        "dueAt": "2026-10-27T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Ge",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6ac95f8af91f772d4572aed4",
         "dueAt": "2026-10-26T11:30:00.000Z",
         "sentAt": null,
@@ -708,45 +747,6 @@
         "dueAt": "2026-10-11T09:00:00.000Z",
         "sentAt": null,
         "text": "Quanto è lontana la tua web agency?\nNoi parliamo italiano e ",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac8ac20599dfbfee2db9f36",
-        "dueAt": "2026-10-10T09:00:00.000Z",
-        "sentAt": null,
-        "text": "Stessa attività, due siti.\n\nVilla Pet Sitter, pet sitter pro",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac8ac204936802f8bcea3d7",
-        "dueAt": "2026-10-10T09:00:00.000Z",
-        "sentAt": null,
-        "text": "Caso reale: Villa Pet Sitter, pet sitter professionale a Bol",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac8ac1f2fb5bb53de190498",
-        "dueAt": "2026-10-10T09:00:00.000Z",
-        "sentAt": null,
-        "text": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter pro",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -1045,6 +1045,45 @@
         "via": "buffer"
       },
       {
+        "id": "6ac8ac20599dfbfee2db9f36",
+        "dueAt": "2026-10-10T09:00:00.000Z",
+        "sentAt": "2026-10-10T09:01:02.722Z",
+        "text": "Stessa attività, due siti.\n\nVilla Pet Sitter, pet sitter pro",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac8ac204936802f8bcea3d7",
+        "dueAt": "2026-10-10T09:00:00.000Z",
+        "sentAt": "2026-10-10T09:01:13.015Z",
+        "text": "Caso reale: Villa Pet Sitter, pet sitter professionale a Bol",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac8ac1f2fb5bb53de190498",
+        "dueAt": "2026-10-10T09:00:00.000Z",
+        "sentAt": "2026-10-10T09:01:54.212Z",
+        "text": "Stessa attività. Due siti.\n\nVilla Pet Sitter, pet sitter pro",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
         "id": "6ac7e535af3660f60d660e7b",
         "dueAt": "2026-10-08T16:59:14.000Z",
         "sentAt": "2026-10-08T16:59:14.000Z",
@@ -1282,8 +1321,8 @@
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Fri, 09 Oct 2026 18:52:38 GMT 2888614",
-    "media/reel/R07.mp4": "200 Fri, 09 Oct 2026 18:52:38 GMT 3173777",
-    "index.html": "200 Fri, 09 Oct 2026 18:52:38 GMT 104461"
+    "media/reel/R02.mp4": "200 Sat, 10 Oct 2026 18:54:40 GMT 2888614",
+    "media/reel/R07.mp4": "200 Sat, 10 Oct 2026 18:54:39 GMT 3173777",
+    "index.html": "200 Sat, 10 Oct 2026 18:54:40 GMT 104461"
   }
 }
