@@ -1,37 +1,6 @@
 {
- "aggiornato": "2026-10-10T18:52+00:00",
+ "aggiornato": "2026-10-11T18:55+00:00",
  "contenuti": [
-  {
-   "id": "R35",
-   "titolo": "Distanza zero",
-   "tipo": "reel",
-   "quando": "2026-10-11 11:00",
-   "dueAt": "2026-10-11T09:00:00.000Z",
-   "slide": [],
-   "poster": "img/R35_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R35.mp4",
-   "durata": 25,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Quanto è lontana la tua web agency?\nNoi parliamo italiano e lavoriamo da Bologna. Conosciamo le PMI perché ci viviamo in mezzo. La distanza zero è il nostro vantaggio.\nScrivici: diecibottega.it\n#bologna #pmiitaliane #prossimita #bottegadigitale #sitiweb",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Quanto è lontana la tua web agency?\n\nNoi parliamo italiano, lavoriamo da Bologna e conosciamo le piccole attività perché ci viviamo in mezzo. Distanza zero.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Quanto è lontana la tua web agency?\n\nNon parliamo di chilometri. Parliamo di quanto conosce il tuo mercato, la tua città, il modo in cui i tuoi clienti cercano e scelgono.\n\nNoi lavoriamo da Bologna, con PMI italiane, in italiano. Conosciamo le attività perché ci passiamo davanti ogni giorno.\n\nLa distanza zero è il nostro vantaggio competitivo.\n\n#Bologna #PMI #Prossimità",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "P05",
    "titolo": "Tip Visite",
@@ -457,19 +426,19 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 design, 6-8 sviluppo, 9-10 online. Ogni fase ha il suo giorno: per questo ti diciamo prima quando sarai online.\n\nDomande sul metodo? Scrivile qui sotto.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un calendario, non con la fretta:\nGiorno 1–2 · Brief e questionario. Ascoltiamo prima di costruire.\nGiorno 3–5 · Design. AI-assisted, curato a mano. Due round di revisione.\nGiorno 6–8 · Sviluppo. Codice scritto a mano.\nGiorno 9–10 · SEO di base, test su più dispositivi, online. Credenziali consegnate al cliente.\n\nQuando ogni fase ha il suo giorno, la data di consegna smette di essere una promessa e diventa un piano.\n\n#Processi #WebDesign #PMI",
      "formato": "video",
      "errore": null
@@ -998,6 +967,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Cosa consegniamo il giorno dieci di un progetto:\n\n1. Il sito online, con un calendario che il cliente conosce dal primo giorno.\n2. Due round di revisione già fatti.\n3. Google dal primo giorno: SEO di base, sitemap, Profilo dell'Attività collegato.\n4. Le chiavi di casa: credenziali, dominio intestato al cliente, una guida per aggiornarlo da solo.\n\nL'ultimo punto è quello che molti dimenticano di chiedere. È anche quello che conta di più quando, un giorno, vorrai cambiare fornitore.\n\n#WebDesign #Trasparenza #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S11",
+   "titolo": "Due idraulici",
+   "tipo": "reel",
+   "quando": "2026-11-25 18:30",
+   "dueAt": "2026-11-25T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Due idraulici, stessa via. Tu chi chiameresti?\nA: «Benvenuti nel sito della ditta», foto stock, numero in fondo. B: cosa fa e dove in una riga, la faccia del titolare, il bottone per chiamare in alto. In emergenza, da telefono, si decide in tre secondi.\nA o B nei commenti.\n#idraulico #artigiani #sitiweb #bologna #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Due idraulici, stessa via. Uno ha \"Benvenuti nel sito della ditta\" e il numero in fondo. L'altro ha la sua faccia e il bottone per chiamare in alto.\n\nIn emergenza, tu chi chiami? A o B?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Due idraulici, stessa via, stesso mestiere. Magari stessa bravura.\n\nIl primo sito: \"Benvenuti nel sito della ditta\", foto stock, numero in fondo.\nIl secondo: \"Idraulico a Bologna, pronto intervento\", la faccia del titolare, il bottone per chiamare in alto.\n\nIn emergenza, da telefono, si decide in tre secondi.\n\nIl sito non ti rende più bravo. Ti fa sembrare bravo quanto sei.\n\n#Artigiani #SitiWeb #PMI",
      "formato": "video",
      "errore": null
     }
