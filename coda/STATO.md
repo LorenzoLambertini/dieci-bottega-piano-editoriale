@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 11/10/2026, 13:27:17
+Ultimo controllo: 11/10/2026, 22:58:09
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -51,7 +51,7 @@ Ultimo controllo: 11/10/2026, 13:27:17
 - 22/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
 - 26/10/26, 12:30 · 2020. Nessuno dei due immaginava Dieci Bottega. Siamo Lorenzo e Tommas
 - 27/10/26, 18:30 · Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi t
-- 29/10/26, 18:30 · 
+- 29/10/26, 18:30 · Come nasce un sito in dieci giorni. Giorno 1-2 brief, 3-5 design, 6-8 
 
 ### linkedin
 
@@ -64,7 +64,7 @@ Ultimo controllo: 11/10/2026, 13:27:17
 - 22/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
 - 26/10/26, 12:30 · Sei anni prima di Dieci Bottega, eravamo già in due. Questa foto è del
 - 27/10/26, 18:30 · GEO sta per Generative Engine Optimization: l'insieme di accorgimenti 
-- 29/10/26, 18:30 · 
+- 29/10/26, 18:30 · Come si fa un sito in dieci giorni senza farlo male? Con un calendario
 
 ### instagram
 
@@ -77,7 +77,7 @@ Ultimo controllo: 11/10/2026, 13:27:17
 - 22/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
 - 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
 - 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
-- 29/10/26, 18:30 · 
+- 29/10/26, 18:30 · Come nasce un sito in 10 giorni. Giorno 1–2 brief, 3–5 design, 6–8 svi
 
 
 ## Ultime sostituzioni automatiche

@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6acb7295f91f772d45c6233e",
+        "dueAt": "2026-10-29T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6acb7294d9cab260a7f648b8",
+        "dueAt": "2026-10-29T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 d",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6acb7294bba9419ccb338414",
+        "dueAt": "2026-10-29T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 desi",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6aca1de7f91f772d458f19c3",
         "dueAt": "2026-10-27T17:30:00.000Z",
         "sentAt": null,
@@ -708,45 +747,6 @@
         "dueAt": "2026-10-20T16:30:00.000Z",
         "sentAt": null,
         "text": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac8ac21599dfbfee2db9fa0",
-        "dueAt": "2026-10-11T09:00:00.000Z",
-        "sentAt": null,
-        "text": "Quanto è lontana la tua web agency?\n\nNoi parliamo italiano, ",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac8ac212fb5bb53de190514",
-        "dueAt": "2026-10-11T09:00:00.000Z",
-        "sentAt": null,
-        "text": "Quanto è lontana la tua web agency?\n\nNon parliamo di chilome",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac8ac212fb5bb53de1904e1",
-        "dueAt": "2026-10-11T09:00:00.000Z",
-        "sentAt": null,
-        "text": "Quanto è lontana la tua web agency?\nNoi parliamo italiano e ",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -1045,6 +1045,45 @@
         "via": "buffer"
       },
       {
+        "id": "6ac8ac21599dfbfee2db9fa0",
+        "dueAt": "2026-10-11T09:00:00.000Z",
+        "sentAt": "2026-10-11T09:01:10.404Z",
+        "text": "Quanto è lontana la tua web agency?\n\nNoi parliamo italiano, ",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac8ac212fb5bb53de190514",
+        "dueAt": "2026-10-11T09:00:00.000Z",
+        "sentAt": "2026-10-11T09:01:20.667Z",
+        "text": "Quanto è lontana la tua web agency?\n\nNon parliamo di chilome",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac8ac212fb5bb53de1904e1",
+        "dueAt": "2026-10-11T09:00:00.000Z",
+        "sentAt": "2026-10-11T09:03:02.243Z",
+        "text": "Quanto è lontana la tua web agency?\nNoi parliamo italiano e ",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
         "id": "6ac8ac20599dfbfee2db9f36",
         "dueAt": "2026-10-10T09:00:00.000Z",
         "sentAt": "2026-10-10T09:01:02.722Z",
@@ -1321,8 +1360,8 @@
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Sat, 10 Oct 2026 18:54:40 GMT 2888614",
-    "media/reel/R07.mp4": "200 Sat, 10 Oct 2026 18:54:39 GMT 3173777",
-    "index.html": "200 Sat, 10 Oct 2026 18:54:40 GMT 104461"
+    "media/reel/R02.mp4": "200 Sun, 11 Oct 2026 18:58:14 GMT 2888614",
+    "media/reel/R07.mp4": "200 Sun, 11 Oct 2026 18:58:14 GMT 3173777",
+    "index.html": "200 Sun, 11 Oct 2026 18:58:14 GMT 104461"
   }
 }
