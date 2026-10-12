@@ -1,41 +1,6 @@
 {
   "facebook": [
     {
-      "id": "6ac67b47e59f0d0f6165cabe",
-      "dueAt": "2026-10-12T10:30:00.000Z",
-      "text": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il motivo è uno di questi 5: il contatto è in fondo, il modulo chiede troppo, non si capisce cosa fai, il numero non si può toccare da telefono, nessuno risponde in fretta.\n\nQuanti ne trovi sul tuo sito? Scrivici qui sotto o in privato: ti diciamo noi.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide01.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide02.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide03.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide04.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide05.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide06.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide07.png",
-          "tipo": "image/png"
-        }
-      ]
-    },
-    {
       "id": "6ac5f115203d24e39e12359d",
       "dueAt": "2026-10-13T16:30:00.000Z",
       "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nChiediamo all'AI otto varianti, poi scegliamo noi quella giusta. L'AI è uno strumento, il criterio resta mestiere.\n\nTu come lo scriveresti il bottone del tuo sito?",
@@ -189,20 +154,20 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6accdd51ddeaf8c524ec6874",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "text": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o blocchi il sito?\n\nQuasi tutti sbagliano. Rispondi nei commenti, poi guarda il video.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "linkedin": [
-    {
-      "id": "6ac67b475dd7df060c6d94c1",
-      "dueAt": "2026-10-12T10:30:00.000Z",
-      "text": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/carosello.pdf",
-          "tipo": "application/pdf"
-        }
-      ]
-    },
     {
       "id": "6ac5f11536c2a7788dd39fdc",
       "dueAt": "2026-10-13T16:30:00.000Z",
@@ -301,44 +266,20 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6accdd518130a0adb8ee6bae",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "text": "Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad accettare.\n\nE c'è di più: anche scorrere la pagina non vale come consenso. Serve un sì esplicito. (Garante Privacy, linee guida 2021)\n\nPer chi ha un sito aziendale vuol dire controllare due cose: che la X ci sia, e che il sito non tratti la chiusura o lo scroll come un consenso.\n\nSono dettagli tecnici, ma su un sito in regola non si discute.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "instagram": [
-    {
-      "id": "6ac6c0b357f9bd074d1a376c",
-      "dueAt": "2026-10-12T10:30:00.000Z",
-      "text": "Più visite non vuol dire più clienti. Spesso il problema è in 5 punti che si sistemano in un pomeriggio.\nQuanti ne hai trovati sul tuo sito?\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide01.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide02.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide03.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide04.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide05.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide06.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P05/slide07.png",
-          "tipo": "image/png"
-        }
-      ]
-    },
     {
       "id": "6ac7c7686d8b6991f804c080",
       "dueAt": "2026-10-13T16:30:00.000Z",
@@ -490,6 +431,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R08.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6accdd516ca198afcba6a779",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "text": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accetti tutto\nB) Il sito si blocca\nC) Rifiuti\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito in regola, cookie compresi.\n\nFonte: Garante Privacy · linee guida 2021\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #cookie #gdpr #privacy",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
           "tipo": "video/mp4"
         }
       ]

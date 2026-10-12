@@ -765,17 +765,20 @@
         "instagram": {
           "testo": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accetti tutto\nB) Il sito si blocca\nC) Rifiuti\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito in regola, cookie compresi.\n\nFonte: Garante Privacy · linee guida 2021\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #cookie #gdpr #privacy",
           "video": "media/reel/R09.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6accdd516ca198afcba6a779"
         },
         "facebook": {
           "testo": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o blocchi il sito?\n\nQuasi tutti sbagliano. Rispondi nei commenti, poi guarda il video.",
           "video": "media/reel/R09.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6accdd51ddeaf8c524ec6874"
         },
         "linkedin": {
           "testo": "Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad accettare.\n\nE c'è di più: anche scorrere la pagina non vale come consenso. Serve un sì esplicito. (Garante Privacy, linee guida 2021)\n\nPer chi ha un sito aziendale vuol dire controllare due cose: che la X ci sia, e che il sito non tratti la chiusura o lo scroll come un consenso.\n\nSono dettagli tecnici, ma su un sito in regola non si discute.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
           "video": "media/reel/R09.mp4",
-          "stato": "da_programmare"
+          "stato": "gia_in_buffer",
+          "bufferId": "6accdd518130a0adb8ee6bae"
         }
       }
     },

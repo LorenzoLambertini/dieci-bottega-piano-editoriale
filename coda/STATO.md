@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 11/10/2026, 22:58:09
+Ultimo controllo: 13/10/2026, 01:37:44
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 11/10/2026, 22:58:09
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-12 12:30 | P05 | Tip Visite | programmato | programmato | programmato |
 | 2026-10-13 18:30 | R03 | Il bottone | programmato | programmato | programmato |
 | 2026-10-14 18:30 | P06 | Reel Dettaglio | manca_video | manca_video | manca_video |
 | 2026-10-15 18:30 | R04 | Tre secondi su mobile | programmato | programmato | programmato |
@@ -25,7 +24,6 @@ Ultimo controllo: 11/10/2026, 22:58:09
 | 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
 | 2026-10-29 18:30 | R08 | Da zero a online | programmato | programmato | programmato |
 | 2026-11-02 18:30 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
-| 2026-11-03 18:30 | R09 | La X dei cookie | da_programmare | da_programmare | da_programmare |
 | 2026-11-04 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
 | 2026-11-05 18:30 | R23 | Perche Bottega | da_programmare | da_programmare | da_programmare |
 | 2026-11-06 18:30 | S03 | Il passaparola non basta | manca_video | manca_video | manca_video |
@@ -37,12 +35,13 @@ Ultimo controllo: 11/10/2026, 22:58:09
 | 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
 | 2026-11-17 18:30 | R13 | A volte diciamo di no | da_programmare | da_programmare | da_programmare |
 | 2026-11-18 18:30 | S08 | Cosa c'è in 800 € | manca_video | manca_video | manca_video |
+| 2026-11-19 18:30 | R14 | Rispondere entro un’ora | da_programmare | da_programmare | da_programmare |
+| 2026-11-20 18:30 | S09 | Le 5 domande | manca_video | manca_video | manca_video |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 12/10/26, 12:30 · Il tuo sito ha visite ma nessuno ti scrive? Di solito il motivo è uno 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Chiediamo all'AI otto variant
 - 15/10/26, 18:30 · Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora t
 - 16/10/26, 12:30 · Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no. L'AI ci ai
@@ -52,10 +51,10 @@ Ultimo controllo: 11/10/2026, 22:58:09
 - 26/10/26, 12:30 · 2020. Nessuno dei due immaginava Dieci Bottega. Siamo Lorenzo e Tommas
 - 27/10/26, 18:30 · Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi t
 - 29/10/26, 18:30 · Come nasce un sito in dieci giorni. Giorno 1-2 brief, 3-5 design, 6-8 
+- 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o bloc
 
 ### linkedin
 
-- 12/10/26, 12:30 · Il tuo sito ha visite. Nessuno ti scrive. Più traffico non vuol dire p
 - 13/10/26, 18:30 · Quanto ci vuole a scrivere il testo di un bottone? Con l'AI, pochi sec
 - 15/10/26, 18:30 · Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% dell
 - 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
@@ -65,10 +64,10 @@ Ultimo controllo: 11/10/2026, 22:58:09
 - 26/10/26, 12:30 · Sei anni prima di Dieci Bottega, eravamo già in due. Questa foto è del
 - 27/10/26, 18:30 · GEO sta per Generative Engine Optimization: l'insieme di accorgimenti 
 - 29/10/26, 18:30 · Come si fa un sito in dieci giorni senza farlo male? Con un calendario
+- 03/11/26, 18:30 · Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad 
 
 ### instagram
 
-- 12/10/26, 12:30 · Più visite non vuol dire più clienti. Spesso il problema è in 5 punti 
 - 13/10/26, 18:30 · Un bottone. Quanto ci vuole a scriverlo? Per noi ogni font, ogni micro
 - 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
 - 16/10/26, 12:30 · Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no
@@ -78,6 +77,7 @@ Ultimo controllo: 11/10/2026, 22:58:09
 - 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
 - 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
 - 29/10/26, 18:30 · Come nasce un sito in 10 giorni. Giorno 1–2 brief, 3–5 design, 6–8 svi
+- 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
 
 
 ## Ultime sostituzioni automatiche
