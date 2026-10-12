@@ -1,45 +1,6 @@
 {
- "aggiornato": "2026-10-11T18:55+00:00",
+ "aggiornato": "2026-10-12T18:51+00:00",
  "contenuti": [
-  {
-   "id": "P05",
-   "titolo": "Tip Visite",
-   "tipo": "carosello",
-   "quando": "2026-10-12 12:30",
-   "dueAt": "2026-10-12T10:30:00.000Z",
-   "slide": [
-    "img/P05_01.jpg",
-    "img/P05_02.jpg",
-    "img/P05_03.jpg",
-    "img/P05_04.jpg",
-    "img/P05_05.jpg",
-    "img/P05_06.jpg",
-    "img/P05_07.jpg"
-   ],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Più visite non vuol dire più clienti. Spesso il problema è in 5 punti che si sistemano in un pomeriggio.\nQuanti ne hai trovati sul tuo sito?\n\n#bologna #pmiitaliane #sitiweb #webdesign #piccoleimprese",
-     "formato": "immagini",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il motivo è uno di questi 5: il contatto è in fondo, il modulo chiede troppo, non si capisce cosa fai, il numero non si può toccare da telefono, nessuno risponde in fretta.\n\nQuanti ne trovi sul tuo sito? Scrivici qui sotto o in privato: ti diciamo noi.",
-     "formato": "immagini",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non vuol dire più contatti. Quando un sito riceve visite ma nessuna richiesta, di solito il problema è in uno di questi cinque punti:\n\n1. Il contatto è in fondo. Da telefono nessuno scorre fino al footer.\n2. Il form chiede troppo. Ogni campo in più è un motivo per chiudere la pagina.\n3. Non si capisce cosa fai. Hai cinque secondi, e \"qualità e professionalità\" lo scrivono tutti.\n4. Il numero non si tocca. Da telefono deve partire la chiamata, non servire un copia e incolla.\n5. Nessuno risponde in fretta. Il sito funziona, è il processo dopo che si ferma.\n\nLa buona notizia: quasi tutti si sistemano in un pomeriggio.\n\nQuanti ne ritrovi sul tuo sito?\n\n#PMI #WebDesign #LeadGeneration",
-     "formato": "documento",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "R03",
    "titolo": "Il bottone",
@@ -998,6 +959,37 @@
     "linkedin": {
      "stato": "manca_video",
      "testo": "Due idraulici, stessa via, stesso mestiere. Magari stessa bravura.\n\nIl primo sito: \"Benvenuti nel sito della ditta\", foto stock, numero in fondo.\nIl secondo: \"Idraulico a Bologna, pronto intervento\", la faccia del titolare, il bottone per chiamare in alto.\n\nIn emergenza, da telefono, si decide in tre secondi.\n\nIl sito non ti rende più bravo. Ti fa sembrare bravo quanto sei.\n\n#Artigiani #SitiWeb #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R16",
+   "titolo": "Quale testo si legge",
+   "tipo": "reel",
+   "quando": "2026-11-26 18:30",
+   "dueAt": "2026-11-26T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R16_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R16.mp4",
+   "durata": 30,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Quale testo si legge davvero? A o B nei commenti.\nTitoli chiari, prime parole che contano, frasi brevi. Online quasi nessuno legge parola per parola. Come lo fa, te lo diciamo nel video.\n#copywriting #webdesign #sitiweb #pmiitaliane #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Due testi per un'officina: un muro di parole o titolo chiaro e frasi brevi. Quale leggi davvero, A o B?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Online quasi nessuno legge parola per parola. Si scansiona.\n\nGli studi di Nielsen Norman Group lo confermano: due passate in alto, poi lo sguardo scende lungo il margine sinistro. Contano il titolo e le prime parole di ogni riga.\n\nPer il sito di una PMI vuol dire: titoli che dicono cosa fai, frasi brevi, servizi in elenco. Il resto, semplicemente, non viene letto.\n\n#Copywriting #UX #PMI",
      "formato": "video",
      "errore": null
     }

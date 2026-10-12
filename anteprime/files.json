@@ -1,12 +1,5 @@
 {
  "data.json": "anteprime/data.json",
- "img/P05_01.jpg": "anteprime/img/P05_01.jpg",
- "img/P05_02.jpg": "anteprime/img/P05_02.jpg",
- "img/P05_03.jpg": "anteprime/img/P05_03.jpg",
- "img/P05_04.jpg": "anteprime/img/P05_04.jpg",
- "img/P05_05.jpg": "anteprime/img/P05_05.jpg",
- "img/P05_06.jpg": "anteprime/img/P05_06.jpg",
- "img/P05_07.jpg": "anteprime/img/P05_07.jpg",
  "img/P07_01.jpg": "anteprime/img/P07_01.jpg",
  "img/P07_02.jpg": "anteprime/img/P07_02.jpg",
  "img/P07_03.jpg": "anteprime/img/P07_03.jpg",
@@ -40,5 +33,6 @@
  "img/R13_poster.jpg": "anteprime/img/R13_poster.jpg",
  "img/R14_poster.jpg": "anteprime/img/R14_poster.jpg",
  "img/R15_poster.jpg": "anteprime/img/R15_poster.jpg",
+ "img/R16_poster.jpg": "anteprime/img/R16_poster.jpg",
  "img/R23_poster.jpg": "anteprime/img/R23_poster.jpg"
 }
