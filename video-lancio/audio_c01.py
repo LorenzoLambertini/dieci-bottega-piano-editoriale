@@ -2,7 +2,7 @@
 """Colonna sonora originale del video di lancio (sintetizzata: nessun diritto d'autore).
 Musica calda + effetti sincronizzati ai movimenti di lancio.html."""
 import numpy as np, wave, sys
-SR = 48000; DUR = 46.0
+SR = 48000; DUR = 54.0
 n = int(DUR * SR); tt = np.arange(n) / SR
 rng = np.random.default_rng(10)
 def env(L, a=.005, r=.2): x = np.arange(L) / SR; return np.minimum(1, x / a) * np.exp(-x / r)
@@ -38,11 +38,11 @@ def bass(f, dur):
 tb=0.0; b=0
 while tb < DUR:
     ch=chords[b%4]
-    vol = .03 if tb<39.6 else .026
+    vol = .026 if tb<46.8 else .024
     add(music, pad(ch, bar), tb, vol)
     for q in range(4):
         tq=tb+q*beat
-        if tq<45.0:
+        if tq<53.0:
             if q in (0,2): add(music, kick, tq, .5)
             if q in (1,3) and tq>=1.2: add(music, snap, tq, .1)
             if tq>=1.2: add(music, hat, tq+beat/2, .09); add(music, hat, tq+beat/4, .04)
@@ -52,7 +52,7 @@ while tb < DUR:
 Lr=int(1.4*SR); xr=np.arange(Lr)/SR
 riser=rng.normal(0,1,Lr); spec=np.fft.rfft(riser); fr=np.fft.rfftfreq(Lr,1/SR)
 riser=np.fft.irfft(spec*np.exp(-((fr-2500)/2200)**2),Lr)*(xr/1.4)**2
-add(music, riser/np.abs(riser).max(), 31.8, .12)
+add(music, riser/np.abs(riser).max(), 39.0, .12)
 # effetti
 Lw=int(.45*SR); xw=np.arange(Lw)/SR; nz=rng.normal(0,1,Lw); sp=np.fft.rfft(nz); fq=np.fft.rfftfreq(Lw,1/SR)
 whoosh=np.zeros(Lw)
@@ -69,25 +69,29 @@ Lh=int(.6*SR); xh=np.arange(Lh)/SR
 thud=np.sin(2*np.pi*(40+60*np.exp(-xh*20))*xh)*env(Lh,.002,.22)
 Lk=int(.03*SR); click=rng.normal(0,1,Lk)*env(Lk,.0005,.004)
 
-T=dict(B=5.6,C=13.4,D=21.2,E=29.0,F=33.2,G=39.6)
-for k,v in T.items(): add(sfx, whoosh, v-.42, .32)
+T=dict(B=13.6,C=21.4,D=29.4,E=36.2,F=40.4,G=46.8)
+for k,v in T.items(): add(sfx, whoosh, v-.42, .3)
 B,C,D,E,F,G=T['B'],T['C'],T['D'],T['E'],T['F'],T['G']
-for at in (0.1, 0.42, 0.74): add(sfx, tick, at, .2)          # righe del gancio
-add(sfx, chime, 3.2, .14)                                     # compare il contatore
-for i in range(3): add(sfx, tock, B+2.2+i*1.0, .38)           # conto alla rovescia 3-2-1
-add(sfx, thud, B+5.2, .5)                                     # X
-for at in (B+5.2, C+5.0, D+5.0): add(sfx, chime, at+.05, .18) # errore contato
-add(sfx, click, C+2.45, .9); add(sfx, tock, C+2.9, .3)         # tocco a vuoto sul numero
-for i in range(5): add(sfx, tick, C+3.4+i*.45, .18)           # i 5 passaggi
-for i in range(14): add(sfx, click, D+1.3+i*.09+0.02*(i%3), .5) # digitazione ricerca
-add(sfx, click, D+4.75, .9)                                   # tocco sul vicino
-for i in range(4): add(sfx, tock, E+1.2+i*.22, .3)            # bolle 0-3
+add(sfx, chime, .6, .12)                                      # contatore
+for at in (.5, 2.6, 3.4, 6.8): add(sfx, tock, at, .3)         # istruzioni
+for i in range(6): add(sfx, tick, 4.0+i*.3, .1)                # il pollice sale
+add(sfx, tock, 6.0, .45); add(sfx, tock, 6.25, .3)            # non ci arriva
+add(sfx, thud, 8.6, .5)                                       # errore 1
+add(sfx, chime, 11.0, .22)                                    # soluzione
+add(sfx, tock, B+.4, .3); add(sfx, chime, B+2.6, .16); add(sfx, thud, B+5.0, .5)
+add(sfx, tock, C+.3, .3)
+for i,at in enumerate((1.6, 2.3, 2.9, 3.6)): add(sfx, tock, C+at, .45); add(sfx, click, C+at, .6)
+add(sfx, thud, C+5.0, .5)
+add(sfx, tock, D+.5, .3)
+for i in range(9): add(sfx, tick, D+.4+i*.5, .14)             # orologio dell'attesa
+add(sfx, thud, D+5.0, .5)
+for i in range(5): add(sfx, tock, E+1.2+i*.2, .3)              # bolle 0-4
 add(sfx, thud, F+.45, .55)                                    # timbro GRATIS
-for i in range(10): add(sfx, tick, F+4.1+i*.09, .12)          # 10 posti
-add(sfx, click, G+1.55, .9)                                   # Segui
-for i in range(7): add(sfx, click, G+2.9+i*.19, .55)           # ANALISI
-add(sfx, click, G+4.45, .9); add(sfx, chime, G+4.7, .25)       # pubblica + cuore
-add(sfx, chime, G+5.5, .3)                                    # logo
+for i in range(10): add(sfx, tick, F+4.2+i*.09, .12)          # 10 posti
+add(sfx, click, G+2.5, .9); add(sfx, chime, G+2.55, .2)        # Segui, facile
+for i in range(7): add(sfx, click, G+3.9+i*.19, .55)           # ANALISI
+add(sfx, click, G+5.45, .9); add(sfx, chime, G+5.7, .25)       # pubblica + cuore
+add(sfx, chime, G+6.3, .28)
 
 music += .22*np.concatenate([np.zeros(int(.09*SR)), music[:-int(.09*SR)]])
 music *= np.clip((DUR-tt)/1.8,0,1)
