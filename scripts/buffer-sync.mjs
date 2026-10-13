@@ -192,7 +192,10 @@ async function main() {
       if (!canale) continue;
       const due = new Date(item.dueAt).getTime();
       if (due < ora + MARGINE_MS) { c.stato = "scaduto"; cambiato = true; log(`· ${item.id} ${servizio}: data passata, segnato scaduto`); continue; }
-      const stessoGiorno = (programmati[canale.id] || []).find((p) => p.dueAt && giornoRoma(p.dueAt) === giornoRoma(item.dueAt));
+      // un post già su Buffer quel giorno vale come "questo contenuto caricato a mano" solo se non appartiene a un altro contenuto della coda
+      // (così un contenuto extra nello stesso giorno, es. C01 alle 12:30, non blocca quello delle 18:30)
+      const altrui = new Set(coda.contenuti.filter((i) => i !== item).map((i) => i.canali[servizio]?.bufferId).filter(Boolean));
+      const stessoGiorno = (programmati[canale.id] || []).find((p) => p.dueAt && giornoRoma(p.dueAt) === giornoRoma(item.dueAt) && !altrui.has(p.id));
       if (stessoGiorno) { c.stato = "gia_in_buffer"; c.bufferId = stessoGiorno.id; cambiato = true; log(`· ${item.id} ${servizio}: c'è già un post quel giorno, lo considero fatto`); continue; }
       if (liberi[servizio] <= 0) continue;
 

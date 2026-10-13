@@ -337,6 +337,32 @@
       }
     },
     {
+      "id": "C01",
+      "titolo": "3 errori · analisi gratuita",
+      "formato": "Conversione",
+      "tipo": "reel",
+      "quando": "2026-10-14 12:30",
+      "dueAt": "2026-10-14T10:30:00.000Z",
+      "nota": "Contenuto extra fuori piano (richiesto da Lorenzo il 13/10). Offerta: analisi gratuita fino al 31/10/2026, prime 10 attività. Trigger: commento ANALISI → risposta in DM a mano.",
+      "canali": {
+        "instagram": {
+          "testo": "3 errori che ti fanno perdere clienti. Quanti ne trovi nella tua attività?\n\n1. Dal sito non si capisce cosa fai e dove sei.\n2. Per contattarti servono troppi passaggi.\n3. Su Google hai orari vecchi e nessuna foto.\n\nFino al 31 ottobre facciamo un'analisi gratuita del tuo sito e della tua attività online: ti diciamo cosa sistemare e come, per avere più clienti. Solo per le prime 10 attività.\n\nCome averla: seguici e commenta ANALISI. Ti scriviamo noi in privato.\n\n#bologna #pmiitaliane #sitiweb #piccoleimprese #bottegadigitale",
+          "video": "media/reel/C01.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Tre errori che fanno perdere clienti a tante attività, anche qui a Bologna:\n\n1. Dal sito non si capisce cosa fai e dove sei.\n2. Per contattarti servono troppi passaggi: numero che non si tocca, modulo lunghissimo.\n3. Su Google ci sono orari vecchi e nessuna foto.\n\nFino al 31 ottobre guardiamo gratis il tuo sito e la tua presenza online e ti diciamo cosa sistemare, e come, per avere più clienti. Solo per le prime 10 attività.\n\nSegui la pagina e scrivi ANALISI qui sotto (o in privato): ti contattiamo noi.",
+          "video": "media/reel/C01.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Molte piccole attività perdono clienti prima ancora di sentirli. Non per il prezzo o per il servizio, ma per tre dettagli:\n\n1. Dal sito non si capisce in pochi secondi cosa fanno e dove sono.\n2. Per contattarle servono troppi passaggi: numero non cliccabile, moduli lunghi.\n3. La scheda Google è trascurata: orari vecchi, nessuna foto.\n\nSono tutti problemi che si sistemano. Il difficile è vederli dall'interno.\n\nPer questo, fino al 31 ottobre, offriamo un'analisi gratuita del sito e della presenza online alle prime 10 attività che ce la chiedono: vi diciamo cosa sistemare, in che ordine e come.\n\nPer richiederla seguite la pagina e commentate ANALISI, oppure scriveteci in privato.\n\n#PMI #SitiWeb #Bologna",
+          "video": "media/reel/C01.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
       "id": "P06",
       "titolo": "Reel Dettaglio",
       "tipo": "reel",

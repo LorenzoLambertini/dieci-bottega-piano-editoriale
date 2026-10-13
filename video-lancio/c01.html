@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="it"><head><meta charset="utf-8">
+<style>
+/* Dieci Bottega · C01 "3 errori che ti fanno perdere clienti" + analisi gratuita (fino al 31/10/2026) · 1080x1920
+   Stessa grammatica di movimento di R05: entrata (0.2,0,0,1), uscita (0.3,0,1,1), spostamenti (0.4,0,0.2,1) */
+@font-face{font-family:Archivo;src:url(assets/Archivo.ttf);font-weight:100 900;font-stretch:62% 125%}
+@font-face{font-family:Cardo;src:url(assets/Cardo-Italic.ttf);font-style:italic}
+@font-face{font-family:Mono;src:url(assets/JetBrainsMono.ttf);font-weight:100 800}
+:root{--obs:#1A1414;--rose:#E63B2E;--ivory:#F4EFE6;--peach:#F2B8A2;--plum:#4A3838;--ash:#E8E2D6}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--obs)}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden;font-family:Archivo}
+.scene{position:absolute;inset:0;overflow:hidden;visibility:hidden}
+.abs{position:absolute}
+.mono{font-family:Mono;font-weight:500;letter-spacing:.12em;text-transform:uppercase}
+.disp{font-weight:900;text-transform:uppercase;letter-spacing:-.04em;line-height:.9}
+.serif{font-family:Cardo;font-style:italic}
+.mask{overflow:hidden;display:block}.mask>span{display:block}
+.panel{position:absolute;left:0;width:1080px;height:1920px;z-index:50}
+#bar{position:absolute;left:80px;top:150px;width:920px;height:6px;z-index:60;border-radius:3px;overflow:hidden}
+#bar i{display:block;height:100%;width:0}
+#grain{position:absolute;inset:-40px;z-index:70;opacity:.05;mix-blend-mode:overlay}
+.num{font-family:Mono;font-weight:800;font-size:200px;letter-spacing:-.04em;line-height:1}
+.step{position:absolute;left:80px;width:920px;display:flex;gap:34px;align-items:center;padding:34px 40px;border-radius:28px}
+.step b{font-family:Mono;font-weight:800;font-size:64px;width:96px;height:96px;border-radius:50%;display:grid;place-items:center;flex:none}
+.dots{position:absolute;left:80px;top:1180px;display:flex;gap:22px}
+.dots i{display:block;width:120px;height:120px;border-radius:50%;border:4px solid var(--ivory);font-family:Mono;font-style:normal;font-weight:800;font-size:52px;color:var(--ivory);display:grid;place-items:center}
+</style></head><body>
+<div id="stage">
+  <div id="bar"><i></i></div>
+
+  <!-- A · gancio -->
+  <section class="scene" id="A" style="background:var(--rose)">
+    <div class="abs mono" id="A_l" style="left:80px;top:220px;font-size:26px;color:var(--ivory)">Sito · Google · contatti</div>
+    <div class="abs disp" id="A_h" style="left:76px;top:400px;font-size:168px;color:var(--ivory)"><span class="mask"><span>3 errori</span></span><span class="mask"><span>che ti fanno</span></span><span class="mask"><span>perdere</span></span><span class="mask"><span>clienti.</span></span></div>
+    <div class="abs serif" id="A_s" style="left:80px;top:1150px;font-size:84px;color:var(--obs)"><span class="mask"><span>Controlla il tuo, adesso.</span></span></div>
+  </section>
+
+  <!-- B · errore 1 -->
+  <section class="scene" id="B" style="background:var(--ivory)">
+    <div class="abs num" id="B_n" style="left:68px;top:240px;color:var(--rose)">01</div>
+    <div class="abs disp" id="B_h" style="left:76px;top:500px;font-size:132px;color:var(--obs);letter-spacing:-.035em"><span class="mask"><span>Non si capisce</span></span><span class="mask"><span>cosa fai.</span></span></div>
+    <div class="abs serif" id="B_q" style="left:80px;top:840px;font-size:120px;color:var(--plum)">«Benvenuti.»<i id="B_x" class="abs" style="left:0;top:72px;height:8px;width:0;background:var(--rose)"></i></div>
+    <div class="abs" id="B_s" style="left:80px;top:1060px;width:920px;font-size:52px;font-weight:600;line-height:1.2;color:var(--obs)">Chi arriva da telefono decide in pochi secondi. In alto servono <span style="color:var(--rose);font-weight:800">cosa fai e dove sei.</span></div>
+  </section>
+
+  <!-- C · errore 2 -->
+  <section class="scene" id="C" style="background:var(--obs)">
+    <div class="abs num" id="C_n" style="left:68px;top:240px;color:var(--peach)">02</div>
+    <div class="abs disp" id="C_h" style="left:76px;top:500px;font-size:132px;color:var(--ivory);letter-spacing:-.035em"><span class="mask"><span>Per scriverti</span></span><span class="mask"><span>servono</span></span><span class="mask"><span>5 passaggi.</span></span></div>
+    <div class="dots" id="C_d"><i>1</i><i>2</i><i>3</i><i>4</i><i>5</i></div>
+    <div class="abs" id="C_s" style="left:80px;top:1380px;width:920px;font-size:52px;font-weight:600;line-height:1.2;color:var(--ivory)">Numero che non si tocca, modulo lungo un chilometro. <span style="color:var(--peach);font-weight:800">Deve bastare un tocco.</span></div>
+  </section>
+
+  <!-- D · errore 3 -->
+  <section class="scene" id="D" style="background:var(--peach)">
+    <div class="abs num" id="D_n" style="left:68px;top:240px;color:var(--rose)">03</div>
+    <div class="abs disp" id="D_h" style="left:76px;top:500px;font-size:118px;color:var(--plum);letter-spacing:-.035em"><span class="mask"><span>Su Google</span></span><span class="mask"><span>orari vecchi</span></span><span class="mask"><span>e zero foto.</span></span></div>
+    <div class="abs" id="D_c" style="left:80px;top:1000px;width:920px;padding:34px 40px;border-radius:26px;background:var(--ivory);color:var(--obs)">
+      <div style="font-weight:800;font-size:54px;letter-spacing:-.02em">La tua attività</div>
+      <div class="mono" style="font-size:24px;margin-top:14px;color:var(--plum);letter-spacing:.06em">Orari non aggiornati · nessuna foto</div>
+      <div class="mono" id="D_k" style="font-size:24px;margin-top:10px;color:var(--rose);letter-spacing:.06em">→ il cliente sceglie il vicino</div>
+    </div>
+    <div class="abs serif" id="D_s" style="left:80px;top:1330px;font-size:76px;color:var(--plum)"><span class="mask"><span>È la tua prima vetrina.</span></span></div>
+  </section>
+
+  <!-- E · offerta -->
+  <section class="scene" id="E" style="background:var(--rose)">
+    <div class="abs mono" id="E_l" style="left:80px;top:220px;font-size:28px;color:var(--ivory)">Solo fino al 31 ottobre</div>
+    <div class="abs disp" id="E_h" style="left:76px;top:340px;font-size:150px;color:var(--ivory)"><span class="mask"><span>Analisi</span></span><span class="mask"><span>gratuita</span></span></div>
+    <div class="abs disp" id="E_h2" style="left:76px;top:640px;font-size:92px;color:var(--obs);text-transform:none;letter-spacing:-.035em"><span class="mask"><span>del tuo sito</span></span><span class="mask"><span>e della tua attività</span></span><span class="mask"><span>online.</span></span></div>
+    <div class="abs" id="E_s" style="left:80px;top:1010px;width:920px;font-size:52px;font-weight:600;line-height:1.2;color:var(--ivory)">Ti diciamo cosa sistemare e come, per avere più clienti.</div>
+    <div class="abs" id="E_b" style="left:80px;top:1230px;padding:30px 44px;border-radius:24px;background:var(--obs);color:var(--ivory)"><div style="font-weight:900;font-size:64px;letter-spacing:-.02em">Solo 10 posti</div><div class="mono" style="font-size:24px;margin-top:10px;color:var(--peach)">Le prime 10 attività</div></div>
+  </section>
+
+  <!-- F · CTA -->
+  <section class="scene" id="F" style="background:var(--ivory)">
+    <div class="abs mono" id="F_l" style="left:80px;top:220px;font-size:26px;color:var(--rose)">Come averla</div>
+    <div class="step" id="F_1" style="top:330px;background:var(--ash);color:var(--obs)"><b style="background:var(--obs);color:var(--ivory)">1</b><div><div style="font-weight:900;font-size:66px;letter-spacing:-.03em">Seguici</div><div class="mono" style="font-size:26px;margin-top:8px;color:var(--plum);letter-spacing:.04em;text-transform:none">@diecibottega</div></div></div>
+    <div class="step" id="F_2" style="top:580px;background:var(--obs);color:var(--ivory)"><b style="background:var(--rose);color:var(--ivory)">2</b><div><div style="font-weight:900;font-size:66px;letter-spacing:-.03em">Commenta</div><div style="font-weight:900;font-size:86px;letter-spacing:-.02em;color:var(--peach);line-height:1">ANALISI</div></div></div>
+    <div class="abs serif" id="F_s" style="left:80px;top:880px;font-size:70px;color:var(--rose)"><span class="mask"><span>Ti scriviamo noi in privato.</span></span></div>
+    <div class="abs" id="F_logo" style="left:340px;top:1150px;width:400px;height:221px;overflow:hidden"><img src="assets/logo-rose.png" style="width:400px;display:block"></div>
+    <div class="abs serif" id="F_tag" style="left:0;width:1080px;text-align:center;top:1420px;font-size:58px;color:var(--obs)">È tutto nei dettagli.</div>
+    <div class="abs mono" id="F_d" style="left:0;width:1080px;text-align:center;top:1520px;font-size:24px;color:var(--plum)">Fino al 31/10 · prime 10 attività</div>
+  </section>
+
+  <div class="panel" id="P1"></div>
+  <canvas id="grain" width="290" height="510"></canvas>
+</div>
+<script>
+function bez(x1,y1,x2,y2){const cx=3*x1,bx=3*(x2-x1)-cx,ax=1-cx-bx,cy=3*y1,by=3*(y2-y1)-cy,ay=1-cy-by;const X=t=>((ax*t+bx)*t+cx)*t,Y=t=>((ay*t+by)*t+cy)*t,dX=t=>(3*ax*t+2*bx)*t+cx;return x=>{if(x<=0)return 0;if(x>=1)return 1;let t=x;for(let i=0;i<8;i++){const d=dX(t);if(Math.abs(d)<1e-6)break;t-=(X(t)-x)/d;}t=Math.min(1,Math.max(0,t));return Y(t);};}
+const IN=bez(.2,0,0,1),OUT=bez(.3,0,1,1),MOVE=bez(.4,0,.2,1);
+const cl=v=>Math.min(1,Math.max(0,v)),p=(t,t0,d,e=IN)=>e(cl((t-t0)/d)),lerp=(a,b,k)=>a+(b-a)*k,$=id=>document.getElementById(id);
+function set(el,{x=0,y=0,s=1,o=1}={}){el.style.transform=`translate(${x}px,${y}px) scale(${s})`;el.style.opacity=o;}
+function lines(c,t,t0,st=.12,dur=.6){[...c.querySelectorAll('.mask>span')].forEach((s,i)=>{s.style.transform=`translateY(${lerp(105,0,p(t,t0+i*st,dur))}%)`;});}
+const T={A:0,B:3.6,C:8.4,D:13.2,E:18.0,F:23.6,END:29.0}, PAN=.45;
+window.TEMPI=T;
+const g=$('grain'),gx=g.getContext('2d');let seed=1;const rnd=()=>{seed=(seed*16807)%2147483647;return seed/2147483647;};
+function grain(f){seed=1+(f%7)*7919;const im=gx.createImageData(290,510);for(let i=0;i<im.data.length;i+=4){const v=rnd()*255;im.data[i]=im.data[i+1]=im.data[i+2]=v;im.data[i+3]=255;}gx.putImageData(im,0,0);g.style.width='1160px';g.style.height='2000px';}
+function wipe(t,t0,color){const el=$('P1');const k=p(t,t0-PAN,PAN,MOVE);if(t>t0-PAN&&t<t0+.02){el.style.display='block';el.style.background=color;el.style.top=lerp(1920,0,k)+'px';}}
+function render(t,frame=0){
+  grain(Math.floor(frame/2)); $('P1').style.display='none';
+  const light=(t>=T.B&&t<T.C)||(t>=T.D&&t<T.E)||t>=T.F;
+  $('bar').style.background=light?'rgba(26,20,20,.15)':'rgba(244,239,230,.25)'; $('bar').firstElementChild.style.background=light?'#1A1414':'#F4EFE6';
+  $('bar').firstElementChild.style.width=(cl(t/(T.END-.6))*100)+'%'; $('bar').style.opacity=t>T.F+.2?1-p(t,T.F+.2,.4,OUT):1;
+  ['A','B','C','D','E','F'].forEach(i=>$(i).style.visibility='hidden');
+  if(t<T.B){$('A').style.visibility='visible';const a=t;
+    set($('A_l'),{y:lerp(24,0,p(a,0,.4)),o:p(a,0,.4)}); lines($('A_h'),a,0,.09,.5); lines($('A_s'),a,1.6,.1,.6);
+    $('A').style.transform=`scale(${1+.014*cl(a/3.6)})`;}
+  if(t>=T.B&&t<T.C){$('B').style.visibility='visible';const b=t-T.B;
+    set($('B_n'),{x:lerp(-40,0,p(b,.05,.5)),o:p(b,.05,.5)}); lines($('B_h'),b,.2,.12,.6);
+    set($('B_q'),{o:p(b,1.0,.45),y:lerp(24,0,p(b,1.0,.45))}); $('B_x').style.width=(590*p(b,1.9,.4))+'px';
+    if(b>2.3)$('B_q').style.opacity=lerp(1,.4,p(b,2.3,.3));
+    set($('B_s'),{o:p(b,2.6,.5),y:lerp(24,0,p(b,2.6,.5))}); $('B').style.transform=`translateY(${-5*b}px)`;}
+  if(t>=T.C&&t<T.D){$('C').style.visibility='visible';const c=t-T.C;
+    set($('C_n'),{x:lerp(-40,0,p(c,.05,.5)),o:p(c,.05,.5)}); lines($('C_h'),c,.2,.12,.6);
+    [...$('C_d').children].forEach((d,i)=>{const k=p(c,1.2+i*.32,.3);set(d,{s:lerp(.6,1,k),o:k});const on=c>1.2+i*.32+.15;d.style.background=on?'#F0503F':'transparent';d.style.borderColor=on?'#F0503F':'#F4EFE6';});
+    set($('C_s'),{o:p(c,3.0,.5),y:lerp(24,0,p(c,3.0,.5))}); $('C').style.transform=`scale(${1+.01*cl(c/4.8)})`;}
+  if(t>=T.D&&t<T.E){$('D').style.visibility='visible';const d=t-T.D;
+    set($('D_n'),{x:lerp(-40,0,p(d,.05,.5)),o:p(d,.05,.5)}); lines($('D_h'),d,.2,.12,.6);
+    const k=p(d,1.3,.55); set($('D_c'),{y:lerp(40,0,k),o:k}); set($('D_k'),{o:p(d,2.2,.4),x:lerp(-20,0,p(d,2.2,.4))});
+    lines($('D_s'),d,2.9,.1,.6); $('D').style.transform=`translateY(${-5*d}px)`;}
+  if(t>=T.E&&t<T.F){$('E').style.visibility='visible';const e=t-T.E;
+    set($('E_l'),{y:lerp(24,0,p(e,.05,.4)),o:p(e,.05,.4)}); lines($('E_h'),e,.15,.12,.55); lines($('E_h2'),e,.8,.1,.55);
+    set($('E_s'),{o:p(e,1.8,.5),y:lerp(24,0,p(e,1.8,.5))});
+    const k=p(e,2.6,.5); set($('E_b'),{y:lerp(40,0,k),o:k,s:lerp(1,1.04,p(e,3.6,.35,MOVE))-lerp(0,.04,p(e,3.95,.35,MOVE))});
+    $('E').style.transform=`scale(${1+.012*cl(e/5.6)})`;}
+  if(t>=T.F){$('F').style.visibility='visible';const f=t-T.F;
+    set($('F_l'),{y:lerp(24,0,p(f,.05,.4)),o:p(f,.05,.4)});
+    set($('F_1'),{x:lerp(70,0,p(f,.3,.55)),o:p(f,.3,.55)}); set($('F_2'),{x:lerp(70,0,p(f,1.0,.55)),o:p(f,1.0,.55),s:1+.025*Math.sin(Math.max(0,f-1.8)*3.2)*cl(f-1.8)});
+    lines($('F_s'),f,1.8,.1,.6);
+    const lk=p(f,2.6,.7); $('F_logo').style.clipPath=`inset(0 ${100-lk*100}% 0 0)`;
+    set($('F_tag'),{o:p(f,3.1,.5),y:lerp(20,0,p(f,3.1,.5))}); set($('F_d'),{o:p(f,3.4,.5)});}
+  wipe(t,T.B,'#F4EFE6'); wipe(t,T.C,'#1A1414'); wipe(t,T.D,'#F2B8A2'); wipe(t,T.E,'#E63B2E'); wipe(t,T.F,'#F4EFE6');
+}
+window.render=render; window.DURATA=T.END;
+document.fonts.ready.then(()=>{window.pronto=true;render(0);});
+</script></body></html>
