@@ -1,37 +1,6 @@
 {
- "aggiornato": "2026-10-12T18:51+00:00",
+ "aggiornato": "2026-10-13T18:51+00:00",
  "contenuti": [
-  {
-   "id": "R03",
-   "titolo": "Il bottone",
-   "tipo": "reel",
-   "quando": "2026-10-13 18:30",
-   "dueAt": "2026-10-13T16:30:00.000Z",
-   "slide": [],
-   "poster": "img/R03_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R03.mp4",
-   "durata": 25,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font, ogni microcopy, ogni millisecondo è una scelta consapevole. AI come strumento, mestiere come metodo.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Un bottone. Quanto ci vuole a scriverlo?\n\nChiediamo all'AI otto varianti, poi scegliamo noi quella giusta. L'AI è uno strumento, il criterio resta mestiere.\n\nTu come lo scriveresti il bottone del tuo sito?",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Quanto ci vuole a scrivere il testo di un bottone?\n\nCon l'AI, pochi secondi per avere otto varianti. Poi comincia il lavoro vero: scartare quelle vaghe, quelle che mettono fretta, quelle che suonano da call center. Ne resta una.\n\nÈ il modo in cui usiamo l'intelligenza artificiale in bottega: accelera la prima bozza, non sceglie al posto nostro. Ogni font, ogni parola, ogni millisecondo resta una decisione consapevole.\n\nAI come strumento, mestiere come metodo.\n\n#IntelligenzaArtificiale #Copywriting #UX",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "P06",
    "titolo": "Reel Dettaglio",
@@ -449,19 +418,19 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "gia_in_buffer",
      "testo": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accetti tutto\nB) Il sito si blocca\nC) Rifiuti\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito in regola, cookie compresi.\n\nFonte: Garante Privacy · linee guida 2021\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #cookie #gdpr #privacy",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "gia_in_buffer",
      "testo": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o blocchi il sito?\n\nQuasi tutti sbagliano. Rispondi nei commenti, poi guarda il video.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "gia_in_buffer",
      "testo": "Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad accettare.\n\nE c'è di più: anche scorrere la pagina non vale come consenso. Serve un sì esplicito. (Garante Privacy, linee guida 2021)\n\nPer chi ha un sito aziendale vuol dire controllare due cose: che la X ci sia, e che il sito non tratti la chiusura o lo scroll come un consenso.\n\nSono dettagli tecnici, ma su un sito in regola non si discute.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
      "formato": "video",
      "errore": null
@@ -990,6 +959,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Online quasi nessuno legge parola per parola. Si scansiona.\n\nGli studi di Nielsen Norman Group lo confermano: due passate in alto, poi lo sguardo scende lungo il margine sinistro. Contano il titolo e le prime parole di ogni riga.\n\nPer il sito di una PMI vuol dire: titoli che dicono cosa fai, frasi brevi, servizi in elenco. Il resto, semplicemente, non viene letto.\n\n#Copywriting #UX #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S12",
+   "titolo": "10 giorni in 40 secondi",
+   "tipo": "reel",
+   "quando": "2026-11-27 18:30",
+   "dueAt": "2026-11-27T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti.\nBrief, struttura e testi, design, prima versione al cliente, correzioni e test da telefono. Giorno dieci: online. Veloci, non frettolosi.\nVuoi il tuo? Scrivici oggi, partiamo lunedì.\n#processo #sitiweb #bottegadigitale #bologna #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti, uno dopo l'altro.\n\nVuoi il tuo? Scrivici oggi, partiamo lunedì: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=S12",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Dieci giorni di un progetto reale, in quaranta secondi:\n\nGiorno 1 · brief, mezz'ora per capire il mestiere.\nGiorni 2–3 · struttura e testi.\nGiorni 4–6 · design, dettaglio per dettaglio.\nGiorno 7 · prima versione al cliente.\nGiorni 8–9 · correzioni e test da telefono.\nGiorno 10 · online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=S12\n\n#Processo #WebDesign #PMI",
      "formato": "video",
      "errore": null
     }
