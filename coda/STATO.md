@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 13/10/2026, 22:13:51
+Ultimo controllo: 13/10/2026, 22:37:52
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,7 @@ Ultimo controllo: 13/10/2026, 22:13:51
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-14 12:30 | C01 | Il tuo sito perde clienti? · analisi gratuita | programmato | programmato | programmato |
+| 2026-10-14 12:30 | C01 | Prova con il pollice · analisi gratuita | programmato | programmato | programmato |
 | 2026-10-14 18:30 | P06 | Reel Dettaglio | manca_video | manca_video | manca_video |
 | 2026-10-15 18:30 | R04 | Tre secondi su mobile | programmato | programmato | programmato |
 | 2026-10-16 12:30 | P08 | AI Mestiere | programmato | programmato | programmato |
