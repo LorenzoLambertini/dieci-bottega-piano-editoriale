@@ -2,7 +2,7 @@
 """Colonna sonora originale del video di lancio (sintetizzata: nessun diritto d'autore).
 Musica calda + effetti sincronizzati ai movimenti di lancio.html."""
 import numpy as np, wave, sys
-SR = 48000; DUR = 29.0
+SR = 48000; DUR = 46.0
 n = int(DUR * SR); tt = np.arange(n) / SR
 rng = np.random.default_rng(10)
 def env(L, a=.005, r=.2): x = np.arange(L) / SR; return np.minimum(1, x / a) * np.exp(-x / r)
@@ -38,11 +38,11 @@ def bass(f, dur):
 tb=0.0; b=0
 while tb < DUR:
     ch=chords[b%4]
-    vol = .03 if tb<23.6 else .028
+    vol = .03 if tb<39.6 else .026
     add(music, pad(ch, bar), tb, vol)
     for q in range(4):
         tq=tb+q*beat
-        if tq<23.4:
+        if tq<45.0:
             if q in (0,2): add(music, kick, tq, .5)
             if q in (1,3) and tq>=1.2: add(music, snap, tq, .1)
             if tq>=1.2: add(music, hat, tq+beat/2, .09); add(music, hat, tq+beat/4, .04)
@@ -52,7 +52,7 @@ while tb < DUR:
 Lr=int(1.4*SR); xr=np.arange(Lr)/SR
 riser=rng.normal(0,1,Lr); spec=np.fft.rfft(riser); fr=np.fft.rfftfreq(Lr,1/SR)
 riser=np.fft.irfft(spec*np.exp(-((fr-2500)/2200)**2),Lr)*(xr/1.4)**2
-add(music, riser/np.abs(riser).max(), 16.6, .12)
+add(music, riser/np.abs(riser).max(), 31.8, .12)
 # effetti
 Lw=int(.45*SR); xw=np.arange(Lw)/SR; nz=rng.normal(0,1,Lw); sp=np.fft.rfft(nz); fq=np.fft.rfftfreq(Lw,1/SR)
 whoosh=np.zeros(Lw)
@@ -68,14 +68,27 @@ chime=sum(np.sin(2*np.pi*f*xc)*np.exp(-xc*2.4) for f in (880,1318.5,1760))/3
 Lh=int(.6*SR); xh=np.arange(Lh)/SR
 thud=np.sin(2*np.pi*(40+60*np.exp(-xh*20))*xh)*env(Lh,.002,.22)
 Lk=int(.03*SR); click=rng.normal(0,1,Lk)*env(Lk,.0005,.004)
-T=dict(B=3.6,C=8.4,D=13.2,E=18.0,F=23.6)
+
+T=dict(B=5.6,C=13.4,D=21.2,E=29.0,F=33.2,G=39.6)
 for k,v in T.items(): add(sfx, whoosh, v-.42, .32)
-for at in (0.0, 1.6, 3.65, 8.45, 13.25, 18.05, 23.9, 24.6): add(sfx, tick, at, .22)
-add(sfx, tock, 5.5, .4)                      # «Benvenuti» barrato
-for i in range(5): add(sfx, tick, 9.75+i*.32, .16)   # i 5 passaggi
-add(sfx, tock, 15.6, .3)
-add(sfx, thud, 20.6, .35)                    # «Solo 10 posti»
-add(sfx, chime, 26.2, .3)                    # logo
+B,C,D,E,F,G=T['B'],T['C'],T['D'],T['E'],T['F'],T['G']
+for at in (0.1, 0.42, 0.74): add(sfx, tick, at, .2)          # righe del gancio
+add(sfx, chime, 3.2, .14)                                     # compare il contatore
+for i in range(3): add(sfx, tock, B+2.2+i*1.0, .38)           # conto alla rovescia 3-2-1
+add(sfx, thud, B+5.2, .5)                                     # X
+for at in (B+5.2, C+5.0, D+5.0): add(sfx, chime, at+.05, .18) # errore contato
+add(sfx, click, C+2.45, .9); add(sfx, tock, C+2.9, .3)         # tocco a vuoto sul numero
+for i in range(5): add(sfx, tick, C+3.4+i*.45, .18)           # i 5 passaggi
+for i in range(14): add(sfx, click, D+1.3+i*.09+0.02*(i%3), .5) # digitazione ricerca
+add(sfx, click, D+4.75, .9)                                   # tocco sul vicino
+for i in range(4): add(sfx, tock, E+1.2+i*.22, .3)            # bolle 0-3
+add(sfx, thud, F+.45, .55)                                    # timbro GRATIS
+for i in range(10): add(sfx, tick, F+4.1+i*.09, .12)          # 10 posti
+add(sfx, click, G+1.55, .9)                                   # Segui
+for i in range(7): add(sfx, click, G+2.9+i*.19, .55)           # ANALISI
+add(sfx, click, G+4.45, .9); add(sfx, chime, G+4.7, .25)       # pubblica + cuore
+add(sfx, chime, G+5.5, .3)                                    # logo
+
 music += .22*np.concatenate([np.zeros(int(.09*SR)), music[:-int(.09*SR)]])
 music *= np.clip((DUR-tt)/1.8,0,1)
 norm=lambda a,pk: a/(np.abs(a).max()+1e-9)*pk
