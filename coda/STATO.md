@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 13/10/2026, 21:48:06
+Ultimo controllo: 13/10/2026, 21:49:39
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -42,7 +42,7 @@ Ultimo controllo: 13/10/2026, 21:48:06
 
 ### facebook
 
-- 14/10/26, 12:30 · 
+- 14/10/26, 12:30 · Tre errori che fanno perdere clienti a tante attività, anche qui a Bol
 - 15/10/26, 18:30 · Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora t
 - 16/10/26, 12:30 · Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no. L'AI ci ai
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
@@ -55,7 +55,7 @@ Ultimo controllo: 13/10/2026, 21:48:06
 
 ### linkedin
 
-- 14/10/26, 12:30 · 
+- 14/10/26, 12:30 · Molte piccole attività perdono clienti prima ancora di sentirli. Non p
 - 15/10/26, 18:30 · Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% dell
 - 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
@@ -68,7 +68,7 @@ Ultimo controllo: 13/10/2026, 21:48:06
 
 ### instagram
 
-- 14/10/26, 12:30 · 
+- 14/10/26, 12:30 · 3 errori che ti fanno perdere clienti. Quanti ne trovi nella tua attiv
 - 15/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
 - 16/10/26, 12:30 · Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no
 - 19/10/26, 12:30 · Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide
