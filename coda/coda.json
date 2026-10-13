@@ -348,26 +348,23 @@
         "instagram": {
           "testo": "Il tuo sito perde clienti? Conta gli errori con noi. Quanti ne hai trovati: 0, 1, 2 o 3?\n\n1. Dal sito non si capisce cosa fai.\n2. Per chiamarti servono 5 passaggi.\n3. Su Google sembri chiuso: orari vecchi, nessuna foto.\n\nFino al 31 ottobre analizziamo gratis il tuo sito e la tua attività online e ti diciamo cosa sistemare, e come, per avere più clienti. Solo 10 posti.\n\nCome averla: seguici e commenta ANALISI. Ti scriviamo noi in privato.\n\n#bologna #pmiitaliane #sitiweb #piccoleimprese #bottegadigitale",
           "video": "media/reel/C01b.mp4",
-          "stato": "programmato",
-          "bufferId": "6ace8af5134248a19785005d",
-          "programmatoIl": "2026-10-13T19:48:05.889Z",
-          "daAggiornare": true
+          "stato": "da_programmare",
+          "tentativi": 1,
+          "ultimoErrore": "Invalid post: Video could not be read from its URL."
         },
         "facebook": {
           "testo": "Il tuo sito ti fa perdere clienti? Conta gli errori:\n\n1. Dal sito non si capisce cosa fai.\n2. Per chiamarti servono 5 passaggi: il numero non si tocca, il modulo è lunghissimo.\n3. Su Google sembri chiuso: orari vecchi, nessuna foto.\n\nFino al 31 ottobre guardiamo gratis il tuo sito e la tua presenza online e ti diciamo cosa sistemare, e come, per avere più clienti. Solo 10 posti.\n\nSegui la pagina e scrivi ANALISI qui sotto (o in privato): ti contattiamo noi.",
           "video": "media/reel/C01b.mp4",
-          "stato": "programmato",
-          "bufferId": "6ace8af6cb3665561f64030d",
-          "programmatoIl": "2026-10-13T19:48:06.317Z",
-          "daAggiornare": true
+          "stato": "da_programmare",
+          "tentativi": 1,
+          "ultimoErrore": "Invalid post: Video could not be read from its URL."
         },
         "linkedin": {
           "testo": "Molte piccole attività perdono clienti prima ancora di sentirli. Non per il prezzo o per il servizio, ma per tre dettagli:\n\n1. Dal sito non si capisce in pochi secondi cosa fanno e dove sono.\n2. Per contattarle servono troppi passaggi: numero non cliccabile, moduli lunghi.\n3. La scheda Google è trascurata: orari vecchi, nessuna foto.\n\nSono tutti problemi che si sistemano. Il difficile è vederli dall'interno.\n\nPer questo, fino al 31 ottobre, offriamo un'analisi gratuita del sito e della presenza online alle prime 10 attività che ce la chiedono: vi diciamo cosa sistemare, in che ordine e come.\n\nPer richiederla seguite la pagina e commentate ANALISI, oppure scriveteci in privato.\n\n#PMI #SitiWeb #Bologna",
           "video": "media/reel/C01b.mp4",
-          "stato": "programmato",
-          "bufferId": "6ace8af6cb3665561f640341",
-          "programmatoIl": "2026-10-13T19:48:06.709Z",
-          "daAggiornare": true
+          "stato": "da_programmare",
+          "tentativi": 1,
+          "ultimoErrore": "Invalid post: Video could not be read from its URL."
         }
       }
     },
@@ -856,17 +853,23 @@
         "instagram": {
           "testo": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
           "video": "media/reel/R23.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ace9080c63f1a52e2812580",
+          "programmatoIl": "2026-10-13T20:11:44.153Z"
         },
         "facebook": {
           "testo": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
           "video": "media/reel/R23.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ace908002443a744fa475c4",
+          "programmatoIl": "2026-10-13T20:11:44.474Z"
         },
         "linkedin": {
           "testo": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
           "video": "media/reel/R23.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ace9080c63f1a52e28125bb",
+          "programmatoIl": "2026-10-13T20:11:44.815Z"
         }
       }
     },
