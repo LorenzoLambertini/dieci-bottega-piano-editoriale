@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6ace9d8463a12fa73723d21c",
+        "dueAt": "2026-10-14T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Quasi tutti guardano il proprio sito dal computer. I clienti",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ace9d8363a12fa73723d1ed",
+        "dueAt": "2026-10-14T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Fai la prova: tieni il telefono con una mano e allunga il po",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ace9d83164ed31ea455f91a",
+        "dueAt": "2026-10-14T10:30:00.000Z",
+        "sentAt": null,
+        "text": "Fai la prova: tieni il telefono con una mano e allunga il po",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6accdd51ddeaf8c524ec6874",
         "dueAt": "2026-11-03T17:30:00.000Z",
         "sentAt": null,
@@ -860,19 +899,6 @@
         "via": "buffer"
       },
       {
-        "id": "6ac7c7686d8b6991f804c080",
-        "dueAt": "2026-10-13T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font,",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6ac7c72534ed38f0ddb332ba",
         "dueAt": "2026-10-16T10:30:00.000Z",
         "sentAt": null,
@@ -903,32 +929,6 @@
         "dueAt": "2026-10-15T16:30:00.000Z",
         "sentAt": null,
         "text": "Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac5f11536c2a7788dd39fdc",
-        "dueAt": "2026-10-13T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Quanto ci vuole a scrivere il testo di un bottone?\n\nCon l'AI",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac5f115203d24e39e12359d",
-        "dueAt": "2026-10-13T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nChiediamo all'AI o",
         "channelService": "facebook",
         "error": null,
         "notificationStatus": null,
@@ -1149,6 +1149,19 @@
         "via": "buffer"
       },
       {
+        "id": "6ac7c7686d8b6991f804c080",
+        "dueAt": "2026-10-13T16:30:00.000Z",
+        "sentAt": "2026-10-13T16:33:08.613Z",
+        "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font,",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
         "id": "6ac6c0b357f9bd074d1a376c",
         "dueAt": "2026-10-12T10:30:00.000Z",
         "sentAt": "2026-10-12T10:31:30.137Z",
@@ -1266,6 +1279,32 @@
         "via": "buffer"
       },
       {
+        "id": "6ac5f11536c2a7788dd39fdc",
+        "dueAt": "2026-10-13T16:30:00.000Z",
+        "sentAt": "2026-10-13T16:30:59.887Z",
+        "text": "Quanto ci vuole a scrivere il testo di un bottone?\n\nCon l'AI",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac5f115203d24e39e12359d",
+        "dueAt": "2026-10-13T16:30:00.000Z",
+        "sentAt": "2026-10-13T16:31:43.559Z",
+        "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nChiediamo all'AI o",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
         "id": "6ac5f114df05c83428d8a9fb",
         "dueAt": "2026-10-08T16:30:00.000Z",
         "sentAt": "2026-10-08T16:30:52.628Z",
@@ -1342,52 +1381,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ac3d8a491c77f0a466b3afa",
-        "dueAt": "2026-10-06T16:30:00.000Z",
-        "sentAt": "2026-10-06T16:32:35.854Z",
-        "text": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac3c166d2c8adcae8f71d17",
-        "dueAt": "2026-10-05T12:51:44.000Z",
-        "sentAt": "2026-10-05T12:51:44.000Z",
-        "text": "",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "network"
-      },
-      {
-        "id": "6ab6df7edffba3cec6e448e6",
-        "dueAt": "2026-10-05T12:30:00.000Z",
-        "sentAt": "2026-10-05T12:31:03.721Z",
-        "text": "Ciao Bologna, siamo Dieci Bottega.\n\nSiamo in due: Lorenzo di",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Mon, 12 Oct 2026 18:53:52 GMT 2888614",
-    "media/reel/R07.mp4": "200 Mon, 12 Oct 2026 18:53:52 GMT 3173777",
-    "index.html": "200 Mon, 12 Oct 2026 18:53:52 GMT 104461"
+    "media/reel/R02.mp4": "200 Tue, 13 Oct 2026 21:10:24 GMT 2888614",
+    "media/reel/R07.mp4": "200 Tue, 13 Oct 2026 21:10:24 GMT 3173777",
+    "index.html": "200 Tue, 13 Oct 2026 21:10:24 GMT 104461"
   }
 }
