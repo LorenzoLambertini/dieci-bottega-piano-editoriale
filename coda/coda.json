@@ -348,17 +348,23 @@
         "instagram": {
           "testo": "3 errori che ti fanno perdere clienti. Quanti ne trovi nella tua attività?\n\n1. Dal sito non si capisce cosa fai e dove sei.\n2. Per contattarti servono troppi passaggi.\n3. Su Google hai orari vecchi e nessuna foto.\n\nFino al 31 ottobre facciamo un'analisi gratuita del tuo sito e della tua attività online: ti diciamo cosa sistemare e come, per avere più clienti. Solo per le prime 10 attività.\n\nCome averla: seguici e commenta ANALISI. Ti scriviamo noi in privato.\n\n#bologna #pmiitaliane #sitiweb #piccoleimprese #bottegadigitale",
           "video": "media/reel/C01.mp4",
-          "stato": "da_programmare"
+          "stato": "da_programmare",
+          "tentativi": 1,
+          "ultimoErrore": "Invalid post: Video could not be read from its URL."
         },
         "facebook": {
           "testo": "Tre errori che fanno perdere clienti a tante attività, anche qui a Bologna:\n\n1. Dal sito non si capisce cosa fai e dove sei.\n2. Per contattarti servono troppi passaggi: numero che non si tocca, modulo lunghissimo.\n3. Su Google ci sono orari vecchi e nessuna foto.\n\nFino al 31 ottobre guardiamo gratis il tuo sito e la tua presenza online e ti diciamo cosa sistemare, e come, per avere più clienti. Solo per le prime 10 attività.\n\nSegui la pagina e scrivi ANALISI qui sotto (o in privato): ti contattiamo noi.",
           "video": "media/reel/C01.mp4",
-          "stato": "da_programmare"
+          "stato": "da_programmare",
+          "tentativi": 1,
+          "ultimoErrore": "Invalid post: Video could not be read from its URL."
         },
         "linkedin": {
           "testo": "Molte piccole attività perdono clienti prima ancora di sentirli. Non per il prezzo o per il servizio, ma per tre dettagli:\n\n1. Dal sito non si capisce in pochi secondi cosa fanno e dove sono.\n2. Per contattarle servono troppi passaggi: numero non cliccabile, moduli lunghi.\n3. La scheda Google è trascurata: orari vecchi, nessuna foto.\n\nSono tutti problemi che si sistemano. Il difficile è vederli dall'interno.\n\nPer questo, fino al 31 ottobre, offriamo un'analisi gratuita del sito e della presenza online alle prime 10 attività che ce la chiedono: vi diciamo cosa sistemare, in che ordine e come.\n\nPer richiederla seguite la pagina e commentate ANALISI, oppure scriveteci in privato.\n\n#PMI #SitiWeb #Bologna",
           "video": "media/reel/C01.mp4",
-          "stato": "da_programmare"
+          "stato": "da_programmare",
+          "tentativi": 1,
+          "ultimoErrore": "Invalid post: Video could not be read from its URL."
         }
       }
     },
@@ -847,17 +853,23 @@
         "instagram": {
           "testo": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
           "video": "media/reel/R23.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ace8a621bdf729a2aa9fd1e",
+          "programmatoIl": "2026-10-13T19:45:38.416Z"
         },
         "facebook": {
           "testo": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
           "video": "media/reel/R23.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ace8a624a3bafcd13010d24",
+          "programmatoIl": "2026-10-13T19:45:38.790Z"
         },
         "linkedin": {
           "testo": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
           "video": "media/reel/R23.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ace8a634a3bafcd13010d50",
+          "programmatoIl": "2026-10-13T19:45:39.150Z"
         }
       }
     },
