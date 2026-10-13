@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="it"><head><meta charset="utf-8">
+<style>
+/* Dieci Bottega · C01 ADS (Meta, obiettivo Messaggi) · 1080x1920 · varianti ?v=A (≈34 s) e ?v=B (≈26 s)
+   Zona sicura Reels sponsorizzati: tutto il contenuto chiave tra y 300 e y 1250 (fuori dal 14% alto e dal 35% basso),
+   compatibile anche con il ritaglio 4:5 del feed (y 285–1635). Leggibile senza audio.
+   Movimento: entrata (0.2,0,0,1), uscita (0.3,0,1,1), spostamenti (0.4,0,0.2,1), pop (0.34,1.4,0.64,1) solo su elementi piccoli */
+@font-face{font-family:Archivo;src:url(assets/Archivo.ttf);font-weight:100 900;font-stretch:62% 125%}
+@font-face{font-family:Cardo;src:url(assets/Cardo-Italic.ttf);font-style:italic}
+@font-face{font-family:Mono;src:url(assets/JetBrainsMono.ttf);font-weight:100 800}
+:root{--obs:#1A1414;--rose:#E63B2E;--ivory:#F4EFE6;--peach:#F2B8A2;--plum:#4A3838;--ash:#E8E2D6}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--obs)}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden;font-family:Archivo}
+.scene{position:absolute;inset:0;overflow:hidden;visibility:hidden}
+.abs{position:absolute}
+.mono{font-family:Mono;font-weight:500;letter-spacing:.12em;text-transform:uppercase}
+.disp{font-weight:900;letter-spacing:-.04em;line-height:.92}
+.serif{font-family:Cardo;font-style:italic}
+.mask{overflow:hidden;display:block;padding-bottom:.06em}.mask>span{display:block}
+.panel{position:absolute;left:0;width:1080px;height:1920px;z-index:50}
+#bar{position:absolute;left:80px;top:300px;width:920px;height:6px;z-index:60;border-radius:3px;overflow:hidden}
+#bar i{display:block;height:100%;width:0}
+#grain{position:absolute;inset:-40px;z-index:70;opacity:.04;mix-blend-mode:overlay}
+.site{position:absolute;inset:0;background:#fff;color:#2A2A2A}
+.s-head{position:absolute;left:0;right:0;top:330px;height:90px;padding:0 80px;display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid #EEE}
+.s-logo{font-weight:900;font-size:36px;color:#333}
+.burger{width:44px;height:5px;background:#888;box-shadow:0 13px 0 #888,0 -13px 0 #888}
+.chip{position:absolute;left:80px;max-width:920px;padding:24px 34px;border-radius:26px;background:var(--obs);color:var(--ivory);font-weight:800;font-size:52px;letter-spacing:-.015em;line-height:1.12;box-shadow:0 18px 44px rgba(0,0,0,.25);z-index:42}
+.chip small{display:block;font-family:Mono;font-weight:500;font-size:22px;letter-spacing:.1em;text-transform:uppercase;color:var(--peach);margin-bottom:10px}
+.verdict{position:absolute;left:80px;width:920px;padding:34px 40px;border-radius:30px;background:var(--rose);color:#fff;z-index:45;box-shadow:0 20px 50px rgba(230,59,46,.35)}
+.verdict small{display:block;font-family:Mono;font-weight:600;font-size:24px;letter-spacing:.12em;text-transform:uppercase;opacity:.9;margin-bottom:12px}
+.verdict b{display:block;font-weight:900;font-size:72px;letter-spacing:-.03em;line-height:1}
+.verdict span{display:block;font-family:Cardo;font-style:italic;font-size:48px;margin-top:14px;color:#FFE3D9}
+.ring{position:absolute;border:6px solid var(--rose);border-radius:24px;z-index:25}
+.thumb{position:absolute;left:0;top:0;z-index:40}
+.card{position:absolute;left:80px;width:920px;height:170px;border-radius:28px;background:#fff;display:flex;align-items:center;gap:30px;padding:0 36px;box-shadow:0 16px 40px rgba(74,56,56,.12)}
+.card .ic{width:110px;height:110px;border-radius:24px;flex:none;display:grid;place-items:center}
+.card b{display:block;font-weight:900;font-size:52px;letter-spacing:-.02em;color:var(--obs)}
+.card span{display:block;font-size:30px;color:#777;margin-top:4px}
+.slot{width:62px;height:62px;border-radius:50%;border:4px solid var(--ivory)}
+.msg{position:absolute;max-width:700px;padding:26px 32px;border-radius:36px;font-size:42px;line-height:1.25}
+</style></head><body>
+<div id="stage">
+  <div id="bar"><i></i></div>
+
+  <!-- H · gancio -->
+  <section class="scene" id="H" style="background:var(--rose)">
+    <div class="abs mono" id="H_l" style="left:80px;top:350px;font-size:28px;color:var(--ivory)">Per le attività di Bologna</div>
+    <div class="abs disp" id="H_h" style="left:76px;top:420px;font-size:150px;color:var(--ivory)"><span class="mask"><span>Il tuo sito</span></span><span class="mask"><span>supera la</span></span><span class="mask"><span>prova del</span></span><span class="mask"><span>pollice?</span></span></div>
+    <div class="abs" id="H_c" style="left:80px;top:1010px;padding:26px 36px;border-radius:26px;background:var(--obs);color:var(--ivory);font-weight:800;font-size:52px;letter-spacing:-.015em">Prendi il telefono con una mano.</div>
+  </section>
+
+  <!-- S · prova del pollice -->
+  <section class="scene" id="S">
+    <div class="site">
+      <div class="s-head"><span class="s-logo">LA TUA ATTIVITÀ</span><i class="burger"></i></div>
+      <div id="S_btn" class="abs" style="left:80px;top:440px;width:170px;height:48px;border-radius:10px;background:#5B8DB8;color:#fff;font-size:22px;font-weight:700;display:grid;place-items:center;z-index:22">Contattaci</div>
+      <div class="abs" style="left:80px;right:80px;top:520px;height:400px;border-radius:30px;background:linear-gradient(135deg,#B9C3CF,#E2E7EC)"></div>
+      <div class="abs" style="left:80px;top:960px;font-size:64px;font-weight:800;color:#333">Benvenuti</div>
+      <div class="abs" style="left:80px;top:1070px;width:920px;display:grid;gap:22px"><i style="display:block;height:22px;border-radius:11px;background:#ECECEC"></i><i style="display:block;height:22px;width:80%;border-radius:11px;background:#ECECEC"></i><i style="display:block;height:22px;border-radius:11px;background:#ECECEC"></i></div>
+    </div>
+    <svg id="S_heat" class="abs" width="1080" height="1920" style="left:0;top:0;z-index:18;opacity:0">
+      <defs><radialGradient id="hg" cx="980" cy="1900" r="1250" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#2FA35B" stop-opacity=".6"/><stop offset=".45" stop-color="#2FA35B" stop-opacity=".5"/>
+        <stop offset=".62" stop-color="#F2C230" stop-opacity=".5"/><stop offset=".8" stop-color="#E63B2E" stop-opacity=".5"/><stop offset="1" stop-color="#E63B2E" stop-opacity=".62"/></radialGradient></defs>
+      <rect width="1080" height="1920" fill="url(#hg)"/>
+      <g font-family="Mono" font-weight="700" font-size="26" letter-spacing="3" fill="#fff"><text x="300" y="600">FUORI PORTATA</text><text x="700" y="1060">SCOMODO</text><text x="640" y="1560">FACILE</text></g>
+    </svg>
+    <div class="ring" id="S_ring" style="left:55px;top:405px;width:220px;height:118px"></div>
+    <div class="chip" id="S_c1" style="top:1010px"><small>Fai la prova</small>Allunga il pollice verso «Contattaci».</div>
+    <div class="abs mono" id="S_c2" style="left:80px;top:1200px;font-size:24px;color:var(--obs);background:var(--ivory);padding:12px 20px;border-radius:30px;z-index:42">Senza toccare lo schermo</div>
+    <div class="chip" id="S_c3" style="top:1010px;font-size:72px">Ci arrivi?</div>
+    <svg class="thumb" id="S_th" width="1080" height="1920"><line id="S_tl" x1="1180" y1="2150" x2="900" y2="1700" stroke="#E2AE90" stroke-width="150" stroke-linecap="round"/><line id="S_tl2" x1="1180" y1="2150" x2="900" y2="1700" stroke="#EDC3A8" stroke-width="118" stroke-linecap="round"/><ellipse id="S_nail" cx="900" cy="1700" rx="34" ry="42" fill="#F7DCCB"/>
+      <line id="S_gap" x1="0" y1="0" x2="0" y2="0" stroke="#E63B2E" stroke-width="8" stroke-dasharray="18 14" stroke-linecap="round"/></svg>
+    <div class="verdict" id="S_v" style="top:960px"><small>Prova fallita</small><b>Pulsante fuori portata.</b><span>Il cliente non si contorce: chiude.</span></div>
+  </section>
+
+  <!-- M · gli altri errori (solo A) -->
+  <section class="scene" id="M" style="background:var(--ivory)">
+    <div class="abs disp" id="M_h" style="left:76px;top:360px;font-size:118px;color:var(--obs)"><span class="mask"><span>E non è</span></span><span class="mask"><span>l'unico errore.</span></span></div>
+    <div class="card" id="M_1" style="top:620px"><div class="ic" style="background:#F6E3DE;font-family:Mono;font-weight:800;font-size:22px;color:#B0362A">a&nbsp;a</div><div><b>Testo da lente</b><span>Se deve zoomare, chiude.</span></div></div>
+    <div class="card" id="M_2" style="top:820px"><div class="ic" style="background:#E3EAF2;position:relative"><i style="position:absolute;left:22px;top:22px;width:56px;height:46px;border-radius:8px;background:#5B8DB8"></i><i style="position:absolute;left:36px;top:40px;width:56px;height:46px;border-radius:8px;background:#8FB0CF;border:3px solid #fff"></i></div><div><b>Popup ovunque</b><span>Cookie, newsletter, app, chat.</span></div></div>
+    <div class="card" id="M_3" style="top:1020px"><div class="ic" style="background:#FFF1D6;font-family:Mono;font-weight:800;font-size:34px;color:#A86A12">4,6s</div><div><b>Sito lento</b><span>Tu aspetti. Il cliente no.</span></div></div>
+  </section>
+
+  <!-- O · offerta -->
+  <section class="scene" id="O" style="background:var(--rose)">
+    <div class="abs mono" id="O_l" style="left:80px;top:350px;font-size:28px;color:var(--ivory)">Solo fino al 31 ottobre</div>
+    <div class="abs" id="O_stamp" style="left:80px;top:420px;padding:8px 38px 16px;border:12px solid var(--ivory);border-radius:30px;color:var(--ivory);font-weight:900;font-size:180px;letter-spacing:-.04em;line-height:1">GRATIS</div>
+    <div class="abs disp" id="O_h" style="left:76px;top:700px;font-size:84px;color:var(--obs)"><span class="mask"><span>Troviamo gli errori</span></span><span class="mask"><span>del tuo sito e ti diciamo</span></span><span class="mask"><span>come sistemarli.</span></span></div>
+    <div class="abs mono" id="O_sl" style="left:80px;top:1000px;font-size:28px;color:var(--ivory)">Solo 10 attività</div>
+    <div class="abs" id="O_slots" style="left:80px;top:1060px;display:flex;gap:28px"></div>
+  </section>
+
+  <!-- C · CTA messaggi -->
+  <section class="scene" id="C" style="background:var(--ivory)">
+    <div class="abs mono" id="C_l" style="left:80px;top:350px;font-size:26px;color:var(--rose)">Come averla</div>
+    <div class="abs disp" id="C_h" style="left:76px;top:400px;font-size:116px;color:var(--obs)"><span class="mask"><span>Scrivici</span></span><span class="mask"><span style="color:var(--rose)">ANALISI.</span></span></div>
+    <div class="abs" id="C_chat" style="left:80px;top:640px;width:920px;height:470px;border-radius:36px;background:#fff;box-shadow:0 18px 44px rgba(74,56,56,.14);overflow:hidden">
+      <div style="height:96px;display:flex;align-items:center;gap:20px;padding:0 30px;border-bottom:2px solid #F0F0F0"><div style="width:60px;height:60px;border-radius:50%;background:var(--ivory);display:grid;place-items:center;overflow:hidden"><img src="assets/logo-rose.png" style="width:50px"></div><div style="font-weight:800;font-size:34px;color:var(--obs)">diecibottega</div></div>
+      <div class="msg" id="C_m1" style="right:30px;top:126px;background:var(--rose);color:#fff;font-weight:800;letter-spacing:.03em;border-bottom-right-radius:10px"><span id="C_t"></span><i id="C_cur" style="display:inline-block;width:4px;height:44px;background:#fff;margin-left:4px;vertical-align:-6px"></i></div>
+      <div class="abs mono" id="C_ok" style="right:34px;top:236px;font-size:20px;color:#999">Inviato ✓</div>
+      <div class="msg" id="C_dots" style="left:30px;top:290px;background:#F0F0F0;color:#999;font-weight:800;letter-spacing:.2em">• • •</div>
+      <div class="msg" id="C_m2" style="left:30px;top:290px;background:#F0F0F0;color:#222;border-bottom-left-radius:10px;font-size:38px">Ciao! 👋 Mandaci il link del tuo sito: ti diciamo cosa sistemare.</div>
+    </div>
+    <div class="abs" id="C_logo" style="left:80px;top:1150px;width:190px;height:105px;overflow:hidden"><img src="assets/logo-rose.png" style="width:190px;display:block"></div>
+    <div class="abs mono" id="C_hint" style="right:80px;top:1175px;font-size:26px;color:#fff;background:var(--obs);padding:16px 26px;border-radius:40px;white-space:nowrap">Tocca «Invia messaggio» ↓</div>
+  </section>
+
+  <div class="panel" id="P1"></div>
+  <canvas id="grain" width="290" height="510"></canvas>
+</div>
+<script>
+function bez(x1,y1,x2,y2){const cx=3*x1,bx=3*(x2-x1)-cx,ax=1-cx-bx,cy=3*y1,by=3*(y2-y1)-cy,ay=1-cy-by;const X=t=>((ax*t+bx)*t+cx)*t,Y=t=>((ay*t+by)*t+cy)*t,dX=t=>(3*ax*t+2*bx)*t+cx;return x=>{if(x<=0)return 0;if(x>=1)return 1;let t=x;for(let i=0;i<8;i++){const d=dX(t);if(Math.abs(d)<1e-6)break;t-=(X(t)-x)/d;}t=Math.min(1,Math.max(0,t));return Y(t);};}
+const IN=bez(.2,0,0,1),OUT=bez(.3,0,1,1),MOVE=bez(.4,0,.2,1),POP=bez(.34,1.4,.64,1);
+const cl=v=>Math.min(1,Math.max(0,v)),p=(t,t0,d,e=IN)=>e(cl((t-t0)/d)),lerp=(a,b,k)=>a+(b-a)*k,$=id=>document.getElementById(id);
+function set(el,{x=0,y=0,s=1,o=1,r=0}={}){el.style.transform=`translate(${x}px,${y}px) scale(${s}) rotate(${r}deg)`;el.style.opacity=o;}
+function lines(c,t,t0,st=.2,dur=.7){[...c.querySelectorAll('.mask>span')].forEach((s,i)=>{s.style.transform=`translateY(${lerp(110,0,p(t,t0+i*st,dur))}%)`;});}
+function fade(el,t,t0,dy=26,d=.6){set(el,{y:lerp(dy,0,p(t,t0,d)),o:p(t,t0,d)});}
+function chip(el,t,t0,t1){const ki=p(t,t0,.5,POP),ko=t1?p(t,t1,.3,OUT):0;set(el,{y:lerp(30,0,ki)+lerp(0,-20,ko),s:lerp(.92,1,ki),o:Math.min(cl((t-t0)/.2),1-ko)});}
+function thumb(x,y,o){[$('S_tl'),$('S_tl2')].forEach(l=>{l.setAttribute('x2',x);l.setAttribute('y2',y);});$('S_nail').setAttribute('cx',x+8);$('S_nail').setAttribute('cy',y+10);$('S_th').style.opacity=o;}
+const V=(new URLSearchParams(location.search).get('v')||'A').toUpperCase();
+// scaletta per variante: [scena, inizio], colore della tendina in entrata
+const PLAN=V==='B'?{H:0,S:3.0,O:12.6,C:18.4,END:26.4}:{H:0,S:3.4,M:14.6,O:21.0,C:27.0,END:35.0};
+const ORDER=Object.keys(PLAN).filter(k=>k!=='END');
+const WIPE={S:'#FFFFFF',M:'#F4EFE6',O:'#E63B2E',C:'#F4EFE6'};
+window.TEMPI=PLAN; window.VARIANTE=V;
+$('O_slots').innerHTML=Array.from({length:10},(_,i)=>`<i class="slot" id="O_d${i}"></i>`).join('');
+const g=$('grain'),gx=g.getContext('2d');let seed=1;const rnd=()=>{seed=(seed*16807)%2147483647;return seed/2147483647;};
+function grain(f){seed=1+(f%7)*7919;const im=gx.createImageData(290,510);for(let i=0;i<im.data.length;i+=4){const v=rnd()*255;im.data[i]=im.data[i+1]=im.data[i+2]=v;im.data[i+3]=255;}gx.putImageData(im,0,0);g.style.width='1160px';g.style.height='2000px';}
+const PAN=.45;
+function wipe(t,t0,color){const el=$('P1');const k=p(t,t0-PAN,PAN,MOVE);if(t>t0-PAN&&t<t0+.02){el.style.display='block';el.style.background=color;el.style.top=lerp(1920,0,k)+'px';}}
+const SC={
+  H(h){fade($('H_l'),h,-.6,20,.5); lines($('H_h'),h,-1.3,.2,.7);
+    const ck=p(h,.9,.5,POP); set($('H_c'),{y:lerp(30,0,ck),s:lerp(.92,1,ck),o:cl((h-.9)/.2)});
+    $('H').style.transform=`scale(${1+.012*cl(h/3.4)})`;},
+  S(a){const B=V==='B';
+    chip($('S_c1'),a,.3,4.6); chip($('S_c2'),a,.9,4.6);
+    const rp=a>.3&&a<6.8, pulse=.5+.5*Math.sin(a*5); $('S_ring').style.opacity=rp?p(a,.3,.3)*(.4+.6*pulse):0; $('S_ring').style.transform=`scale(${1+.08*pulse})`;
+    const k=p(a,1.4,1.8,MOVE), tx=lerp(960,560,k), ty=lerp(1900,950,k), wob=a>3.2&&a<6.8?6*Math.sin((a-3.2)*9):0;
+    thumb(tx+wob,ty-wob,a<1.3?0:(a>7.2?1-p(a,7.2,.4):1));
+    const gk=p(a,3.4,.4); $('S_gap').setAttribute('x1',tx+wob);$('S_gap').setAttribute('y1',ty-wob);$('S_gap').setAttribute('x2',lerp(tx,190,gk));$('S_gap').setAttribute('y2',lerp(ty,500,gk));$('S_gap').style.opacity=a>3.4&&a<7.2?1:0;
+    chip($('S_c3'),a,4.8,6.6);
+    $('S_heat').style.opacity=p(a,5.0,.6);
+    const vk=p(a,6.8,.5,POP); set($('S_v'),{y:lerp(40,0,vk),s:lerp(.9,1,vk),o:cl((a-6.8)/.2)});},
+  M(m){lines($('M_h'),m,.15,.3,.75);
+    [1,2,3].forEach(i=>{const k=p(m,1.1+(i-1)*1.1,.55,POP);set($('M_'+i),{x:lerp(80,0,k),o:cl((m-1.1-(i-1)*1.1)/.2)});});
+    $('M').style.transform=`translateY(${-4*m}px)`;},
+  O(o){fade($('O_l'),o,.05,20,.5);
+    const sk=p(o,.3,.5,POP); set($('O_stamp'),{s:lerp(2.2,1,sk),r:lerp(-14,-4,sk),o:cl((o-.3)/.15)});
+    lines($('O_h'),o,1.2,.35,.75); fade($('O_sl'),o,2.9,16,.5);
+    for(let i=0;i<10;i++){const k=p(o,3.2+i*.09,.35,POP);set($('O_d'+i),{s:lerp(0,1,k),o:cl((o-3.2-i*.09)/.1)});}
+    $('O').style.transform=`scale(${1+.01*cl(o/6)})`;},
+  C(q){fade($('C_l'),q,.05,20,.5); lines($('C_h'),q,.2,.3,.75); fade($('C_chat'),q,1.0,30,.6);
+    const w="ANALISI", n=Math.floor(cl((q-1.7)/1.1)*w.length); $('C_t').textContent=w.slice(0,n);
+    const mk=q>1.6; $('C_m1').style.opacity=mk?1:0; $('C_cur').style.opacity=q>2.9?0:(Math.floor(q*3)%2===0||q<2.8?1:0);
+    fade($('C_ok'),q,3.0,8,.3);
+    const dots=q>3.3&&q<4.4; $('C_dots').style.opacity=dots?1:0; $('C_dots').style.letterSpacing=(.2+.05*Math.sin(q*12))+'em';
+    const rk=p(q,4.4,.45,POP); set($('C_m2'),{s:lerp(.85,1,rk),o:cl((q-4.4)/.15)}); $('C_m2').style.transformOrigin='0 100%';
+    const lk=p(q,5.3,.8); $('C_logo').style.clipPath=`inset(0 ${100-lk*100}% 0 0)`;
+    const hk=p(q,5.6,.5,POP); set($('C_hint'),{y:lerp(20,0,hk)+(q>6.2?6*Math.sin((q-6.2)*6):0),o:cl((q-5.6)/.2)});}
+};
+function render(t,frame=0){
+  grain(Math.floor(frame/2)); $('P1').style.display='none';
+  let cur=ORDER[0]; ORDER.forEach(k=>{if(t>=PLAN[k])cur=k;});
+  const dark=cur==='H'||cur==='O';
+  $('bar').style.background=dark?'rgba(244,239,230,.25)':'rgba(26,20,20,.12)'; $('bar').firstElementChild.style.background=dark?'#F4EFE6':'#1A1414';
+  $('bar').firstElementChild.style.width=(cl(t/(PLAN.END-.6))*100)+'%';
+  ['H','S','M','O','C'].forEach(i=>$(i).style.visibility='hidden');
+  $(cur).style.visibility='visible'; SC[cur](t-PLAN[cur]);
+  ORDER.slice(1).forEach(k=>wipe(t,PLAN[k],WIPE[k]));
+}
+window.render=render; window.DURATA=PLAN.END;
+document.fonts.ready.then(()=>{window.pronto=true;render(0);});
+</script></body></html>
