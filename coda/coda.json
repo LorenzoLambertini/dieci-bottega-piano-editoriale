@@ -369,60 +369,48 @@
       }
     },
     {
-      "id": "P06",
-      "titolo": "Reel Dettaglio",
-      "tipo": "reel",
-      "quando": "2026-10-14 18:30",
-      "dueAt": "2026-10-14T16:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Molti dettagli che fanno perdere clienti non si vedono finché non provi il sito con una mano, in piedi, in tram.\nProva il tuo adesso: riesci a prenotare con il pollice? Ogni settimana un dettaglio nuovo.\n\n#webdesign #ux #ristorantibologna #sitiweb #bologna",
-          "video": "media/post/P06/video.mp4",
-          "stato": "manca_video"
-        },
-        "facebook": {
-          "testo": "Prova il tuo sito con una mano sola, in piedi: riesci a prenotare con il pollice?\n\nUn bottone troppo piccolo è la differenza tra una prenotazione e una chiamata persa. Si sistema in dieci minuti.\n\nOgni settimana un dettaglio nuovo. È tutto nei dettagli.",
-          "video": "media/post/P06/video.mp4",
-          "stato": "manca_video"
-        },
-        "linkedin": {
-          "testo": "Un bottone troppo piccolo costa più di quanto sembra.\n\nLe linee guida di Apple e Google chiedono un'area toccabile di almeno 44-48 punti. Molti siti di ristoranti, studi e negozi hanno ancora il pulsante \"Prenota\" o \"Chiama\" minuscolo, in alto, dove il pollice non arriva.\n\nDa telefono, in piedi, con una mano sola, quel bottone non lo premi. E la prenotazione diventa una chiamata persa.\n\nLa correzione richiede dieci minuti: più grande, più in basso, più contrasto.\n\nÈ il tipo di dettaglio che non compare in nessun preventivo, ma che decide se un sito lavora o no.\n\n#UX #WebDesign #PMI",
-          "video": "media/post/P06/video.mp4",
-          "stato": "manca_video"
-        }
-      },
-      "nota": "Serve il video girato: caricalo in media/post/P06/video.mp4 e cambia stato in da_programmare."
-    },
-    {
-      "id": "R04",
-      "titolo": "Tre secondi su mobile",
-      "formato": "Quiz",
+      "id": "R05",
+      "titolo": "Quanto costa un sito",
+      "formato": "Informativo",
       "tipo": "reel",
       "quando": "2026-10-15 18:30",
       "dueAt": "2026-10-15T16:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Un sito mobile ci mette più di 3 secondi. Quante visite si perdono?\n\nA) Il 15%\nB) Il 90%\nC) Il 53%\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito veloce, mobile-first.\n\nFonte: Google · The Need for Mobile Speed (dati 2016)\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #corewebvitals #velocitasito #mobilefirst",
-          "video": "media/reel/R04.mp4",
+          "testo": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
+          "video": "media/reel/R05b.mp4",
           "stato": "programmato",
-          "bufferId": "6ac7c7686f30750f2f4c994b",
-          "programmatoIl": "2026-10-08T16:40:08.967Z"
+          "bufferId": "6ac95f89b07d37ac975130bc",
+          "programmatoIl": "2026-10-09T21:41:29.360Z",
+          "daAggiornare": true
         },
         "facebook": {
-          "testo": "Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora ti stai perdendo una visita su due.\n\nIndovina la percentuale esatta nei commenti, poi guarda il video. E prova adesso il tuo sito dal telefono: quanto ci mette?",
-          "video": "media/reel/R04.mp4",
+          "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page 800–1.000 €, sito vetrina 1.500–2.000 €, e-commerce light 1.800–3.200 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
+          "video": "media/reel/R05b.mp4",
           "stato": "programmato",
-          "bufferId": "6ac5f11636c2a7788dd3a012",
-          "programmatoIl": "2026-10-07T07:13:26.179Z"
+          "bufferId": "6ac95f89c4de2d2b1208866d",
+          "programmatoIl": "2026-10-09T21:41:29.683Z",
+          "daAggiornare": true
         },
         "linkedin": {
-          "testo": "Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% delle visite viene abbandonato. Più di una su due. (Fonte: Google)\n\nPer una piccola attività significa questo: metà delle persone che ti hanno cercato, magari dopo un passaparola, chiude la pagina prima di vedere cosa fai.\n\nNon serve un sito più bello. Serve un sito più leggero: immagini ottimizzate, codice pulito, niente plugin superflui.\n\nHai mai misurato il tuo?\n\n#Performance #SitiWeb #PMI",
-          "video": "media/reel/R04.mp4",
+          "testo": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page, 800–1.000 €, circa 7 giorni\n— Sito vetrina (5–7 pagine), 1.500–2.000 €, 10–14 giorni\n— Sito completo (8–12 pagine + blog), 2.500–3.500 €, 3–4 settimane\n— E-commerce light, 1.800–3.200 €\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
+          "video": "media/reel/R05b.mp4",
           "stato": "programmato",
-          "bufferId": "6ac5f1165355110416252fb9",
-          "programmatoIl": "2026-10-07T07:13:26.569Z"
+          "bufferId": "6ac95f89d9cab260a7a4146c",
+          "programmatoIl": "2026-10-09T21:41:30.031Z",
+          "daAggiornare": true
         }
-      }
+      },
+      "nota": "Video rifatto il 9/10 con il listino nuovo (video-lancio/r05.html)",
+      "sostituzioni": [
+        {
+          "il": "2026-10-14T19:00:00.000Z",
+          "da": "2026-10-20 18:30",
+          "a": "2026-10-15 18:30",
+          "conContenuto": "R04",
+          "nota": "controllo serale: R04 (velocità mobile) troppo vicino a C01 (prova del pollice)"
+        }
+      ]
     },
     {
       "id": "P08",
@@ -519,36 +507,38 @@
       }
     },
     {
-      "id": "R05",
-      "titolo": "Quanto costa un sito",
-      "formato": "Informativo",
+      "id": "R04",
+      "titolo": "Tre secondi su mobile",
+      "formato": "Quiz",
       "tipo": "reel",
       "quando": "2026-10-20 18:30",
       "dueAt": "2026-10-20T16:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
-          "video": "media/reel/R05b.mp4",
+          "testo": "Un sito mobile ci mette più di 3 secondi. Quante visite si perdono?\n\nA) Il 15%\nB) Il 90%\nC) Il 53%\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito veloce, mobile-first.\n\nFonte: Google · The Need for Mobile Speed (dati 2016)\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #corewebvitals #velocitasito #mobilefirst",
+          "video": "media/reel/R04.mp4",
           "stato": "programmato",
-          "bufferId": "6ac95f89b07d37ac975130bc",
-          "programmatoIl": "2026-10-09T21:41:29.360Z"
+          "bufferId": "6ac7c7686f30750f2f4c994b",
+          "programmatoIl": "2026-10-08T16:40:08.967Z",
+          "daAggiornare": true
         },
         "facebook": {
-          "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page 800–1.000 €, sito vetrina 1.500–2.000 €, e-commerce light 1.800–3.200 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
-          "video": "media/reel/R05b.mp4",
+          "testo": "Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora ti stai perdendo una visita su due.\n\nIndovina la percentuale esatta nei commenti, poi guarda il video. E prova adesso il tuo sito dal telefono: quanto ci mette?",
+          "video": "media/reel/R04.mp4",
           "stato": "programmato",
-          "bufferId": "6ac95f89c4de2d2b1208866d",
-          "programmatoIl": "2026-10-09T21:41:29.683Z"
+          "bufferId": "6ac5f11636c2a7788dd3a012",
+          "programmatoIl": "2026-10-07T07:13:26.179Z",
+          "daAggiornare": true
         },
         "linkedin": {
-          "testo": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page, 800–1.000 €, circa 7 giorni\n— Sito vetrina (5–7 pagine), 1.500–2.000 €, 10–14 giorni\n— Sito completo (8–12 pagine + blog), 2.500–3.500 €, 3–4 settimane\n— E-commerce light, 1.800–3.200 €\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
-          "video": "media/reel/R05b.mp4",
+          "testo": "Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% delle visite viene abbandonato. Più di una su due. (Fonte: Google)\n\nPer una piccola attività significa questo: metà delle persone che ti hanno cercato, magari dopo un passaparola, chiude la pagina prima di vedere cosa fai.\n\nNon serve un sito più bello. Serve un sito più leggero: immagini ottimizzate, codice pulito, niente plugin superflui.\n\nHai mai misurato il tuo?\n\n#Performance #SitiWeb #PMI",
+          "video": "media/reel/R04.mp4",
           "stato": "programmato",
-          "bufferId": "6ac95f89d9cab260a7a4146c",
-          "programmatoIl": "2026-10-09T21:41:30.031Z"
+          "bufferId": "6ac5f1165355110416252fb9",
+          "programmatoIl": "2026-10-07T07:13:26.569Z",
+          "daAggiornare": true
         }
-      },
-      "nota": "Video rifatto il 9/10 con il listino nuovo (video-lancio/r05.html)"
+      }
     },
     {
       "id": "R06",
@@ -757,6 +747,40 @@
           "programmatoIl": "2026-10-11T11:27:17.632Z"
         }
       }
+    },
+    {
+      "id": "P06",
+      "titolo": "Reel Dettaglio",
+      "tipo": "reel",
+      "quando": "2026-10-30 18:30",
+      "dueAt": "2026-10-30T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Molti dettagli che fanno perdere clienti non si vedono finché non provi il sito con una mano, in piedi, in tram.\nProva il tuo adesso: riesci a prenotare con il pollice? Ogni settimana un dettaglio nuovo.\n\n#webdesign #ux #ristorantibologna #sitiweb #bologna",
+          "video": "media/post/P06/video.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Prova il tuo sito con una mano sola, in piedi: riesci a prenotare con il pollice?\n\nUn bottone troppo piccolo è la differenza tra una prenotazione e una chiamata persa. Si sistema in dieci minuti.\n\nOgni settimana un dettaglio nuovo. È tutto nei dettagli.",
+          "video": "media/post/P06/video.mp4",
+          "stato": "manca_video"
+        },
+        "linkedin": {
+          "testo": "Un bottone troppo piccolo costa più di quanto sembra.\n\nLe linee guida di Apple e Google chiedono un'area toccabile di almeno 44-48 punti. Molti siti di ristoranti, studi e negozi hanno ancora il pulsante \"Prenota\" o \"Chiama\" minuscolo, in alto, dove il pollice non arriva.\n\nDa telefono, in piedi, con una mano sola, quel bottone non lo premi. E la prenotazione diventa una chiamata persa.\n\nLa correzione richiede dieci minuti: più grande, più in basso, più contrasto.\n\nÈ il tipo di dettaglio che non compare in nessun preventivo, ma che decide se un sito lavora o no.\n\n#UX #WebDesign #PMI",
+          "video": "media/post/P06/video.mp4",
+          "stato": "manca_video"
+        }
+      },
+      "nota": "Serve il video girato: caricalo in media/post/P06/video.mp4 e cambia stato in da_programmare.",
+      "sostituzioni": [
+        {
+          "il": "2026-10-14T19:00:00.000Z",
+          "da": "2026-10-14 18:30",
+          "a": "2026-10-30 18:30",
+          "conContenuto": null,
+          "nota": "controllo serale: sostituzione automatica non partita (cron GitHub saltato), slot del 14/10 18:30 rimasto vuoto"
+        }
+      ]
     },
     {
       "id": "S01",
