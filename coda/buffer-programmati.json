@@ -1,6 +1,17 @@
 {
   "facebook": [
     {
+      "id": "6acfcf8e199c0449d73a5129",
+      "dueAt": "2026-10-15T16:30:00.000Z",
+      "text": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page 800–1.000 €, sito vetrina 1.500–2.000 €, e-commerce light 1.800–3.200 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R05b.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ac577df8a697ec9117269e2",
       "dueAt": "2026-10-16T10:30:00.000Z",
       "text": "Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no.\n\nL'AI ci aiuta con le bozze e le parti ripetitive. Le scelte, i testi finali e ogni riga di codice li rivediamo noi. E non usiamo mai volti inventati.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.",
@@ -63,6 +74,17 @@
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/slide07.png",
           "tipo": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "6acfcf8fa94addd88cd07e19",
+      "dueAt": "2026-10-20T16:30:00.000Z",
+      "text": "Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora ti stai perdendo una visita su due.\n\nIndovina la percentuale esatta nei commenti, poi guarda il video. E prova adesso il tuo sito dal telefono: quanto ci mette?",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R04.mp4",
+          "tipo": "video/mp4"
         }
       ]
     },
@@ -132,9 +154,31 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6acfcf91a94addd88cd07e6e",
+      "dueAt": "2026-11-05T17:30:00.000Z",
+      "text": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "linkedin": [
+    {
+      "id": "6acfcf8eedcab17b812840e7",
+      "dueAt": "2026-10-15T16:30:00.000Z",
+      "text": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page, 800–1.000 €, circa 7 giorni\n— Sito vetrina (5–7 pagine), 1.500–2.000 €, 10–14 giorni\n— Sito completo (8–12 pagine + blog), 2.500–3.500 €, 3–4 settimane\n— E-commerce light, 1.800–3.200 €\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R05b.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ac577df42e81c8a0b0bb07c",
       "dueAt": "2026-10-16T10:30:00.000Z",
@@ -154,6 +198,17 @@
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P09/carosello.pdf",
           "tipo": "application/pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acfcf9041e19a94599bbb2c",
+      "dueAt": "2026-10-20T16:30:00.000Z",
+      "text": "Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% delle visite viene abbandonato. Più di una su due. (Fonte: Google)\n\nPer una piccola attività significa questo: metà delle persone che ti hanno cercato, magari dopo un passaparola, chiude la pagina prima di vedere cosa fai.\n\nNon serve un sito più bello. Serve un sito più leggero: immagini ottimizzate, codice pulito, niente plugin superflui.\n\nHai mai misurato il tuo?\n\n#Performance #SitiWeb #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R04.mp4",
+          "tipo": "video/mp4"
         }
       ]
     },
@@ -211,9 +266,31 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6acfcf91edcab17b8128418d",
+      "dueAt": "2026-11-05T17:30:00.000Z",
+      "text": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "instagram": [
+    {
+      "id": "6acfcf8da94addd88cd07d99",
+      "dueAt": "2026-10-15T16:30:00.000Z",
+      "text": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R05b.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ac7c72534ed38f0ddb332ba",
       "dueAt": "2026-10-16T10:30:00.000Z",
@@ -281,6 +358,17 @@
       ]
     },
     {
+      "id": "6acfcf8fedcab17b8128412f",
+      "dueAt": "2026-10-20T16:30:00.000Z",
+      "text": "Un sito mobile ci mette più di 3 secondi. Quante visite si perdono?\n\nA) Il 15%\nB) Il 90%\nC) Il 53%\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito veloce, mobile-first.\n\nFonte: Google · The Need for Mobile Speed (dati 2016)\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #corewebvitals #velocitasito #mobilefirst",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R04.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ac7d107777d0616a6fa76a2",
       "dueAt": "2026-10-22T16:30:00.000Z",
       "text": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
@@ -343,6 +431,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6acfcf90edcab17b81284162",
+      "dueAt": "2026-11-05T17:30:00.000Z",
+      "text": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
           "tipo": "video/mp4"
         }
       ]
