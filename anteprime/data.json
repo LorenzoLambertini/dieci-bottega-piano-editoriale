@@ -1,46 +1,6 @@
 {
- "aggiornato": "2026-10-14T18:54+00:00",
+ "aggiornato": "2026-10-15T21:03+00:00",
  "contenuti": [
-  {
-   "id": "R05",
-   "titolo": "Quanto costa un sito",
-   "tipo": "reel",
-   "quando": "2026-10-15 18:30",
-   "dueAt": "2026-10-15T16:30:00.000Z",
-   "slide": [],
-   "poster": "img/R05_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R05b.mp4",
-   "durata": 28,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Quanto costa un sito?\n\nNiente preventivi a sorpresa: listino trasparente, prezzi pubblici, tempi reali. Sito vetrina, landing page, e-commerce light, CRM su misura, automazione AI. Il preventivo definitivo arriva dopo il brief.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #preventivo #trasparenza #pmi",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Quanto costa un sito? \"Dipende\" non è una risposta.\n\nLanding page 800–1.000 €, sito vetrina 1.500–2.000 €, e-commerce light 1.800–3.200 €. IVA esclusa, tempi scritti accanto al prezzo.\n\nIl listino completo è qui: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=R05",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Quanto costa un sito? Nel nostro settore la risposta più comune è \"dipende\".\n\nAbbiamo scelto di rispondere prima:\n— Landing page, 800–1.000 €, circa 7 giorni\n— Sito vetrina (5–7 pagine), 1.500–2.000 €, 10–14 giorni\n— Sito completo (8–12 pagine + blog), 2.500–3.500 €, 3–4 settimane\n— E-commerce light, 1.800–3.200 €\nIVA esclusa. 50% all'avvio, 50% al lancio. Preventivo definitivo dopo il brief.\n\nUn prezzo pubblico non è una tecnica di vendita. È rispetto per chi deve decidere.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=R05\n\n#PMI #Preventivi #WebDesign",
-     "formato": "video",
-     "errore": null
-    }
-   },
-   "sostituzioni": [
-    {
-     "il": "2026-10-14T19:00:00.000Z",
-     "da": "2026-10-20 18:30",
-     "a": "2026-10-15 18:30",
-     "conContenuto": "R04",
-     "nota": "controllo serale: R04 (velocità mobile) troppo vicino a C01 (prova del pollice)"
-    }
-   ]
-  },
   {
    "id": "P08",
    "titolo": "AI Mestiere",
@@ -150,31 +110,31 @@
    }
   },
   {
-   "id": "R06",
-   "titolo": "Quale homepage",
+   "id": "R08",
+   "titolo": "Da zero a online",
    "tipo": "reel",
    "quando": "2026-10-22 18:30",
    "dueAt": "2026-10-22T16:30:00.000Z",
    "slide": [],
-   "poster": "img/R06_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06c.mp4",
-   "durata": 30,
+   "poster": "img/R08_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R08.mp4",
+   "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "gia_in_buffer",
-     "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
+     "stato": "programmato",
+     "testo": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "gia_in_buffer",
-     "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
+     "stato": "programmato",
+     "testo": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 design, 6-8 sviluppo, 9-10 online. Ogni fase ha il suo giorno: per questo ti diciamo prima quando sarai online.\n\nDomande sul metodo? Scrivile qui sotto.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "gia_in_buffer",
-     "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
+     "stato": "programmato",
+     "testo": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un calendario, non con la fretta:\nGiorno 1–2 · Brief e questionario. Ascoltiamo prima di costruire.\nGiorno 3–5 · Design. AI-assisted, curato a mano. Due round di revisione.\nGiorno 6–8 · Sviluppo. Codice scritto a mano.\nGiorno 9–10 · SEO di base, test su più dispositivi, online. Credenziali consegnate al cliente.\n\nQuando ogni fase ha il suo giorno, la data di consegna smette di essere una promessa e diventa un piano.\n\n#Processi #WebDesign #PMI",
      "formato": "video",
      "errore": null
     }
@@ -323,31 +283,31 @@
    ]
   },
   {
-   "id": "R08",
-   "titolo": "Da zero a online",
+   "id": "R06",
+   "titolo": "Quale homepage",
    "tipo": "reel",
    "quando": "2026-10-29 18:30",
    "dueAt": "2026-10-29T17:30:00.000Z",
    "slide": [],
-   "poster": "img/R08_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R08.mp4",
-   "durata": 29,
+   "poster": "img/R06_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06c.mp4",
+   "durata": 30,
    "canali": {
     "instagram": {
      "stato": "programmato",
-     "testo": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
+     "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
      "formato": "video",
      "errore": null
     },
     "facebook": {
      "stato": "programmato",
-     "testo": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 design, 6-8 sviluppo, 9-10 online. Ogni fase ha il suo giorno: per questo ti diciamo prima quando sarai online.\n\nDomande sul metodo? Scrivile qui sotto.",
+     "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
      "stato": "programmato",
-     "testo": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un calendario, non con la fretta:\nGiorno 1–2 · Brief e questionario. Ascoltiamo prima di costruire.\nGiorno 3–5 · Design. AI-assisted, curato a mano. Due round di revisione.\nGiorno 6–8 · Sviluppo. Codice scritto a mano.\nGiorno 9–10 · SEO di base, test su più dispositivi, online. Credenziali consegnate al cliente.\n\nQuando ogni fase ha il suo giorno, la data di consegna smette di essere una promessa e diventa un piano.\n\n#Processi #WebDesign #PMI",
+     "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
      "formato": "video",
      "errore": null
     }
@@ -591,19 +551,19 @@
    "durata": 30,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nLe persone vere vengono guardate, le foto stock vengono ignorate. Nel video c'è il dato (fonte: Nielsen Norman Group).\n#webdesign #chisiamo #fotografia #sitiweb #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Pagina \"Chi siamo\": foto di gruppo da catalogo o la faccia vera di chi lavora? A o B?\n\nScrivi la tua nei commenti.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Nella pagina \"Chi siamo\" le persone vere vengono guardate. Le foto stock vengono ignorate.\n\nGli studi di eyetracking di Nielsen Norman Group lo mostrano da anni: le foto del team reale vengono osservate più a lungo del testo, anche quando il testo occupa più spazio. Le immagini generiche, invece, l'occhio le salta.\n\nPer una piccola impresa è un vantaggio enorme: la faccia del titolare costa meno di qualsiasi foto stock, e vale di più.\n\n#WebDesign #Fiducia #PMI",
      "formato": "video",
      "errore": null
