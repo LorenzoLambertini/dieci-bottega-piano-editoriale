@@ -535,33 +535,38 @@
       }
     },
     {
-      "id": "R06",
-      "titolo": "Quale homepage",
-      "formato": "A o B?",
+      "id": "R08",
+      "titolo": "Da zero a online",
+      "formato": "Informativo",
       "tipo": "reel",
       "quando": "2026-10-22 18:30",
       "dueAt": "2026-10-22T16:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
-          "video": "media/reel/R06c.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac7d107777d0616a6fa76a2"
+          "testo": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
+          "video": "media/reel/R08.mp4",
+          "stato": "programmato",
+          "bufferId": "6acb7294bba9419ccb338414",
+          "programmatoIl": "2026-10-11T11:27:16.654Z",
+          "daAggiornare": true
         },
         "facebook": {
-          "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
-          "video": "media/reel/R06c.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac7d107d3b0be2fc4117166"
+          "testo": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 design, 6-8 sviluppo, 9-10 online. Ogni fase ha il suo giorno: per questo ti diciamo prima quando sarai online.\n\nDomande sul metodo? Scrivile qui sotto.",
+          "video": "media/reel/R08.mp4",
+          "stato": "programmato",
+          "bufferId": "6acb7294d9cab260a7f648b8",
+          "programmatoIl": "2026-10-11T11:27:17.086Z",
+          "daAggiornare": true
         },
         "linkedin": {
-          "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
-          "video": "media/reel/R06c.mp4",
-          "stato": "gia_in_buffer",
-          "bufferId": "6ac7d107f4c7c231297ddec0"
+          "testo": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un calendario, non con la fretta:\nGiorno 1–2 · Brief e questionario. Ascoltiamo prima di costruire.\nGiorno 3–5 · Design. AI-assisted, curato a mano. Due round di revisione.\nGiorno 6–8 · Sviluppo. Codice scritto a mano.\nGiorno 9–10 · SEO di base, test su più dispositivi, online. Credenziali consegnate al cliente.\n\nQuando ogni fase ha il suo giorno, la data di consegna smette di essere una promessa e diventa un piano.\n\n#Processi #WebDesign #PMI",
+          "video": "media/reel/R08.mp4",
+          "stato": "programmato",
+          "bufferId": "6acb7295f91f772d45c6233e",
+          "programmatoIl": "2026-10-11T11:27:17.632Z",
+          "daAggiornare": true
         }
-      },
-      "nota": "9/10: Lorenzo lo toglie a mano da Buffer per fare spazio al Listino; il sync lo rimette (se è ancora lì lo riconosce e non lo duplica)"
+      }
     },
     {
       "id": "P07",
@@ -712,35 +717,36 @@
       ]
     },
     {
-      "id": "R08",
-      "titolo": "Da zero a online",
-      "formato": "Informativo",
+      "id": "R06",
+      "titolo": "Quale homepage",
+      "formato": "A o B?",
       "tipo": "reel",
       "quando": "2026-10-29 18:30",
       "dueAt": "2026-10-29T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
-          "video": "media/reel/R08.mp4",
+          "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
+          "video": "media/reel/R06c.mp4",
           "stato": "programmato",
-          "bufferId": "6acb7294bba9419ccb338414",
-          "programmatoIl": "2026-10-11T11:27:16.654Z"
+          "bufferId": "6ac7d107777d0616a6fa76a2",
+          "daAggiornare": true
         },
         "facebook": {
-          "testo": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 design, 6-8 sviluppo, 9-10 online. Ogni fase ha il suo giorno: per questo ti diciamo prima quando sarai online.\n\nDomande sul metodo? Scrivile qui sotto.",
-          "video": "media/reel/R08.mp4",
+          "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
+          "video": "media/reel/R06c.mp4",
           "stato": "programmato",
-          "bufferId": "6acb7294d9cab260a7f648b8",
-          "programmatoIl": "2026-10-11T11:27:17.086Z"
+          "bufferId": "6ac7d107d3b0be2fc4117166",
+          "daAggiornare": true
         },
         "linkedin": {
-          "testo": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un calendario, non con la fretta:\nGiorno 1–2 · Brief e questionario. Ascoltiamo prima di costruire.\nGiorno 3–5 · Design. AI-assisted, curato a mano. Due round di revisione.\nGiorno 6–8 · Sviluppo. Codice scritto a mano.\nGiorno 9–10 · SEO di base, test su più dispositivi, online. Credenziali consegnate al cliente.\n\nQuando ogni fase ha il suo giorno, la data di consegna smette di essere una promessa e diventa un piano.\n\n#Processi #WebDesign #PMI",
-          "video": "media/reel/R08.mp4",
+          "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
+          "video": "media/reel/R06c.mp4",
           "stato": "programmato",
-          "bufferId": "6acb7295f91f772d45c6233e",
-          "programmatoIl": "2026-10-11T11:27:17.632Z"
+          "bufferId": "6ac7d107f4c7c231297ddec0",
+          "daAggiornare": true
         }
-      }
+      },
+      "nota": "9/10: Lorenzo lo toglie a mano da Buffer per fare spazio al Listino; il sync lo rimette (se è ancora lì lo riconosce e non lo duplica)"
     },
     {
       "id": "P06",
