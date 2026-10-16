@@ -1,44 +1,6 @@
 {
- "aggiornato": "2026-10-15T21:03+00:00",
+ "aggiornato": "2026-10-16T18:51+00:00",
  "contenuti": [
-  {
-   "id": "P08",
-   "titolo": "AI Mestiere",
-   "tipo": "carosello",
-   "quando": "2026-10-16 12:30",
-   "dueAt": "2026-10-16T10:30:00.000Z",
-   "slide": [
-    "img/P08_01.jpg",
-    "img/P08_02.jpg",
-    "img/P08_03.jpg",
-    "img/P08_04.jpg",
-    "img/P08_05.jpg",
-    "img/P08_06.jpg"
-   ],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no.\nCosì sai cosa stai pagando: tempo risparmiato sulle parti ripetitive, e persone che decidono su tutto il resto.\n\n#bologna #pmiitaliane #intelligenzaartificiale #webdesign #sitiweb",
-     "formato": "immagini",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no.\n\nL'AI ci aiuta con le bozze e le parti ripetitive. Le scelte, i testi finali e ogni riga di codice li rivediamo noi. E non usiamo mai volti inventati.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.",
-     "formato": "immagini",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Cosa fa l'AI. Cosa facciamo noi.\n\nTutti dicono di usare l'intelligenza artificiale. Noi preferiamo dire esattamente dove, e dove no.\n\nTesti: l'AI scrive una prima bozza con più varianti. Noi scegliamo quella che suona come il cliente.\nDesign: l'AI propone varianti di layout. Noi decidiamo cosa si vede per primo.\nCodice: l'AI accelera le parti ripetitive. Noi lo rileggiamo tutto, riga per riga.\nImmagini: l'AI solo dove non servono persone. Mai volti inventati, e lo dichiariamo.\n\nCosì chi lavora con noi sa cosa sta pagando: tempo risparmiato sulle parti ripetitive, e persone che decidono su tutto il resto.\n\nL'AI ci rende più veloci. Il mestiere ci rende affidabili.\n\n#IntelligenzaArtificiale #PMI #WebDesign",
-     "formato": "documento",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "P09",
    "titolo": "CRM",
