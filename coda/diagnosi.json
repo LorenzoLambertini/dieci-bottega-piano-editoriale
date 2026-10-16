@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6ad281be186b9df91d5abe27",
+        "dueAt": "2026-11-12T17:30:00.000Z",
+        "sentAt": null,
+        "text": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Fals",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad281bd60e8ace295ac5d92",
+        "dueAt": "2026-11-12T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi s",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad281bd29a10da0161a6ccc",
+        "dueAt": "2026-11-12T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi s",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6ad120a9cc4d8570370f1625",
         "dueAt": "2026-11-10T17:30:00.000Z",
         "sentAt": null,
@@ -925,19 +964,6 @@
         "via": "buffer"
       },
       {
-        "id": "6ac7c72534ed38f0ddb332ba",
-        "dueAt": "2026-10-16T10:30:00.000Z",
-        "sentAt": null,
-        "text": "Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove,",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6ac577e0280171da8dd32b8d",
         "dueAt": "2026-10-19T10:30:00.000Z",
         "sentAt": null,
@@ -956,32 +982,6 @@
         "sentAt": null,
         "text": "Contatti sparsi tra Excel, WhatsApp e mail?\n\nSe due persone ",
         "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac577df8a697ec9117269e2",
-        "dueAt": "2026-10-16T10:30:00.000Z",
-        "sentAt": null,
-        "text": "Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no.\n",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac577df42e81c8a0b0bb07c",
-        "dueAt": "2026-10-16T10:30:00.000Z",
-        "sentAt": null,
-        "text": "Cosa fa l'AI. Cosa facciamo noi.\n\nTutti dicono di usare l'in",
-        "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
         "schedulingType": "automatic",
@@ -1253,6 +1253,19 @@
         "via": "buffer"
       },
       {
+        "id": "6ac7c72534ed38f0ddb332ba",
+        "dueAt": "2026-10-16T10:30:00.000Z",
+        "sentAt": "2026-10-16T10:31:51.349Z",
+        "text": "Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove,",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
         "id": "6ac6c0b357f9bd074d1a376c",
         "dueAt": "2026-10-12T10:30:00.000Z",
         "sentAt": "2026-10-12T10:31:30.137Z",
@@ -1368,26 +1381,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ac5f11536c2a7788dd39fdc",
-        "dueAt": "2026-10-13T16:30:00.000Z",
-        "sentAt": "2026-10-13T16:30:59.887Z",
-        "text": "Quanto ci vuole a scrivere il testo di un bottone?\n\nCon l'AI",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Thu, 15 Oct 2026 18:52:24 GMT 2888614",
-    "media/reel/R07.mp4": "200 Thu, 15 Oct 2026 18:52:24 GMT 3173777",
-    "index.html": "200 Thu, 15 Oct 2026 18:52:23 GMT 104461"
+    "media/reel/R02.mp4": "200 Fri, 16 Oct 2026 18:54:12 GMT 2888614",
+    "media/reel/R07.mp4": "200 Fri, 16 Oct 2026 18:54:12 GMT 3173777",
+    "index.html": "200 Fri, 16 Oct 2026 18:54:12 GMT 104461"
   }
 }

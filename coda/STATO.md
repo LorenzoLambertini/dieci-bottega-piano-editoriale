@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 16/10/2026, 11:54:48
+Ultimo controllo: 16/10/2026, 21:57:51
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 16/10/2026, 11:54:48
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-16 12:30 | P08 | AI Mestiere | programmato | programmato | programmato |
 | 2026-10-19 12:30 | P09 | CRM | programmato | programmato | programmato |
 | 2026-10-20 18:30 | R04 | Tre secondi su mobile | programmato | programmato | programmato |
 | 2026-10-22 18:30 | R08 | Da zero a online | programmato | programmato | programmato |
@@ -29,7 +28,7 @@ Ultimo controllo: 16/10/2026, 11:54:48
 | 2026-11-09 18:30 | S04 | Sito del lunedì: l'agente immobiliare | manca_video | manca_video | manca_video |
 | 2026-11-10 18:30 | R11 | La foto del chi siamo | programmato | programmato | programmato |
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
-| 2026-11-12 18:30 | R12 | Solo qualche visita persa | da_programmare | da_programmare | da_programmare |
+| 2026-11-12 18:30 | R12 | Solo qualche visita persa | programmato | programmato | programmato |
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
 | 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
 | 2026-11-17 18:30 | R13 | A volte diciamo di no | da_programmare | da_programmare | da_programmare |
@@ -37,12 +36,12 @@ Ultimo controllo: 16/10/2026, 11:54:48
 | 2026-11-19 18:30 | R14 | Rispondere entro un’ora | da_programmare | da_programmare | da_programmare |
 | 2026-11-20 18:30 | S09 | Le 5 domande | manca_video | manca_video | manca_video |
 | 2026-11-23 18:30 | S10 | Sito del lunedì: audit su richiesta | manca_video | manca_video | manca_video |
+| 2026-11-24 18:30 | R15 | Il giorno dieci | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 16/10/26, 12:30 · Usate l'intelligenza artificiale? Sì. Ecco dove, e dove no. L'AI ci ai
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
 - 20/10/26, 18:30 · Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora t
 - 22/10/26, 18:30 · Come nasce un sito in dieci giorni. Giorno 1-2 brief, 3-5 design, 6-8 
@@ -52,10 +51,10 @@ Ultimo controllo: 16/10/2026, 11:54:48
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o bloc
 - 05/11/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: i giorni dal brief al sito onli
 - 10/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
+- 12/11/26, 18:30 · 
 
 ### linkedin
 
-- 16/10/26, 12:30 · Cosa fa l'AI. Cosa facciamo noi. Tutti dicono di usare l'intelligenza 
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% dell
 - 22/10/26, 18:30 · Come si fa un sito in dieci giorni senza farlo male? Con un calendario
@@ -65,10 +64,10 @@ Ultimo controllo: 16/10/2026, 11:54:48
 - 03/11/26, 18:30 · Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad 
 - 05/11/26, 18:30 · Perché ci chiamiamo Dieci Bottega. Dieci, come i giorni dal brief al s
 - 10/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
+- 12/11/26, 18:30 · 
 
 ### instagram
 
-- 16/10/26, 12:30 · Tutti dicono di usare l'AI. Noi ti diciamo esattamente dove, e dove no
 - 19/10/26, 12:30 · Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide
 - 20/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
 - 22/10/26, 18:30 · Come nasce un sito in 10 giorni. Giorno 1–2 brief, 3–5 design, 6–8 svi
@@ -78,6 +77,7 @@ Ultimo controllo: 16/10/2026, 11:54:48
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
 - 05/11/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: dieci giorni dal brief al sito 
 - 10/11/26, 18:30 · Pagina "Chi siamo": quale foto scegli? A o B nei commenti. Le persone 
+- 12/11/26, 18:30 · 
 
 
 ## Ultime sostituzioni automatiche
