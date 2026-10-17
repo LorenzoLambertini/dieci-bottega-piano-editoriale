@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 17/10/2026, 20:59:37
+Ultimo controllo: 17/10/2026, 21:24:45
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -42,39 +42,39 @@ Ultimo controllo: 17/10/2026, 20:59:37
 
 ### facebook
 
-- 18/10/26, 11:00 · 
+- 18/10/26, 11:00 · Due testi per un'officina: un muro di parole o titolo chiaro e frasi b
 - 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
 - 20/10/26, 18:30 · Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora t
-- 21/10/26, 18:30 · 
+- 21/10/26, 18:30 · A volte diciamo di no. Se il tuo progetto non è adatto a noi, te lo di
 - 22/10/26, 18:30 · Come nasce un sito in dieci giorni. Giorno 1-2 brief, 3-5 design, 6-8 
-- 24/10/26, 11:00 · 
-- 25/10/26, 11:00 · 
+- 24/10/26, 11:00 · Ti arriva un contatto. Se rispondi entro un'ora, quanto ti avvantaggia
+- 25/10/26, 11:00 · Il giorno dieci, cosa hai in mano? Il sito online, due round di revisi
 - 26/10/26, 12:30 · 2020. Nessuno dei due immaginava Dieci Bottega. Siamo Lorenzo e Tommas
 - 27/10/26, 18:30 · Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi t
 - 29/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
 
 ### linkedin
 
-- 18/10/26, 11:00 · 
+- 18/10/26, 11:00 · Online quasi nessuno legge parola per parola. Si scansiona. Gli studi 
 - 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% dell
-- 21/10/26, 18:30 · 
+- 21/10/26, 18:30 · A volte diciamo di no a un cliente. Non venderemo mai "veloce" a chi h
 - 22/10/26, 18:30 · Come si fa un sito in dieci giorni senza farlo male? Con un calendario
-- 24/10/26, 11:00 · 
-- 25/10/26, 11:00 · 
+- 24/10/26, 11:00 · Chi risponde a un nuovo contatto entro un'ora ha 7 volte più probabili
+- 25/10/26, 11:00 · Cosa consegniamo il giorno dieci di un progetto: 1. Il sito online, co
 - 26/10/26, 12:30 · Sei anni prima di Dieci Bottega, eravamo già in due. Questa foto è del
 - 27/10/26, 18:30 · GEO sta per Generative Engine Optimization: l'insieme di accorgimenti 
 - 29/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
 
 ### instagram
 
-- 18/10/26, 11:00 · 
+- 18/10/26, 11:00 · Quale testo si legge davvero? A o B nei commenti. Titoli chiari, prime
 - 19/10/26, 12:30 · Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide
 - 20/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
-- 21/10/26, 18:30 · 
+- 21/10/26, 18:30 · A volte diciamo di no. Non venderemo mai "veloce" a chi vuole approfon
 - 22/10/26, 18:30 · Come nasce un sito in 10 giorni. Giorno 1–2 brief, 3–5 design, 6–8 svi
-- 24/10/26, 11:00 · 
-- 25/10/26, 11:00 · 
+- 24/10/26, 11:00 · Rispondi a un contatto entro un'ora. Quanto ti avvantaggia rispetto a 
+- 25/10/26, 11:00 · Il giorno dieci, cosa hai in mano? Un sito online, con un calendario c
 - 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
 - 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
 - 29/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio

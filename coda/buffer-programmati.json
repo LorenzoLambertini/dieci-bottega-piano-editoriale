@@ -1,6 +1,17 @@
 {
   "facebook": [
     {
+      "id": "6ad3c594938409f1d09bfcb5",
+      "dueAt": "2026-10-18T09:00:00.000Z",
+      "text": "Due testi per un'officina: un muro di parole o titolo chiaro e frasi brevi. Quale leggi davvero, A o B?",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R16.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ac577df8a697ec911726a0b",
       "dueAt": "2026-10-19T10:30:00.000Z",
       "text": "Contatti sparsi tra Excel, WhatsApp e mail?\n\nSe due persone chiamano lo stesso cliente, o un preventivo resta senza risposta perché nessuno se lo ricordava, stai perdendo clienti che avevi già.\n\nCostruiamo CRM su misura, con i dati che restano tuoi. E se ti basta un foglio fatto bene, te lo diciamo.\n\nhttps://diecibottega.it/servizi/crm-su-misura?utm_source=facebook&utm_medium=post&utm_campaign=p09",
@@ -47,12 +58,45 @@
       ]
     },
     {
+      "id": "6ad3c596ae173d6e00cd17a9",
+      "dueAt": "2026-10-21T16:30:00.000Z",
+      "text": "A volte diciamo di no.\n\nSe il tuo progetto non è adatto a noi, te lo diciamo subito. Nessun obbligo, solo una conversazione onesta. Meglio perdere un cliente che mentirgli.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R13.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ad120a64313e4161eae6fd7",
       "dueAt": "2026-10-22T16:30:00.000Z",
       "text": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 design, 6-8 sviluppo, 9-10 online. Ogni fase ha il suo giorno: per questo ti diciamo prima quando sarai online.\n\nDomande sul metodo? Scrivile qui sotto.",
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R08.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ad3c5970b0d72757aee7d9e",
+      "dueAt": "2026-10-24T09:00:00.000Z",
+      "text": "Ti arriva un contatto. Se rispondi entro un'ora, quanto ti avvantaggia rispetto a chi aspetta un giorno?\n\n2 volte, 7 volte o 100 volte? Scrivi la tua, la risposta è nel video.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R14.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ad3c598769b4579348ebff3",
+      "dueAt": "2026-10-25T10:00:00.000Z",
+      "text": "Il giorno dieci, cosa hai in mano?\n\nIl sito online, due round di revisione fatti, Google dal primo giorno e le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R15.mp4",
           "tipo": "video/mp4"
         }
       ]
@@ -101,53 +145,20 @@
           "tipo": "video/mp4"
         }
       ]
-    },
-    {
-      "id": "6accdd51ddeaf8c524ec6874",
-      "dueAt": "2026-11-03T17:30:00.000Z",
-      "text": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o blocchi il sito?\n\nQuasi tutti sbagliano. Rispondi nei commenti, poi guarda il video.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6acfcf91a94addd88cd07e6e",
-      "dueAt": "2026-11-05T17:30:00.000Z",
-      "text": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ad120a988872628bd7bac43",
-      "dueAt": "2026-11-10T17:30:00.000Z",
-      "text": "Pagina \"Chi siamo\": foto di gruppo da catalogo o la faccia vera di chi lavora? A o B?\n\nScrivi la tua nei commenti.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R11.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ad281bd29a10da0161a6ccc",
-      "dueAt": "2026-11-12T17:30:00.000Z",
-      "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\n\nVota nei commenti. Il numero vero ti farà riaprire il tuo sito dal telefono.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R12.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
     }
   ],
   "linkedin": [
+    {
+      "id": "6ad3c595ae173d6e00cd177c",
+      "dueAt": "2026-10-18T09:00:00.000Z",
+      "text": "Online quasi nessuno legge parola per parola. Si scansiona.\n\nGli studi di Nielsen Norman Group lo confermano: due passate in alto, poi lo sguardo scende lungo il margine sinistro. Contano il titolo e le prime parole di ogni riga.\n\nPer il sito di una PMI vuol dire: titoli che dicono cosa fai, frasi brevi, servizi in elenco. Il resto, semplicemente, non viene letto.\n\n#Copywriting #UX #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R16.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ac577e0280171da8dd32b8d",
       "dueAt": "2026-10-19T10:30:00.000Z",
@@ -171,12 +182,45 @@
       ]
     },
     {
+      "id": "6ad3c596938409f1d09bfcec",
+      "dueAt": "2026-10-21T16:30:00.000Z",
+      "text": "A volte diciamo di no a un cliente.\n\nNon venderemo mai \"veloce\" a chi ha bisogno di un progetto approfondito, né \"approfondito\" a chi ha bisogno di partire in pochi giorni. Se un progetto non è adatto a noi, lo diciamo alla prima call.\n\nCosta qualche contratto. Ci fa guadagnare la cosa che conta di più in una bottega: la fiducia di chi poi lavora con noi.\n\nMeglio perdere un cliente che mentirgli.\n\n#Valori #PMI #Bologna",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R13.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ad120a6180e27ff0b098ef1",
       "dueAt": "2026-10-22T16:30:00.000Z",
       "text": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un calendario, non con la fretta:\nGiorno 1–2 · Brief e questionario. Ascoltiamo prima di costruire.\nGiorno 3–5 · Design. AI-assisted, curato a mano. Due round di revisione.\nGiorno 6–8 · Sviluppo. Codice scritto a mano.\nGiorno 9–10 · SEO di base, test su più dispositivi, online. Credenziali consegnate al cliente.\n\nQuando ogni fase ha il suo giorno, la data di consegna smette di essere una promessa e diventa un piano.\n\n#Processi #WebDesign #PMI",
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R08.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ad3c597769b4579348ebfbc",
+      "dueAt": "2026-10-24T09:00:00.000Z",
+      "text": "Chi risponde a un nuovo contatto entro un'ora ha 7 volte più probabilità di qualificarlo rispetto a chi aspetta anche solo un'ora in più. Rispetto a chi aspetta 24 ore, 60 volte. E il 23% delle aziende non risponde mai. (Harvard Business Review)\n\nIl sito porta il contatto. Ma la vendita si decide nella prima ora.\n\nUn modulo che arriva subito al telefono giusto e una risposta automatica di conferma valgono più di qualsiasi campagna.\n\n#Vendite #CRM #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R14.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ad3c599ae173d6e00cd1866",
+      "dueAt": "2026-10-25T10:00:00.000Z",
+      "text": "Cosa consegniamo il giorno dieci di un progetto:\n\n1. Il sito online, con un calendario che il cliente conosce dal primo giorno.\n2. Due round di revisione già fatti.\n3. Google dal primo giorno: SEO di base, sitemap, Profilo dell'Attività collegato.\n4. Le chiavi di casa: credenziali, dominio intestato al cliente, una guida per aggiornarlo da solo.\n\nL'ultimo punto è quello che molti dimenticano di chiedere. È anche quello che conta di più quando, un giorno, vorrai cambiare fornitore.\n\n#WebDesign #Trasparenza #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R15.mp4",
           "tipo": "video/mp4"
         }
       ]
@@ -213,53 +257,20 @@
           "tipo": "video/mp4"
         }
       ]
-    },
-    {
-      "id": "6accdd518130a0adb8ee6bae",
-      "dueAt": "2026-11-03T17:30:00.000Z",
-      "text": "Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad accettare.\n\nE c'è di più: anche scorrere la pagina non vale come consenso. Serve un sì esplicito. (Garante Privacy, linee guida 2021)\n\nPer chi ha un sito aziendale vuol dire controllare due cose: che la X ci sia, e che il sito non tratti la chiusura o lo scroll come un consenso.\n\nSono dettagli tecnici, ma su un sito in regola non si discute.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6acfcf91edcab17b8128418d",
-      "dueAt": "2026-11-05T17:30:00.000Z",
-      "text": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ad120a94313e4161eae707e",
-      "dueAt": "2026-11-10T17:30:00.000Z",
-      "text": "Nella pagina \"Chi siamo\" le persone vere vengono guardate. Le foto stock vengono ignorate.\n\nGli studi di eyetracking di Nielsen Norman Group lo mostrano da anni: le foto del team reale vengono osservate più a lungo del testo, anche quando il testo occupa più spazio. Le immagini generiche, invece, l'occhio le salta.\n\nPer una piccola impresa è un vantaggio enorme: la faccia del titolare costa meno di qualsiasi foto stock, e vale di più.\n\n#WebDesign #Fiducia #PMI",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R11.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ad281be186b9df91d5abe27",
-      "dueAt": "2026-11-12T17:30:00.000Z",
-      "text": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Falso.\n\nSu mobile, oltre i 3 secondi di caricamento se ne va il 53% delle visite. Più di una su due. (Google)\n\nIl punto non è la velocità in sé. È che quelle visite erano persone che ti avevano già scelto abbastanza da cercarti.\n\n#Performance #Mobile #PMI",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R12.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
     }
   ],
   "instagram": [
+    {
+      "id": "6ad3c594769b4579348ebf4b",
+      "dueAt": "2026-10-18T09:00:00.000Z",
+      "text": "Quale testo si legge davvero? A o B nei commenti.\nTitoli chiari, prime parole che contano, frasi brevi. Online quasi nessuno legge parola per parola. Come lo fa, te lo diciamo nel video.\n#copywriting #webdesign #sitiweb #pmiitaliane #bologna",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R16.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ac7c76939900b379e540330",
       "dueAt": "2026-10-19T10:30:00.000Z",
@@ -307,12 +318,45 @@
       ]
     },
     {
+      "id": "6ad3c5950a208cb32333db9f",
+      "dueAt": "2026-10-21T16:30:00.000Z",
+      "text": "A volte diciamo di no.\nNon venderemo mai \"veloce\" a chi vuole approfondito, né \"approfondito\" a chi vuole veloce. Se il progetto non è adatto a noi, te lo diciamo subito. Nessun obbligo, solo una conversazione onesta.\nMeglio perdere un cliente che mentirgli.\n#bottegadigitale #onesta #pmiitaliane #sitiweb #bologna",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R13.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ad120a60d0594a866c8a701",
       "dueAt": "2026-10-22T16:30:00.000Z",
       "text": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R08.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ad3c5970a208cb32333dbca",
+      "dueAt": "2026-10-24T09:00:00.000Z",
+      "text": "Rispondi a un contatto entro un'ora. Quanto ti avvantaggia rispetto a chi aspetta un giorno?\n7 volte, 2 volte o 100 volte? Scrivi la tua nei commenti, la risposta (e un dato che fa male) è nel video. Fonte: Harvard Business Review.\n#clienti #pmiitaliane #crm #vendite #bologna",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R14.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ad3c5980a208cb32333dc11",
+      "dueAt": "2026-10-25T10:00:00.000Z",
+      "text": "Il giorno dieci, cosa hai in mano?\nUn sito online, con un calendario che conosci dal primo giorno. Due round di revisione. Google dal primo giorno: SEO di base, sitemap, scheda Google Business collegata. E le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#sitiweb #bottegadigitale #pmiitaliane #webdesign #bologna",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R15.mp4",
           "tipo": "video/mp4"
         }
       ]
@@ -358,50 +402,6 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06c.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6accdd516ca198afcba6a779",
-      "dueAt": "2026-11-03T17:30:00.000Z",
-      "text": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accetti tutto\nB) Il sito si blocca\nC) Rifiuti\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito in regola, cookie compresi.\n\nFonte: Garante Privacy · linee guida 2021\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #cookie #gdpr #privacy",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6acfcf90edcab17b81284162",
-      "dueAt": "2026-11-05T17:30:00.000Z",
-      "text": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ad120a9cc4d8570370f1625",
-      "dueAt": "2026-11-10T17:30:00.000Z",
-      "text": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nLe persone vere vengono guardate, le foto stock vengono ignorate. Nel video c'è il dato (fonte: Nielsen Norman Group).\n#webdesign #chisiamo #fotografia #sitiweb #pmiitaliane",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R11.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ad281bd60e8ace295ac5d92",
-      "dueAt": "2026-11-12T17:30:00.000Z",
-      "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R12.mp4",
           "tipo": "video/mp4"
         }
       ]
