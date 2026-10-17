@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-16T18:51+00:00",
+ "aggiornato": "2026-10-17T18:51+00:00",
  "contenuti": [
   {
    "id": "P09",
@@ -575,19 +575,19 @@
    "durata": 25,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\n\nVota nei commenti. Il numero vero ti farà riaprire il tuo sito dal telefono.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Falso.\n\nSu mobile, oltre i 3 secondi di caricamento se ne va il 53% delle visite. Più di una su due. (Google)\n\nIl punto non è la velocità in sé. È che quelle visite erano persone che ti avevano già scelto abbastanza da cercarti.\n\n#Performance #Mobile #PMI",
      "formato": "video",
      "errore": null
@@ -930,6 +930,37 @@
     "linkedin": {
      "stato": "manca_video",
      "testo": "Dieci giorni di un progetto reale, in quaranta secondi:\n\nGiorno 1 · brief, mezz'ora per capire il mestiere.\nGiorni 2–3 · struttura e testi.\nGiorni 4–6 · design, dettaglio per dettaglio.\nGiorno 7 · prima versione al cliente.\nGiorni 8–9 · correzioni e test da telefono.\nGiorno 10 · online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=S12\n\n#Processo #WebDesign #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R17",
+   "titolo": "Lo sguardo a F",
+   "tipo": "reel",
+   "quando": "2026-12-01 18:30",
+   "dueAt": "2026-12-01T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R17_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R17.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\nRispondi nei commenti prima del reveal. L'hanno scoperto con l'eyetracking su 232 persone (fonte: Nielsen Norman Group).\n#ux #webdesign #eyetracking #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\n\nScrivi la lettera nei commenti, poi guarda il video.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Su una pagina web lo sguardo disegna una F: due passate orizzontali in alto, poi giù lungo il lato sinistro.\n\nL'ha scoperto Nielsen Norman Group con l'eyetracking su 232 persone, nel 2006, e lo ha confermato negli anni.\n\nConseguenza pratica: le informazioni importanti vanno in alto e all'inizio delle righe. Se il numero di telefono è in fondo a destra, per molti visitatori non esiste.\n\n#UX #WebDesign #PMI",
      "formato": "video",
      "errore": null
     }
