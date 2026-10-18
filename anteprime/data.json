@@ -1,37 +1,6 @@
 {
- "aggiornato": "2026-10-17T19:00+00:00",
+ "aggiornato": "2026-10-18T18:50+00:00",
  "contenuti": [
-  {
-   "id": "R16",
-   "titolo": "Quale testo si legge",
-   "tipo": "reel",
-   "quando": "2026-10-18 11:00",
-   "dueAt": "2026-10-18T09:00:00.000Z",
-   "slide": [],
-   "poster": "img/R16_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R16.mp4",
-   "durata": 30,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Quale testo si legge davvero? A o B nei commenti.\nTitoli chiari, prime parole che contano, frasi brevi. Online quasi nessuno legge parola per parola. Come lo fa, te lo diciamo nel video.\n#copywriting #webdesign #sitiweb #pmiitaliane #bologna",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Due testi per un'officina: un muro di parole o titolo chiaro e frasi brevi. Quale leggi davvero, A o B?",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Online quasi nessuno legge parola per parola. Si scansiona.\n\nGli studi di Nielsen Norman Group lo confermano: due passate in alto, poi lo sguardo scende lungo il margine sinistro. Contano il titolo e le prime parole di ogni riga.\n\nPer il sito di una PMI vuol dire: titoli che dicono cosa fai, frasi brevi, servizi in elenco. Il resto, semplicemente, non viene letto.\n\n#Copywriting #UX #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "P09",
    "titolo": "CRM",
@@ -451,19 +420,19 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\nRispondi nei commenti prima del reveal. L'hanno scoperto con l'eyetracking su 232 persone (fonte: Nielsen Norman Group).\n#ux #webdesign #eyetracking #sitiweb #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\n\nScrivi la lettera nei commenti, poi guarda il video.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Su una pagina web lo sguardo disegna una F: due passate orizzontali in alto, poi giù lungo il lato sinistro.\n\nL'ha scoperto Nielsen Norman Group con l'eyetracking su 232 persone, nel 2006, e lo ha confermato negli anni.\n\nConseguenza pratica: le informazioni importanti vanno in alto e all'inizio delle righe. Se il numero di telefono è in fondo a destra, per molti visitatori non esiste.\n\n#UX #WebDesign #PMI",
      "formato": "video",
      "errore": null
@@ -1426,6 +1395,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Tre frasi che sentiamo ogni settimana:\n\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" (ristorante)\n\"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" (agente immobiliare)\n\"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\" (personal trainer)\n\nPunti di partenza diversi, stesso bisogno: un sito che lavori per chi lo possiede.\n\n#PMI #WebDesign #Bologna",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R34",
+   "titolo": "AI Mode in italiano",
+   "tipo": "reel",
+   "quando": "2026-12-02 18:30",
+   "dueAt": "2026-12-02T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R34_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R34.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Da quando AI Mode di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\nRispondi nei commenti. Nel video la data esatta, e con quante altre lingue è arrivato. Significa che i tuoi clienti fanno già domande all'AI di Google: il tuo sito è pronto a essere citato?\n#google #aimode #geo #intelligenzaartificiale #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Da quando l'AI di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\n\nScrivi la tua. Intanto i tuoi clienti le fanno già domande: il tuo sito è pronto a essere citato?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano, arrivato insieme ad altre 36 lingue in un colpo solo.\n\nVuol dire che una parte dei tuoi clienti non scorre più dieci link blu: legge una risposta scritta dall'AI, che cita poche fonti.\n\nEssere tra quelle fonti dipende da quanto il tuo sito è chiaro, aggiornato e concreto. Non da quante parole chiave contiene.\n\n#AIMode #GEO #PMI",
      "formato": "video",
      "errore": null
     }
