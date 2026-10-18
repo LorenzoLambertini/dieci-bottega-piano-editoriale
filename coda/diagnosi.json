@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6ad49444938409f1d0c47034",
+        "dueAt": "2026-10-31T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Su una pagina web lo sguardo disegna una F: due passate oriz",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad49443ae173d6e00f5727a",
+        "dueAt": "2026-10-31T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Che forma ha lo sguardo su una pagina web? Una Z, una F o un",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad49443ae173d6e00f57246",
+        "dueAt": "2026-10-31T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Che forma ha lo sguardo su una pagina web? Una Z, una F o un",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6ad3c599ae173d6e00cd1866",
         "dueAt": "2026-10-25T10:00:00.000Z",
         "sentAt": null,
@@ -704,49 +743,10 @@
         "via": "buffer"
       },
       {
-        "id": "6ad3c595ae173d6e00cd177c",
-        "dueAt": "2026-10-18T09:00:00.000Z",
-        "sentAt": null,
-        "text": "Online quasi nessuno legge parola per parola. Si scansiona.\n",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6ad3c5950a208cb32333db9f",
         "dueAt": "2026-10-21T16:30:00.000Z",
         "sentAt": null,
         "text": "A volte diciamo di no.\nNon venderemo mai \"veloce\" a chi vuol",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ad3c594938409f1d09bfcb5",
-        "dueAt": "2026-10-18T09:00:00.000Z",
-        "sentAt": null,
-        "text": "Due testi per un'officina: un muro di parole o titolo chiaro",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ad3c594769b4579348ebf4b",
-        "dueAt": "2026-10-18T09:00:00.000Z",
-        "sentAt": null,
-        "text": "Quale testo si legge davvero? A o B nei commenti.\nTitoli chi",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -992,6 +992,45 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6ad3c595ae173d6e00cd177c",
+        "dueAt": "2026-10-18T09:00:00.000Z",
+        "sentAt": "2026-10-18T09:00:54.413Z",
+        "text": "Online quasi nessuno legge parola per parola. Si scansiona.\n",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad3c594938409f1d09bfcb5",
+        "dueAt": "2026-10-18T09:00:00.000Z",
+        "sentAt": "2026-10-18T09:00:46.326Z",
+        "text": "Due testi per un'officina: un muro di parole o titolo chiaro",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad3c594769b4579348ebf4b",
+        "dueAt": "2026-10-18T09:00:00.000Z",
+        "sentAt": "2026-10-18T09:01:42.477Z",
+        "text": "Quale testo si legge davvero? A o B nei commenti.\nTitoli chi",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6acfdc078f7b3fb92b379555",
         "dueAt": "2026-10-14T18:44:16.000Z",
@@ -1342,52 +1381,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ac666bee94c2c45e0075098",
-        "dueAt": "2026-10-07T16:30:00.000Z",
-        "sentAt": "2026-10-07T16:30:55.529Z",
-        "text": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fa",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac665c475e2178a9949fcf0",
-        "dueAt": "2026-10-07T16:30:00.000Z",
-        "sentAt": "2026-10-07T16:30:28.665Z",
-        "text": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac665c375e2178a9949fcc5",
-        "dueAt": "2026-10-07T16:30:00.000Z",
-        "sentAt": "2026-10-07T16:30:29.293Z",
-        "text": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, svil",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Sat, 17 Oct 2026 19:03:00 GMT 2888614",
-    "media/reel/R07.mp4": "200 Sat, 17 Oct 2026 19:02:59 GMT 3173777",
-    "index.html": "200 Sat, 17 Oct 2026 19:03:00 GMT 104461"
+    "media/reel/R02.mp4": "200 Sun, 18 Oct 2026 18:53:07 GMT 2888614",
+    "media/reel/R07.mp4": "200 Sun, 18 Oct 2026 18:53:07 GMT 3173777",
+    "index.html": "200 Sun, 18 Oct 2026 18:53:07 GMT 104461"
   }
 }

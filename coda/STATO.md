@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 18/10/2026, 11:41:24
+Ultimo controllo: 18/10/2026, 21:26:02
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -51,7 +51,7 @@ Ultimo controllo: 18/10/2026, 11:41:24
 - 26/10/26, 12:30 · 2020. Nessuno dei due immaginava Dieci Bottega. Siamo Lorenzo e Tommas
 - 27/10/26, 18:30 · Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi t
 - 29/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
-- 31/10/26, 11:00 · 
+- 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Scriv
 
 ### linkedin
 
@@ -64,7 +64,7 @@ Ultimo controllo: 18/10/2026, 11:41:24
 - 26/10/26, 12:30 · Sei anni prima di Dieci Bottega, eravamo già in due. Questa foto è del
 - 27/10/26, 18:30 · GEO sta per Generative Engine Optimization: l'insieme di accorgimenti 
 - 29/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
-- 31/10/26, 11:00 · 
+- 31/10/26, 11:00 · Su una pagina web lo sguardo disegna una F: due passate orizzontali in
 
 ### instagram
 
@@ -77,7 +77,7 @@ Ultimo controllo: 18/10/2026, 11:41:24
 - 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
 - 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
 - 29/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
-- 31/10/26, 11:00 · 
+- 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Rispo
 
 
 ## Ultime sostituzioni automatiche

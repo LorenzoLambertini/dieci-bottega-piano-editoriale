@@ -1,11 +1,11 @@
 [
   {
     "canale": "facebook",
-    "bufferId": "6acfcf8e199c0449d73a5129",
-    "contenuto": "R05",
-    "titolo": "Quanto costa un sito",
-    "uscito": "2026-10-15T16:31:13.322Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "bufferId": "6ad3c594938409f1d09bfcb5",
+    "contenuto": "R16",
+    "titolo": "Quale testo si legge",
+    "uscito": "2026-10-18T09:00:46.326Z",
+    "aggiornato": "2026-10-18T09:02:19.559Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -17,11 +17,27 @@
   },
   {
     "canale": "facebook",
+    "bufferId": "6acfcf8e199c0449d73a5129",
+    "contenuto": "R05",
+    "titolo": "Quanto costa un sito",
+    "uscito": "2026-10-15T16:31:13.322Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 1,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
     "bufferId": "6ace9d83164ed31ea455f91a",
     "contenuto": "C01",
     "titolo": "Prova con il pollice · analisi gratuita",
     "uscito": "2026-10-14T10:30:39.965Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -37,7 +53,7 @@
     "contenuto": null,
     "titolo": "Quanto dovrebbe costare un sito?\n\nNon esiste una cifra giust",
     "uscito": "2026-10-09T16:00:13.546Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -53,7 +69,7 @@
     "contenuto": "R35",
     "titolo": "Distanza zero",
     "uscito": "2026-10-11T09:01:10.404Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -69,7 +85,7 @@
     "contenuto": "R10",
     "titolo": "Prima e dopo",
     "uscito": "2026-10-10T09:01:02.722Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -85,7 +101,7 @@
     "contenuto": "P05",
     "titolo": "Tip Visite",
     "uscito": "2026-10-12T10:30:51.850Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -101,7 +117,7 @@
     "contenuto": "P10",
     "titolo": "Carosello Dieci Giorni",
     "uscito": "2026-10-07T17:30:16.415Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -133,7 +149,7 @@
     "contenuto": "R03",
     "titolo": "Il bottone",
     "uscito": "2026-10-13T16:31:43.559Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -149,7 +165,7 @@
     "contenuto": "R02",
     "titolo": "Quale bottone",
     "uscito": "2026-10-08T16:30:45.602Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -165,7 +181,7 @@
     "contenuto": "P08",
     "titolo": "AI Mestiere",
     "uscito": "2026-10-16T10:30:54.541Z",
-    "aggiornato": "2026-10-16T22:55:23.393Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -181,7 +197,7 @@
     "contenuto": null,
     "titolo": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
     "uscito": "2026-10-06T16:30:36.099Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -197,7 +213,7 @@
     "contenuto": null,
     "titolo": "Ciao Bologna, siamo Dieci Bottega.\n\nSiamo in due: Lorenzo di",
     "uscito": "2026-10-05T12:31:03.721Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -213,7 +229,7 @@
     "contenuto": null,
     "titolo": "",
     "uscito": "2026-09-25T20:44:53.000Z",
-    "aggiornato": "2026-10-16T22:55:23.394Z",
+    "aggiornato": "2026-10-17T21:55:34.452Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -225,11 +241,27 @@
   },
   {
     "canale": "linkedin",
+    "bufferId": "6ad3c595ae173d6e00cd177c",
+    "contenuto": "R16",
+    "titolo": "Quale testo si legge",
+    "uscito": "2026-10-18T09:00:54.413Z",
+    "aggiornato": "2026-10-18T16:05:26.844Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
     "bufferId": "6acfcf8eedcab17b812840e7",
     "contenuto": "R05",
     "titolo": "Quanto costa un sito",
     "uscito": "2026-10-15T16:31:16.984Z",
-    "aggiornato": "2026-10-17T16:05:04.227Z",
+    "aggiornato": "2026-10-18T16:05:26.884Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -245,7 +277,7 @@
     "contenuto": "C01",
     "titolo": "Prova con il pollice · analisi gratuita",
     "uscito": "2026-10-14T10:30:36.048Z",
-    "aggiornato": "2026-10-17T16:05:04.237Z",
+    "aggiornato": "2026-10-18T16:05:26.853Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -264,7 +296,7 @@
     "contenuto": null,
     "titolo": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tut",
     "uscito": "2026-10-09T16:00:28.708Z",
-    "aggiornato": "2026-10-17T16:05:04.207Z",
+    "aggiornato": "2026-10-18T16:05:26.842Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -280,14 +312,17 @@
     "contenuto": "R35",
     "titolo": "Distanza zero",
     "uscito": "2026-10-11T09:01:20.667Z",
-    "aggiornato": "2026-10-17T16:05:04.216Z",
+    "aggiornato": "2026-10-18T16:05:26.875Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
       "impressions": 2,
       "reach": 1,
-      "shares": 0
+      "shares": 0,
+      "views": 1,
+      "totalTimeWatched": 0.2,
+      "viewers": 1
     }
   },
   {
@@ -296,7 +331,7 @@
     "contenuto": "R10",
     "titolo": "Prima e dopo",
     "uscito": "2026-10-10T09:01:13.015Z",
-    "aggiornato": "2026-10-17T16:05:04.210Z",
+    "aggiornato": "2026-10-18T16:05:26.870Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -312,7 +347,7 @@
     "contenuto": "P10",
     "titolo": "Carosello Dieci Giorni",
     "uscito": "2026-10-07T17:30:26.960Z",
-    "aggiornato": "2026-10-17T16:05:04.205Z",
+    "aggiornato": "2026-10-18T16:05:26.878Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -328,7 +363,7 @@
     "contenuto": "P05",
     "titolo": "Tip Visite",
     "uscito": "2026-10-12T10:30:42.550Z",
-    "aggiornato": "2026-10-17T16:05:04.245Z",
+    "aggiornato": "2026-10-18T16:05:26.888Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -360,7 +395,7 @@
     "contenuto": "R03",
     "titolo": "Il bottone",
     "uscito": "2026-10-13T16:30:59.887Z",
-    "aggiornato": "2026-10-17T16:05:04.231Z",
+    "aggiornato": "2026-10-18T16:05:26.863Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -376,7 +411,7 @@
     "contenuto": "R02",
     "titolo": "Quale bottone",
     "uscito": "2026-10-08T16:30:52.628Z",
-    "aggiornato": "2026-10-17T16:05:04.234Z",
+    "aggiornato": "2026-10-18T16:05:26.859Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -392,7 +427,7 @@
     "contenuto": "P08",
     "titolo": "AI Mestiere",
     "uscito": "2026-10-16T10:30:53.580Z",
-    "aggiornato": "2026-10-17T16:05:04.202Z",
+    "aggiornato": "2026-10-18T16:05:26.850Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -408,7 +443,7 @@
     "contenuto": null,
     "titolo": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
     "uscito": "2026-10-06T10:30:27.622Z",
-    "aggiornato": "2026-10-17T16:05:04.213Z",
+    "aggiornato": "2026-10-18T16:05:26.857Z",
     "metriche": {
       "reactions": 1,
       "comments": 0,
@@ -424,7 +459,7 @@
     "contenuto": null,
     "titolo": "Una bottega. Non un'agenzia.\n\nDieci Bottega nasce a Bologna ",
     "uscito": "2026-10-05T06:30:43.574Z",
-    "aggiornato": "2026-10-17T16:05:04.241Z",
+    "aggiornato": "2026-10-18T16:05:26.866Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -432,6 +467,24 @@
       "impressions": 17,
       "reach": 2,
       "shares": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ad3c594769b4579348ebf4b",
+    "contenuto": "R16",
+    "titolo": "Quale testo si legge",
+    "uscito": "2026-10-18T09:01:42.477Z",
+    "aggiornato": "2026-10-18T14:36:41.995Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 66.67,
+      "views": 6,
+      "shares": 0,
+      "saves": 0,
+      "follows": 0,
+      "reach": 3
     }
   },
   {
@@ -455,7 +508,7 @@
     "contenuto": "R05",
     "titolo": "Quanto costa un sito",
     "uscito": "2026-10-15T16:32:06.420Z",
-    "aggiornato": "2026-10-17T14:36:31.869Z",
+    "aggiornato": "2026-10-18T14:36:41.981Z",
     "metriche": {
       "reactions": 3,
       "comments": 0,
@@ -473,7 +526,7 @@
     "contenuto": "C01",
     "titolo": "Prova con il pollice · analisi gratuita",
     "uscito": "2026-10-14T10:31:14.959Z",
-    "aggiornato": "2026-10-17T14:36:31.881Z",
+    "aggiornato": "2026-10-18T14:36:41.978Z",
     "metriche": {
       "reactions": 3,
       "comments": 0,
@@ -506,7 +559,7 @@
     "contenuto": null,
     "titolo": "Nessuna risposta vale per tutti. Ma ci sono domande che valg",
     "uscito": "2026-10-09T16:02:55.253Z",
-    "aggiornato": "2026-10-17T14:36:31.861Z",
+    "aggiornato": "2026-10-18T14:36:41.992Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
@@ -524,7 +577,7 @@
     "contenuto": "R35",
     "titolo": "Distanza zero",
     "uscito": "2026-10-11T09:03:02.243Z",
-    "aggiornato": "2026-10-17T14:36:31.877Z",
+    "aggiornato": "2026-10-18T14:36:41.964Z",
     "metriche": {
       "reactions": 1,
       "comments": 0,
@@ -542,7 +595,7 @@
     "contenuto": "R10",
     "titolo": "Prima e dopo",
     "uscito": "2026-10-10T09:01:54.212Z",
-    "aggiornato": "2026-10-17T14:36:31.886Z",
+    "aggiornato": "2026-10-18T14:36:41.958Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -575,7 +628,7 @@
     "contenuto": "R02",
     "titolo": "Quale bottone",
     "uscito": "2026-10-08T16:46:05.401Z",
-    "aggiornato": "2026-10-17T14:36:31.891Z",
+    "aggiornato": "2026-10-18T14:36:41.988Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
@@ -593,7 +646,7 @@
     "contenuto": "R03",
     "titolo": "Il bottone",
     "uscito": "2026-10-13T16:33:08.613Z",
-    "aggiornato": "2026-10-17T14:36:31.893Z",
+    "aggiornato": "2026-10-18T14:36:42.008Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
@@ -611,7 +664,7 @@
     "contenuto": "P08",
     "titolo": "AI Mestiere",
     "uscito": "2026-10-16T10:31:51.349Z",
-    "aggiornato": "2026-10-17T14:36:31.879Z",
+    "aggiornato": "2026-10-18T14:36:42.001Z",
     "metriche": {
       "reactions": 3,
       "comments": 0,
@@ -629,7 +682,7 @@
     "contenuto": "P05",
     "titolo": "Tip Visite",
     "uscito": "2026-10-12T10:31:30.137Z",
-    "aggiornato": "2026-10-17T14:36:31.874Z",
+    "aggiornato": "2026-10-18T14:36:41.971Z",
     "metriche": {
       "reactions": 3,
       "comments": 0,
@@ -647,7 +700,7 @@
     "contenuto": "P10",
     "titolo": "Carosello Dieci Giorni",
     "uscito": "2026-10-07T17:31:08.665Z",
-    "aggiornato": "2026-10-17T14:36:31.864Z",
+    "aggiornato": "2026-10-18T14:36:41.974Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
@@ -689,7 +742,7 @@
     "contenuto": null,
     "titolo": "Dieci Bottega è una bottega digitale di Bologna.\nSiamo in du",
     "uscito": "2026-10-05T12:29:20.000Z",
-    "aggiornato": "2026-10-17T14:36:31.871Z",
+    "aggiornato": "2026-10-18T14:36:41.954Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
@@ -707,7 +760,7 @@
     "contenuto": null,
     "titolo": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
     "uscito": "2026-10-06T16:32:35.854Z",
-    "aggiornato": "2026-10-17T14:36:31.866Z",
+    "aggiornato": "2026-10-18T14:36:41.976Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
