@@ -1,45 +1,6 @@
 {
- "aggiornato": "2026-10-18T18:50+00:00",
+ "aggiornato": "2026-10-19T18:50+00:00",
  "contenuti": [
-  {
-   "id": "P09",
-   "titolo": "CRM",
-   "tipo": "carosello",
-   "quando": "2026-10-19 12:30",
-   "dueAt": "2026-10-19T10:30:00.000Z",
-   "slide": [
-    "img/P09_01.jpg",
-    "img/P09_02.jpg",
-    "img/P09_03.jpg",
-    "img/P09_04.jpg",
-    "img/P09_05.jpg",
-    "img/P09_06.jpg",
-    "img/P09_07.jpg"
-   ],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide 3, 4 o 5, stai perdendo clienti che avevi già.\nCostruiamo CRM su misura, con i dati che restano tuoi. E se ti basta un foglio fatto bene, te lo diciamo.\n\n#pmiitaliane #crm #bologna #automazioni #piccoleimprese",
-     "formato": "immagini",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Contatti sparsi tra Excel, WhatsApp e mail?\n\nSe due persone chiamano lo stesso cliente, o un preventivo resta senza risposta perché nessuno se lo ricordava, stai perdendo clienti che avevi già.\n\nCostruiamo CRM su misura, con i dati che restano tuoi. E se ti basta un foglio fatto bene, te lo diciamo.\n\nhttps://diecibottega.it/servizi/crm-su-misura?utm_source=facebook&utm_medium=post&utm_campaign=p09",
-     "formato": "immagini",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNon tutte le aziende hanno bisogno di un CRM. Excel può bastare, finché sei da solo e hai pochi contatti al mese.\n\nSmette di bastare quando:\n— due persone chiamano lo stesso cliente;\n— un preventivo resta senza risposta perché nessuno se lo ricordava;\n— il lunedì serve mezz'ora per capire come sta andando.\n\nUn CRM non è un software. È sapere, per ogni contatto, chi deve fare cosa e quando.\n\nLo costruiamo su misura, sul vostro modo di lavorare, con i dati che restano vostri. E se vi basta un foglio fatto bene, ve lo diciamo.\n\nCRM su misura, 2.500–4.000 €: https://diecibottega.it/servizi/crm-su-misura?utm_source=linkedin&utm_medium=post&utm_campaign=p09\n\n#CRM #PMI #Vendite",
-     "formato": "documento",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "R04",
    "titolo": "Tre secondi su mobile",
@@ -451,19 +412,19 @@
    "durata": 26,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Non solo siti. Tre mestieri, una bottega.\nSiti trovati su Google e aggiornabili da te. CRM su misura, uno strumento interno per non perdere i contatti. Automazioni AI per i lavori che si ripetono: arriva una richiesta, l'AI la legge e la ordina, tu ricevi l'avviso.\nNiente cataloghi infiniti: quasi sempre ti serve meno di quanto pensi.\n#automazioni #crm #sitiweb #pmiitaliane #bottegadigitale",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Non solo siti. Facciamo anche CRM su misura e automazioni per le attività che ripetono sempre gli stessi passaggi.\n\nMa niente cataloghi infiniti: spesso ti serve meno di quanto pensi, e te lo diciamo.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Una bottega, tre mestieri:\n\nSiti: trovati su Google, aggiornabili dal cliente.\nCRM su misura: uno strumento interno per non perdere contatti e preventivi.\nAutomazioni AI: per i lavori che si ripetono. Arriva una richiesta, l'AI la legge e la ordina, tu ricevi l'avviso.\n\nNon vendiamo cataloghi. Quasi sempre a una PMI serve meno di quanto pensa, e il nostro lavoro è capire cosa.\n\n#Automazioni #CRM #PMI",
      "formato": "video",
      "errore": null
@@ -1426,6 +1387,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano, arrivato insieme ad altre 36 lingue in un colpo solo.\n\nVuol dire che una parte dei tuoi clienti non scorre più dieci link blu: legge una risposta scritta dall'AI, che cita poche fonti.\n\nEssere tra quelle fonti dipende da quanto il tuo sito è chiaro, aggiornato e concreto. Non da quante parole chiave contiene.\n\n#AIMode #GEO #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R40",
+   "titolo": "Un protocollo",
+   "tipo": "reel",
+   "quando": "2026-12-03 18:30",
+   "dueAt": "2026-12-03T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R40_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R40.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\nSpaziature. Microcopy: massimo tre parole, niente esclamativi. Performance. Accessibilità, con contrasto AA. Ogni sito passa questi controlli prima di andare online. Tutto curato.\n#dettagli #webdesign #bottegadigitale #ux #sitiweb",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "\"È tutto nei dettagli\" non è uno slogan. È il nostro controllo prima di mettere online ogni sito: spaziature, testi dei bottoni, velocità, accessibilità.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\nPrima di andare online, ogni sito passa quattro controlli:\nSpaziature, coerenti in ogni pagina.\nMicrocopy: massimo tre parole per bottone, niente esclamativi.\nPerformance, misurate sui telefoni.\nAccessibilità, con contrasto almeno AA.\n\nNessuno di questi punti compare in un preventivo. Tutti insieme decidono se un sito funziona.\n\n#Dettagli #WebDesign #Qualità",
      "formato": "video",
      "errore": null
     }
