@@ -945,17 +945,23 @@
         "instagram": {
           "testo": "Non solo siti. Tre mestieri, una bottega.\nSiti trovati su Google e aggiornabili da te. CRM su misura, uno strumento interno per non perdere i contatti. Automazioni AI per i lavori che si ripetono: arriva una richiesta, l'AI la legge e la ordina, tu ricevi l'avviso.\nNiente cataloghi infiniti: quasi sempre ti serve meno di quanto pensi.\n#automazioni #crm #sitiweb #pmiitaliane #bottegadigitale",
           "video": "media/reel/R18.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ad5f65d784342f63877cd10",
+          "programmatoIl": "2026-10-19T10:52:13.808Z"
         },
         "facebook": {
           "testo": "Non solo siti. Facciamo anche CRM su misura e automazioni per le attività che ripetono sempre gli stessi passaggi.\n\nMa niente cataloghi infiniti: spesso ti serve meno di quanto pensi, e te lo diciamo.",
           "video": "media/reel/R18.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ad5f65e2720e98a091b866c",
+          "programmatoIl": "2026-10-19T10:52:14.253Z"
         },
         "linkedin": {
           "testo": "Una bottega, tre mestieri:\n\nSiti: trovati su Google, aggiornabili dal cliente.\nCRM su misura: uno strumento interno per non perdere contatti e preventivi.\nAutomazioni AI: per i lavori che si ripetono. Arriva una richiesta, l'AI la legge e la ordina, tu ricevi l'avviso.\n\nNon vendiamo cataloghi. Quasi sempre a una PMI serve meno di quanto pensa, e il nostro lavoro è capire cosa.\n\n#Automazioni #CRM #PMI",
           "video": "media/reel/R18.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ad5f65e2720e98a091b8698",
+          "programmatoIl": "2026-10-19T10:52:14.691Z"
         }
       }
     },

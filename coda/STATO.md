@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 18/10/2026, 21:26:02
+Ultimo controllo: 19/10/2026, 12:52:14
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 18/10/2026, 21:26:02
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-19 12:30 | P09 | CRM | programmato | programmato | programmato |
 | 2026-10-20 18:30 | R04 | Tre secondi su mobile | programmato | programmato | programmato |
 | 2026-10-21 18:30 | R13 | A volte diciamo di no | programmato | programmato | programmato |
 | 2026-10-22 18:30 | R08 | Da zero a online | programmato | programmato | programmato |
@@ -25,7 +24,7 @@ Ultimo controllo: 18/10/2026, 21:26:02
 | 2026-10-29 18:30 | R06 | Quale homepage | programmato | programmato | programmato |
 | 2026-10-30 18:30 | P06 | Reel Dettaglio | manca_video | manca_video | manca_video |
 | 2026-10-31 11:00 | R17 | Lo sguardo a F | programmato | programmato | programmato |
-| 2026-11-01 11:00 | R18 | Non solo siti | da_programmare | da_programmare | da_programmare |
+| 2026-11-01 11:00 | R18 | Non solo siti | programmato | programmato | programmato |
 | 2026-11-02 18:30 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
 | 2026-11-03 18:30 | R09 | La X dei cookie | da_programmare | da_programmare | da_programmare |
 | 2026-11-04 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
@@ -37,12 +36,12 @@ Ultimo controllo: 18/10/2026, 21:26:02
 | 2026-11-10 18:30 | R11 | La foto del chi siamo | da_programmare | da_programmare | da_programmare |
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-11-12 18:30 | R12 | Solo qualche visita persa | da_programmare | da_programmare | da_programmare |
+| 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 19/10/26, 12:30 · Contatti sparsi tra Excel, WhatsApp e mail? Se due persone chiamano lo
 - 20/10/26, 18:30 · Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora t
 - 21/10/26, 18:30 · A volte diciamo di no. Se il tuo progetto non è adatto a noi, te lo di
 - 22/10/26, 18:30 · Come nasce un sito in dieci giorni. Giorno 1-2 brief, 3-5 design, 6-8 
@@ -52,10 +51,10 @@ Ultimo controllo: 18/10/2026, 21:26:02
 - 27/10/26, 18:30 · Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi t
 - 29/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Scriv
+- 01/11/26, 11:00 · 
 
 ### linkedin
 
-- 19/10/26, 12:30 · Lead su Excel, WhatsApp e mail. Chi sa a che punto sono? Non tutte le 
 - 20/10/26, 18:30 · Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% dell
 - 21/10/26, 18:30 · A volte diciamo di no a un cliente. Non venderemo mai "veloce" a chi h
 - 22/10/26, 18:30 · Come si fa un sito in dieci giorni senza farlo male? Con un calendario
@@ -65,10 +64,10 @@ Ultimo controllo: 18/10/2026, 21:26:02
 - 27/10/26, 18:30 · GEO sta per Generative Engine Optimization: l'insieme di accorgimenti 
 - 29/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
 - 31/10/26, 11:00 · Su una pagina web lo sguardo disegna una F: due passate orizzontali in
+- 01/11/26, 11:00 · 
 
 ### instagram
 
-- 19/10/26, 12:30 · Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi nella slide
 - 20/10/26, 18:30 · Un sito mobile ci mette più di 3 secondi. Quante visite si perdono? A)
 - 21/10/26, 18:30 · A volte diciamo di no. Non venderemo mai "veloce" a chi vuole approfon
 - 22/10/26, 18:30 · Come nasce un sito in 10 giorni. Giorno 1–2 brief, 3–5 design, 6–8 svi
@@ -78,6 +77,7 @@ Ultimo controllo: 18/10/2026, 21:26:02
 - 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
 - 29/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Rispo
+- 01/11/26, 11:00 · 
 
 
 ## Ultime sostituzioni automatiche
