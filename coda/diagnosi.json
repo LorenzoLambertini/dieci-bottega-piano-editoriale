@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6ad5f65e2720e98a091b8698",
+        "dueAt": "2026-11-01T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Una bottega, tre mestieri:\n\nSiti: trovati su Google, aggiorn",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad5f65e2720e98a091b866c",
+        "dueAt": "2026-11-01T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Non solo siti. Facciamo anche CRM su misura e automazioni pe",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad5f65d784342f63877cd10",
+        "dueAt": "2026-11-01T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Non solo siti. Tre mestieri, una bottega.\nSiti trovati su Go",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6ad49444938409f1d0c47034",
         "dueAt": "2026-10-31T10:00:00.000Z",
         "sentAt": null,
@@ -949,45 +988,6 @@
         "shareMode": "customScheduled",
         "status": "scheduled",
         "via": "buffer"
-      },
-      {
-        "id": "6ac7c76939900b379e540330",
-        "dueAt": "2026-10-19T10:30:00.000Z",
-        "sentAt": null,
-        "text": "Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi n",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac577e0280171da8dd32b8d",
-        "dueAt": "2026-10-19T10:30:00.000Z",
-        "sentAt": null,
-        "text": "Lead su Excel, WhatsApp e mail. Chi sa a che punto sono?\n\nNo",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac577df8a697ec911726a0b",
-        "dueAt": "2026-10-19T10:30:00.000Z",
-        "sentAt": null,
-        "text": "Contatti sparsi tra Excel, WhatsApp e mail?\n\nSe due persone ",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
       }
     ],
     "sending": [],
@@ -1279,6 +1279,19 @@
         "via": "buffer"
       },
       {
+        "id": "6ac7c76939900b379e540330",
+        "dueAt": "2026-10-19T10:30:00.000Z",
+        "sentAt": "2026-10-19T10:31:53.552Z",
+        "text": "Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi n",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
         "id": "6ac7c7686d8b6991f804c080",
         "dueAt": "2026-10-13T16:30:00.000Z",
         "sentAt": "2026-10-13T16:33:08.613Z",
@@ -1368,26 +1381,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ac67b465dd7df060c6d9481",
-        "dueAt": "2026-10-07T17:30:00.000Z",
-        "sentAt": "2026-10-07T17:31:08.665Z",
-        "text": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fa",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Sun, 18 Oct 2026 18:53:07 GMT 2888614",
-    "media/reel/R07.mp4": "200 Sun, 18 Oct 2026 18:53:07 GMT 3173777",
-    "index.html": "200 Sun, 18 Oct 2026 18:53:07 GMT 104461"
+    "media/reel/R02.mp4": "200 Mon, 19 Oct 2026 18:53:21 GMT 2888614",
+    "media/reel/R07.mp4": "200 Mon, 19 Oct 2026 18:53:21 GMT 3173777",
+    "index.html": "200 Mon, 19 Oct 2026 18:53:21 GMT 104461"
   }
 }

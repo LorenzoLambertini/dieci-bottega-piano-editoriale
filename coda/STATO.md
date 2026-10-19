@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 19/10/2026, 12:52:14
+Ultimo controllo: 19/10/2026, 23:33:06
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -51,7 +51,7 @@ Ultimo controllo: 19/10/2026, 12:52:14
 - 27/10/26, 18:30 · Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi t
 - 29/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Scriv
-- 01/11/26, 11:00 · 
+- 01/11/26, 11:00 · Non solo siti. Facciamo anche CRM su misura e automazioni per le attiv
 
 ### linkedin
 
@@ -64,7 +64,7 @@ Ultimo controllo: 19/10/2026, 12:52:14
 - 27/10/26, 18:30 · GEO sta per Generative Engine Optimization: l'insieme di accorgimenti 
 - 29/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
 - 31/10/26, 11:00 · Su una pagina web lo sguardo disegna una F: due passate orizzontali in
-- 01/11/26, 11:00 · 
+- 01/11/26, 11:00 · Una bottega, tre mestieri: Siti: trovati su Google, aggiornabili dal c
 
 ### instagram
 
@@ -77,7 +77,7 @@ Ultimo controllo: 19/10/2026, 12:52:14
 - 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
 - 29/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Rispo
-- 01/11/26, 11:00 · 
+- 01/11/26, 11:00 · Non solo siti. Tre mestieri, una bottega. Siti trovati su Google e agg
 
 
 ## Ultime sostituzioni automatiche

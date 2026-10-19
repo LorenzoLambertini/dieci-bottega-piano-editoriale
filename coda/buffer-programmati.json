@@ -110,6 +110,17 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6ad5f65e2720e98a091b866c",
+      "dueAt": "2026-11-01T10:00:00.000Z",
+      "text": "Non solo siti. Facciamo anche CRM su misura e automazioni per le attività che ripetono sempre gli stessi passaggi.\n\nMa niente cataloghi infiniti: spesso ti serve meno di quanto pensi, e te lo diciamo.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R18.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "linkedin": [
@@ -208,6 +219,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R17.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ad5f65e2720e98a091b8698",
+      "dueAt": "2026-11-01T10:00:00.000Z",
+      "text": "Una bottega, tre mestieri:\n\nSiti: trovati su Google, aggiornabili dal cliente.\nCRM su misura: uno strumento interno per non perdere contatti e preventivi.\nAutomazioni AI: per i lavori che si ripetono. Arriva una richiesta, l'AI la legge e la ordina, tu ricevi l'avviso.\n\nNon vendiamo cataloghi. Quasi sempre a una PMI serve meno di quanto pensa, e il nostro lavoro è capire cosa.\n\n#Automazioni #CRM #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R18.mp4",
           "tipo": "video/mp4"
         }
       ]
@@ -321,6 +343,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R17.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ad5f65d784342f63877cd10",
+      "dueAt": "2026-11-01T10:00:00.000Z",
+      "text": "Non solo siti. Tre mestieri, una bottega.\nSiti trovati su Google e aggiornabili da te. CRM su misura, uno strumento interno per non perdere i contatti. Automazioni AI per i lavori che si ripetono: arriva una richiesta, l'AI la legge e la ordina, tu ricevi l'avviso.\nNiente cataloghi infiniti: quasi sempre ti serve meno di quanto pensi.\n#automazioni #crm #sitiweb #pmiitaliane #bottegadigitale",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R18.mp4",
           "tipo": "video/mp4"
         }
       ]
