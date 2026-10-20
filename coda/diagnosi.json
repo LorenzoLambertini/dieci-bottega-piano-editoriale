@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6ad7d0b3b88e1e23bf798106",
+        "dueAt": "2026-11-03T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Sul banner dei cookie, chiudere con la X equivale a rifiutar",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad7d0b33a9ca84966b481da",
+        "dueAt": "2026-11-03T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifi",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad7d0b2652214940fff5875",
+        "dueAt": "2026-11-03T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accett",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6ad5f65e2720e98a091b8698",
         "dueAt": "2026-11-01T10:00:00.000Z",
         "sentAt": null,
@@ -873,45 +912,6 @@
         "via": "buffer"
       },
       {
-        "id": "6acfcf9041e19a94599bbb2c",
-        "dueAt": "2026-10-20T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Se un sito da mobile ci mette più di 3 secondi a caricare, i",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6acfcf8fedcab17b8128412f",
-        "dueAt": "2026-10-20T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Un sito mobile ci mette più di 3 secondi. Quante visite si p",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6acfcf8fa94addd88cd07e19",
-        "dueAt": "2026-10-20T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6aca1de7f91f772d458f19c3",
         "dueAt": "2026-10-27T17:30:00.000Z",
         "sentAt": null,
@@ -1043,6 +1043,45 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "network"
+      },
+      {
+        "id": "6acfcf9041e19a94599bbb2c",
+        "dueAt": "2026-10-20T16:30:00.000Z",
+        "sentAt": "2026-10-20T16:31:54.189Z",
+        "text": "Se un sito da mobile ci mette più di 3 secondi a caricare, i",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6acfcf8fedcab17b8128412f",
+        "dueAt": "2026-10-20T16:30:00.000Z",
+        "sentAt": "2026-10-20T16:32:36.749Z",
+        "text": "Un sito mobile ci mette più di 3 secondi. Quante visite si p",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6acfcf8fa94addd88cd07e19",
+        "dueAt": "2026-10-20T16:30:00.000Z",
+        "sentAt": "2026-10-20T16:31:49.388Z",
+        "text": "Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
       },
       {
         "id": "6acfcf8eedcab17b812840e7",
@@ -1342,52 +1381,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ac67b47e59f0d0f6165cabe",
-        "dueAt": "2026-10-12T10:30:00.000Z",
-        "sentAt": "2026-10-12T10:30:51.850Z",
-        "text": "Il tuo sito ha visite ma nessuno ti scrive?\n\nDi solito il mo",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac67b475dd7df060c6d94c1",
-        "dueAt": "2026-10-12T10:30:00.000Z",
-        "sentAt": "2026-10-12T10:30:42.550Z",
-        "text": "Il tuo sito ha visite. Nessuno ti scrive.\n\nPiù traffico non ",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac67b46e59f0d0f6165ca86",
-        "dueAt": "2026-10-07T17:30:00.000Z",
-        "sentAt": "2026-10-07T17:30:16.415Z",
-        "text": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, svil",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Mon, 19 Oct 2026 18:53:21 GMT 2888614",
-    "media/reel/R07.mp4": "200 Mon, 19 Oct 2026 18:53:21 GMT 3173777",
-    "index.html": "200 Mon, 19 Oct 2026 18:53:21 GMT 104461"
+    "media/reel/R02.mp4": "200 Tue, 20 Oct 2026 18:53:23 GMT 2888614",
+    "media/reel/R07.mp4": "200 Tue, 20 Oct 2026 18:53:23 GMT 3173777",
+    "index.html": "200 Tue, 20 Oct 2026 18:53:23 GMT 104461"
   }
 }
