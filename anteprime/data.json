@@ -1,37 +1,6 @@
 {
- "aggiornato": "2026-10-19T18:50+00:00",
+ "aggiornato": "2026-10-20T18:51+00:00",
  "contenuti": [
-  {
-   "id": "R04",
-   "titolo": "Tre secondi su mobile",
-   "tipo": "reel",
-   "quando": "2026-10-20 18:30",
-   "dueAt": "2026-10-20T16:30:00.000Z",
-   "slide": [],
-   "poster": "img/R04_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R04.mp4",
-   "durata": 29,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Un sito mobile ci mette più di 3 secondi. Quante visite si perdono?\n\nA) Il 15%\nB) Il 90%\nC) Il 53%\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito veloce, mobile-first.\n\nFonte: Google · The Need for Mobile Speed (dati 2016)\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #corewebvitals #velocitasito #mobilefirst",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Il tuo sito da telefono ci mette più di 3 secondi ad aprirsi? Allora ti stai perdendo una visita su due.\n\nIndovina la percentuale esatta nei commenti, poi guarda il video. E prova adesso il tuo sito dal telefono: quanto ci mette?",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Se un sito da mobile ci mette più di 3 secondi a caricare, il 53% delle visite viene abbandonato. Più di una su due. (Fonte: Google)\n\nPer una piccola attività significa questo: metà delle persone che ti hanno cercato, magari dopo un passaparola, chiude la pagina prima di vedere cosa fai.\n\nNon serve un sito più bello. Serve un sito più leggero: immagini ottimizzate, codice pulito, niente plugin superflui.\n\nHai mai misurato il tuo?\n\n#Performance #SitiWeb #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "R13",
    "titolo": "A volte diciamo di no",
@@ -1418,6 +1387,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\nPrima di andare online, ogni sito passa quattro controlli:\nSpaziature, coerenti in ogni pagina.\nMicrocopy: massimo tre parole per bottone, niente esclamativi.\nPerformance, misurate sui telefoni.\nAccessibilità, con contrasto almeno AA.\n\nNessuno di questi punti compare in un preventivo. Tutti insieme decidono se un sito funziona.\n\n#Dettagli #WebDesign #Qualità",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R36",
+   "titolo": "Il nome su Maps",
+   "tipo": "reel",
+   "quando": "2026-12-04 18:30",
+   "dueAt": "2026-12-04T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R36_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R36.mp4",
+   "durata": 30,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Su Google Maps, quale nome va bene per la tua attività? A o B nei commenti.\nAggiungere parole chiave al nome sembra furbo. Guarda cosa dicono le linee guida di Google, e come scegliere le categorie giuste.\n#googlemaps #seolocale #googlebusiness #pmiitaliane #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Su Google Maps, che nome va dato alla tua attività: quello vero, o quello con \"siti web Bologna economici\" aggiunto? A o B?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Su Google Maps il nome dell'attività deve essere quello reale, senza parole chiave aggiunte. Aggiungere \"siti web Bologna economici\" al nome è contro le linee guida di Google e può portare alla sospensione del profilo.\n\nDove mettere invece le parole giuste? Nelle categorie: le più specifiche possibili, non le più numerose.\n\nÈ una delle prime cose che sistemiamo quando colleghiamo il Profilo dell'Attività di un cliente.\n\n#GoogleMaps #SEOLocale #PMI",
      "formato": "video",
      "errore": null
     }
