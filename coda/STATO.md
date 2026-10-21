@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 21/10/2026, 12:16:29
+Ultimo controllo: 21/10/2026, 22:38:23
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 21/10/2026, 12:16:29
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-21 18:30 | R13 | A volte diciamo di no | programmato | programmato | programmato |
 | 2026-10-22 18:30 | R08 | Da zero a online | programmato | programmato | programmato |
 | 2026-10-23 12:30 | P07 | Prompt | programmato | programmato | programmato |
 | 2026-10-24 11:00 | R14 | Rispondere entro un’ora | programmato | programmato | programmato |
@@ -27,7 +26,7 @@ Ultimo controllo: 21/10/2026, 12:16:29
 | 2026-11-02 18:30 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
 | 2026-11-03 18:30 | R09 | La X dei cookie | programmato | programmato | programmato |
 | 2026-11-04 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
-| 2026-11-05 18:30 | R23 | Perche Bottega | da_programmare | da_programmare | da_programmare |
+| 2026-11-05 18:30 | R23 | Perche Bottega | programmato | programmato | programmato |
 | 2026-11-06 18:30 | S03 | Il passaparola non basta | manca_video | manca_video | manca_video |
 | 2026-11-07 11:00 | R19 | Quante imprese hanno un sito | da_programmare | da_programmare | da_programmare |
 | 2026-11-08 11:00 | R20 | Chi c’e dietro | da_programmare | da_programmare | da_programmare |
@@ -37,12 +36,12 @@ Ultimo controllo: 21/10/2026, 12:16:29
 | 2026-11-12 18:30 | R12 | Solo qualche visita persa | da_programmare | da_programmare | da_programmare |
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
 | 2026-11-14 11:00 | R21 | Quale menu | da_programmare | da_programmare | da_programmare |
+| 2026-11-15 11:00 | R25 | Solo un effetto | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 21/10/26, 18:30 · A volte diciamo di no. Se il tuo progetto non è adatto a noi, te lo di
 - 22/10/26, 18:30 · Come nasce un sito in dieci giorni. Giorno 1-2 brief, 3-5 design, 6-8 
 - 24/10/26, 11:00 · Ti arriva un contatto. Se rispondi entro un'ora, quanto ti avvantaggia
 - 25/10/26, 11:00 · Il giorno dieci, cosa hai in mano? Il sito online, due round di revisi
@@ -52,10 +51,10 @@ Ultimo controllo: 21/10/2026, 12:16:29
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Scriv
 - 01/11/26, 11:00 · Non solo siti. Facciamo anche CRM su misura e automazioni per le attiv
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o bloc
+- 05/11/26, 18:30 · 
 
 ### linkedin
 
-- 21/10/26, 18:30 · A volte diciamo di no a un cliente. Non venderemo mai "veloce" a chi h
 - 22/10/26, 18:30 · Come si fa un sito in dieci giorni senza farlo male? Con un calendario
 - 24/10/26, 11:00 · Chi risponde a un nuovo contatto entro un'ora ha 7 volte più probabili
 - 25/10/26, 11:00 · Cosa consegniamo il giorno dieci di un progetto: 1. Il sito online, co
@@ -65,10 +64,10 @@ Ultimo controllo: 21/10/2026, 12:16:29
 - 31/10/26, 11:00 · Su una pagina web lo sguardo disegna una F: due passate orizzontali in
 - 01/11/26, 11:00 · Una bottega, tre mestieri: Siti: trovati su Google, aggiornabili dal c
 - 03/11/26, 18:30 · Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad 
+- 05/11/26, 18:30 · 
 
 ### instagram
 
-- 21/10/26, 18:30 · A volte diciamo di no. Non venderemo mai "veloce" a chi vuole approfon
 - 22/10/26, 18:30 · Come nasce un sito in 10 giorni. Giorno 1–2 brief, 3–5 design, 6–8 svi
 - 24/10/26, 11:00 · Rispondi a un contatto entro un'ora. Quanto ti avvantaggia rispetto a 
 - 25/10/26, 11:00 · Il giorno dieci, cosa hai in mano? Un sito online, con un calendario c
@@ -78,6 +77,7 @@ Ultimo controllo: 21/10/2026, 12:16:29
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Rispo
 - 01/11/26, 11:00 · Non solo siti. Tre mestieri, una bottega. Siti trovati su Google e agg
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
+- 05/11/26, 18:30 · 
 
 
 ## Ultime sostituzioni automatiche

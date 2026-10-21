@@ -1,17 +1,6 @@
 {
   "facebook": [
     {
-      "id": "6ad3c596ae173d6e00cd17a9",
-      "dueAt": "2026-10-21T16:30:00.000Z",
-      "text": "A volte diciamo di no.\n\nSe il tuo progetto non è adatto a noi, te lo diciamo subito. Nessun obbligo, solo una conversazione onesta. Meglio perdere un cliente che mentirgli.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R13.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ad120a64313e4161eae6fd7",
       "dueAt": "2026-10-22T16:30:00.000Z",
       "text": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 design, 6-8 sviluppo, 9-10 online. Ogni fase ha il suo giorno: per questo ti diciamo prima quando sarai online.\n\nDomande sul metodo? Scrivile qui sotto.",
@@ -125,17 +114,6 @@
   ],
   "linkedin": [
     {
-      "id": "6ad3c596938409f1d09bfcec",
-      "dueAt": "2026-10-21T16:30:00.000Z",
-      "text": "A volte diciamo di no a un cliente.\n\nNon venderemo mai \"veloce\" a chi ha bisogno di un progetto approfondito, né \"approfondito\" a chi ha bisogno di partire in pochi giorni. Se un progetto non è adatto a noi, lo diciamo alla prima call.\n\nCosta qualche contratto. Ci fa guadagnare la cosa che conta di più in una bottega: la fiducia di chi poi lavora con noi.\n\nMeglio perdere un cliente che mentirgli.\n\n#Valori #PMI #Bologna",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R13.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ad120a6180e27ff0b098ef1",
       "dueAt": "2026-10-22T16:30:00.000Z",
       "text": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un calendario, non con la fretta:\nGiorno 1–2 · Brief e questionario. Ascoltiamo prima di costruire.\nGiorno 3–5 · Design. AI-assisted, curato a mano. Due round di revisione.\nGiorno 6–8 · Sviluppo. Codice scritto a mano.\nGiorno 9–10 · SEO di base, test su più dispositivi, online. Credenziali consegnate al cliente.\n\nQuando ogni fase ha il suo giorno, la data di consegna smette di essere una promessa e diventa un piano.\n\n#Processi #WebDesign #PMI",
@@ -236,17 +214,6 @@
     }
   ],
   "instagram": [
-    {
-      "id": "6ad3c5950a208cb32333db9f",
-      "dueAt": "2026-10-21T16:30:00.000Z",
-      "text": "A volte diciamo di no.\nNon venderemo mai \"veloce\" a chi vuole approfondito, né \"approfondito\" a chi vuole veloce. Se il progetto non è adatto a noi, te lo diciamo subito. Nessun obbligo, solo una conversazione onesta.\nMeglio perdere un cliente che mentirgli.\n#bottegadigitale #onesta #pmiitaliane #sitiweb #bologna",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R13.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
     {
       "id": "6ad120a60d0594a866c8a701",
       "dueAt": "2026-10-22T16:30:00.000Z",
