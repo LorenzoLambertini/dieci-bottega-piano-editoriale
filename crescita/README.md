@@ -23,3 +23,9 @@ Score per canale (0–100): follower verso l'obiettivo a 7 giorni (40), persone 
 
 ## Ritmo
 Un contenuto al giorno, weekend compresi: feriali 18:30 (reel) o 12:30 (carosello), sabato e domenica 11:00.
+
+## Obiettivi ricalibrati (21/10/2026, con i dati reali)
+Dopo 16 giorni: IG 3 → 4, LI 2 → 2, FB 0 → 0. Nuovi obiettivi:
+- 6/11/2026: IG 15 follower, LinkedIn 10, Facebook 10; FB 80 persone medie per quiz; IG 15 raggiunti medi per post.
+- 5/1/2027: IG 80, LinkedIn 50, Facebook 40; 1 richiesta di preventivo dai social.
+Lo score della routine usa ancora 60/60/30 (6/11) finché il prompt della routine non viene aggiornato.
