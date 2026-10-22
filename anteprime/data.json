@@ -1,37 +1,6 @@
 {
- "aggiornato": "2026-10-21T18:53+00:00",
+ "aggiornato": "2026-10-22T18:50+00:00",
  "contenuti": [
-  {
-   "id": "R08",
-   "titolo": "Da zero a online",
-   "tipo": "reel",
-   "quando": "2026-10-22 18:30",
-   "dueAt": "2026-10-22T16:30:00.000Z",
-   "slide": [],
-   "poster": "img/R08_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R08.mp4",
-   "durata": 29,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 design, 6–8 sviluppo, 9–10 online. In mezzo: codice scritto a mano, due round di revisione, SEO finale, test su più dispositivi, analytics e credenziali consegnate a te.\n\nTi è utile? Salvalo e mandalo a chi ha un’attività.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it o scrivici: parliamone.\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #sitoweb #metodo #pmi",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 design, 6-8 sviluppo, 9-10 online. Ogni fase ha il suo giorno: per questo ti diciamo prima quando sarai online.\n\nDomande sul metodo? Scrivile qui sotto.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un calendario, non con la fretta:\nGiorno 1–2 · Brief e questionario. Ascoltiamo prima di costruire.\nGiorno 3–5 · Design. AI-assisted, curato a mano. Due round di revisione.\nGiorno 6–8 · Sviluppo. Codice scritto a mano.\nGiorno 9–10 · SEO di base, test su più dispositivi, online. Credenziali consegnate al cliente.\n\nQuando ogni fase ha il suo giorno, la data di consegna smette di essere una promessa e diventa un piano.\n\n#Processi #WebDesign #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "P07",
    "titolo": "Prompt",
@@ -474,19 +443,19 @@
    "durata": 27,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
      "formato": "video",
      "errore": null
@@ -1418,6 +1387,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il tempo non va nel lavoro, va nelle attese: riunioni, approvazioni, passaggi di mano.\n\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. Non è una scorciatoia: è un metodo, con un calendario preciso e due round di revisione.\n\nVeloci, non frettolosi.\n\n#Metodo #PMI #WebDesign",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R37",
+   "titolo": "Cosa misura l’INP",
+   "tipo": "reel",
+   "quando": "2026-12-06 11:00",
+   "dueAt": "2026-12-06T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R37_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R37.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Cosa misura l'INP di Google? Il tempo di caricamento, la risposta quando tocchi o la posizione su Google?\nRispondi nei commenti. Nel video la risposta e la soglia da rispettare. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #ux #velocita #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Cosa misura l'INP di Google? Il caricamento, la risposta quando tocchi o la posizione nei risultati?\n\nScrivi la tua.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "INP, Interaction to Next Paint, misura quanto il sito risponde quando lo tocchi. Un valore buono è sotto i 200 millisecondi. (web.dev, Core Web Vitals)\n\nÈ la metrica più ignorata: un sito può caricare velocemente e poi \"impastarsi\" a ogni tocco, per colpa di script pesanti, chat, pixel di tracciamento.\n\nPer chi lo usa, la sensazione è una sola: questo sito non funziona.\n\n#CoreWebVitals #Performance #UX",
      "formato": "video",
      "errore": null
     }
