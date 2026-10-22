@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 22/10/2026, 12:17:14
+Ultimo controllo: 22/10/2026, 22:33:57
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 22/10/2026, 12:17:14
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-22 18:30 | R08 | Da zero a online | programmato | programmato | programmato |
 | 2026-10-23 12:30 | P07 | Prompt | programmato | programmato | programmato |
 | 2026-10-24 11:00 | R14 | Rispondere entro un’ora | programmato | programmato | programmato |
 | 2026-10-25 11:00 | R15 | Il giorno dieci | programmato | programmato | programmato |
@@ -28,7 +27,7 @@ Ultimo controllo: 22/10/2026, 12:17:14
 | 2026-11-04 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
 | 2026-11-05 18:30 | R23 | Perche Bottega | programmato | programmato | programmato |
 | 2026-11-06 18:30 | S03 | Il passaparola non basta | manca_video | manca_video | manca_video |
-| 2026-11-07 11:00 | R19 | Quante imprese hanno un sito | da_programmare | da_programmare | da_programmare |
+| 2026-11-07 11:00 | R19 | Quante imprese hanno un sito | programmato | programmato | programmato |
 | 2026-11-08 11:00 | R20 | Chi c’e dietro | da_programmare | da_programmare | da_programmare |
 | 2026-11-09 18:30 | S04 | Sito del lunedì: l'agente immobiliare | manca_video | manca_video | manca_video |
 | 2026-11-10 18:30 | R11 | La foto del chi siamo | da_programmare | da_programmare | da_programmare |
@@ -37,12 +36,12 @@ Ultimo controllo: 22/10/2026, 12:17:14
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
 | 2026-11-14 11:00 | R21 | Quale menu | da_programmare | da_programmare | da_programmare |
 | 2026-11-15 11:00 | R25 | Solo un effetto | da_programmare | da_programmare | da_programmare |
+| 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 22/10/26, 18:30 · Come nasce un sito in dieci giorni. Giorno 1-2 brief, 3-5 design, 6-8 
 - 24/10/26, 11:00 · Ti arriva un contatto. Se rispondi entro un'ora, quanto ti avvantaggia
 - 25/10/26, 11:00 · Il giorno dieci, cosa hai in mano? Il sito online, due round di revisi
 - 26/10/26, 12:30 · 2020. Nessuno dei due immaginava Dieci Bottega. Siamo Lorenzo e Tommas
@@ -52,10 +51,10 @@ Ultimo controllo: 22/10/2026, 12:17:14
 - 01/11/26, 11:00 · Non solo siti. Facciamo anche CRM su misura e automazioni per le attiv
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o bloc
 - 05/11/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: i giorni dal brief al sito onli
+- 07/11/26, 11:00 · 
 
 ### linkedin
 
-- 22/10/26, 18:30 · Come si fa un sito in dieci giorni senza farlo male? Con un calendario
 - 24/10/26, 11:00 · Chi risponde a un nuovo contatto entro un'ora ha 7 volte più probabili
 - 25/10/26, 11:00 · Cosa consegniamo il giorno dieci di un progetto: 1. Il sito online, co
 - 26/10/26, 12:30 · Sei anni prima di Dieci Bottega, eravamo già in due. Questa foto è del
@@ -65,10 +64,10 @@ Ultimo controllo: 22/10/2026, 12:17:14
 - 01/11/26, 11:00 · Una bottega, tre mestieri: Siti: trovati su Google, aggiornabili dal c
 - 03/11/26, 18:30 · Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad 
 - 05/11/26, 18:30 · Perché ci chiamiamo Dieci Bottega. Dieci, come i giorni dal brief al s
+- 07/11/26, 11:00 · 
 
 ### instagram
 
-- 22/10/26, 18:30 · Come nasce un sito in 10 giorni. Giorno 1–2 brief, 3–5 design, 6–8 svi
 - 24/10/26, 11:00 · Rispondi a un contatto entro un'ora. Quanto ti avvantaggia rispetto a 
 - 25/10/26, 11:00 · Il giorno dieci, cosa hai in mano? Un sito online, con un calendario c
 - 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
@@ -78,6 +77,7 @@ Ultimo controllo: 22/10/2026, 12:17:14
 - 01/11/26, 11:00 · Non solo siti. Tre mestieri, una bottega. Siti trovati su Google e agg
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
 - 05/11/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: dieci giorni dal brief al sito 
+- 07/11/26, 11:00 · 
 
 
 ## Ultime sostituzioni automatiche

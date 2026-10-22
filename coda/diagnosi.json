@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6ada7334a05ab31b9375b5d9",
+        "dueAt": "2026-11-07T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ada7334793513d242f2829c",
+        "dueAt": "2026-11-07T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un ",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ada73340cf9e34948499b7a",
+        "dueAt": "2026-11-07T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6ad922bee9da4e3dfa744dcd",
         "dueAt": "2026-11-05T17:30:00.000Z",
         "sentAt": null,
@@ -873,45 +912,6 @@
         "via": "buffer"
       },
       {
-        "id": "6ad120a64313e4161eae6fd7",
-        "dueAt": "2026-10-22T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 d",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ad120a6180e27ff0b098ef1",
-        "dueAt": "2026-10-22T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ad120a60d0594a866c8a701",
-        "dueAt": "2026-10-22T16:30:00.000Z",
-        "sentAt": null,
-        "text": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 desi",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6aca1de7f91f772d458f19c3",
         "dueAt": "2026-10-27T17:30:00.000Z",
         "sentAt": null,
@@ -1062,6 +1062,45 @@
         "dueAt": "2026-10-18T09:00:00.000Z",
         "sentAt": "2026-10-18T09:01:42.477Z",
         "text": "Quale testo si legge davvero? A o B nei commenti.\nTitoli chi",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad120a64313e4161eae6fd7",
+        "dueAt": "2026-10-22T16:30:00.000Z",
+        "sentAt": "2026-10-22T16:31:41.509Z",
+        "text": "Come nasce un sito in dieci giorni.\n\nGiorno 1-2 brief, 3-5 d",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad120a6180e27ff0b098ef1",
+        "dueAt": "2026-10-22T16:30:00.000Z",
+        "sentAt": "2026-10-22T16:31:50.675Z",
+        "text": "Come si fa un sito in dieci giorni senza farlo male?\n\nCon un",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ad120a60d0594a866c8a701",
+        "dueAt": "2026-10-22T16:30:00.000Z",
+        "sentAt": "2026-10-22T16:33:24.909Z",
+        "text": "Come nasce un sito in 10 giorni.\n\nGiorno 1–2 brief, 3–5 desi",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -1342,52 +1381,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "network"
-      },
-      {
-        "id": "6ac7c7c934ed38f0ddb3509e",
-        "dueAt": "2026-10-08T16:45:00.000Z",
-        "sentAt": "2026-10-08T16:46:05.401Z",
-        "text": "Quale bottone converte di più?\n\nDue versioni, una sola funzi",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac7c76939900b379e540330",
-        "dueAt": "2026-10-19T10:30:00.000Z",
-        "sentAt": "2026-10-19T10:31:53.552Z",
-        "text": "Non tutte le PMI hanno bisogno di un CRM. Ma se ti ritrovi n",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac7c7686d8b6991f804c080",
-        "dueAt": "2026-10-13T16:30:00.000Z",
-        "sentAt": "2026-10-13T16:33:08.613Z",
-        "text": "Un bottone. Quanto ci vuole a scriverlo?\n\nPer noi ogni font,",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Wed, 21 Oct 2026 18:56:05 GMT 2888614",
-    "media/reel/R07.mp4": "200 Wed, 21 Oct 2026 18:56:05 GMT 3173777",
-    "index.html": "200 Wed, 21 Oct 2026 18:56:05 GMT 104461"
+    "media/reel/R02.mp4": "200 Thu, 22 Oct 2026 18:52:24 GMT 2888614",
+    "media/reel/R07.mp4": "200 Thu, 22 Oct 2026 18:52:23 GMT 3173777",
+    "index.html": "200 Thu, 22 Oct 2026 18:52:23 GMT 104461"
   }
 }

@@ -1122,17 +1122,23 @@
         "instagram": {
           "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\nRispondi nei commenti, poi guarda il dato Istat. Spoiler: sono più di quelle che usano i social.\nSe la tua è tra quelle che mancano, rimediamo in dieci giorni.\n#istat #pmiitaliane #sitiweb #digitale #bologna",
           "video": "media/reel/R19.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ada73340cf9e34948499b7a",
+          "programmatoIl": "2026-10-22T20:33:56.312Z"
         },
         "facebook": {
           "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\n\nVota nei commenti. E se la tua è tra quelle senza, rimediamo in dieci giorni.",
           "video": "media/reel/R19.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ada7334a05ab31b9375b5d9",
+          "programmatoIl": "2026-10-22T20:33:56.669Z"
         },
         "linkedin": {
           "testo": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. Più di quante usino i social, che sono il 59%. (Istat, Imprese e ICT 2025)\n\nTre su quattro. Vuol dire che chi non ha un sito non è più \"indietro\": è fuori dal confronto. Il cliente che sceglie tra quattro fornitori ne trova tre online.\n\nE per le microimprese il dato è più basso. Lì c'è spazio per distinguersi.\n\n#Istat #Digitale #PMI",
           "video": "media/reel/R19.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ada7334793513d242f2829c",
+          "programmatoIl": "2026-10-22T20:33:57.060Z"
         }
       }
     },
