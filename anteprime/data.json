@@ -1,42 +1,6 @@
 {
- "aggiornato": "2026-10-22T18:50+00:00",
+ "aggiornato": "2026-10-23T18:49+00:00",
  "contenuti": [
-  {
-   "id": "P07",
-   "titolo": "Prompt",
-   "tipo": "carosello",
-   "quando": "2026-10-23 12:30",
-   "dueAt": "2026-10-23T10:30:00.000Z",
-   "slide": [
-    "img/P07_01.jpg",
-    "img/P07_02.jpg",
-    "img/P07_03.jpg",
-    "img/P07_04.jpg"
-   ],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto quello che mi restituisce.\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente mi paga. — Lorenzo\n\n#intelligenzaartificiale #copywriting #webdesign #bologna #sitiweb",
-     "formato": "immagini",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Quanto ci mette l'AI a scrivere il testo di un bottone? Pochi secondi.\n\nQuanto ci mettiamo noi a scegliere quello giusto? Un po' di più. Su otto proposte ne teniamo una: \"Iniziamo\". Un verbo, zero pressione.\n\nIl lavoro non è generare. È scegliere.",
-     "formato": "immagini",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Il prompt che uso per scrivere il testo di un bottone. E perché butto quasi tutto.\n\n\"Genera 8 varianti di microcopy per un bottone CTA italiano, registro: artigianale ma diretto. Niente esclamativi. Massimo 3 parole.\"\n\nIn pochi secondi l'AI mi restituisce otto opzioni. Poi comincia il lavoro vero:\n\n\"Parliamone\": troppo vago.\n\"Scrivici subito\": troppa fretta.\n\"Apri un dialogo\": suona da call center.\n\"Vieni in bottega\": bello, ma non abbiamo un indirizzo.\n\"Iniziamo\": un verbo, zero pressione. Scelto.\n\nL'AI mi fa risparmiare tempo sulla prima bozza. Il criterio con cui scarto resta mio, ed è la parte per cui un cliente paga.\n\nIl lavoro non è generare. È scegliere.\n\n— Lorenzo, design e codice\n\n#IntelligenzaArtificiale #Copywriting #UX",
-     "formato": "documento",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "R14",
    "titolo": "Rispondere entro un’ora",
@@ -505,19 +469,19 @@
    "durata": 25,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\nRispondi nei commenti, poi guarda il dato Istat. Spoiler: sono più di quelle che usano i social.\nSe la tua è tra quelle che mancano, rimediamo in dieci giorni.\n#istat #pmiitaliane #sitiweb #digitale #bologna",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\n\nVota nei commenti. E se la tua è tra quelle senza, rimediamo in dieci giorni.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. Più di quante usino i social, che sono il 59%. (Istat, Imprese e ICT 2025)\n\nTre su quattro. Vuol dire che chi non ha un sito non è più \"indietro\": è fuori dal confronto. Il cliente che sceglie tra quattro fornitori ne trova tre online.\n\nE per le microimprese il dato è più basso. Lì c'è spazio per distinguersi.\n\n#Istat #Digitale #PMI",
      "formato": "video",
      "errore": null
@@ -1418,6 +1382,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "INP, Interaction to Next Paint, misura quanto il sito risponde quando lo tocchi. Un valore buono è sotto i 200 millisecondi. (web.dev, Core Web Vitals)\n\nÈ la metrica più ignorata: un sito può caricare velocemente e poi \"impastarsi\" a ogni tocco, per colpa di script pesanti, chat, pixel di tracciamento.\n\nPer chi lo usa, la sensazione è una sola: questo sito non funziona.\n\n#CoreWebVitals #Performance #UX",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R48",
+   "titolo": "Di chi e il sito",
+   "tipo": "reel",
+   "quando": "2026-12-07 18:30",
+   "dueAt": "2026-12-07T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R48_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R48.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Di chi è il tuo sito?\nIl dominio è intestato a te? Hai l'accesso al registrar? Hai le credenziali dell'hosting? Puoi cambiare fornitore domani? Se il dominio è intestato all'agenzia, cambiare diventa difficile.\nDa noi, il giorno dieci ti consegniamo le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#dominio #sitiweb #pmiitaliane #trasparenza #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Di chi è il tuo sito? Il dominio è intestato a te? Hai le credenziali?\n\nSe è tutto dell'agenzia, cambiare diventa difficile. Da noi il giorno dieci ti diamo le chiavi di casa.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Quattro domande da fare oggi a chi gestisce il tuo sito:\n\n1. Il dominio è intestato a te?\n2. Hai accesso al registrar?\n3. Hai le credenziali dell'hosting?\n4. Potresti cambiare fornitore domani?\n\nSe il dominio è intestato all'agenzia, cambiare diventa difficile. Per questo, il giorno della consegna, diamo al cliente le chiavi di casa: credenziali, dominio a suo nome, una guida per aggiornarlo da solo.\n\n#Dominio #Trasparenza #PMI",
      "formato": "video",
      "errore": null
     }
