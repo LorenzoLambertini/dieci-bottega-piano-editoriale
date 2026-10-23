@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 23/10/2026, 12:10:14
+Ultimo controllo: 23/10/2026, 22:27:09
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 23/10/2026, 12:10:14
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-23 12:30 | P07 | Prompt | programmato | programmato | programmato |
 | 2026-10-24 11:00 | R14 | Rispondere entro un’ora | programmato | programmato | programmato |
 | 2026-10-25 11:00 | R15 | Il giorno dieci | programmato | programmato | programmato |
 | 2026-10-26 12:30 | P11 | Dieci Anni | programmato | programmato | programmato |
@@ -37,6 +36,7 @@ Ultimo controllo: 23/10/2026, 12:10:14
 | 2026-11-14 11:00 | R21 | Quale menu | da_programmare | da_programmare | da_programmare |
 | 2026-11-15 11:00 | R25 | Solo un effetto | da_programmare | da_programmare | da_programmare |
 | 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
+| 2026-11-17 18:30 | R22 | La X accetta i cookie | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
