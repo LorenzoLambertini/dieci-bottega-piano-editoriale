@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 22/10/2026, 22:33:57
+Ultimo controllo: 23/10/2026, 12:10:14
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -51,7 +51,7 @@ Ultimo controllo: 22/10/2026, 22:33:57
 - 01/11/26, 11:00 · Non solo siti. Facciamo anche CRM su misura e automazioni per le attiv
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o bloc
 - 05/11/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: i giorni dal brief al sito onli
-- 07/11/26, 11:00 · 
+- 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 
 ### linkedin
 
@@ -64,7 +64,7 @@ Ultimo controllo: 22/10/2026, 22:33:57
 - 01/11/26, 11:00 · Una bottega, tre mestieri: Siti: trovati su Google, aggiornabili dal c
 - 03/11/26, 18:30 · Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad 
 - 05/11/26, 18:30 · Perché ci chiamiamo Dieci Bottega. Dieci, come i giorni dal brief al s
-- 07/11/26, 11:00 · 
+- 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 
 ### instagram
 
@@ -77,7 +77,7 @@ Ultimo controllo: 22/10/2026, 22:33:57
 - 01/11/26, 11:00 · Non solo siti. Tre mestieri, una bottega. Siti trovati su Google e agg
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
 - 05/11/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: dieci giorni dal brief al sito 
-- 07/11/26, 11:00 · 
+- 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 
 
 ## Ultime sostituzioni automatiche
