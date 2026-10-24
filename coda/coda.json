@@ -1153,17 +1153,23 @@
         "instagram": {
           "testo": "Chi c'è dietro Dieci Bottega?\nLorenzo Lambertini, design e web: crede che ogni pixel debba guadagnarsi il proprio posto. Tommaso Villa, strategia e vendite: trasforma un brief in un piano d'azione concreto. Amici da più di dieci anni, oggi una bottega.\nQuando ci scrivi, ti rispondiamo noi.\n#founders #bottegadigitale #bologna #pmiitaliane #webdesign",
           "video": "media/reel/R20.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6adc7c146887a2efc1abd80e",
+          "programmatoIl": "2026-10-24T09:36:20.220Z"
         },
         "facebook": {
           "testo": "Chi c'è dietro Dieci Bottega?\n\nLorenzo, design e web. Tommaso, strategia e vendite. Amici da più di dieci anni, oggi una bottega. Quando ci scrivi, ti rispondiamo noi.",
           "video": "media/reel/R20.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6adc7c14bd33ce99c315f819",
+          "programmatoIl": "2026-10-24T09:36:20.653Z"
         },
         "linkedin": {
           "testo": "Chi c'è dietro Dieci Bottega.\n\nLorenzo Lambertini, design e web: crede che ogni pixel debba guadagnarsi il proprio posto.\nTommaso Villa, strategia e vendite: trasforma un brief in un piano d'azione concreto.\n\nCi conosciamo da più di dieci anni. Abbiamo scelto di restare piccoli apposta: chi ti parla è chi fa il lavoro, senza passaggi di mano.\n\n#Founders #Bologna #PMI",
           "video": "media/reel/R20.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6adc7c140b5343d070764552",
+          "programmatoIl": "2026-10-24T09:36:21.100Z"
         }
       }
     },
