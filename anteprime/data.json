@@ -1,37 +1,6 @@
 {
- "aggiornato": "2026-10-24T18:50+00:00",
+ "aggiornato": "2026-10-25T19:49+00:00",
  "contenuti": [
-  {
-   "id": "R15",
-   "titolo": "Il giorno dieci",
-   "tipo": "reel",
-   "quando": "2026-10-25 11:00",
-   "dueAt": "2026-10-25T10:00:00.000Z",
-   "slide": [],
-   "poster": "img/R15_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R15.mp4",
-   "durata": 26,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Il giorno dieci, cosa hai in mano?\nUn sito online, con un calendario che conosci dal primo giorno. Due round di revisione. Google dal primo giorno: SEO di base, sitemap, scheda Google Business collegata. E le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#sitiweb #bottegadigitale #pmiitaliane #webdesign #bologna",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Il giorno dieci, cosa hai in mano?\n\nIl sito online, due round di revisione fatti, Google dal primo giorno e le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Cosa consegniamo il giorno dieci di un progetto:\n\n1. Il sito online, con un calendario che il cliente conosce dal primo giorno.\n2. Due round di revisione già fatti.\n3. Google dal primo giorno: SEO di base, sitemap, Profilo dell'Attività collegato.\n4. Le chiavi di casa: credenziali, dominio intestato al cliente, una guida per aggiornarlo da solo.\n\nL'ultimo punto è quello che molti dimenticano di chiedere. È anche quello che conta di più quando, un giorno, vorrai cambiare fornitore.\n\n#WebDesign #Trasparenza #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "P11",
    "titolo": "Dieci Anni",
@@ -531,19 +500,19 @@
    "durata": 30,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nLe persone vere vengono guardate, le foto stock vengono ignorate. Nel video c'è il dato (fonte: Nielsen Norman Group).\n#webdesign #chisiamo #fotografia #sitiweb #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Pagina \"Chi siamo\": foto di gruppo da catalogo o la faccia vera di chi lavora? A o B?\n\nScrivi la tua nei commenti.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Nella pagina \"Chi siamo\" le persone vere vengono guardate. Le foto stock vengono ignorate.\n\nGli studi di eyetracking di Nielsen Norman Group lo mostrano da anni: le foto del team reale vengono osservate più a lungo del testo, anche quando il testo occupa più spazio. Le immagini generiche, invece, l'occhio le salta.\n\nPer una piccola impresa è un vantaggio enorme: la faccia del titolare costa meno di qualsiasi foto stock, e vale di più.\n\n#WebDesign #Fiducia #PMI",
      "formato": "video",
      "errore": null
@@ -1413,6 +1382,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Accessibilità: le microimprese di servizi sono esenti dall'European Accessibility Act. Microimpresa significa meno di 10 dipendenti e fatturato o bilancio fino a 2 milioni.\n\nAttenzione però: l'esenzione riguarda i servizi, non i prodotti. Chi vende prodotti rientrati nella norma non è esente per il solo fatto di essere piccolo.\n\nPrima di dire \"non mi riguarda\", conviene verificare.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #EAA #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R50",
+   "titolo": "La X del banner",
+   "tipo": "reel",
+   "quando": "2026-12-09 18:30",
+   "dueAt": "2026-12-09T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R50_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R50.mp4",
+   "durata": 26,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Se clicchi la X sul banner dei cookie, cosa succede? Equivale a rifiutare.\nE poi: scorrere la pagina non è consenso. Niente cookie wall, il sito si usa anche senza accettare. I cookie tecnici non chiedono consenso. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nFonte: Garante Privacy, linee guida cookie 2021. Informazione generale, non è una consulenza legale.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Se clicchi la X sul banner dei cookie, rifiuti. E scorrere la pagina non vale come consenso.\n\nQuattro regole semplici che molti siti ancora non rispettano: le trovi nel video.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Banner dei cookie: quattro regole che ogni sito aziendale dovrebbe rispettare (Garante Privacy, linee guida 2021):\n\n1. Chiudere con la X equivale a rifiutare.\n2. Scorrere la pagina non è consenso.\n3. Niente cookie wall: il sito si usa anche senza accettare.\n4. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nIn più: i cookie tecnici non chiedono consenso.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
      "formato": "video",
      "errore": null
     }
