@@ -1,0 +1,1592 @@
+[
+  {
+    "canale": "facebook",
+    "bufferId": "6ad3c598769b4579348ebff3",
+    "contenuto": "R15",
+    "titolo": "Il giorno dieci",
+    "uscito": "2026-10-25T10:02:13.810Z",
+    "aggiornato": "2026-10-25T13:56:56.412Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ad3c5970b0d72757aee7d9e",
+    "contenuto": "R14",
+    "titolo": "Rispondere entro un’ora",
+    "uscito": "2026-10-24T09:01:56.352Z",
+    "aggiornato": "2026-10-25T13:56:56.412Z",
+    "metriche": {
+      "reactions": 1,
+      "comments": 0,
+      "engagementRate": 0.63,
+      "impressions": 158,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ad3c596ae173d6e00cd17a9",
+    "contenuto": "R13",
+    "titolo": "A volte diciamo di no",
+    "uscito": "2026-10-21T16:32:01.671Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 74,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ad3c594938409f1d09bfcb5",
+    "contenuto": "R16",
+    "titolo": "Quale testo si legge",
+    "uscito": "2026-10-18T09:00:46.326Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 1.2,
+      "impressions": 83,
+      "shares": 0,
+      "clicks": 1
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ad120a64313e4161eae6fd7",
+    "contenuto": "R08",
+    "titolo": "Da zero a online",
+    "uscito": "2026-10-22T16:31:41.509Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 16,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6acfcf8fa94addd88cd07e19",
+    "contenuto": "R04",
+    "titolo": "Tre secondi su mobile",
+    "uscito": "2026-10-20T16:31:49.388Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 118,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6acfcf8e199c0449d73a5129",
+    "contenuto": "R05",
+    "titolo": "Quanto costa un sito",
+    "uscito": "2026-10-15T16:31:13.322Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 1,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ace9d83164ed31ea455f91a",
+    "contenuto": "C01",
+    "titolo": "Prova con il pollice · analisi gratuita",
+    "uscito": "2026-10-14T10:30:39.965Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 21,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac90de2d884dc52e1578dc5",
+    "contenuto": null,
+    "titolo": "Quanto dovrebbe costare un sito?\n\nNon esiste una cifra giust",
+    "uscito": "2026-10-09T16:00:13.546Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 1,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac8ac21599dfbfee2db9fa0",
+    "contenuto": "R35",
+    "titolo": "Distanza zero",
+    "uscito": "2026-10-11T09:01:10.404Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 26,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac8ac20599dfbfee2db9f36",
+    "contenuto": "R10",
+    "titolo": "Prima e dopo",
+    "uscito": "2026-10-10T09:01:02.722Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 97,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac67b47e59f0d0f6165cabe",
+    "contenuto": "P05",
+    "titolo": "Tip Visite",
+    "uscito": "2026-10-12T10:30:51.850Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac67b46e59f0d0f6165ca86",
+    "contenuto": "P10",
+    "titolo": "Carosello Dieci Giorni",
+    "uscito": "2026-10-07T17:30:16.415Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 1,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac665c375e2178a9949fcc5",
+    "contenuto": null,
+    "titolo": "Dieci giorni. Cosa succede ogni giorno.\n\nBrief, design, svil",
+    "uscito": "2026-10-07T16:30:29.293Z",
+    "aggiornato": "2026-10-07T16:32:11.882Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac5f115203d24e39e12359d",
+    "contenuto": "R03",
+    "titolo": "Il bottone",
+    "uscito": "2026-10-13T16:31:43.559Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 2,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac5f1145355110416252f7e",
+    "contenuto": "R02",
+    "titolo": "Quale bottone",
+    "uscito": "2026-10-08T16:30:45.602Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 207,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac577df8a697ec911726a0b",
+    "contenuto": "P09",
+    "titolo": "CRM",
+    "uscito": "2026-10-19T10:30:52.344Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac577df8a697ec9117269e2",
+    "contenuto": "P08",
+    "titolo": "AI Mestiere",
+    "uscito": "2026-10-16T10:30:54.541Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ac4c5d35eb2d92e7a5cc9aa",
+    "contenuto": null,
+    "titolo": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
+    "uscito": "2026-10-06T16:30:36.099Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 11,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ab6df7edffba3cec6e448e6",
+    "contenuto": null,
+    "titolo": "Ciao Bologna, siamo Dieci Bottega.\n\nSiamo in due: Lorenzo di",
+    "uscito": "2026-10-05T12:31:03.721Z",
+    "aggiornato": "2026-10-25T13:56:56.413Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 6,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
+    "bufferId": "6ab6dedf0e773b8cac009b0a",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T20:44:53.000Z",
+    "aggiornato": "2026-10-24T14:56:46.135Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 2,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ad3c599ae173d6e00cd1866",
+    "contenuto": "R15",
+    "titolo": "Il giorno dieci",
+    "uscito": "2026-10-25T10:02:23.036Z",
+    "aggiornato": "2026-10-25T16:10:13.448Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ad3c597769b4579348ebfbc",
+    "contenuto": "R14",
+    "titolo": "Rispondere entro un’ora",
+    "uscito": "2026-10-24T09:02:02.965Z",
+    "aggiornato": "2026-10-25T16:10:13.472Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ad3c596938409f1d09bfcec",
+    "contenuto": "R13",
+    "titolo": "A volte diciamo di no",
+    "uscito": "2026-10-21T16:32:02.889Z",
+    "aggiornato": "2026-10-25T16:10:13.444Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ad3c595ae173d6e00cd177c",
+    "contenuto": "R16",
+    "titolo": "Quale testo si legge",
+    "uscito": "2026-10-18T09:00:54.413Z",
+    "aggiornato": "2026-10-25T16:10:13.474Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 2,
+      "reach": 1,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ad120a6180e27ff0b098ef1",
+    "contenuto": "R08",
+    "titolo": "Da zero a online",
+    "uscito": "2026-10-22T16:31:50.675Z",
+    "aggiornato": "2026-10-25T16:10:13.469Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 1,
+      "reach": 1,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6acfcf9041e19a94599bbb2c",
+    "contenuto": "R04",
+    "titolo": "Tre secondi su mobile",
+    "uscito": "2026-10-20T16:31:54.189Z",
+    "aggiornato": "2026-10-25T16:10:13.450Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 1,
+      "reach": 1,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6acfcf8eedcab17b812840e7",
+    "contenuto": "R05",
+    "titolo": "Quanto costa un sito",
+    "uscito": "2026-10-15T16:31:16.984Z",
+    "aggiornato": "2026-10-25T16:10:13.463Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ace9d8463a12fa73723d21c",
+    "contenuto": "C01",
+    "titolo": "Prova con il pollice · analisi gratuita",
+    "uscito": "2026-10-14T10:30:36.048Z",
+    "aggiornato": "2026-10-25T16:10:13.432Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 2,
+      "reach": 1,
+      "shares": 0,
+      "views": 1,
+      "totalTimeWatched": 0.05,
+      "viewers": 1
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac90e49d884dc52e157a2c5",
+    "contenuto": null,
+    "titolo": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tut",
+    "uscito": "2026-10-09T16:00:28.708Z",
+    "aggiornato": "2026-10-25T16:10:13.461Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 2,
+      "reach": 1,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac8ac212fb5bb53de190514",
+    "contenuto": "R35",
+    "titolo": "Distanza zero",
+    "uscito": "2026-10-11T09:01:20.667Z",
+    "aggiornato": "2026-10-25T16:10:13.459Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 2,
+      "reach": 1,
+      "shares": 0,
+      "views": 1,
+      "totalTimeWatched": 0.2,
+      "viewers": 1
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac8ac204936802f8bcea3d7",
+    "contenuto": "R10",
+    "titolo": "Prima e dopo",
+    "uscito": "2026-10-10T09:01:13.015Z",
+    "aggiornato": "2026-10-25T16:10:13.471Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 2,
+      "reach": 1,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac67b7a4610dcaf932d0a1c",
+    "contenuto": "P10",
+    "titolo": "Carosello Dieci Giorni",
+    "uscito": "2026-10-07T17:30:26.960Z",
+    "aggiornato": "2026-10-25T16:10:13.465Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 3,
+      "reach": 1,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac67b475dd7df060c6d94c1",
+    "contenuto": "P05",
+    "titolo": "Tip Visite",
+    "uscito": "2026-10-12T10:30:42.550Z",
+    "aggiornato": "2026-10-25T16:10:13.466Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 2,
+      "reach": 1,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac665c475e2178a9949fcf0",
+    "contenuto": null,
+    "titolo": "Dieci giorni non sono una corsa. Sono un calendario.\n\nQuando",
+    "uscito": "2026-10-07T16:30:28.665Z",
+    "aggiornato": "2026-10-07T15:31:16.034Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac5f11536c2a7788dd39fdc",
+    "contenuto": "R03",
+    "titolo": "Il bottone",
+    "uscito": "2026-10-13T16:30:59.887Z",
+    "aggiornato": "2026-10-25T16:10:13.476Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac5f114df05c83428d8a9fb",
+    "contenuto": "R02",
+    "titolo": "Quale bottone",
+    "uscito": "2026-10-08T16:30:52.628Z",
+    "aggiornato": "2026-10-25T16:10:13.454Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 1,
+      "reach": 1,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac577e0280171da8dd32b8d",
+    "contenuto": "P09",
+    "titolo": "CRM",
+    "uscito": "2026-10-19T10:30:46.908Z",
+    "aggiornato": "2026-10-25T16:10:13.453Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 1,
+      "reach": 1,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac577df42e81c8a0b0bb07c",
+    "contenuto": "P08",
+    "titolo": "AI Mestiere",
+    "uscito": "2026-10-16T10:30:53.580Z",
+    "aggiornato": "2026-10-25T16:10:13.456Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ac4c5c8f3da78683bb55179",
+    "contenuto": null,
+    "titolo": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
+    "uscito": "2026-10-06T10:30:27.622Z",
+    "aggiornato": "2026-10-25T16:10:13.452Z",
+    "metriche": {
+      "reactions": 1,
+      "comments": 0,
+      "engagementRate": 11.11111111111111,
+      "impressions": 9,
+      "reach": 3,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
+    "bufferId": "6ab6df72dffba3cec6e4487a",
+    "contenuto": null,
+    "titolo": "Una bottega. Non un'agenzia.\n\nDieci Bottega nasce a Bologna ",
+    "uscito": "2026-10-05T06:30:43.574Z",
+    "aggiornato": "2026-10-25T16:10:13.458Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 5.88235294117647,
+      "impressions": 17,
+      "reach": 2,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ad3c5980a208cb32333dc11",
+    "contenuto": "R15",
+    "titolo": "Il giorno dieci",
+    "uscito": "2026-10-25T10:03:29.430Z",
+    "aggiornato": "2026-10-25T14:37:51.803Z",
+    "metriche": {
+      "reactions": 1,
+      "comments": 0,
+      "engagementRate": 50,
+      "views": 4,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 0.08,
+      "averageTimeWatched": 2.53,
+      "reach": 2
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ad3c5970a208cb32333dbca",
+    "contenuto": "R14",
+    "titolo": "Rispondere entro un’ora",
+    "uscito": "2026-10-24T09:03:41.212Z",
+    "aggiornato": "2026-10-25T14:37:51.836Z",
+    "metriche": {
+      "reactions": 1,
+      "comments": 0,
+      "engagementRate": 0.93,
+      "views": 113,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 6.92,
+      "averageTimeWatched": 3.88,
+      "reach": 108
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ad3c5950a208cb32333db9f",
+    "contenuto": "R13",
+    "titolo": "A volte diciamo di no",
+    "uscito": "2026-10-21T16:33:12.428Z",
+    "aggiornato": "2026-10-25T14:37:51.792Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 16.67,
+      "views": 16,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 0.39,
+      "averageTimeWatched": 1.79,
+      "reach": 12
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ad3c594769b4579348ebf4b",
+    "contenuto": "R16",
+    "titolo": "Quale testo si legge",
+    "uscito": "2026-10-18T09:01:42.477Z",
+    "aggiornato": "2026-10-25T14:37:51.834Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 25,
+      "views": 11,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 0.28,
+      "averageTimeWatched": 1.84,
+      "reach": 8
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ad120a60d0594a866c8a701",
+    "contenuto": "R08",
+    "titolo": "Da zero a online",
+    "uscito": "2026-10-22T16:33:24.909Z",
+    "aggiornato": "2026-10-25T14:37:51.805Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 33.33,
+      "views": 11,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 0.18,
+      "averageTimeWatched": 1.55,
+      "reach": 6
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6acfdc078f7b3fb92b379555",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-10-14T18:44:16.000Z",
+    "aggiornato": "2026-10-15T18:34:17.282Z",
+    "metriche": {
+      "views": 4,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6acfcf8fedcab17b8128412f",
+    "contenuto": "R04",
+    "titolo": "Tre secondi su mobile",
+    "uscito": "2026-10-20T16:32:36.749Z",
+    "aggiornato": "2026-10-25T14:37:51.828Z",
+    "metriche": {
+      "reactions": 3,
+      "comments": 0,
+      "engagementRate": 21.43,
+      "views": 18,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 0.74,
+      "averageTimeWatched": 3.16,
+      "reach": 14
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6acfcf8da94addd88cd07d99",
+    "contenuto": "R05",
+    "titolo": "Quanto costa un sito",
+    "uscito": "2026-10-15T16:32:06.420Z",
+    "aggiornato": "2026-10-25T14:37:51.826Z",
+    "metriche": {
+      "reactions": 3,
+      "comments": 0,
+      "engagementRate": 25,
+      "views": 23,
+      "shares": 1,
+      "saves": 0,
+      "totalTimeWatched": 1.14,
+      "averageTimeWatched": 3.81,
+      "reach": 16
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ace9d8363a12fa73723d1ed",
+    "contenuto": "C01",
+    "titolo": "Prova con il pollice · analisi gratuita",
+    "uscito": "2026-10-14T10:31:14.959Z",
+    "aggiornato": "2026-10-25T14:37:51.843Z",
+    "metriche": {
+      "reactions": 3,
+      "comments": 0,
+      "engagementRate": 23.08,
+      "views": 25,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 2.61,
+      "averageTimeWatched": 7.83,
+      "reach": 13
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac93915fe8290ce82e9e542",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-10-09T17:15:45.000Z",
+    "aggiornato": "2026-10-10T17:05:46.709Z",
+    "metriche": {
+      "views": 4,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac8d5bc114ac0e9ff891e58",
+    "contenuto": null,
+    "titolo": "Nessuna risposta vale per tutti. Ma ci sono domande che valg",
+    "uscito": "2026-10-09T16:02:55.253Z",
+    "aggiornato": "2026-10-25T14:37:51.794Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 50,
+      "views": 16,
+      "shares": 0,
+      "saves": 0,
+      "follows": 0,
+      "reach": 4
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac8ac212fb5bb53de1904e1",
+    "contenuto": "R35",
+    "titolo": "Distanza zero",
+    "uscito": "2026-10-11T09:03:02.243Z",
+    "aggiornato": "2026-10-25T14:37:51.790Z",
+    "metriche": {
+      "reactions": 1,
+      "comments": 0,
+      "engagementRate": 11.11,
+      "views": 13,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 0.9,
+      "averageTimeWatched": 4.92,
+      "reach": 9
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac8ac1f2fb5bb53de190498",
+    "contenuto": "R10",
+    "titolo": "Prima e dopo",
+    "uscito": "2026-10-10T09:01:54.212Z",
+    "aggiornato": "2026-10-25T14:37:51.830Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 11,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 0.5,
+      "averageTimeWatched": 3.35,
+      "reach": 5
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac7e535af3660f60d660e7b",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-10-08T16:59:14.000Z",
+    "aggiornato": "2026-10-09T16:49:15.405Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac7c7c934ed38f0ddb3509e",
+    "contenuto": "R02",
+    "titolo": "Quale bottone",
+    "uscito": "2026-10-08T16:46:05.401Z",
+    "aggiornato": "2026-10-25T14:37:51.809Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 13.04,
+      "views": 31,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 2.28,
+      "averageTimeWatched": 4.89,
+      "reach": 23
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac7c76939900b379e540330",
+    "contenuto": "P09",
+    "titolo": "CRM",
+    "uscito": "2026-10-19T10:31:53.552Z",
+    "aggiornato": "2026-10-25T14:37:51.811Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 50,
+      "views": 9,
+      "shares": 0,
+      "saves": 0,
+      "follows": 0,
+      "reach": 4
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac7c7686d8b6991f804c080",
+    "contenuto": "R03",
+    "titolo": "Il bottone",
+    "uscito": "2026-10-13T16:33:08.613Z",
+    "aggiornato": "2026-10-25T14:37:51.807Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 18.75,
+      "views": 19,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 1.71,
+      "averageTimeWatched": 5.7,
+      "reach": 16
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac7c72534ed38f0ddb332ba",
+    "contenuto": "P08",
+    "titolo": "AI Mestiere",
+    "uscito": "2026-10-16T10:31:51.349Z",
+    "aggiornato": "2026-10-25T14:37:51.841Z",
+    "metriche": {
+      "reactions": 3,
+      "comments": 0,
+      "engagementRate": 60,
+      "views": 11,
+      "shares": 0,
+      "saves": 0,
+      "follows": 0,
+      "reach": 5
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac6c0b357f9bd074d1a376c",
+    "contenuto": "P05",
+    "titolo": "Tip Visite",
+    "uscito": "2026-10-12T10:31:30.137Z",
+    "aggiornato": "2026-10-25T14:37:51.815Z",
+    "metriche": {
+      "reactions": 3,
+      "comments": 0,
+      "engagementRate": 80,
+      "views": 17,
+      "shares": 1,
+      "saves": 0,
+      "follows": 0,
+      "reach": 5
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac67b465dd7df060c6d9481",
+    "contenuto": "P10",
+    "titolo": "Carosello Dieci Giorni",
+    "uscito": "2026-10-07T17:31:08.665Z",
+    "aggiornato": "2026-10-25T14:37:51.823Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 33.33,
+      "views": 16,
+      "shares": 0,
+      "saves": 0,
+      "follows": 0,
+      "reach": 9
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac666bee94c2c45e0075098",
+    "contenuto": null,
+    "titolo": "Dieci giorni non sono una corsa. Sono un calendario.\nOgni fa",
+    "uscito": "2026-10-07T16:30:55.529Z",
+    "aggiornato": "2026-10-07T15:35:26.039Z",
+    "metriche": {}
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac53fd6308dd81662b88965",
+    "contenuto": null,
+    "titolo": "👀 👀👀",
+    "uscito": "2026-10-06T16:43:35.000Z",
+    "aggiornato": "2026-10-07T16:33:36.232Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac4c63860cabbfaf184c4e5",
+    "contenuto": null,
+    "titolo": "Dieci Bottega è una bottega digitale di Bologna.\nSiamo in du",
+    "uscito": "2026-10-05T12:29:20.000Z",
+    "aggiornato": "2026-10-25T14:37:51.787Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 25,
+      "views": 46,
+      "shares": 0,
+      "saves": 0,
+      "follows": 0,
+      "reach": 12
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac3d8a491c77f0a466b3afa",
+    "contenuto": null,
+    "titolo": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
+    "uscito": "2026-10-06T16:32:35.854Z",
+    "aggiornato": "2026-10-25T14:37:51.801Z",
+    "metriche": {
+      "reactions": 2,
+      "comments": 0,
+      "engagementRate": 16,
+      "views": 36,
+      "shares": 0,
+      "saves": 0,
+      "totalTimeWatched": 3,
+      "averageTimeWatched": 5.62,
+      "reach": 25
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ac3c166d2c8adcae8f71d17",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-10-05T12:51:44.000Z",
+    "aggiornato": "2026-10-06T12:41:45.983Z",
+    "metriche": {
+      "views": 6,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6777",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:17:03.000Z",
+    "aggiornato": "2026-09-26T07:07:03.822Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6774",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:14:38.000Z",
+    "aggiornato": "2026-09-26T07:04:38.954Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6769",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:14:40.000Z",
+    "aggiornato": "2026-09-26T07:04:40.983Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6758",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:21:27.000Z",
+    "aggiornato": "2026-09-26T07:11:28.132Z",
+    "metriche": {
+      "views": 6,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6756",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:21:28.000Z",
+    "aggiornato": "2026-09-26T07:11:28.968Z",
+    "metriche": {
+      "views": 8,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6753",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:17:05.000Z",
+    "aggiornato": "2026-09-26T07:07:06.190Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6751",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:17:04.000Z",
+    "aggiornato": "2026-09-26T07:07:05.024Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f674f",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:14:36.000Z",
+    "aggiornato": "2026-09-26T07:04:37.032Z",
+    "metriche": {
+      "views": 4,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6748",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:21:26.000Z",
+    "aggiornato": "2026-09-26T07:11:27.446Z",
+    "metriche": {
+      "views": 5,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6746",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:17:06.000Z",
+    "aggiornato": "2026-09-26T07:07:07.459Z",
+    "metriche": {
+      "views": 4,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6744",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:21:29.000Z",
+    "aggiornato": "2026-09-26T07:11:29.967Z",
+    "metriche": {
+      "views": 4,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6742",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:17:07.000Z",
+    "aggiornato": "2026-09-26T07:07:07.972Z",
+    "metriche": {
+      "views": 4,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6740",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:17:02.000Z",
+    "aggiornato": "2026-09-26T07:07:03.061Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f673e",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:14:41.000Z",
+    "aggiornato": "2026-09-26T07:04:42.318Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f673c",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:14:39.000Z",
+    "aggiornato": "2026-09-26T07:04:40.227Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f673a",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:14:37.000Z",
+    "aggiornato": "2026-09-26T07:04:38.201Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6738",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:21:30.000Z",
+    "aggiornato": "2026-09-26T07:11:31.086Z",
+    "metriche": {
+      "views": 4,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab625a689f7c560563f6736",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T07:17:01.000Z",
+    "aggiornato": "2026-09-26T07:07:02.084Z",
+    "metriche": {
+      "views": 3,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3989f7c560563a4f66",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:39:31.000Z",
+    "aggiornato": "2026-09-26T01:29:32.432Z",
+    "metriche": {
+      "views": 6,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f53",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:46:41.000Z",
+    "aggiornato": "2026-09-26T01:36:41.688Z",
+    "metriche": {
+      "views": 5,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f51",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:46:43.000Z",
+    "aggiornato": "2026-09-26T01:36:44.376Z",
+    "metriche": {
+      "views": 5,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f4f",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:39:01.000Z",
+    "aggiornato": "2026-09-26T01:29:01.788Z",
+    "metriche": {
+      "views": 6,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f4c",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:39:37.000Z",
+    "aggiornato": "2026-09-26T01:29:38.101Z",
+    "metriche": {
+      "views": 5,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f4a",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:46:44.000Z",
+    "aggiornato": "2026-09-26T01:36:45.027Z",
+    "metriche": {
+      "views": 5,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f48",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:46:39.000Z",
+    "aggiornato": "2026-09-26T01:36:39.948Z",
+    "metriche": {
+      "views": 5,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f46",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:43:49.000Z",
+    "aggiornato": "2026-09-25T22:47:15.853Z",
+    "metriche": {
+      "views": 0,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f44",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:46:40.000Z",
+    "aggiornato": "2026-09-26T01:36:40.899Z",
+    "metriche": {
+      "views": 5,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f42",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:39:22.000Z",
+    "aggiornato": "2026-09-26T01:29:23.517Z",
+    "metriche": {
+      "views": 5,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f40",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:39:13.000Z",
+    "aggiornato": "2026-09-26T01:29:14.013Z",
+    "metriche": {
+      "views": 5,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f3e",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:46:42.000Z",
+    "aggiornato": "2026-09-26T01:36:42.802Z",
+    "metriche": {
+      "views": 5,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5fb3889f7c560563a4f3c",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:42:06.000Z",
+    "aggiornato": "2026-09-26T01:32:07.359Z",
+    "metriche": {
+      "views": 6,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5d0c4d00ac79935199b18",
+    "contenuto": null,
+    "titolo": "",
+    "uscito": "2026-09-25T01:38:50.000Z",
+    "aggiornato": "2026-09-26T01:28:51.581Z",
+    "metriche": {
+      "views": 10,
+      "reach": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "reactions": 0
+    }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ab5c1fd2ce16aadb37fff83",
+    "contenuto": null,
+    "titolo": "Dieci Bottega è una bottega digitale di Bologna.\nSiamo in du",
+    "uscito": "2026-10-05T12:02:18.688Z",
+    "aggiornato": "2026-09-25T00:36:13.724Z",
+    "metriche": {}
+  }
+]

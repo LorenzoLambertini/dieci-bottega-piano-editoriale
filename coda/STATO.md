@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 25/10/2026, 10:53:10
+Ultimo controllo: 25/10/2026, 20:37:56
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 25/10/2026, 10:53:10
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-25 11:00 | R15 | Il giorno dieci | programmato | programmato | programmato |
 | 2026-10-26 12:30 | P11 | Dieci Anni | programmato | programmato | programmato |
 | 2026-10-27 18:30 | R07 | Cosa significa GEO | programmato | programmato | programmato |
 | 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
@@ -28,7 +27,7 @@ Ultimo controllo: 25/10/2026, 10:53:10
 | 2026-11-07 11:00 | R19 | Quante imprese hanno un sito | programmato | programmato | programmato |
 | 2026-11-08 11:00 | R20 | Chi c’e dietro | programmato | programmato | programmato |
 | 2026-11-09 18:30 | S04 | Sito del lunedì: l'agente immobiliare | manca_video | manca_video | manca_video |
-| 2026-11-10 18:30 | R11 | La foto del chi siamo | da_programmare | da_programmare | da_programmare |
+| 2026-11-10 18:30 | R11 | La foto del chi siamo | programmato | programmato | programmato |
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-11-12 18:30 | R12 | Solo qualche visita persa | da_programmare | da_programmare | da_programmare |
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
@@ -37,12 +36,12 @@ Ultimo controllo: 25/10/2026, 10:53:10
 | 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
 | 2026-11-17 18:30 | R22 | La X accetta i cookie | da_programmare | da_programmare | da_programmare |
 | 2026-11-18 18:30 | S08 | Cosa c'è in 800 € | manca_video | manca_video | manca_video |
+| 2026-11-19 18:30 | R24 | Il tempo LCP | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 25/10/26, 11:00 · Il giorno dieci, cosa hai in mano? Il sito online, due round di revisi
 - 26/10/26, 12:30 · 2020. Nessuno dei due immaginava Dieci Bottega. Siamo Lorenzo e Tommas
 - 27/10/26, 18:30 · Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi t
 - 29/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
@@ -52,10 +51,10 @@ Ultimo controllo: 25/10/2026, 10:53:10
 - 05/11/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: i giorni dal brief al sito onli
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo, design e web. Tommaso, strategi
+- 10/11/26, 18:30 · 
 
 ### linkedin
 
-- 25/10/26, 11:00 · Cosa consegniamo il giorno dieci di un progetto: 1. Il sito online, co
 - 26/10/26, 12:30 · Sei anni prima di Dieci Bottega, eravamo già in due. Questa foto è del
 - 27/10/26, 18:30 · GEO sta per Generative Engine Optimization: l'insieme di accorgimenti 
 - 29/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
@@ -65,10 +64,10 @@ Ultimo controllo: 25/10/2026, 10:53:10
 - 05/11/26, 18:30 · Perché ci chiamiamo Dieci Bottega. Dieci, come i giorni dal brief al s
 - 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega. Lorenzo Lambertini, design e web: crede 
+- 10/11/26, 18:30 · 
 
 ### instagram
 
-- 25/10/26, 11:00 · Il giorno dieci, cosa hai in mano? Un sito online, con un calendario c
 - 26/10/26, 12:30 · Prima di Dieci Bottega c'erano due amici. Da più di dieci anni. Uno ha
 - 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
 - 29/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
@@ -78,6 +77,7 @@ Ultimo controllo: 25/10/2026, 10:53:10
 - 05/11/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: dieci giorni dal brief al sito 
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo Lambertini, design e web: crede 
+- 10/11/26, 18:30 · 
 
 
 ## Ultime sostituzioni automatiche
