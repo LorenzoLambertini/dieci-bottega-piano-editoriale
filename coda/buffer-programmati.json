@@ -1,29 +1,6 @@
 {
   "facebook": [
     {
-      "id": "6ac95f8ab07d37ac975130e8",
-      "dueAt": "2026-10-26T11:30:00.000Z",
-      "text": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Lorenzo e Tommaso, amici da più di dieci anni. Oggi abbiamo messo insieme quello che sappiamo fare: siti, CRM e automazioni per chi ha un'attività.\n\nQuando ci scrivi, ti rispondiamo noi. Gli stessi che lavorano al tuo sito.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide01.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide02.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide03.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide04.png",
-          "tipo": "image/png"
-        }
-      ]
-    },
-    {
       "id": "6aca1de7f91f772d458f19c3",
       "dueAt": "2026-10-27T17:30:00.000Z",
       "text": "Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi trovare quando qualcuno chiede consiglio a un'intelligenza artificiale invece che a Google.\n\nScrivi nei commenti se l'avevi già sentita.",
@@ -125,17 +102,6 @@
   ],
   "linkedin": [
     {
-      "id": "6ac95f8abba9419ccbe058a7",
-      "dueAt": "2026-10-26T11:30:00.000Z",
-      "text": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta foto è del 2020. Lorenzo e Tommaso, amici da più di dieci anni.\n\nIn questi anni uno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività, e a dirlo in modo semplice.\n\nNel 2026 abbiamo deciso di mettere insieme quello che sappiamo fare. È per questo che, quando scrivi a Dieci Bottega, ti rispondono le stesse due persone che lavoreranno al tuo sito.\n\nAmici da dieci anni. Una bottega da oggi.\n\n#Founders #Bologna #PMI",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/carosello.pdf",
-          "tipo": "application/pdf"
-        }
-      ]
-    },
-    {
       "id": "6aca1de7b07d37ac976df660",
       "dueAt": "2026-10-27T17:30:00.000Z",
       "text": "GEO sta per Generative Engine Optimization: l'insieme di accorgimenti per farsi citare nelle risposte delle AI, non solo comparire tra i risultati di Google.\n\nSempre più persone chiedono a ChatGPT o all'AI di Google \"chi fa siti a Bologna\" o \"un buon ristorante qui vicino\". La risposta cita poche fonti.\n\nUno studio del 2024 (Aggarwal et al., KDD) mostra che riempire le pagine di parole chiave lì non funziona. Funzionano testi chiari, dati concreti, fonti citate.\n\nLa buona notizia: è esattamente come dovrebbe essere scritto un buon sito.\n\n#GEO #SEO #IntelligenzaArtificiale",
@@ -236,29 +202,6 @@
     }
   ],
   "instagram": [
-    {
-      "id": "6ac95f8af91f772d4572aed4",
-      "dueAt": "2026-10-26T11:30:00.000Z",
-      "text": "Prima di Dieci Bottega c'erano due amici. Da più di dieci anni.\nUno ha imparato a disegnare e scrivere codice. L'altro a capire cosa serve davvero a chi ha un'attività.\nOggi abbiamo messo insieme quello che sappiamo fare. Ed è per questo che, quando ci scrivi, ti rispondono le stesse due persone che lavorano al tuo sito.\n\n#bologna #bottegadigitale #founders #pmiitaliane #webdesign",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide01.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide02.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide03.png",
-          "tipo": "image/png"
-        },
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/post/P11/slide04.png",
-          "tipo": "image/png"
-        }
-      ]
-    },
     {
       "id": "6aca1de6d9cab260a7c06628",
       "dueAt": "2026-10-27T17:30:00.000Z",

@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6adfc85ea72c078abdbb9a9e",
+        "dueAt": "2026-11-12T17:30:00.000Z",
+        "sentAt": null,
+        "text": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Fals",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6adfc85e465475d28777d4aa",
+        "dueAt": "2026-11-12T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi s",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6adfc85e465475d28777d45f",
+        "dueAt": "2026-11-12T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi s",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6ade5a943d5b27036bec2241",
         "dueAt": "2026-11-10T17:30:00.000Z",
         "sentAt": null,
@@ -949,45 +988,6 @@
         "shareMode": "customScheduled",
         "status": "scheduled",
         "via": "buffer"
-      },
-      {
-        "id": "6ac95f8af91f772d4572aed4",
-        "dueAt": "2026-10-26T11:30:00.000Z",
-        "sentAt": null,
-        "text": "Prima di Dieci Bottega c'erano due amici. Da più di dieci an",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac95f8abba9419ccbe058a7",
-        "dueAt": "2026-10-26T11:30:00.000Z",
-        "sentAt": null,
-        "text": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac95f8ab07d37ac975130e8",
-        "dueAt": "2026-10-26T11:30:00.000Z",
-        "sentAt": null,
-        "text": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Loren",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
       }
     ],
     "sending": [],
@@ -1318,6 +1318,45 @@
         "via": "buffer"
       },
       {
+        "id": "6ac95f8af91f772d4572aed4",
+        "dueAt": "2026-10-26T11:30:00.000Z",
+        "sentAt": "2026-10-26T11:32:04.103Z",
+        "text": "Prima di Dieci Bottega c'erano due amici. Da più di dieci an",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac95f8abba9419ccbe058a7",
+        "dueAt": "2026-10-26T11:30:00.000Z",
+        "sentAt": "2026-10-26T11:31:15.432Z",
+        "text": "Sei anni prima di Dieci Bottega, eravamo già in due.\n\nQuesta",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ac95f8ab07d37ac975130e8",
+        "dueAt": "2026-10-26T11:30:00.000Z",
+        "sentAt": "2026-10-26T11:31:07.165Z",
+        "text": "2020. Nessuno dei due immaginava Dieci Bottega.\n\nSiamo Loren",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
         "id": "6ac93915fe8290ce82e9e542",
         "dueAt": "2026-10-09T17:15:45.000Z",
         "sentAt": "2026-10-09T17:15:45.000Z",
@@ -1342,52 +1381,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ac90de2d884dc52e1578dc5",
-        "dueAt": "2026-10-09T16:00:00.000Z",
-        "sentAt": "2026-10-09T16:00:13.546Z",
-        "text": "Quanto dovrebbe costare un sito?\n\nNon esiste una cifra giust",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac8d5bc114ac0e9ff891e58",
-        "dueAt": "2026-10-09T16:00:00.000Z",
-        "sentAt": "2026-10-09T16:02:55.253Z",
-        "text": "Nessuna risposta vale per tutti. Ma ci sono domande che valg",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ac8ac21599dfbfee2db9fa0",
-        "dueAt": "2026-10-11T09:00:00.000Z",
-        "sentAt": "2026-10-11T09:01:10.404Z",
-        "text": "Quanto è lontana la tua web agency?\n\nNoi parliamo italiano, ",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Sun, 25 Oct 2026 09:54:03 GMT 2888614",
-    "media/reel/R07.mp4": "200 Sun, 25 Oct 2026 09:54:03 GMT 3173777",
-    "index.html": "200 Sun, 25 Oct 2026 09:54:03 GMT 104461"
+    "media/reel/R02.mp4": "200 Mon, 26 Oct 2026 20:13:54 GMT 2888614",
+    "media/reel/R07.mp4": "200 Mon, 26 Oct 2026 20:13:54 GMT 3173777",
+    "index.html": "200 Mon, 26 Oct 2026 20:13:54 GMT 104461"
   }
 }
