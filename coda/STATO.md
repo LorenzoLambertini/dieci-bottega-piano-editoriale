@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 25/10/2026, 20:37:56
+Ultimo controllo: 26/10/2026, 12:12:28
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -51,7 +51,7 @@ Ultimo controllo: 25/10/2026, 20:37:56
 - 05/11/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: i giorni dal brief al sito onli
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo, design e web. Tommaso, strategi
-- 10/11/26, 18:30 · 
+- 10/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
 
 ### linkedin
 
@@ -64,7 +64,7 @@ Ultimo controllo: 25/10/2026, 20:37:56
 - 05/11/26, 18:30 · Perché ci chiamiamo Dieci Bottega. Dieci, come i giorni dal brief al s
 - 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega. Lorenzo Lambertini, design e web: crede 
-- 10/11/26, 18:30 · 
+- 10/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
 
 ### instagram
 
@@ -77,7 +77,7 @@ Ultimo controllo: 25/10/2026, 20:37:56
 - 05/11/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: dieci giorni dal brief al sito 
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo Lambertini, design e web: crede 
-- 10/11/26, 18:30 · 
+- 10/11/26, 18:30 · Pagina "Chi siamo": quale foto scegli? A o B nei commenti. Le persone 
 
 
 ## Ultime sostituzioni automatiche
