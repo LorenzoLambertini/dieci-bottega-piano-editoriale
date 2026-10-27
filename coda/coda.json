@@ -1330,17 +1330,23 @@
         "instagram": {
           "testo": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù scelte, più tempo per decidere: lo dice la legge di Hick-Hyman. Ma nel video c'è la parte che pochi sanno, su quanto cresce davvero quel tempo.\n#ux #webdesign #menu #sitiweb #pmiitaliane",
           "video": "media/reel/R21.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ae115a32f35d654faeed7a5",
+          "programmatoIl": "2026-10-27T21:20:35.789Z"
         },
         "facebook": {
           "testo": "Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa decidere prima, A o B?",
           "video": "media/reel/R21.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ae115a4e2341add8c5c6d6b",
+          "programmatoIl": "2026-10-27T21:20:36.214Z"
         },
         "linkedin": {
           "testo": "Più voci metti nel menu, più tempo serve per decidere dove cliccare. È la legge di Hick-Hyman, psicologia degli anni '50.\n\nIl dettaglio interessante: il tempo non raddoppia se raddoppi le voci, cresce meno. Ma cresce sempre. E su un telefono ogni esitazione è un'uscita in più.\n\nPer un sito di una PMI, quattro o cinque voci bastano quasi sempre: servizi, prezzi, chi siamo, contatti.\n\n#UX #Menu #PMI",
           "video": "media/reel/R21.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ae115a42f35d654faeed7f2",
+          "programmatoIl": "2026-10-27T21:20:36.625Z"
         }
       }
     },

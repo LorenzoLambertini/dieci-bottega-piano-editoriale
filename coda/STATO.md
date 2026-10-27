@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 27/10/2026, 11:39:42
+Ultimo controllo: 27/10/2026, 22:20:37
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 27/10/2026, 11:39:42
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-27 18:30 | R07 | Cosa significa GEO | programmato | programmato | programmato |
 | 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
 | 2026-10-29 18:30 | R06 | Quale homepage | programmato | programmato | programmato |
 | 2026-10-30 18:30 | P06 | Reel Dettaglio | manca_video | manca_video | manca_video |
@@ -30,19 +29,19 @@ Ultimo controllo: 27/10/2026, 11:39:42
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-11-12 18:30 | R12 | Solo qualche visita persa | programmato | programmato | programmato |
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
-| 2026-11-14 11:00 | R21 | Quale menu | da_programmare | da_programmare | da_programmare |
+| 2026-11-14 11:00 | R21 | Quale menu | programmato | programmato | programmato |
 | 2026-11-15 11:00 | R25 | Solo un effetto | da_programmare | da_programmare | da_programmare |
 | 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
 | 2026-11-17 18:30 | R22 | La X accetta i cookie | da_programmare | da_programmare | da_programmare |
 | 2026-11-18 18:30 | S08 | Cosa c'è in 800 € | manca_video | manca_video | manca_video |
 | 2026-11-19 18:30 | R24 | Il tempo LCP | da_programmare | da_programmare | da_programmare |
 | 2026-11-20 18:30 | S09 | Le 5 domande | manca_video | manca_video | manca_video |
+| 2026-11-21 11:00 | R26 | Mentre carica | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 27/10/26, 18:30 · Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi t
 - 29/10/26, 18:30 · Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o 
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Scriv
 - 01/11/26, 11:00 · Non solo siti. Facciamo anche CRM su misura e automazioni per le attiv
@@ -52,10 +51,10 @@ Ultimo controllo: 27/10/2026, 11:39:42
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo, design e web. Tommaso, strategi
 - 10/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
 - 12/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
+- 14/11/26, 11:00 · 
 
 ### linkedin
 
-- 27/10/26, 18:30 · GEO sta per Generative Engine Optimization: l'insieme di accorgimenti 
 - 29/10/26, 18:30 · Una ciclofficina, due homepage. Una funziona, l'altra no. La prima sch
 - 31/10/26, 11:00 · Su una pagina web lo sguardo disegna una F: due passate orizzontali in
 - 01/11/26, 11:00 · Una bottega, tre mestieri: Siti: trovati su Google, aggiornabili dal c
@@ -65,10 +64,10 @@ Ultimo controllo: 27/10/2026, 11:39:42
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega. Lorenzo Lambertini, design e web: crede 
 - 10/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
 - 12/11/26, 18:30 · "Se il sito è un po' lento, perdo solo qualche visita." Falso. Su mobi
+- 14/11/26, 11:00 · 
 
 ### instagram
 
-- 27/10/26, 18:30 · Cosa significa GEO? A) Generative Engine Optimization B) Geolocalizzaz
 - 29/10/26, 18:30 · Quale homepage funziona meglio? Due versioni, una sola funziona meglio
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Rispo
 - 01/11/26, 11:00 · Non solo siti. Tre mestieri, una bottega. Siti trovati su Google e agg
@@ -78,6 +77,7 @@ Ultimo controllo: 27/10/2026, 11:39:42
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo Lambertini, design e web: crede 
 - 10/11/26, 18:30 · Pagina "Chi siamo": quale foto scegli? A o B nei commenti. Le persone 
 - 12/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
+- 14/11/26, 11:00 · 
 
 
 ## Ultime sostituzioni automatiche
