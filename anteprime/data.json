@@ -1,37 +1,6 @@
 {
- "aggiornato": "2026-10-26T19:50+00:00",
+ "aggiornato": "2026-10-27T19:51+00:00",
  "contenuti": [
-  {
-   "id": "R07",
-   "titolo": "Cosa significa GEO",
-   "tipo": "reel",
-   "quando": "2026-10-27 18:30",
-   "dueAt": "2026-10-27T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R07_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R07.mp4",
-   "durata": 29,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Cosa significa GEO?\n\nA) Generative Engine Optimization\nB) Geolocalizzazione\nC) Google Engine Online\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi il tuo sito pronto per la GEO.\n\nFonte: Aggarwal et al., KDD 2024\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #geo #seo #intelligenzaartificiale",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Cosa significa GEO? Te lo diciamo senza giri di parole: è come farsi trovare quando qualcuno chiede consiglio a un'intelligenza artificiale invece che a Google.\n\nScrivi nei commenti se l'avevi già sentita.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "GEO sta per Generative Engine Optimization: l'insieme di accorgimenti per farsi citare nelle risposte delle AI, non solo comparire tra i risultati di Google.\n\nSempre più persone chiedono a ChatGPT o all'AI di Google \"chi fa siti a Bologna\" o \"un buon ristorante qui vicino\". La risposta cita poche fonti.\n\nUno studio del 2024 (Aggarwal et al., KDD) mostra che riempire le pagine di parole chiave lì non funziona. Funzionano testi chiari, dati concreti, fonti citate.\n\nLa buona notizia: è esattamente come dovrebbe essere scritto un buon sito.\n\n#GEO #SEO #IntelligenzaArtificiale",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "P03",
    "titolo": "Reel Founder",
@@ -526,19 +495,19 @@
    "durata": 25,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\n\nVota nei commenti. Il numero vero ti farà riaprire il tuo sito dal telefono.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Falso.\n\nSu mobile, oltre i 3 secondi di caricamento se ne va il 53% delle visite. Più di una su due. (Google)\n\nIl punto non è la velocità in sé. È che quelle visite erano persone che ti avevano già scelto abbastanza da cercarti.\n\n#Performance #Mobile #PMI",
      "formato": "video",
      "errore": null
@@ -1408,6 +1377,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Il testo grigio chiaro su fondo bianco è elegante sul monitor del designer e illeggibile per molti utenti.\n\nIl riferimento è WCAG 2.1, livello AA, che fissa un contrasto minimo. E dal 28 giugno 2025 per molti servizi digitali, e-commerce compreso, non è più una buona pratica: è un obbligo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #WCAG",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R53",
+   "titolo": "Tre secondi",
+   "tipo": "reel",
+   "quando": "2026-12-11 18:30",
+   "dueAt": "2026-12-11T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R53_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R53.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Quanto aspetti che un sito si apra? Due secondi, forse tre.\nIl 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi (fonte: Google). Per questo da noi: mobile-first, codice pulito, performance vere.\nOgni millisecondo è una scelta consapevole.\n#velocita #mobilefirst #sitiweb #webdesign #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Quanto aspetti che un sito si apra? Due secondi, forse tre. Poi chiudi.\n\nLo fanno anche i tuoi clienti: il 53% abbandona un sito che ci mette più di 3 secondi da telefono.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Il 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi a caricare. (Google)\n\nPer questo, in ogni progetto, tre scelte non sono negoziabili:\npensato prima per il telefono,\ncodice pulito, senza plugin superflui,\nperformance misurate sui telefoni reali, non sul computer.\n\nOgni millisecondo è una scelta consapevole.\n\n#Performance #MobileFirst #WebDesign",
      "formato": "video",
      "errore": null
     }
