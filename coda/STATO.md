@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 28/10/2026, 12:24:16
+Ultimo controllo: 28/10/2026, 22:39:33
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,6 @@ Ultimo controllo: 28/10/2026, 12:24:16
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-10-28 18:30 | P03 | Reel Founder | manca_video | manca_video | manca_video |
 | 2026-10-29 18:30 | R06 | Quale homepage | programmato | programmato | programmato |
 | 2026-10-30 18:30 | P06 | Reel Dettaglio | manca_video | manca_video | manca_video |
 | 2026-10-31 11:00 | R17 | Lo sguardo a F | programmato | programmato | programmato |
@@ -37,6 +36,7 @@ Ultimo controllo: 28/10/2026, 12:24:16
 | 2026-11-19 18:30 | R24 | Il tempo LCP | da_programmare | da_programmare | da_programmare |
 | 2026-11-20 18:30 | S09 | Le 5 domande | manca_video | manca_video | manca_video |
 | 2026-11-21 11:00 | R26 | Mentre carica | da_programmare | da_programmare | da_programmare |
+| 2026-11-22 11:00 | R28 | Quando ci scrivi | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
