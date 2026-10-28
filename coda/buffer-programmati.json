@@ -98,6 +98,17 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6ae115a4e2341add8c5c6d6b",
+      "dueAt": "2026-11-14T10:00:00.000Z",
+      "text": "Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa decidere prima, A o B?",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R21.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "linkedin": [
@@ -199,6 +210,17 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6ae115a42f35d654faeed7f2",
+      "dueAt": "2026-11-14T10:00:00.000Z",
+      "text": "Più voci metti nel menu, più tempo serve per decidere dove cliccare. È la legge di Hick-Hyman, psicologia degli anni '50.\n\nIl dettaglio interessante: il tempo non raddoppia se raddoppi le voci, cresce meno. Ma cresce sempre. E su un telefono ogni esitazione è un'uscita in più.\n\nPer un sito di una PMI, quattro o cinque voci bastano quasi sempre: servizi, prezzi, chi siamo, contatti.\n\n#UX #Menu #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R21.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "instagram": [
@@ -297,6 +319,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R12.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ae115a32f35d654faeed7a5",
+      "dueAt": "2026-11-14T10:00:00.000Z",
+      "text": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù scelte, più tempo per decidere: lo dice la legge di Hick-Hyman. Ma nel video c'è la parte che pochi sanno, su quanto cresce davvero quel tempo.\n#ux #webdesign #menu #sitiweb #pmiitaliane",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R21.mp4",
           "tipo": "video/mp4"
         }
       ]

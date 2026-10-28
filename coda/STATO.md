@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 27/10/2026, 22:20:37
+Ultimo controllo: 28/10/2026, 12:24:16
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -51,7 +51,7 @@ Ultimo controllo: 27/10/2026, 22:20:37
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo, design e web. Tommaso, strategi
 - 10/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
 - 12/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
-- 14/11/26, 11:00 · 
+- 14/11/26, 11:00 · Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa deci
 
 ### linkedin
 
@@ -64,7 +64,7 @@ Ultimo controllo: 27/10/2026, 22:20:37
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega. Lorenzo Lambertini, design e web: crede 
 - 10/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
 - 12/11/26, 18:30 · "Se il sito è un po' lento, perdo solo qualche visita." Falso. Su mobi
-- 14/11/26, 11:00 · 
+- 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 
 ### instagram
 
@@ -77,7 +77,7 @@ Ultimo controllo: 27/10/2026, 22:20:37
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo Lambertini, design e web: crede 
 - 10/11/26, 18:30 · Pagina "Chi siamo": quale foto scegli? A o B nei commenti. Le persone 
 - 12/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
-- 14/11/26, 11:00 · 
+- 14/11/26, 11:00 · Quale menu ti fa decidere prima? A o B nei commenti. Più scelte, più t
 
 
 ## Ultime sostituzioni automatiche
