@@ -1,45 +1,6 @@
 {
- "aggiornato": "2026-10-27T19:51+00:00",
+ "aggiornato": "2026-10-28T19:52+00:00",
  "contenuti": [
-  {
-   "id": "P03",
-   "titolo": "Reel Founder",
-   "tipo": "reel",
-   "quando": "2026-10-28 18:30",
-   "dueAt": "2026-10-28T17:30:00.000Z",
-   "slide": [],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "manca_video",
-     "testo": "Siamo Tommaso e Lorenzo. Amici da più di dieci anni, oggi una bottega.\nUno sa fare, l'altro sa ascoltare. Se hai un'attività e ti serve un sito che lavori per te, scrivici. Ti rispondiamo noi, non un modulo.\n\n#bologna #pmiitaliane #sitiweb #webdesign #bottegadigitale",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "manca_video",
-     "testo": "Lui disegna. Io parlo con te.\n\nSiamo Tommaso e Lorenzo, amici da più di dieci anni e oggi una bottega. Se hai un'attività e ti serve un sito che lavori per te, scrivici: ti rispondiamo noi, non un modulo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=post&utm_campaign=p03",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "manca_video",
-     "testo": "Lui disegna. Io parlo con te.\n\nCi conosciamo da più di dieci anni. Quest'anno abbiamo deciso di mettere insieme quello che sappiamo fare.\n\nLorenzo si occupa di design e codice: disegna il sito, lo scrive, cura i dettagli che non si vedono ma si sentono.\nTommaso si occupa dei clienti: capisce cosa serve davvero, dice quanto costa prima di iniziare e segue il progetto fino alla consegna.\n\nNessun account manager in mezzo. Quando scrivi a Dieci Bottega, ti rispondono le due persone che lavorano al tuo sito.\n\nParliamone: https://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=post&utm_campaign=p03\n\n#Founders #PMI #Bologna",
-     "formato": "video",
-     "errore": null
-    }
-   },
-   "sostituzioni": [
-    {
-     "il": "2026-10-07T15:30:51.558Z",
-     "da": "2026-10-07 18:30",
-     "a": "2026-10-21 18:30",
-     "conContenuto": "P10"
-    }
-   ]
-  },
   {
    "id": "R06",
    "titolo": "Quale homepage",
@@ -557,19 +518,19 @@
    "durata": 30,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù scelte, più tempo per decidere: lo dice la legge di Hick-Hyman. Ma nel video c'è la parte che pochi sanno, su quanto cresce davvero quel tempo.\n#ux #webdesign #menu #sitiweb #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa decidere prima, A o B?",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Più voci metti nel menu, più tempo serve per decidere dove cliccare. È la legge di Hick-Hyman, psicologia degli anni '50.\n\nIl dettaglio interessante: il tempo non raddoppia se raddoppi le voci, cresce meno. Ma cresce sempre. E su un telefono ogni esitazione è un'uscita in più.\n\nPer un sito di una PMI, quattro o cinque voci bastano quasi sempre: servizi, prezzi, chi siamo, contatti.\n\n#UX #Menu #PMI",
      "formato": "video",
      "errore": null
@@ -1408,6 +1369,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Il 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi a caricare. (Google)\n\nPer questo, in ogni progetto, tre scelte non sono negoziabili:\npensato prima per il telefono,\ncodice pulito, senza plugin superflui,\nperformance misurate sui telefoni reali, non sul computer.\n\nOgni millisecondo è una scelta consapevole.\n\n#Performance #MobileFirst #WebDesign",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R42",
+   "titolo": "Google guarda il telefono",
+   "tipo": "reel",
+   "quando": "2026-12-12 11:00",
+   "dueAt": "2026-12-12T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R42_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R42.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Vero o falso: \"Google valuta il tuo sito guardando la versione da telefono.\"\nVota nei commenti prima del reveal. Se la risposta ti sorprende, è il momento di aprire il tuo sito dallo smartphone. Fonte: Google Search Central.\n#google #mobilefirst #seo #verofalso #sitiweb",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Vero o falso: \"Google valuta il tuo sito guardando la versione da telefono.\"\n\nVota, poi apri il tuo sito dallo smartphone.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Vero. Si chiama mobile-first indexing: Google usa la versione mobile di un sito per indicizzarlo e posizionarlo. (Google Search Central)\n\nSe il sito da telefono è una versione ridotta, lenta o con contenuti nascosti, per Google quello è il tuo sito.\n\nIl controllo più utile che puoi fare oggi dura un minuto: apri il tuo sito dal telefono e cerca quello che cercherebbe un cliente.\n\n#SEO #MobileFirst #PMI",
      "formato": "video",
      "errore": null
     }
