@@ -5,7 +5,7 @@
     "contenuto": "R15",
     "titolo": "Il giorno dieci",
     "uscito": "2026-10-25T10:02:13.810Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -21,7 +21,7 @@
     "contenuto": "R14",
     "titolo": "Rispondere entro un’ora",
     "uscito": "2026-10-24T09:01:56.352Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 1,
       "comments": 0,
@@ -37,7 +37,7 @@
     "contenuto": "R13",
     "titolo": "A volte diciamo di no",
     "uscito": "2026-10-21T16:32:01.671Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -53,7 +53,7 @@
     "contenuto": "R16",
     "titolo": "Quale testo si legge",
     "uscito": "2026-10-18T09:00:46.326Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -65,11 +65,27 @@
   },
   {
     "canale": "facebook",
+    "bufferId": "6ad120a7180e27ff0b098f37",
+    "contenuto": "R06",
+    "titolo": "Quale homepage",
+    "uscito": "2026-10-29T17:31:36.677Z",
+    "aggiornato": "2026-10-29T17:32:58.538Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    }
+  },
+  {
+    "canale": "facebook",
     "bufferId": "6ad120a64313e4161eae6fd7",
     "contenuto": "R08",
     "titolo": "Da zero a online",
     "uscito": "2026-10-22T16:31:41.509Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -85,7 +101,7 @@
     "contenuto": "R04",
     "titolo": "Tre secondi su mobile",
     "uscito": "2026-10-20T16:31:49.388Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -101,7 +117,7 @@
     "contenuto": "R05",
     "titolo": "Quanto costa un sito",
     "uscito": "2026-10-15T16:31:13.322Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -117,7 +133,7 @@
     "contenuto": "C01",
     "titolo": "Prova con il pollice · analisi gratuita",
     "uscito": "2026-10-14T10:30:39.965Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -133,7 +149,7 @@
     "contenuto": "R07",
     "titolo": "Cosa significa GEO",
     "uscito": "2026-10-27T17:31:44.144Z",
-    "aggiornato": "2026-10-28T10:57:26.725Z",
+    "aggiornato": "2026-10-29T09:57:37.953Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -149,7 +165,7 @@
     "contenuto": "P11",
     "titolo": "Dieci Anni",
     "uscito": "2026-10-26T11:31:07.165Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -165,7 +181,7 @@
     "contenuto": null,
     "titolo": "Quanto dovrebbe costare un sito?\n\nNon esiste una cifra giust",
     "uscito": "2026-10-09T16:00:13.546Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -181,7 +197,7 @@
     "contenuto": "R35",
     "titolo": "Distanza zero",
     "uscito": "2026-10-11T09:01:10.404Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -197,7 +213,7 @@
     "contenuto": "R10",
     "titolo": "Prima e dopo",
     "uscito": "2026-10-10T09:01:02.722Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -213,7 +229,7 @@
     "contenuto": "P05",
     "titolo": "Tip Visite",
     "uscito": "2026-10-12T10:30:51.850Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -229,7 +245,7 @@
     "contenuto": "P10",
     "titolo": "Carosello Dieci Giorni",
     "uscito": "2026-10-07T17:30:16.415Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -261,7 +277,7 @@
     "contenuto": "R03",
     "titolo": "Il bottone",
     "uscito": "2026-10-13T16:31:43.559Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -277,7 +293,7 @@
     "contenuto": "R02",
     "titolo": "Quale bottone",
     "uscito": "2026-10-08T16:30:45.602Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -293,7 +309,7 @@
     "contenuto": "P09",
     "titolo": "CRM",
     "uscito": "2026-10-19T10:30:52.344Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -309,7 +325,7 @@
     "contenuto": "P08",
     "titolo": "AI Mestiere",
     "uscito": "2026-10-16T10:30:54.541Z",
-    "aggiornato": "2026-10-28T10:57:26.726Z",
+    "aggiornato": "2026-10-29T09:57:37.954Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -373,7 +389,7 @@
     "contenuto": "R15",
     "titolo": "Il giorno dieci",
     "uscito": "2026-10-25T10:02:23.036Z",
-    "aggiornato": "2026-10-28T16:11:01.499Z",
+    "aggiornato": "2026-10-29T16:11:13.728Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -389,7 +405,7 @@
     "contenuto": "R14",
     "titolo": "Rispondere entro un’ora",
     "uscito": "2026-10-24T09:02:02.965Z",
-    "aggiornato": "2026-10-28T16:11:01.533Z",
+    "aggiornato": "2026-10-29T16:11:13.730Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -405,7 +421,7 @@
     "contenuto": "R13",
     "titolo": "A volte diciamo di no",
     "uscito": "2026-10-21T16:32:02.889Z",
-    "aggiornato": "2026-10-28T16:11:01.517Z",
+    "aggiornato": "2026-10-29T16:11:13.737Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -421,7 +437,7 @@
     "contenuto": "R16",
     "titolo": "Quale testo si legge",
     "uscito": "2026-10-18T09:00:54.413Z",
-    "aggiornato": "2026-10-28T16:11:01.503Z",
+    "aggiornato": "2026-10-29T16:11:13.770Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -433,11 +449,27 @@
   },
   {
     "canale": "linkedin",
+    "bufferId": "6ad120a888872628bd7babfd",
+    "contenuto": "R06",
+    "titolo": "Quale homepage",
+    "uscito": "2026-10-29T17:31:41.408Z",
+    "aggiornato": "2026-10-15T18:51:20.256Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
     "bufferId": "6ad120a6180e27ff0b098ef1",
     "contenuto": "R08",
     "titolo": "Da zero a online",
     "uscito": "2026-10-22T16:31:50.675Z",
-    "aggiornato": "2026-10-28T16:11:01.519Z",
+    "aggiornato": "2026-10-29T16:11:13.724Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -453,7 +485,7 @@
     "contenuto": "R04",
     "titolo": "Tre secondi su mobile",
     "uscito": "2026-10-20T16:31:54.189Z",
-    "aggiornato": "2026-10-28T16:11:01.553Z",
+    "aggiornato": "2026-10-29T16:11:13.726Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -469,7 +501,7 @@
     "contenuto": "R05",
     "titolo": "Quanto costa un sito",
     "uscito": "2026-10-15T16:31:16.984Z",
-    "aggiornato": "2026-10-28T16:11:01.527Z",
+    "aggiornato": "2026-10-29T16:11:13.736Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -485,7 +517,7 @@
     "contenuto": "C01",
     "titolo": "Prova con il pollice · analisi gratuita",
     "uscito": "2026-10-14T10:30:36.048Z",
-    "aggiornato": "2026-10-28T16:11:01.542Z",
+    "aggiornato": "2026-10-29T16:11:13.732Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -504,7 +536,7 @@
     "contenuto": "R07",
     "titolo": "Cosa significa GEO",
     "uscito": "2026-10-27T17:31:48.619Z",
-    "aggiornato": "2026-10-28T16:11:01.551Z",
+    "aggiornato": "2026-10-29T16:11:13.718Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -520,7 +552,7 @@
     "contenuto": "P11",
     "titolo": "Dieci Anni",
     "uscito": "2026-10-26T11:31:15.432Z",
-    "aggiornato": "2026-10-28T16:11:01.522Z",
+    "aggiornato": "2026-10-29T16:11:13.716Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -536,7 +568,7 @@
     "contenuto": null,
     "titolo": "Quanto dovrebbe costare un sito?\n\nNessuna cifra vale per tut",
     "uscito": "2026-10-09T16:00:28.708Z",
-    "aggiornato": "2026-10-28T16:11:01.537Z",
+    "aggiornato": "2026-10-29T16:11:13.722Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -552,7 +584,7 @@
     "contenuto": "R35",
     "titolo": "Distanza zero",
     "uscito": "2026-10-11T09:01:20.667Z",
-    "aggiornato": "2026-10-28T16:11:01.561Z",
+    "aggiornato": "2026-10-29T16:11:13.744Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -571,7 +603,7 @@
     "contenuto": "R10",
     "titolo": "Prima e dopo",
     "uscito": "2026-10-10T09:01:13.015Z",
-    "aggiornato": "2026-10-28T16:11:01.525Z",
+    "aggiornato": "2026-10-29T16:11:13.748Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -587,7 +619,7 @@
     "contenuto": "P10",
     "titolo": "Carosello Dieci Giorni",
     "uscito": "2026-10-07T17:30:26.960Z",
-    "aggiornato": "2026-10-28T16:11:01.502Z",
+    "aggiornato": "2026-10-29T16:11:13.714Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -603,7 +635,7 @@
     "contenuto": "P05",
     "titolo": "Tip Visite",
     "uscito": "2026-10-12T10:30:42.550Z",
-    "aggiornato": "2026-10-28T16:11:01.508Z",
+    "aggiornato": "2026-10-29T16:11:13.774Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -635,7 +667,7 @@
     "contenuto": "R03",
     "titolo": "Il bottone",
     "uscito": "2026-10-13T16:30:59.887Z",
-    "aggiornato": "2026-10-28T16:11:01.507Z",
+    "aggiornato": "2026-10-29T16:11:13.739Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -651,7 +683,7 @@
     "contenuto": "R02",
     "titolo": "Quale bottone",
     "uscito": "2026-10-08T16:30:52.628Z",
-    "aggiornato": "2026-10-28T16:11:01.520Z",
+    "aggiornato": "2026-10-29T16:11:13.777Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -667,7 +699,7 @@
     "contenuto": "P09",
     "titolo": "CRM",
     "uscito": "2026-10-19T10:30:46.908Z",
-    "aggiornato": "2026-10-28T16:11:01.511Z",
+    "aggiornato": "2026-10-29T16:11:13.768Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -683,7 +715,7 @@
     "contenuto": "P08",
     "titolo": "AI Mestiere",
     "uscito": "2026-10-16T10:30:53.580Z",
-    "aggiornato": "2026-10-28T16:11:01.529Z",
+    "aggiornato": "2026-10-29T16:11:13.746Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -699,7 +731,7 @@
     "contenuto": null,
     "titolo": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
     "uscito": "2026-10-06T10:30:27.622Z",
-    "aggiornato": "2026-10-28T16:11:01.505Z",
+    "aggiornato": "2026-10-29T16:11:13.741Z",
     "metriche": {
       "reactions": 1,
       "comments": 0,
@@ -715,7 +747,7 @@
     "contenuto": null,
     "titolo": "Una bottega. Non un'agenzia.\n\nDieci Bottega nasce a Bologna ",
     "uscito": "2026-10-05T06:30:43.574Z",
-    "aggiornato": "2026-10-28T16:11:01.524Z",
+    "aggiornato": "2026-10-29T16:11:13.765Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -731,17 +763,17 @@
     "contenuto": "R15",
     "titolo": "Il giorno dieci",
     "uscito": "2026-10-25T10:03:29.430Z",
-    "aggiornato": "2026-10-28T14:38:27.588Z",
+    "aggiornato": "2026-10-29T14:38:37.670Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 40,
-      "views": 7,
+      "engagementRate": 33.33,
+      "views": 8,
       "shares": 0,
       "saves": 0,
-      "totalTimeWatched": 0.24,
-      "averageTimeWatched": 2.83,
-      "reach": 5
+      "totalTimeWatched": 0.38,
+      "averageTimeWatched": 3.82,
+      "reach": 6
     }
   },
   {
@@ -750,17 +782,17 @@
     "contenuto": "R14",
     "titolo": "Rispondere entro un’ora",
     "uscito": "2026-10-24T09:03:41.212Z",
-    "aggiornato": "2026-10-28T14:38:27.586Z",
+    "aggiornato": "2026-10-29T14:38:37.616Z",
     "metriche": {
       "reactions": 1,
       "comments": 0,
-      "engagementRate": 0.93,
-      "views": 113,
+      "engagementRate": 0.92,
+      "views": 114,
       "shares": 0,
       "saves": 0,
-      "totalTimeWatched": 6.92,
-      "averageTimeWatched": 3.88,
-      "reach": 108
+      "totalTimeWatched": 6.95,
+      "averageTimeWatched": 3.86,
+      "reach": 109
     }
   },
   {
@@ -769,17 +801,17 @@
     "contenuto": "R13",
     "titolo": "A volte diciamo di no",
     "uscito": "2026-10-21T16:33:12.428Z",
-    "aggiornato": "2026-10-28T14:38:27.603Z",
+    "aggiornato": "2026-10-29T14:38:37.677Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 16.67,
-      "views": 16,
+      "engagementRate": 15.38,
+      "views": 17,
       "shares": 0,
       "saves": 0,
       "totalTimeWatched": 0.39,
-      "averageTimeWatched": 1.79,
-      "reach": 12
+      "averageTimeWatched": 1.69,
+      "reach": 13
     }
   },
   {
@@ -788,18 +820,27 @@
     "contenuto": "R16",
     "titolo": "Quale testo si legge",
     "uscito": "2026-10-18T09:01:42.477Z",
-    "aggiornato": "2026-10-28T14:38:27.573Z",
+    "aggiornato": "2026-10-29T14:38:37.652Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 25,
-      "views": 11,
+      "engagementRate": 22.22,
+      "views": 12,
       "shares": 0,
       "saves": 0,
       "totalTimeWatched": 0.28,
-      "averageTimeWatched": 1.84,
-      "reach": 8
+      "averageTimeWatched": 1.7,
+      "reach": 9
     }
+  },
+  {
+    "canale": "instagram",
+    "bufferId": "6ad120a7f06f0ba71678587e",
+    "contenuto": "R06",
+    "titolo": "Quale homepage",
+    "uscito": "2026-10-29T17:32:47.816Z",
+    "aggiornato": "2026-10-15T18:51:19.439Z",
+    "metriche": {}
   },
   {
     "canale": "instagram",
@@ -807,17 +848,17 @@
     "contenuto": "R08",
     "titolo": "Da zero a online",
     "uscito": "2026-10-22T16:33:24.909Z",
-    "aggiornato": "2026-10-28T14:38:27.575Z",
+    "aggiornato": "2026-10-29T14:38:37.648Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 33.33,
-      "views": 11,
+      "engagementRate": 28.57,
+      "views": 12,
       "shares": 0,
       "saves": 0,
-      "totalTimeWatched": 0.18,
+      "totalTimeWatched": 0.21,
       "averageTimeWatched": 1.55,
-      "reach": 6
+      "reach": 7
     }
   },
   {
@@ -841,17 +882,17 @@
     "contenuto": "R04",
     "titolo": "Tre secondi su mobile",
     "uscito": "2026-10-20T16:32:36.749Z",
-    "aggiornato": "2026-10-28T14:38:27.595Z",
+    "aggiornato": "2026-10-29T14:38:37.654Z",
     "metriche": {
       "reactions": 3,
       "comments": 0,
-      "engagementRate": 21.43,
-      "views": 18,
+      "engagementRate": 20,
+      "views": 19,
       "shares": 0,
       "saves": 0,
-      "totalTimeWatched": 0.74,
-      "averageTimeWatched": 3.16,
-      "reach": 14
+      "totalTimeWatched": 0.75,
+      "averageTimeWatched": 3.02,
+      "reach": 15
     }
   },
   {
@@ -860,17 +901,17 @@
     "contenuto": "R05",
     "titolo": "Quanto costa un sito",
     "uscito": "2026-10-15T16:32:06.420Z",
-    "aggiornato": "2026-10-28T14:38:27.571Z",
+    "aggiornato": "2026-10-29T14:38:37.675Z",
     "metriche": {
       "reactions": 3,
       "comments": 0,
-      "engagementRate": 25,
-      "views": 23,
+      "engagementRate": 23.53,
+      "views": 24,
       "shares": 1,
       "saves": 0,
-      "totalTimeWatched": 1.14,
-      "averageTimeWatched": 3.81,
-      "reach": 16
+      "totalTimeWatched": 1.15,
+      "averageTimeWatched": 3.63,
+      "reach": 17
     }
   },
   {
@@ -879,17 +920,17 @@
     "contenuto": "C01",
     "titolo": "Prova con il pollice · analisi gratuita",
     "uscito": "2026-10-14T10:31:14.959Z",
-    "aggiornato": "2026-10-28T14:38:27.554Z",
+    "aggiornato": "2026-10-29T14:38:37.635Z",
     "metriche": {
       "reactions": 3,
       "comments": 0,
-      "engagementRate": 23.08,
-      "views": 25,
+      "engagementRate": 21.43,
+      "views": 26,
       "shares": 0,
       "saves": 0,
       "totalTimeWatched": 2.61,
-      "averageTimeWatched": 7.83,
-      "reach": 13
+      "averageTimeWatched": 7.46,
+      "reach": 14
     }
   },
   {
@@ -898,17 +939,17 @@
     "contenuto": "R07",
     "titolo": "Cosa significa GEO",
     "uscito": "2026-10-27T17:33:06.497Z",
-    "aggiornato": "2026-10-28T14:38:27.559Z",
+    "aggiornato": "2026-10-29T14:38:37.641Z",
     "metriche": {
       "reactions": 1,
       "comments": 0,
-      "engagementRate": 33.33,
-      "views": 6,
+      "engagementRate": 20,
+      "views": 7,
       "shares": 0,
       "saves": 0,
-      "totalTimeWatched": 0.61,
-      "averageTimeWatched": 9.09,
-      "reach": 3
+      "totalTimeWatched": 0.62,
+      "averageTimeWatched": 7.38,
+      "reach": 5
     }
   },
   {
@@ -917,16 +958,16 @@
     "contenuto": "P11",
     "titolo": "Dieci Anni",
     "uscito": "2026-10-26T11:32:04.103Z",
-    "aggiornato": "2026-10-28T14:38:27.601Z",
+    "aggiornato": "2026-10-29T14:38:37.673Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 40,
-      "views": 12,
+      "engagementRate": 33.33,
+      "views": 13,
       "shares": 0,
       "saves": 0,
       "follows": 0,
-      "reach": 5
+      "reach": 6
     }
   },
   {
@@ -950,16 +991,16 @@
     "contenuto": null,
     "titolo": "Nessuna risposta vale per tutti. Ma ci sono domande che valg",
     "uscito": "2026-10-09T16:02:55.253Z",
-    "aggiornato": "2026-10-28T14:38:27.584Z",
+    "aggiornato": "2026-10-29T14:38:37.659Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 40,
-      "views": 17,
+      "engagementRate": 33.33,
+      "views": 18,
       "shares": 0,
       "saves": 0,
       "follows": 0,
-      "reach": 5
+      "reach": 6
     }
   },
   {
@@ -968,17 +1009,17 @@
     "contenuto": "R35",
     "titolo": "Distanza zero",
     "uscito": "2026-10-11T09:03:02.243Z",
-    "aggiornato": "2026-10-28T14:38:27.541Z",
+    "aggiornato": "2026-10-29T14:38:37.681Z",
     "metriche": {
       "reactions": 1,
       "comments": 0,
-      "engagementRate": 11.11,
+      "engagementRate": 10,
       "views": 13,
       "shares": 0,
       "saves": 0,
       "totalTimeWatched": 0.9,
       "averageTimeWatched": 4.92,
-      "reach": 9
+      "reach": 10
     }
   },
   {
@@ -987,7 +1028,7 @@
     "contenuto": "R10",
     "titolo": "Prima e dopo",
     "uscito": "2026-10-10T09:01:54.212Z",
-    "aggiornato": "2026-10-28T14:38:27.565Z",
+    "aggiornato": "2026-10-29T14:38:37.655Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -997,7 +1038,7 @@
       "saves": 0,
       "totalTimeWatched": 0.5,
       "averageTimeWatched": 3.35,
-      "reach": 5
+      "reach": 6
     }
   },
   {
@@ -1021,17 +1062,17 @@
     "contenuto": "R02",
     "titolo": "Quale bottone",
     "uscito": "2026-10-08T16:46:05.401Z",
-    "aggiornato": "2026-10-28T14:38:27.569Z",
+    "aggiornato": "2026-10-29T14:38:37.650Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 12.5,
+      "engagementRate": 12,
       "views": 32,
       "shares": 0,
       "saves": 0,
       "totalTimeWatched": 2.32,
       "averageTimeWatched": 4.79,
-      "reach": 24
+      "reach": 25
     }
   },
   {
@@ -1040,16 +1081,16 @@
     "contenuto": "P09",
     "titolo": "CRM",
     "uscito": "2026-10-19T10:31:53.552Z",
-    "aggiornato": "2026-10-28T14:38:27.561Z",
+    "aggiornato": "2026-10-29T14:38:37.664Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 50,
-      "views": 9,
+      "engagementRate": 40,
+      "views": 10,
       "shares": 0,
       "saves": 0,
       "follows": 0,
-      "reach": 4
+      "reach": 5
     }
   },
   {
@@ -1058,17 +1099,17 @@
     "contenuto": "R03",
     "titolo": "Il bottone",
     "uscito": "2026-10-13T16:33:08.613Z",
-    "aggiornato": "2026-10-28T14:38:27.567Z",
+    "aggiornato": "2026-10-29T14:38:37.646Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 18.75,
+      "engagementRate": 17.65,
       "views": 19,
       "shares": 0,
       "saves": 0,
       "totalTimeWatched": 1.71,
       "averageTimeWatched": 5.7,
-      "reach": 16
+      "reach": 17
     }
   },
   {
@@ -1077,16 +1118,16 @@
     "contenuto": "P08",
     "titolo": "AI Mestiere",
     "uscito": "2026-10-16T10:31:51.349Z",
-    "aggiornato": "2026-10-28T14:38:27.605Z",
+    "aggiornato": "2026-10-29T14:38:37.639Z",
     "metriche": {
       "reactions": 3,
       "comments": 0,
-      "engagementRate": 60,
-      "views": 11,
+      "engagementRate": 50,
+      "views": 12,
       "shares": 0,
       "saves": 0,
       "follows": 0,
-      "reach": 5
+      "reach": 6
     }
   },
   {
@@ -1095,16 +1136,16 @@
     "contenuto": "P05",
     "titolo": "Tip Visite",
     "uscito": "2026-10-12T10:31:30.137Z",
-    "aggiornato": "2026-10-28T14:38:27.557Z",
+    "aggiornato": "2026-10-29T14:38:37.620Z",
     "metriche": {
       "reactions": 3,
       "comments": 0,
-      "engagementRate": 80,
-      "views": 17,
+      "engagementRate": 66.67,
+      "views": 18,
       "shares": 1,
       "saves": 0,
       "follows": 0,
-      "reach": 5
+      "reach": 6
     }
   },
   {
@@ -1113,16 +1154,16 @@
     "contenuto": "P10",
     "titolo": "Carosello Dieci Giorni",
     "uscito": "2026-10-07T17:31:08.665Z",
-    "aggiornato": "2026-10-28T14:38:27.590Z",
+    "aggiornato": "2026-10-29T14:38:37.662Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 33.33,
-      "views": 16,
+      "engagementRate": 30,
+      "views": 17,
       "shares": 0,
       "saves": 0,
       "follows": 0,
-      "reach": 9
+      "reach": 10
     }
   },
   {
@@ -1155,16 +1196,16 @@
     "contenuto": null,
     "titolo": "Dieci Bottega è una bottega digitale di Bologna.\nSiamo in du",
     "uscito": "2026-10-05T12:29:20.000Z",
-    "aggiornato": "2026-10-28T14:38:27.598Z",
+    "aggiornato": "2026-10-29T14:38:37.657Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 25,
-      "views": 46,
+      "engagementRate": 23.08,
+      "views": 47,
       "shares": 0,
       "saves": 0,
       "follows": 0,
-      "reach": 12
+      "reach": 13
     }
   },
   {
@@ -1173,17 +1214,17 @@
     "contenuto": null,
     "titolo": "Al prezzo di un template, con la cura di un’agenzia.\n\nDieci ",
     "uscito": "2026-10-06T16:32:35.854Z",
-    "aggiornato": "2026-10-28T14:38:27.581Z",
+    "aggiornato": "2026-10-29T14:38:37.645Z",
     "metriche": {
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 16,
-      "views": 36,
+      "engagementRate": 15.38,
+      "views": 37,
       "shares": 0,
       "saves": 0,
-      "totalTimeWatched": 3,
-      "averageTimeWatched": 5.62,
-      "reach": 25
+      "totalTimeWatched": 3.01,
+      "averageTimeWatched": 5.48,
+      "reach": 26
     }
   },
   {

@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 29/10/2026, 20:50:54
+Ultimo controllo: 29/10/2026, 22:48:55
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -42,7 +42,7 @@ Ultimo controllo: 29/10/2026, 20:50:54
 
 ### facebook
 
-- 30/10/26, 18:30 · 
+- 30/10/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: i giorni dal brief al sito onli
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Scriv
 - 01/11/26, 11:00 · Non solo siti. Facciamo anche CRM su misura e automazioni per le attiv
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o bloc
@@ -51,11 +51,11 @@ Ultimo controllo: 29/10/2026, 20:50:54
 - 10/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
 - 12/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
 - 14/11/26, 11:00 · Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa deci
-- 15/11/26, 11:00 · 
+- 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
 
 ### linkedin
 
-- 30/10/26, 18:30 · 
+- 30/10/26, 18:30 · Perché ci chiamiamo Dieci Bottega. Dieci, come i giorni dal brief al s
 - 31/10/26, 11:00 · Su una pagina web lo sguardo disegna una F: due passate orizzontali in
 - 01/11/26, 11:00 · Una bottega, tre mestieri: Siti: trovati su Google, aggiornabili dal c
 - 03/11/26, 18:30 · Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad 
@@ -64,11 +64,11 @@ Ultimo controllo: 29/10/2026, 20:50:54
 - 10/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
 - 12/11/26, 18:30 · "Se il sito è un po' lento, perdo solo qualche visita." Falso. Su mobi
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
-- 15/11/26, 11:00 · 
+- 15/11/26, 11:00 · Un'animazione che non serve la storia è solo un effetto. Ed è quello c
 
 ### instagram
 
-- 30/10/26, 18:30 · 
+- 30/10/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: dieci giorni dal brief al sito 
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Rispo
 - 01/11/26, 11:00 · Non solo siti. Tre mestieri, una bottega. Siti trovati su Google e agg
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
@@ -77,7 +77,7 @@ Ultimo controllo: 29/10/2026, 20:50:54
 - 10/11/26, 18:30 · Pagina "Chi siamo": quale foto scegli? A o B nei commenti. Le persone 
 - 12/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
 - 14/11/26, 11:00 · Quale menu ti fa decidere prima? A o B nei commenti. Più scelte, più t
-- 15/11/26, 11:00 · 
+- 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
 
 
 ## Ultime sostituzioni automatiche
