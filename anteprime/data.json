@@ -1,43 +1,12 @@
 {
- "aggiornato": "2026-10-28T19:52+00:00",
+ "aggiornato": "2026-10-29T19:51+00:00",
  "contenuti": [
-  {
-   "id": "R06",
-   "titolo": "Quale homepage",
-   "tipo": "reel",
-   "quando": "2026-10-29 18:30",
-   "dueAt": "2026-10-29T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R06_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06c.mp4",
-   "durata": 30,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "P06",
    "titolo": "Reel Dettaglio",
    "tipo": "reel",
-   "quando": "2026-10-30 18:30",
-   "dueAt": "2026-10-30T17:30:00.000Z",
+   "quando": "2026-11-05 18:30",
+   "dueAt": "2026-11-05T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -231,8 +200,8 @@
    "id": "R23",
    "titolo": "Perche Bottega",
    "tipo": "reel",
-   "quando": "2026-11-05 18:30",
-   "dueAt": "2026-11-05T17:30:00.000Z",
+   "quando": "2026-10-30 18:30",
+   "dueAt": "2026-10-30T17:30:00.000Z",
    "slide": [],
    "poster": "img/R23_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
@@ -549,19 +518,19 @@
    "durata": 25,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\nIl movimento ha tre regole: rapido, deciso, mai gratuito. Ogni transizione sta tra 150 e 400 millisecondi. Oltre, l'occhio percepisce lentezza. Sotto, l'animazione sparisce. — Lorenzo\n#motiondesign #webdesign #dettagli #bottegadigitale #ux",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto.\n\nLe nostre regole: rapido, deciso, mai gratuito. Tra 150 e 400 millisecondi. — Lorenzo",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\n\nIl movimento, nei nostri siti, ha tre regole: rapido, deciso, mai gratuito.\n\nOgni transizione sta tra 150 e 400 millisecondi. Sotto, l'animazione sparisce e non aiuta. Sopra, l'occhio la percepisce come lentezza.\n\nÈ un dettaglio che il cliente non nota mai. Nota solo che il sito \"sembra veloce\".\n\n— Lorenzo, design e codice\n\n#MotionDesign #UX #WebDesign",
      "formato": "video",
      "errore": null
@@ -1400,6 +1369,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Vero. Si chiama mobile-first indexing: Google usa la versione mobile di un sito per indicizzarlo e posizionarlo. (Google Search Central)\n\nSe il sito da telefono è una versione ridotta, lenta o con contenuti nascosti, per Google quello è il tuo sito.\n\nIl controllo più utile che puoi fare oggi dura un minuto: apri il tuo sito dal telefono e cerca quello che cercherebbe un cliente.\n\n#SEO #MobileFirst #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R55",
+   "titolo": "Basta Instagram",
+   "tipo": "reel",
+   "quando": "2026-12-13 11:00",
+   "dueAt": "2026-12-13T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R55_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R55.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Basta Instagram?\nNel 2025 il 76,5% delle imprese italiane ha un sito, il 59% usa i social (fonte: Istat). Instagram è un profilo. Il sito è casa tua: un sito che ti fa prendere sul serio, trovato su Google, aggiornabile da te.\n#instagram #sitiweb #pmiitaliane #istat #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Basta Instagram per un'attività?\n\nInstagram è un profilo, il sito è casa tua. Chi ti cerca su Google deve trovarti lì, non solo sui social.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle imprese italiane con almeno 10 addetti ha un sito, mentre il 59% usa i social. (Istat)\n\nInstagram è un profilo: le regole le decide la piattaforma, e chi ti cerca su Google non ti trova lì. Il sito è casa tua: trovato su Google, aggiornabile da te, con i tuoi contenuti e i tuoi contatti.\n\nI social portano persone. Il sito le fa diventare clienti.\n\n#Instagram #SitiWeb #PMI",
      "formato": "video",
      "errore": null
     }
