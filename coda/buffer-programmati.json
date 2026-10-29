@@ -1,17 +1,6 @@
 {
   "facebook": [
     {
-      "id": "6ad120a7180e27ff0b098f37",
-      "dueAt": "2026-10-29T17:30:00.000Z",
-      "text": "Una ciclofficina di Bologna, due homepage. Quale funziona meglio, A o B?\n\nLa regola è semplice: chi sei, cosa fai, come contattarti. Subito, senza scorrere. Vota nei commenti.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06c.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ad49443ae173d6e00f5727a",
       "dueAt": "2026-10-31T10:00:00.000Z",
       "text": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\n\nScrivi la lettera nei commenti, poi guarda il video.",
@@ -40,17 +29,6 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ad922bd74b7720f7e7f45bd",
-      "dueAt": "2026-11-05T17:30:00.000Z",
-      "text": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
           "tipo": "video/mp4"
         }
       ]
@@ -113,17 +91,6 @@
   ],
   "linkedin": [
     {
-      "id": "6ad120a888872628bd7babfd",
-      "dueAt": "2026-10-29T17:30:00.000Z",
-      "text": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nLa prima schermata deve rispondere a tre domande senza che nessuno scorra: chi sei, cosa fai, come contattarti.\n\nIl motivo è nei dati: il 57% del tempo di lettura si passa nella parte della pagina visibile senza scorrere (Nielsen Norman Group). Se lì c'è solo \"Benvenuti\" e una foto, metà dell'attenzione è sprecata.\n\nGuarda la prima schermata del tuo sito da telefono. Risponde a tutte e tre?\n\n#UX #Homepage #PMI",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06c.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ad49444938409f1d0c47034",
       "dueAt": "2026-10-31T10:00:00.000Z",
       "text": "Su una pagina web lo sguardo disegna una F: due passate orizzontali in alto, poi giù lungo il lato sinistro.\n\nL'ha scoperto Nielsen Norman Group con l'eyetracking su 232 persone, nel 2006, e lo ha confermato negli anni.\n\nConseguenza pratica: le informazioni importanti vanno in alto e all'inizio delle righe. Se il numero di telefono è in fondo a destra, per molti visitatori non esiste.\n\n#UX #WebDesign #PMI",
@@ -152,17 +119,6 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ad922bee9da4e3dfa744dcd",
-      "dueAt": "2026-11-05T17:30:00.000Z",
-      "text": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
           "tipo": "video/mp4"
         }
       ]
@@ -225,17 +181,6 @@
   ],
   "instagram": [
     {
-      "id": "6ad120a7f06f0ba71678587e",
-      "dueAt": "2026-10-29T17:30:00.000Z",
-      "text": "Quale homepage funziona meglio?\n\nDue versioni, una sola funziona meglio.\n\nTu quale sceglieresti, A o B? Scrivilo nei commenti, poi guarda la risposta nel video.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi una homepage che lavora.\n\nFonte: Nielsen Norman Group, 2018\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #uxdesign #uidesign #dettagli",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R06c.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ad49443ae173d6e00f57246",
       "dueAt": "2026-10-31T10:00:00.000Z",
       "text": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\nRispondi nei commenti prima del reveal. L'hanno scoperto con l'eyetracking su 232 persone (fonte: Nielsen Norman Group).\n#ux #webdesign #eyetracking #sitiweb #pmiitaliane",
@@ -264,17 +209,6 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ad922bdeadb8f48c122f9a6",
-      "dueAt": "2026-11-05T17:30:00.000Z",
-      "text": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
           "tipo": "video/mp4"
         }
       ]
