@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6ae50c7aeaa24d6f9a3e1064",
+        "dueAt": "2026-11-17T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Chiudere il banner dei cookie con la X non significa accetta",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae50c79406ab8a0188374c6",
+        "dueAt": "2026-11-17T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Vero o falso: \"Se chiudi il banner dei cookie con la X, li a",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae50c79406ab8a01883748e",
+        "dueAt": "2026-11-17T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Vero o falso: \"Se chiudi il banner con la X, accetti i cooki",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6ae3a39ea50b3f7a4193a3f8",
         "dueAt": "2026-11-15T10:00:00.000Z",
         "sentAt": null,
@@ -631,45 +670,6 @@
         "sentAt": null,
         "text": "Lezione della settimana: un'animazione che non serve la stor",
         "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae3a39c1026f5c4e0c05d06",
-        "dueAt": "2026-10-30T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae3a39ba50b3f7a41939da7",
-        "dueAt": "2026-10-30T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brie",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae3a39b98c11c76e3762f81",
-        "dueAt": "2026-10-30T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief a",
-        "channelService": "facebook",
         "error": null,
         "notificationStatus": null,
         "schedulingType": "automatic",
@@ -992,6 +992,45 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6ae3a39c1026f5c4e0c05d06",
+        "dueAt": "2026-10-30T17:30:00.000Z",
+        "sentAt": "2026-10-30T17:31:08.121Z",
+        "text": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae3a39ba50b3f7a41939da7",
+        "dueAt": "2026-10-30T17:30:00.000Z",
+        "sentAt": "2026-10-30T17:32:02.412Z",
+        "text": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brie",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae3a39b98c11c76e3762f81",
+        "dueAt": "2026-10-30T17:30:00.000Z",
+        "sentAt": "2026-10-30T17:31:01.289Z",
+        "text": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief a",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6ad3c599ae173d6e00cd1866",
         "dueAt": "2026-10-25T10:00:00.000Z",
@@ -1342,52 +1381,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ace9d83164ed31ea455f91a",
-        "dueAt": "2026-10-14T10:30:00.000Z",
-        "sentAt": "2026-10-14T10:30:39.965Z",
-        "text": "Fai la prova: tieni il telefono con una mano e allunga il po",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6aca1de7f91f772d458f19c3",
-        "dueAt": "2026-10-27T17:30:00.000Z",
-        "sentAt": "2026-10-27T17:31:44.144Z",
-        "text": "Cosa significa GEO? Te lo diciamo senza giri di parole: è co",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6aca1de7b07d37ac976df660",
-        "dueAt": "2026-10-27T17:30:00.000Z",
-        "sentAt": "2026-10-27T17:31:48.619Z",
-        "text": "GEO sta per Generative Engine Optimization: l'insieme di acc",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Thu, 29 Oct 2026 19:53:51 GMT 2888614",
-    "media/reel/R07.mp4": "200 Thu, 29 Oct 2026 19:53:50 GMT 3173777",
-    "index.html": "200 Thu, 29 Oct 2026 19:53:51 GMT 104461"
+    "media/reel/R02.mp4": "200 Fri, 30 Oct 2026 19:52:45 GMT 2888614",
+    "media/reel/R07.mp4": "200 Fri, 30 Oct 2026 19:52:46 GMT 3173777",
+    "index.html": "200 Fri, 30 Oct 2026 19:52:46 GMT 104461"
   }
 }

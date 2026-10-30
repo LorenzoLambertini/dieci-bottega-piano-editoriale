@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 30/10/2026, 12:26:47
+Ultimo controllo: 30/10/2026, 22:30:35
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -18,7 +18,6 @@ Ultimo controllo: 30/10/2026, 12:26:47
 | 2026-11-02 18:30 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
 | 2026-11-03 18:30 | R09 | La X dei cookie | programmato | programmato | programmato |
 | 2026-11-04 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
-| 2026-10-30 18:30 | R23 | Perche Bottega | programmato | programmato | programmato |
 | 2026-11-06 18:30 | S03 | Il passaparola non basta | manca_video | manca_video | manca_video |
 | 2026-11-07 11:00 | R19 | Quante imprese hanno un sito | programmato | programmato | programmato |
 | 2026-11-08 11:00 | R20 | Chi c’e dietro | programmato | programmato | programmato |
@@ -30,19 +29,19 @@ Ultimo controllo: 30/10/2026, 12:26:47
 | 2026-11-14 11:00 | R21 | Quale menu | programmato | programmato | programmato |
 | 2026-11-15 11:00 | R25 | Solo un effetto | programmato | programmato | programmato |
 | 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
-| 2026-11-17 18:30 | R22 | La X accetta i cookie | da_programmare | da_programmare | da_programmare |
+| 2026-11-17 18:30 | R22 | La X accetta i cookie | programmato | programmato | programmato |
 | 2026-11-18 18:30 | S08 | Cosa c'è in 800 € | manca_video | manca_video | manca_video |
 | 2026-11-19 18:30 | R24 | Il tempo LCP | da_programmare | da_programmare | da_programmare |
 | 2026-11-20 18:30 | S09 | Le 5 domande | manca_video | manca_video | manca_video |
 | 2026-11-21 11:00 | R26 | Mentre carica | da_programmare | da_programmare | da_programmare |
 | 2026-11-22 11:00 | R28 | Quando ci scrivi | da_programmare | da_programmare | da_programmare |
 | 2026-11-23 18:30 | S10 | Sito del lunedì: audit su richiesta | manca_video | manca_video | manca_video |
+| 2026-11-24 18:30 | R27 | Il ranking locale | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 30/10/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: i giorni dal brief al sito onli
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Scriv
 - 01/11/26, 11:00 · Non solo siti. Facciamo anche CRM su misura e automazioni per le attiv
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o bloc
@@ -52,10 +51,10 @@ Ultimo controllo: 30/10/2026, 12:26:47
 - 12/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
 - 14/11/26, 11:00 · Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa deci
 - 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
+- 17/11/26, 18:30 · 
 
 ### linkedin
 
-- 30/10/26, 18:30 · Perché ci chiamiamo Dieci Bottega. Dieci, come i giorni dal brief al s
 - 31/10/26, 11:00 · Su una pagina web lo sguardo disegna una F: due passate orizzontali in
 - 01/11/26, 11:00 · Una bottega, tre mestieri: Siti: trovati su Google, aggiornabili dal c
 - 03/11/26, 18:30 · Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad 
@@ -65,10 +64,10 @@ Ultimo controllo: 30/10/2026, 12:26:47
 - 12/11/26, 18:30 · "Se il sito è un po' lento, perdo solo qualche visita." Falso. Su mobi
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 - 15/11/26, 11:00 · Un'animazione che non serve la storia è solo un effetto. Ed è quello c
+- 17/11/26, 18:30 · 
 
 ### instagram
 
-- 30/10/26, 18:30 · Perché si chiama Dieci Bottega? Dieci: dieci giorni dal brief al sito 
 - 31/10/26, 11:00 · Che forma ha lo sguardo su una pagina web? Una Z, una F o una O? Rispo
 - 01/11/26, 11:00 · Non solo siti. Tre mestieri, una bottega. Siti trovati su Google e agg
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
@@ -78,6 +77,7 @@ Ultimo controllo: 30/10/2026, 12:26:47
 - 12/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
 - 14/11/26, 11:00 · Quale menu ti fa decidere prima? A o B nei commenti. Più scelte, più t
 - 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
+- 17/11/26, 18:30 · 
 
 
 ## Ultime sostituzioni automatiche

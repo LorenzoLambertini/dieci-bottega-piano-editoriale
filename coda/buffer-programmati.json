@@ -1,17 +1,6 @@
 {
   "facebook": [
     {
-      "id": "6ae3a39b98c11c76e3762f81",
-      "dueAt": "2026-10-30T17:30:00.000Z",
-      "text": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ad49443ae173d6e00f5727a",
       "dueAt": "2026-10-31T10:00:00.000Z",
       "text": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\n\nScrivi la lettera nei commenti, poi guarda il video.",
@@ -113,17 +102,6 @@
   ],
   "linkedin": [
     {
-      "id": "6ae3a39c1026f5c4e0c05d06",
-      "dueAt": "2026-10-30T17:30:00.000Z",
-      "text": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ad49444938409f1d0c47034",
       "dueAt": "2026-10-31T10:00:00.000Z",
       "text": "Su una pagina web lo sguardo disegna una F: due passate orizzontali in alto, poi giù lungo il lato sinistro.\n\nL'ha scoperto Nielsen Norman Group con l'eyetracking su 232 persone, nel 2006, e lo ha confermato negli anni.\n\nConseguenza pratica: le informazioni importanti vanno in alto e all'inizio delle righe. Se il numero di telefono è in fondo a destra, per molti visitatori non esiste.\n\n#UX #WebDesign #PMI",
@@ -224,17 +202,6 @@
     }
   ],
   "instagram": [
-    {
-      "id": "6ae3a39ba50b3f7a41939da7",
-      "dueAt": "2026-10-30T17:30:00.000Z",
-      "text": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
     {
       "id": "6ad49443ae173d6e00f57246",
       "dueAt": "2026-10-31T10:00:00.000Z",

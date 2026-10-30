@@ -1420,17 +1420,23 @@
         "instagram": {
           "testo": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
           "video": "media/reel/R22.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ae50c79406ab8a01883748e",
+          "programmatoIl": "2026-10-30T21:30:33.229Z"
         },
         "facebook": {
           "testo": "Vero o falso: \"Se chiudi il banner dei cookie con la X, li accetti.\"\n\nVota qui sotto. La risposta è nel video, insieme a un dettaglio sui cookie tecnici.",
           "video": "media/reel/R22.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ae50c79406ab8a0188374c6",
+          "programmatoIl": "2026-10-30T21:30:33.652Z"
         },
         "linkedin": {
           "testo": "Chiudere il banner dei cookie con la X non significa accettarli: equivale a rifiutare.\n\nE i cookie tecnici, quelli che servono al funzionamento del sito? Quelli non chiedono consenso: basta l'informativa. (Garante Privacy, linee guida e FAQ 2021)\n\nUn banner fatto bene distingue le due cose. Uno fatto male chiede il consenso per tutto, o lo dà per scontato.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
           "video": "media/reel/R22.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ae50c7aeaa24d6f9a3e1064",
+          "programmatoIl": "2026-10-30T21:30:34.290Z"
         }
       }
     },
