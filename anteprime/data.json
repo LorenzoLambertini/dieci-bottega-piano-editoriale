@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-29T19:51+00:00",
+ "aggiornato": "2026-10-30T19:51+00:00",
  "contenuti": [
   {
    "id": "P06",
@@ -191,37 +191,6 @@
     "linkedin": {
      "stato": "manca_video",
      "testo": "Un test da 10 secondi per il sito della tua attività: aprilo da telefono e tocca il numero.\n\nSe parte la chiamata, bene. Se è solo testo, il cliente deve selezionarlo, copiarlo, uscire, aprire il telefono, incollarlo. Cinque passaggi invece di uno.\n\nÈ una riga di codice. Ed è uno dei motivi più frequenti per cui un sito \"ha visite ma nessuno chiama\".\n\n#UX #Mobile #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "R23",
-   "titolo": "Perche Bottega",
-   "tipo": "reel",
-   "quando": "2026-10-30 18:30",
-   "dueAt": "2026-10-30T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R23_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R23.mp4",
-   "durata": 27,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
      "formato": "video",
      "errore": null
     }
@@ -1400,6 +1369,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle imprese italiane con almeno 10 addetti ha un sito, mentre il 59% usa i social. (Istat)\n\nInstagram è un profilo: le regole le decide la piattaforma, e chi ti cerca su Google non ti trova lì. Il sito è casa tua: trovato su Google, aggiornabile da te, con i tuoi contenuti e i tuoi contatti.\n\nI social portano persone. Il sito le fa diventare clienti.\n\n#Instagram #SitiWeb #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R44",
+   "titolo": "Banner cookie dopo sei mesi",
+   "tipo": "reel",
+   "quando": "2026-12-14 18:30",
+   "dueAt": "2026-12-14T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R44_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R44.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Il banner dei cookie si può riproporre dopo quanto? Un mese, sei mesi o un anno?\nRispondi nei commenti. Nel video la regola, e perché riproporlo apposta per strappare un sì non è una furbizia. Fonte: Garante Privacy, FAQ cookie 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Il banner dei cookie si può riproporre dopo quanto? Un mese, sei mesi o un anno?\n\nScrivi la tua.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Se un utente ha rifiutato i cookie, il banner non va riproposto prima di sei mesi, salvo cambiamenti nel trattamento. (Garante Privacy, FAQ cookie 2021)\n\nRiproporlo apposta a ogni visita per strappare un sì è considerato illecito.\n\nÈ uno di quei dettagli che i plugin gratuiti spesso sbagliano di default.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
      "formato": "video",
      "errore": null
     }
