@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-30T19:51+00:00",
+ "aggiornato": "2026-10-31T19:49+00:00",
  "contenuti": [
   {
    "id": "P06",
@@ -40,37 +40,6 @@
      "nota": "controllo serale: sostituzione automatica non partita (cron GitHub saltato), slot del 14/10 18:30 rimasto vuoto"
     }
    ]
-  },
-  {
-   "id": "R17",
-   "titolo": "Lo sguardo a F",
-   "tipo": "reel",
-   "quando": "2026-10-31 11:00",
-   "dueAt": "2026-10-31T10:00:00.000Z",
-   "slide": [],
-   "poster": "img/R17_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R17.mp4",
-   "durata": 29,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\nRispondi nei commenti prima del reveal. L'hanno scoperto con l'eyetracking su 232 persone (fonte: Nielsen Norman Group).\n#ux #webdesign #eyetracking #sitiweb #pmiitaliane",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\n\nScrivi la lettera nei commenti, poi guarda il video.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Su una pagina web lo sguardo disegna una F: due passate orizzontali in alto, poi giù lungo il lato sinistro.\n\nL'ha scoperto Nielsen Norman Group con l'eyetracking su 232 persone, nel 2006, e lo ha confermato negli anni.\n\nConseguenza pratica: le informazioni importanti vanno in alto e all'inizio delle righe. Se il numero di telefono è in fondo a destra, per molti visitatori non esiste.\n\n#UX #WebDesign #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
   },
   {
    "id": "R18",
@@ -549,19 +518,19 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Vero o falso: \"Se chiudi il banner dei cookie con la X, li accetti.\"\n\nVota qui sotto. La risposta è nel video, insieme a un dettaglio sui cookie tecnici.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Chiudere il banner dei cookie con la X non significa accettarli: equivale a rifiutare.\n\nE i cookie tecnici, quelli che servono al funzionamento del sito? Quelli non chiedono consenso: basta l'informativa. (Garante Privacy, linee guida e FAQ 2021)\n\nUn banner fatto bene distingue le due cose. Uno fatto male chiede il consenso per tutto, o lo dà per scontato.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
      "formato": "video",
      "errore": null
@@ -611,19 +580,19 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Per Google, il contenuto principale della pagina deve comparire entro quanto? 2,5, 5 o 10 secondi?\n\nScrivi la tua risposta nei commenti.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Per Google il contenuto principale di una pagina deve comparire entro 2,5 secondi. La misura si chiama LCP, Largest Contentful Paint, ed è uno dei tre Core Web Vitals.\n\nIl dettaglio che pochi conoscono: non basta riuscirci una volta. Deve succedere nel 75% delle visite reali, misurate sui telefoni di chi naviga davvero.\n\nPer questo un sito veloce sul computer dell'agenzia non è ancora un sito veloce.\n\nFonte: web.dev\n\n#CoreWebVitals #SEO #Performance",
      "formato": "video",
      "errore": null
@@ -1400,6 +1369,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Se un utente ha rifiutato i cookie, il banner non va riproposto prima di sei mesi, salvo cambiamenti nel trattamento. (Garante Privacy, FAQ cookie 2021)\n\nRiproporlo apposta a ogni visita per strappare un sì è considerato illecito.\n\nÈ uno di quei dettagli che i plugin gratuiti spesso sbagliano di default.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R58",
+   "titolo": "Accessibilita",
+   "tipo": "reel",
+   "quando": "2026-12-15 18:30",
+   "dueAt": "2026-12-15T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R58_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R58.mp4",
+   "durata": 26,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Il tuo e-commerce è accessibile?\nEuropean Accessibility Act: dal 28 giugno 2025 valgono obblighi per molti servizi digitali ai consumatori (in Italia, D.Lgs. 82/2022). Riguarda anche l'e-commerce. Riferimento tecnico: WCAG 2.1, livello AA. Le microimprese di servizi sono esenti.\nInformazione generale, non è una consulenza legale.\n#accessibilita #eaa #ecommerce #pmiitaliane #sitiweb",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Il tuo e-commerce è accessibile?\n\nDal 28 giugno 2025 l'accessibilità è un obbligo per molti servizi digitali, e-commerce compreso. Le microimprese di servizi sono esenti.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "European Accessibility Act: dal 28 giugno 2025 valgono obblighi di accessibilità per molti servizi digitali rivolti ai consumatori. In Italia, D.Lgs. 82/2022.\n\nRiguarda anche l'e-commerce. Il riferimento tecnico è WCAG 2.1, livello AA. Le microimprese di servizi (meno di 10 dipendenti, fatturato o bilancio fino a 2 milioni) sono esenti.\n\nSe vendi online e non sei sicuro di rientrare nell'esenzione, è il momento di verificarlo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #EAA",
      "formato": "video",
      "errore": null
     }
