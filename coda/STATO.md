@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 31/10/2026, 11:57:55
+Ultimo controllo: 31/10/2026, 21:27:16
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -51,7 +51,7 @@ Ultimo controllo: 31/10/2026, 11:57:55
 - 14/11/26, 11:00 · Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa deci
 - 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
 - 17/11/26, 18:30 · Vero o falso: "Se chiudi il banner dei cookie con la X, li accetti." V
-- 19/11/26, 18:30 · 
+- 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro 
 
 ### linkedin
 
@@ -64,7 +64,7 @@ Ultimo controllo: 31/10/2026, 11:57:55
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 - 15/11/26, 11:00 · Un'animazione che non serve la storia è solo un effetto. Ed è quello c
 - 17/11/26, 18:30 · Chiudere il banner dei cookie con la X non significa accettarli: equiv
-- 19/11/26, 18:30 · 
+- 19/11/26, 18:30 · Per Google il contenuto principale di una pagina deve comparire entro 
 
 ### instagram
 
@@ -77,7 +77,7 @@ Ultimo controllo: 31/10/2026, 11:57:55
 - 14/11/26, 11:00 · Quale menu ti fa decidere prima? A o B nei commenti. Più scelte, più t
 - 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
 - 17/11/26, 18:30 · Vero o falso: "Se chiudi il banner con la X, accetti i cookie." Vota n
-- 19/11/26, 18:30 · 
+- 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro.
 
 
 ## Ultime sostituzioni automatiche

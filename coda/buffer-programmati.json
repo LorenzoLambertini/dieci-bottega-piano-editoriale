@@ -98,6 +98,17 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6ae5c9b2b84259308bd071d1",
+      "dueAt": "2026-11-19T17:30:00.000Z",
+      "text": "Per Google, il contenuto principale della pagina deve comparire entro quanto? 2,5, 5 o 10 secondi?\n\nScrivi la tua risposta nei commenti.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R24.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "linkedin": [
@@ -199,6 +210,17 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6ae5c9b3ceb491e585f04de2",
+      "dueAt": "2026-11-19T17:30:00.000Z",
+      "text": "Per Google il contenuto principale di una pagina deve comparire entro 2,5 secondi. La misura si chiama LCP, Largest Contentful Paint, ed è uno dei tre Core Web Vitals.\n\nIl dettaglio che pochi conoscono: non basta riuscirci una volta. Deve succedere nel 75% delle visite reali, misurate sui telefoni di chi naviga davvero.\n\nPer questo un sito veloce sul computer dell'agenzia non è ancora un sito veloce.\n\nFonte: web.dev\n\n#CoreWebVitals #SEO #Performance",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R24.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "instagram": [
@@ -297,6 +319,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R22.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ae5c9b2ceb491e585f04d80",
+      "dueAt": "2026-11-19T17:30:00.000Z",
+      "text": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R24.mp4",
           "tipo": "video/mp4"
         }
       ]
