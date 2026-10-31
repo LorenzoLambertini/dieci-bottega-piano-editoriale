@@ -1,17 +1,6 @@
 {
   "facebook": [
     {
-      "id": "6ad49443ae173d6e00f5727a",
-      "dueAt": "2026-10-31T10:00:00.000Z",
-      "text": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\n\nScrivi la lettera nei commenti, poi guarda il video.",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R17.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ad5f65e2720e98a091b866c",
       "dueAt": "2026-11-01T10:00:00.000Z",
       "text": "Non solo siti. Facciamo anche CRM su misura e automazioni per le attività che ripetono sempre gli stessi passaggi.\n\nMa niente cataloghi infiniti: spesso ti serve meno di quanto pensi, e te lo diciamo.",
@@ -98,20 +87,20 @@
           "tipo": "video/mp4"
         }
       ]
-    }
-  ],
-  "linkedin": [
+    },
     {
-      "id": "6ad49444938409f1d0c47034",
-      "dueAt": "2026-10-31T10:00:00.000Z",
-      "text": "Su una pagina web lo sguardo disegna una F: due passate orizzontali in alto, poi giù lungo il lato sinistro.\n\nL'ha scoperto Nielsen Norman Group con l'eyetracking su 232 persone, nel 2006, e lo ha confermato negli anni.\n\nConseguenza pratica: le informazioni importanti vanno in alto e all'inizio delle righe. Se il numero di telefono è in fondo a destra, per molti visitatori non esiste.\n\n#UX #WebDesign #PMI",
+      "id": "6ae50c79406ab8a0188374c6",
+      "dueAt": "2026-11-17T17:30:00.000Z",
+      "text": "Vero o falso: \"Se chiudi il banner dei cookie con la X, li accetti.\"\n\nVota qui sotto. La risposta è nel video, insieme a un dettaglio sui cookie tecnici.",
       "assets": [
         {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R17.mp4",
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R22.mp4",
           "tipo": "video/mp4"
         }
       ]
-    },
+    }
+  ],
+  "linkedin": [
     {
       "id": "6ad5f65e2720e98a091b8698",
       "dueAt": "2026-11-01T10:00:00.000Z",
@@ -199,20 +188,20 @@
           "tipo": "video/mp4"
         }
       ]
-    }
-  ],
-  "instagram": [
+    },
     {
-      "id": "6ad49443ae173d6e00f57246",
-      "dueAt": "2026-10-31T10:00:00.000Z",
-      "text": "Che forma ha lo sguardo su una pagina web? Una Z, una F o una O?\nRispondi nei commenti prima del reveal. L'hanno scoperto con l'eyetracking su 232 persone (fonte: Nielsen Norman Group).\n#ux #webdesign #eyetracking #sitiweb #pmiitaliane",
+      "id": "6ae50c7aeaa24d6f9a3e1064",
+      "dueAt": "2026-11-17T17:30:00.000Z",
+      "text": "Chiudere il banner dei cookie con la X non significa accettarli: equivale a rifiutare.\n\nE i cookie tecnici, quelli che servono al funzionamento del sito? Quelli non chiedono consenso: basta l'informativa. (Garante Privacy, linee guida e FAQ 2021)\n\nUn banner fatto bene distingue le due cose. Uno fatto male chiede il consenso per tutto, o lo dà per scontato.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
       "assets": [
         {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R17.mp4",
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R22.mp4",
           "tipo": "video/mp4"
         }
       ]
-    },
+    }
+  ],
+  "instagram": [
     {
       "id": "6ad5f65d784342f63877cd10",
       "dueAt": "2026-11-01T10:00:00.000Z",
@@ -297,6 +286,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R25.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ae50c79406ab8a01883748e",
+      "dueAt": "2026-11-17T17:30:00.000Z",
+      "text": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R22.mp4",
           "tipo": "video/mp4"
         }
       ]
