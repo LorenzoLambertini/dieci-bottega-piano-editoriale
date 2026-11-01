@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-31T19:49+00:00",
+ "aggiornato": "2026-11-01T19:51+00:00",
  "contenuti": [
   {
    "id": "P06",
@@ -42,42 +42,11 @@
    ]
   },
   {
-   "id": "R18",
-   "titolo": "Non solo siti",
-   "tipo": "reel",
-   "quando": "2026-11-01 11:00",
-   "dueAt": "2026-11-01T10:00:00.000Z",
-   "slide": [],
-   "poster": "img/R18_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R18.mp4",
-   "durata": 26,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Non solo siti. Tre mestieri, una bottega.\nSiti trovati su Google e aggiornabili da te. CRM su misura, uno strumento interno per non perdere i contatti. Automazioni AI per i lavori che si ripetono: arriva una richiesta, l'AI la legge e la ordina, tu ricevi l'avviso.\nNiente cataloghi infiniti: quasi sempre ti serve meno di quanto pensi.\n#automazioni #crm #sitiweb #pmiitaliane #bottegadigitale",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Non solo siti. Facciamo anche CRM su misura e automazioni per le attività che ripetono sempre gli stessi passaggi.\n\nMa niente cataloghi infiniti: spesso ti serve meno di quanto pensi, e te lo diciamo.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Una bottega, tre mestieri:\n\nSiti: trovati su Google, aggiornabili dal cliente.\nCRM su misura: uno strumento interno per non perdere contatti e preventivi.\nAutomazioni AI: per i lavori che si ripetono. Arriva una richiesta, l'AI la legge e la ordina, tu ricevi l'avviso.\n\nNon vendiamo cataloghi. Quasi sempre a una PMI serve meno di quanto pensa, e il nostro lavoro è capire cosa.\n\n#Automazioni #CRM #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
    "id": "S01",
    "titolo": "Sito del lunedì: il ristorante",
    "tipo": "reel",
-   "quando": "2026-11-02 18:30",
-   "dueAt": "2026-11-02T17:30:00.000Z",
+   "quando": "2026-11-03 18:30",
+   "dueAt": "2026-11-03T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -101,14 +70,23 @@
      "formato": "video",
      "errore": null
     }
-   }
+   },
+   "sostituzioni": [
+    {
+     "il": "2026-11-01T20:00:00.000Z",
+     "da": "2026-11-02 18:30",
+     "a": "2026-11-03 18:30",
+     "conContenuto": "R09",
+     "manuale": true
+    }
+   ]
   },
   {
    "id": "R09",
    "titolo": "La X dei cookie",
    "tipo": "reel",
-   "quando": "2026-11-03 18:30",
-   "dueAt": "2026-11-03T17:30:00.000Z",
+   "quando": "2026-11-02 18:30",
+   "dueAt": "2026-11-02T17:30:00.000Z",
    "slide": [],
    "poster": "img/R09_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
@@ -642,19 +620,19 @@
    "durata": 30,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Mentre la pagina carica, quale va meglio? A o B nei commenti.\nQuando il bottone salta proprio mentre stai per toccarlo, non è sfortuna: è una misura precisa, ed è uno dei tre Core Web Vitals di Google. Te la spieghiamo nel video.\n#corewebvitals #ux #webdesign #sitiweb #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Hai mai provato a toccare un bottone che si sposta proprio mentre la pagina carica? Due versioni, quale va meglio, A o B?",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Quando la pagina si sposta mentre carica e il bottone ti scappa sotto il dito, non è sfortuna. È una metrica precisa: CLS, Cumulative Layout Shift, uno dei tre Core Web Vitals di Google.\n\nUn valore buono è sotto 0,1. Si ottiene con accorgimenti semplici: dimensioni fissate per immagini e banner, font caricati bene, niente contenuti che spuntano dall'alto.\n\nFonte: web.dev\n\n#CoreWebVitals #UX #Performance",
      "formato": "video",
      "errore": null
@@ -1400,6 +1378,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "European Accessibility Act: dal 28 giugno 2025 valgono obblighi di accessibilità per molti servizi digitali rivolti ai consumatori. In Italia, D.Lgs. 82/2022.\n\nRiguarda anche l'e-commerce. Il riferimento tecnico è WCAG 2.1, livello AA. Le microimprese di servizi (meno di 10 dipendenti, fatturato o bilancio fino a 2 milioni) sono esenti.\n\nSe vendi online e non sei sicuro di rientrare nell'esenzione, è il momento di verificarlo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #EAA",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R46",
+   "titolo": "Quale titolo",
+   "tipo": "reel",
+   "quando": "2026-12-16 18:30",
+   "dueAt": "2026-12-16T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R46_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R46.mp4",
+   "durata": 30,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Quale titolo funziona meglio per un idraulico di Bologna? A o B nei commenti.\nLe prime parole dicono chi sei e cosa fai. Nel video perché il titolo lo vedono tutti e il resto spesso no. Fonte: Nielsen Norman Group.\n#copywriting #webdesign #homepage #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Due titoli per un idraulico di Bologna: \"Benvenuti nel sito di Rossi\" o \"Idraulico a Bologna, pronto intervento\". Quale funziona, A o B?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Il titolo è la parte del sito che leggono tutti. Il resto, spesso no.\n\nSi legge in alto, da sinistra (Nielsen Norman Group). Quindi le prime parole devono dire chi sei e cosa fai. \"Benvenuti nel sito della ditta Rossi\" spreca la posizione più preziosa della pagina. \"Idraulico a Bologna. Pronto intervento.\" la usa.\n\nRileggi il titolo della tua homepage: le prime tre parole dicono cosa fai?\n\n#Copywriting #Homepage #PMI",
      "formato": "video",
      "errore": null
     }
