@@ -972,8 +972,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Attrazione",
-      "quando": "2026-11-02 18:30",
-      "dueAt": "2026-11-02T17:30:00.000Z",
+      "quando": "2026-11-03 18:30",
+      "dueAt": "2026-11-03T17:30:00.000Z",
       "nota": "Da girare: Lorenzo in camera + registrazione schermo del sito fittizio «Osteria del Portico» (da creare, niente siti reali). Quando il video è pronto va in media/strategia/S01.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -991,36 +991,48 @@
           "video": "media/strategia/S01.mp4",
           "stato": "manca_video"
         }
-      }
+      },
+      "sostituzioni": [
+        {
+          "il": "2026-11-01T20:00:00.000Z",
+          "da": "2026-11-02 18:30",
+          "a": "2026-11-03 18:30",
+          "conContenuto": "R09",
+          "manuale": true
+        }
+      ]
     },
     {
       "id": "R09",
       "titolo": "La X dei cookie",
       "formato": "Quiz",
       "tipo": "reel",
-      "quando": "2026-11-03 18:30",
-      "dueAt": "2026-11-03T17:30:00.000Z",
+      "quando": "2026-11-02 18:30",
+      "dueAt": "2026-11-02T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accetti tutto\nB) Il sito si blocca\nC) Rifiuti\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito in regola, cookie compresi.\n\nFonte: Garante Privacy · linee guida 2021\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #cookie #gdpr #privacy",
           "video": "media/reel/R09.mp4",
           "stato": "programmato",
           "bufferId": "6ad7d0b2652214940fff5875",
-          "programmatoIl": "2026-10-20T20:36:02.685Z"
+          "programmatoIl": "2026-10-20T20:36:02.685Z",
+          "daAggiornare": true
         },
         "facebook": {
           "testo": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o blocchi il sito?\n\nQuasi tutti sbagliano. Rispondi nei commenti, poi guarda il video.",
           "video": "media/reel/R09.mp4",
           "stato": "programmato",
           "bufferId": "6ad7d0b33a9ca84966b481da",
-          "programmatoIl": "2026-10-20T20:36:03.114Z"
+          "programmatoIl": "2026-10-20T20:36:03.114Z",
+          "daAggiornare": true
         },
         "linkedin": {
           "testo": "Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad accettare.\n\nE c'è di più: anche scorrere la pagina non vale come consenso. Serve un sì esplicito. (Garante Privacy, linee guida 2021)\n\nPer chi ha un sito aziendale vuol dire controllare due cose: che la X ci sia, e che il sito non tratti la chiusura o lo scroll come un consenso.\n\nSono dettagli tecnici, ma su un sito in regola non si discute.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
           "video": "media/reel/R09.mp4",
           "stato": "programmato",
           "bufferId": "6ad7d0b3b88e1e23bf798106",
-          "programmatoIl": "2026-10-20T20:36:03.531Z"
+          "programmatoIl": "2026-10-20T20:36:03.531Z",
+          "daAggiornare": true
         }
       }
     },
