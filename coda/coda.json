@@ -1538,17 +1538,23 @@
         "instagram": {
           "testo": "Mentre la pagina carica, quale va meglio? A o B nei commenti.\nQuando il bottone salta proprio mentre stai per toccarlo, non è sfortuna: è una misura precisa, ed è uno dei tre Core Web Vitals di Google. Te la spieghiamo nel video.\n#corewebvitals #ux #webdesign #sitiweb #pmiitaliane",
           "video": "media/reel/R26.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ae728221ee172cd6df4edbb",
+          "programmatoIl": "2026-11-01T11:53:06.835Z"
         },
         "facebook": {
           "testo": "Hai mai provato a toccare un bottone che si sposta proprio mentre la pagina carica? Due versioni, quale va meglio, A o B?",
           "video": "media/reel/R26.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ae72823cf3a3112f3f5a996",
+          "programmatoIl": "2026-11-01T11:53:07.276Z"
         },
         "linkedin": {
           "testo": "Quando la pagina si sposta mentre carica e il bottone ti scappa sotto il dito, non è sfortuna. È una metrica precisa: CLS, Cumulative Layout Shift, uno dei tre Core Web Vitals di Google.\n\nUn valore buono è sotto 0,1. Si ottiene con accorgimenti semplici: dimensioni fissate per immagini e banner, font caricati bene, niente contenuti che spuntano dall'alto.\n\nFonte: web.dev\n\n#CoreWebVitals #UX #Performance",
           "video": "media/reel/R26.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6ae728231ee172cd6df4edf1",
+          "programmatoIl": "2026-11-01T11:53:07.758Z"
         }
       }
     },

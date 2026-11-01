@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 31/10/2026, 21:27:16
+Ultimo controllo: 01/11/2026, 12:53:08
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -13,7 +13,6 @@ Ultimo controllo: 31/10/2026, 21:27:16
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
 | 2026-11-05 18:30 | P06 | Reel Dettaglio | manca_video | manca_video | manca_video |
-| 2026-11-01 11:00 | R18 | Non solo siti | programmato | programmato | programmato |
 | 2026-11-02 18:30 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
 | 2026-11-03 18:30 | R09 | La X dei cookie | programmato | programmato | programmato |
 | 2026-11-04 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
@@ -32,17 +31,17 @@ Ultimo controllo: 31/10/2026, 21:27:16
 | 2026-11-18 18:30 | S08 | Cosa c'è in 800 € | manca_video | manca_video | manca_video |
 | 2026-11-19 18:30 | R24 | Il tempo LCP | programmato | programmato | programmato |
 | 2026-11-20 18:30 | S09 | Le 5 domande | manca_video | manca_video | manca_video |
-| 2026-11-21 11:00 | R26 | Mentre carica | da_programmare | da_programmare | da_programmare |
+| 2026-11-21 11:00 | R26 | Mentre carica | programmato | programmato | programmato |
 | 2026-11-22 11:00 | R28 | Quando ci scrivi | da_programmare | da_programmare | da_programmare |
 | 2026-11-23 18:30 | S10 | Sito del lunedì: audit su richiesta | manca_video | manca_video | manca_video |
 | 2026-11-24 18:30 | R27 | Il ranking locale | da_programmare | da_programmare | da_programmare |
 | 2026-11-25 18:30 | S11 | Due idraulici | manca_video | manca_video | manca_video |
+| 2026-11-26 18:30 | R29 | Le voci nel menu | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 01/11/26, 11:00 · Non solo siti. Facciamo anche CRM su misura e automazioni per le attiv
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o bloc
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo, design e web. Tommaso, strategi
@@ -52,10 +51,10 @@ Ultimo controllo: 31/10/2026, 21:27:16
 - 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
 - 17/11/26, 18:30 · Vero o falso: "Se chiudi il banner dei cookie con la X, li accetti." V
 - 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro 
+- 21/11/26, 11:00 · 
 
 ### linkedin
 
-- 01/11/26, 11:00 · Una bottega, tre mestieri: Siti: trovati su Google, aggiornabili dal c
 - 03/11/26, 18:30 · Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad 
 - 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega. Lorenzo Lambertini, design e web: crede 
@@ -65,10 +64,10 @@ Ultimo controllo: 31/10/2026, 21:27:16
 - 15/11/26, 11:00 · Un'animazione che non serve la storia è solo un effetto. Ed è quello c
 - 17/11/26, 18:30 · Chiudere il banner dei cookie con la X non significa accettarli: equiv
 - 19/11/26, 18:30 · Per Google il contenuto principale di una pagina deve comparire entro 
+- 21/11/26, 11:00 · 
 
 ### instagram
 
-- 01/11/26, 11:00 · Non solo siti. Tre mestieri, una bottega. Siti trovati su Google e agg
 - 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo Lambertini, design e web: crede 
@@ -78,6 +77,7 @@ Ultimo controllo: 31/10/2026, 21:27:16
 - 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
 - 17/11/26, 18:30 · Vero o falso: "Se chiudi il banner con la X, accetti i cookie." Vota n
 - 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro.
+- 21/11/26, 11:00 · 
 
 
 ## Ultime sostituzioni automatiche
