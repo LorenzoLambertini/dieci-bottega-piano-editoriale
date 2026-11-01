@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 01/11/2026, 12:53:08
+Ultimo controllo: 01/11/2026, 20:50:53
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -13,8 +13,8 @@ Ultimo controllo: 01/11/2026, 12:53:08
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
 | 2026-11-05 18:30 | P06 | Reel Dettaglio | manca_video | manca_video | manca_video |
-| 2026-11-02 18:30 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
-| 2026-11-03 18:30 | R09 | La X dei cookie | programmato | programmato | programmato |
+| 2026-11-03 18:30 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
+| 2026-11-02 18:30 | R09 | La X dei cookie | programmato | programmato | programmato |
 | 2026-11-04 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
 | 2026-11-06 18:30 | S03 | Il passaparola non basta | manca_video | manca_video | manca_video |
 | 2026-11-07 11:00 | R19 | Quante imprese hanno un sito | programmato | programmato | programmato |
@@ -42,7 +42,7 @@ Ultimo controllo: 01/11/2026, 12:53:08
 
 ### facebook
 
-- 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o bloc
+- 02/11/26, 18:30 · 
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo, design e web. Tommaso, strategi
 - 10/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
@@ -51,11 +51,11 @@ Ultimo controllo: 01/11/2026, 12:53:08
 - 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
 - 17/11/26, 18:30 · Vero o falso: "Se chiudi il banner dei cookie con la X, li accetti." V
 - 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro 
-- 21/11/26, 11:00 · 
+- 21/11/26, 11:00 · Hai mai provato a toccare un bottone che si sposta proprio mentre la p
 
 ### linkedin
 
-- 03/11/26, 18:30 · Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad 
+- 02/11/26, 18:30 · 
 - 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega. Lorenzo Lambertini, design e web: crede 
 - 10/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
@@ -64,11 +64,11 @@ Ultimo controllo: 01/11/2026, 12:53:08
 - 15/11/26, 11:00 · Un'animazione che non serve la storia è solo un effetto. Ed è quello c
 - 17/11/26, 18:30 · Chiudere il banner dei cookie con la X non significa accettarli: equiv
 - 19/11/26, 18:30 · Per Google il contenuto principale di una pagina deve comparire entro 
-- 21/11/26, 11:00 · 
+- 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 
 ### instagram
 
-- 03/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
+- 02/11/26, 18:30 · 
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo Lambertini, design e web: crede 
 - 10/11/26, 18:30 · Pagina "Chi siamo": quale foto scegli? A o B nei commenti. Le persone 
@@ -77,13 +77,13 @@ Ultimo controllo: 01/11/2026, 12:53:08
 - 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
 - 17/11/26, 18:30 · Vero o falso: "Se chiudi il banner con la X, accetti i cookie." Vota n
 - 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro.
-- 21/11/26, 11:00 · 
+- 21/11/26, 11:00 · Mentre la pagina carica, quale va meglio? A o B nei commenti. Quando i
 
 
 ## Ultime sostituzioni automatiche
 
-- 14/10/2026, 21:00 · Correzione manuale: P06 (ancora senza video, e sullo stesso tema di C01 "prova del pollice") spostato al 2026-10-30 18:30, scadenza video 30/10 16:30
 - 14/10/2026, 21:00 · Correzione manuale: R05 "Quanto costa un sito" (prezzo) passa al 2026-10-15 18:30 e R04 "Tre secondi su mobile" (velocità mobile) al 2026-10-20 18:30, per non avere due contenuti sul sito da telefono di fila (C01 → R04). Sequenza: C01 conversione → R05 prezzo → P08 AI + mestiere → P09 CRM → R04 velocità → R06 quiz homepage
 - 15/10/2026, 21:00 · Correzione manuale: R08 "Da zero a online" anticipato al 2026-10-22 18:30 e R06 "Quale homepage" (A o B) spostato al 2026-10-29 18:30, per non avere due quiz di fila (R04 20/10 → R06 22/10). Sequenza: R04 quiz velocità → R08 metodo → P07 → P11 → R07 quiz → P03 → R06 quiz → P06
 - 17/10/2026, 21:20 · Correzione manuale su richiesta di Lorenzo: un contenuto al giorno, weekend compresi. 76 reel pronti (R13–R94, stato da_programmare) anticipati per riempire ogni giorno libero dal 18/10 al 26/01/2027 (feriali 18:30, sabato e domenica 11:00). Nessun post già su Buffer spostato: buffer-sync inserisce i nuovi in ordine di data e rimanda in coda i più lontani. Quiz e informativi alternati; dal 12/01 restano solo quiz/A o B, servono nuovi informativi. Domani 18/10 11:00 esce R16 "Quale testo si legge"
 - 29/10/2026, 21:00 · Correzione manuale preventiva: P06 "Reel Dettaglio" ancora senza video la sera prima e la sostituzione automatica è già saltata due volte (14/10, 28/10). Scambiato con R23 "Perché Bottega" (reel pronto, stesso orario 18:30): R23 esce il 2026-10-30 18:30, P06 passa al 2026-11-05 18:30 (scadenza video 5/11 16:30). Sequenza: R06 quiz homepage → R23 storia/prossimità → R17 quiz → R18 servizi; evitato R09 (quiz) che avrebbe dato tre quiz di fila
+- 01/11/2026, 21:00 · Correzione manuale preventiva: S01 "Sito del lunedì: il ristorante" ancora senza video la sera prima e la sostituzione automatica è già saltata due volte (14/10, 28/10). Scambiato con R09 "La X dei cookie" (reel pronto, stesso orario 18:30): R09 esce il 2026-11-02 18:30, S01 passa al 2026-11-03 18:30 (scadenza video 3/11 16:30; se il video arriva più tardi meglio ridatarlo a lunedì 9/11 e spostare S04). Sequenza: R17 quiz UX → R18 servizi → R09 quiz cookie → S01 faccia/audit → S02 faccia/telefono; alternanza ok
