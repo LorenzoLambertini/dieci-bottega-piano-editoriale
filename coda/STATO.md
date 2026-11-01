@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 01/11/2026, 20:50:53
+Ultimo controllo: 01/11/2026, 22:11:33
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -42,7 +42,7 @@ Ultimo controllo: 01/11/2026, 20:50:53
 
 ### facebook
 
-- 02/11/26, 18:30 · 
+- 02/11/26, 18:30 · Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o bloc
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo, design e web. Tommaso, strategi
 - 10/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
@@ -55,7 +55,7 @@ Ultimo controllo: 01/11/2026, 20:50:53
 
 ### linkedin
 
-- 02/11/26, 18:30 · 
+- 02/11/26, 18:30 · Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad 
 - 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega. Lorenzo Lambertini, design e web: crede 
 - 10/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
@@ -68,7 +68,7 @@ Ultimo controllo: 01/11/2026, 20:50:53
 
 ### instagram
 
-- 02/11/26, 18:30 · 
+- 02/11/26, 18:30 · Sul banner dei cookie clicchi la X. Cosa succede? A) Accetti tutto B) 
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 08/11/26, 11:00 · Chi c'è dietro Dieci Bottega? Lorenzo Lambertini, design e web: crede 
 - 10/11/26, 18:30 · Pagina "Chi siamo": quale foto scegli? A o B nei commenti. Le persone 

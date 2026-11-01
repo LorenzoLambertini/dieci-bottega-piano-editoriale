@@ -1,6 +1,17 @@
 {
   "facebook": [
     {
+      "id": "6ae7981c3f7155902f732b57",
+      "dueAt": "2026-11-02T17:30:00.000Z",
+      "text": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifiuti o blocchi il sito?\n\nQuasi tutti sbagliano. Rispondi nei commenti, poi guarda il video.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ada7334a05ab31b9375b5d9",
       "dueAt": "2026-11-07T10:00:00.000Z",
       "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\n\nVota nei commenti. E se la tua è tra quelle senza, rimediamo in dieci giorni.",
@@ -89,7 +100,7 @@
       ]
     },
     {
-      "id": "6ae72823cf3a3112f3f5a996",
+      "id": "6ae7983241177396479a342b",
       "dueAt": "2026-11-21T10:00:00.000Z",
       "text": "Hai mai provato a toccare un bottone che si sposta proprio mentre la pagina carica? Due versioni, quale va meglio, A o B?",
       "assets": [
@@ -101,6 +112,17 @@
     }
   ],
   "linkedin": [
+    {
+      "id": "6ae7981d5604f9d85b85074b",
+      "dueAt": "2026-11-02T17:30:00.000Z",
+      "text": "Sul banner dei cookie, chiudere con la X equivale a rifiutare. Non ad accettare.\n\nE c'è di più: anche scorrere la pagina non vale come consenso. Serve un sì esplicito. (Garante Privacy, linee guida 2021)\n\nPer chi ha un sito aziendale vuol dire controllare due cose: che la X ci sia, e che il sito non tratti la chiusura o lo scroll come un consenso.\n\nSono dettagli tecnici, ma su un sito in regola non si discute.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ada7334793513d242f2829c",
       "dueAt": "2026-11-07T10:00:00.000Z",
@@ -190,7 +212,7 @@
       ]
     },
     {
-      "id": "6ae728231ee172cd6df4edf1",
+      "id": "6ae798335604f9d85b850cc7",
       "dueAt": "2026-11-21T10:00:00.000Z",
       "text": "Quando la pagina si sposta mentre carica e il bottone ti scappa sotto il dito, non è sfortuna. È una metrica precisa: CLS, Cumulative Layout Shift, uno dei tre Core Web Vitals di Google.\n\nUn valore buono è sotto 0,1. Si ottiene con accorgimenti semplici: dimensioni fissate per immagini e banner, font caricati bene, niente contenuti che spuntano dall'alto.\n\nFonte: web.dev\n\n#CoreWebVitals #UX #Performance",
       "assets": [
@@ -202,6 +224,17 @@
     }
   ],
   "instagram": [
+    {
+      "id": "6ae7981c026a1294e55cdd17",
+      "dueAt": "2026-11-02T17:30:00.000Z",
+      "text": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accetti tutto\nB) Il sito si blocca\nC) Rifiuti\n\nA, B o C? Scrivi la tua risposta nei commenti, poi guarda il video fino alla fine.\n\nVuoi saperne di più? Seguici per rimanere aggiornato, leggi il blog su diecibottega.it e richiedi un sito in regola, cookie compresi.\n\nFonte: Garante Privacy · linee guida 2021\n\n#diecibottega #webagency #bologna #sitiweb #webdesign #cookie #gdpr #privacy",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R09.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ada73340cf9e34948499b7a",
       "dueAt": "2026-11-07T10:00:00.000Z",
@@ -291,7 +324,7 @@
       ]
     },
     {
-      "id": "6ae728221ee172cd6df4edbb",
+      "id": "6ae798323f7155902f73306e",
       "dueAt": "2026-11-21T10:00:00.000Z",
       "text": "Mentre la pagina carica, quale va meglio? A o B nei commenti.\nQuando il bottone salta proprio mentre stai per toccarlo, non è sfortuna: è una misura precisa, ed è uno dei tre Core Web Vitals di Google. Te la spieghiamo nel video.\n#corewebvitals #ux #webdesign #sitiweb #pmiitaliane",
       "assets": [
