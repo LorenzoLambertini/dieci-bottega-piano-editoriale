@@ -1,6 +1,17 @@
 {
   "facebook": [
     {
+      "id": "6ae8e9a69299fa2e50059aea",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "text": "Chi c'è dietro Dieci Bottega?\n\nLorenzo, design e web. Tommaso, strategia e vendite. Amici da più di dieci anni, oggi una bottega. Quando ci scrivi, ti rispondiamo noi.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R20.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ada7334a05ab31b9375b5d9",
       "dueAt": "2026-11-07T10:00:00.000Z",
       "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\n\nVota nei commenti. E se la tua è tra quelle senza, rimediamo in dieci giorni.",
@@ -87,9 +98,31 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6ae8e9a7ff93b610bb9629ab",
+      "dueAt": "2026-11-22T10:00:00.000Z",
+      "text": "Cosa succede quando ci scrivi?\n\nTi rispondiamo entro 24 ore con un piano d'azione. Poi una call gratuita di trenta minuti, senza impegno e senza preventivi gonfiati.\n\nScrivici: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=R28",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R28.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "linkedin": [
+    {
+      "id": "6ae8e9a602371b91fa50990f",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "text": "Chi c'è dietro Dieci Bottega.\n\nLorenzo Lambertini, design e web: crede che ogni pixel debba guadagnarsi il proprio posto.\nTommaso Villa, strategia e vendite: trasforma un brief in un piano d'azione concreto.\n\nCi conosciamo da più di dieci anni. Abbiamo scelto di restare piccoli apposta: chi ti parla è chi fa il lavoro, senza passaggi di mano.\n\n#Founders #Bologna #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R20.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ada7334793513d242f2829c",
       "dueAt": "2026-11-07T10:00:00.000Z",
@@ -177,9 +210,31 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6ae8e9a8ff93b610bb962ce2",
+      "dueAt": "2026-11-22T10:00:00.000Z",
+      "text": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta entro 24 ore.\n2. Un piano d'azione, non un preventivo generico.\n3. Una prima call gratuita di trenta minuti.\n\nSenza impegno e senza preventivi gonfiati. In mezz'ora capisci se siamo le persone giuste per il tuo progetto, e se non lo siamo te lo diciamo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=R28\n\n#PMI #WebDesign #Bologna",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R28.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "instagram": [
+    {
+      "id": "6ae8e9a54efbf4f5475f14b7",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "text": "Chi c'è dietro Dieci Bottega?\nLorenzo Lambertini, design e web: crede che ogni pixel debba guadagnarsi il proprio posto. Tommaso Villa, strategia e vendite: trasforma un brief in un piano d'azione concreto. Amici da più di dieci anni, oggi una bottega.\nQuando ci scrivi, ti rispondiamo noi.\n#founders #bottegadigitale #bologna #pmiitaliane #webdesign",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R20.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ada73340cf9e34948499b7a",
       "dueAt": "2026-11-07T10:00:00.000Z",
@@ -264,6 +319,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R26.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6ae8e9a7fb05897d9d38c481",
+      "dueAt": "2026-11-22T10:00:00.000Z",
+      "text": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, con un piano d'azione. Poi una prima call gratuita, trenta minuti. Senza impegno, senza preventivi gonfiati: capisci se siamo i giusti per te.\nScrivici da diecibottega.it o su WhatsApp.\n#bottegadigitale #sitiweb #pmiitaliane #bologna #webdesign",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R28.mp4",
           "tipo": "video/mp4"
         }
       ]

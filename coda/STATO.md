@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 02/11/2026, 20:51:04
+Ultimo controllo: 03/11/2026, 00:52:56
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -42,7 +42,7 @@ Ultimo controllo: 02/11/2026, 20:51:04
 
 ### facebook
 
-- 03/11/26, 18:30 · 
+- 03/11/26, 18:30 · Chi c'è dietro Dieci Bottega? Lorenzo, design e web. Tommaso, strategi
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 10/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
 - 12/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
@@ -51,11 +51,11 @@ Ultimo controllo: 02/11/2026, 20:51:04
 - 17/11/26, 18:30 · Vero o falso: "Se chiudi il banner dei cookie con la X, li accetti." V
 - 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro 
 - 21/11/26, 11:00 · Hai mai provato a toccare un bottone che si sposta proprio mentre la p
-- 22/11/26, 11:00 · 
+- 22/11/26, 11:00 · Cosa succede quando ci scrivi? Ti rispondiamo entro 24 ore con un pian
 
 ### linkedin
 
-- 03/11/26, 18:30 · 
+- 03/11/26, 18:30 · Chi c'è dietro Dieci Bottega. Lorenzo Lambertini, design e web: crede 
 - 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 - 10/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
 - 12/11/26, 18:30 · "Se il sito è un po' lento, perdo solo qualche visita." Falso. Su mobi
@@ -64,11 +64,11 @@ Ultimo controllo: 02/11/2026, 20:51:04
 - 17/11/26, 18:30 · Chiudere il banner dei cookie con la X non significa accettarli: equiv
 - 19/11/26, 18:30 · Per Google il contenuto principale di una pagina deve comparire entro 
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
-- 22/11/26, 11:00 · 
+- 22/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
 
 ### instagram
 
-- 03/11/26, 18:30 · 
+- 03/11/26, 18:30 · Chi c'è dietro Dieci Bottega? Lorenzo Lambertini, design e web: crede 
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 10/11/26, 18:30 · Pagina "Chi siamo": quale foto scegli? A o B nei commenti. Le persone 
 - 12/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
@@ -77,7 +77,7 @@ Ultimo controllo: 02/11/2026, 20:51:04
 - 17/11/26, 18:30 · Vero o falso: "Se chiudi il banner con la X, accetti i cookie." Vota n
 - 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro.
 - 21/11/26, 11:00 · Mentre la pagina carica, quale va meglio? A o B nei commenti. Quando i
-- 22/11/26, 11:00 · 
+- 22/11/26, 11:00 · Cosa succede quando ci scrivi? Ti rispondiamo entro 24 ore, con un pia
 
 
 ## Ultime sostituzioni automatiche

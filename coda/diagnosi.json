@@ -600,6 +600,84 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6ae8e9a8ff93b610bb962ce2",
+        "dueAt": "2026-11-22T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta ent",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae8e9a7ff93b610bb9629ab",
+        "dueAt": "2026-11-22T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Cosa succede quando ci scrivi?\n\nTi rispondiamo entro 24 ore ",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae8e9a7fb05897d9d38c481",
+        "dueAt": "2026-11-22T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, ",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae8e9a69299fa2e50059aea",
+        "dueAt": "2026-11-03T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Chi c'è dietro Dieci Bottega?\n\nLorenzo, design e web. Tommas",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae8e9a602371b91fa50990f",
+        "dueAt": "2026-11-03T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Chi c'è dietro Dieci Bottega.\n\nLorenzo Lambertini, design e ",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae8e9a54efbf4f5475f14b7",
+        "dueAt": "2026-11-03T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Chi c'è dietro Dieci Bottega?\nLorenzo Lambertini, design e w",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6ae798335604f9d85b850cc7",
         "dueAt": "2026-11-21T10:00:00.000Z",
         "sentAt": null,
@@ -630,45 +708,6 @@
         "dueAt": "2026-11-21T10:00:00.000Z",
         "sentAt": null,
         "text": "Mentre la pagina carica, quale va meglio? A o B nei commenti",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae7981d5604f9d85b85074b",
-        "dueAt": "2026-11-02T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Sul banner dei cookie, chiudere con la X equivale a rifiutar",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae7981c3f7155902f732b57",
-        "dueAt": "2026-11-02T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifi",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae7981c026a1294e55cdd17",
-        "dueAt": "2026-11-02T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accett",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -912,45 +951,6 @@
         "via": "buffer"
       },
       {
-        "id": "6adc7c14bd33ce99c315f819",
-        "dueAt": "2026-11-08T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Chi c'è dietro Dieci Bottega?\n\nLorenzo, design e web. Tommas",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6adc7c146887a2efc1abd80e",
-        "dueAt": "2026-11-08T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Chi c'è dietro Dieci Bottega?\nLorenzo Lambertini, design e w",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6adc7c140b5343d070764552",
-        "dueAt": "2026-11-08T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Chi c'è dietro Dieci Bottega.\n\nLorenzo Lambertini, design e ",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6ada7334a05ab31b9375b5d9",
         "dueAt": "2026-11-07T10:00:00.000Z",
         "sentAt": null,
@@ -992,6 +992,45 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6ae7981d5604f9d85b85074b",
+        "dueAt": "2026-11-02T17:30:00.000Z",
+        "sentAt": "2026-11-02T17:31:58.482Z",
+        "text": "Sul banner dei cookie, chiudere con la X equivale a rifiutar",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae7981c3f7155902f732b57",
+        "dueAt": "2026-11-02T17:30:00.000Z",
+        "sentAt": "2026-11-02T17:31:48.272Z",
+        "text": "Sul banner dei cookie clicchi la X. Secondo te accetti, rifi",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae7981c026a1294e55cdd17",
+        "dueAt": "2026-11-02T17:30:00.000Z",
+        "sentAt": "2026-11-02T17:32:13.457Z",
+        "text": "Sul banner dei cookie clicchi la X. Cosa succede?\n\nA) Accett",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6ae3a39c1026f5c4e0c05d06",
         "dueAt": "2026-10-30T17:30:00.000Z",
@@ -1342,52 +1381,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6acfdc078f7b3fb92b379555",
-        "dueAt": "2026-10-14T18:44:16.000Z",
-        "sentAt": "2026-10-14T18:44:16.000Z",
-        "text": "",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "network"
-      },
-      {
-        "id": "6acfcf9041e19a94599bbb2c",
-        "dueAt": "2026-10-20T16:30:00.000Z",
-        "sentAt": "2026-10-20T16:31:54.189Z",
-        "text": "Se un sito da mobile ci mette più di 3 secondi a caricare, i",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6acfcf8fedcab17b8128412f",
-        "dueAt": "2026-10-20T16:30:00.000Z",
-        "sentAt": "2026-10-20T16:32:36.749Z",
-        "text": "Un sito mobile ci mette più di 3 secondi. Quante visite si p",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Sun, 01 Nov 2026 19:53:59 GMT 2888614",
-    "media/reel/R07.mp4": "200 Sun, 01 Nov 2026 19:53:59 GMT 3173777",
-    "index.html": "200 Sun, 01 Nov 2026 19:54:00 GMT 104461"
+    "media/reel/R02.mp4": "200 Mon, 02 Nov 2026 19:53:48 GMT 2888614",
+    "media/reel/R07.mp4": "200 Mon, 02 Nov 2026 19:53:48 GMT 3173777",
+    "index.html": "200 Mon, 02 Nov 2026 19:53:48 GMT 104461"
   }
 }
