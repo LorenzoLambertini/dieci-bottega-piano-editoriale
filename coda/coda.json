@@ -1281,25 +1281,22 @@
           "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
           "video": "media/reel/R12.mp4",
           "stato": "programmato",
-          "bufferId": "6adfc85e465475d28777d45f",
-          "programmatoIl": "2026-10-26T21:38:38.301Z",
-          "daAggiornare": true
+          "bufferId": "6aea3b625fa3d509fa3d32f7",
+          "programmatoIl": "2026-11-03T19:52:02.668Z"
         },
         "facebook": {
           "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\n\nVota nei commenti. Il numero vero ti farà riaprire il tuo sito dal telefono.",
           "video": "media/reel/R12.mp4",
           "stato": "programmato",
-          "bufferId": "6adfc85e465475d28777d4aa",
-          "programmatoIl": "2026-10-26T21:38:38.631Z",
-          "daAggiornare": true
+          "bufferId": "6aea3b622128cca0a51e459b",
+          "programmatoIl": "2026-11-03T19:52:03.034Z"
         },
         "linkedin": {
           "testo": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Falso.\n\nSu mobile, oltre i 3 secondi di caricamento se ne va il 53% delle visite. Più di una su due. (Google)\n\nIl punto non è la velocità in sé. È che quelle visite erano persone che ti avevano già scelto abbastanza da cercarti.\n\n#Performance #Mobile #PMI",
           "video": "media/reel/R12.mp4",
           "stato": "programmato",
-          "bufferId": "6adfc85ea72c078abdbb9a9e",
-          "programmatoIl": "2026-10-26T21:38:38.919Z",
-          "daAggiornare": true
+          "bufferId": "6aea3b635a7c19a37cd0373a",
+          "programmatoIl": "2026-11-03T19:52:03.460Z"
         }
       }
     },
@@ -1640,17 +1637,23 @@
         "instagram": {
           "testo": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
           "video": "media/reel/R27.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aea3b6352391758e2e660f5",
+          "programmatoIl": "2026-11-03T19:52:04.068Z"
         },
         "facebook": {
           "testo": "Quale di questi NON conta per comparire su Google Maps: la distanza, il colore del logo o la pertinenza?\n\nSembra facile. Rispondi qui sotto.",
           "video": "media/reel/R27.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aea3b645fa3d509fa3d3345",
+          "programmatoIl": "2026-11-03T19:52:04.457Z"
         },
         "linkedin": {
           "testo": "Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il profilo risponde alla ricerca), distanza da chi cerca, prominenza (quanto sei conosciuto: link, recensioni, valutazioni).\n\nLe recensioni contano: più sono, e più sono positive, più possono aiutare. Rispondere mostra che l'attività è viva. (Google, guida del Profilo dell'Attività)\n\nIl colore del logo, invece, non conta. Ma quanti profili vediamo curati nel logo e lasciati vuoti negli orari?\n\n#GoogleMaps #SEOLocale #PMI",
           "video": "media/reel/R27.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aea3b642128cca0a51e45f5",
+          "programmatoIl": "2026-11-03T19:52:04.815Z"
         }
       }
     },
