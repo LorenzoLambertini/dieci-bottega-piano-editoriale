@@ -1,6 +1,17 @@
 {
   "facebook": [
     {
+      "id": "6aea3b622128cca0a51e459b",
+      "dueAt": "2026-11-04T17:30:00.000Z",
+      "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\n\nVota nei commenti. Il numero vero ti farà riaprire il tuo sito dal telefono.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R12.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ada7334a05ab31b9375b5d9",
       "dueAt": "2026-11-07T10:00:00.000Z",
       "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\n\nVota nei commenti. E se la tua è tra quelle senza, rimediamo in dieci giorni.",
@@ -87,9 +98,31 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6aea3b645fa3d509fa3d3345",
+      "dueAt": "2026-11-24T17:30:00.000Z",
+      "text": "Quale di questi NON conta per comparire su Google Maps: la distanza, il colore del logo o la pertinenza?\n\nSembra facile. Rispondi qui sotto.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R27.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "linkedin": [
+    {
+      "id": "6aea3b635a7c19a37cd0373a",
+      "dueAt": "2026-11-04T17:30:00.000Z",
+      "text": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Falso.\n\nSu mobile, oltre i 3 secondi di caricamento se ne va il 53% delle visite. Più di una su due. (Google)\n\nIl punto non è la velocità in sé. È che quelle visite erano persone che ti avevano già scelto abbastanza da cercarti.\n\n#Performance #Mobile #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R12.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ada7334793513d242f2829c",
       "dueAt": "2026-11-07T10:00:00.000Z",
@@ -177,9 +210,31 @@
           "tipo": "video/mp4"
         }
       ]
+    },
+    {
+      "id": "6aea3b642128cca0a51e45f5",
+      "dueAt": "2026-11-24T17:30:00.000Z",
+      "text": "Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il profilo risponde alla ricerca), distanza da chi cerca, prominenza (quanto sei conosciuto: link, recensioni, valutazioni).\n\nLe recensioni contano: più sono, e più sono positive, più possono aiutare. Rispondere mostra che l'attività è viva. (Google, guida del Profilo dell'Attività)\n\nIl colore del logo, invece, non conta. Ma quanti profili vediamo curati nel logo e lasciati vuoti negli orari?\n\n#GoogleMaps #SEOLocale #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R27.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
     }
   ],
   "instagram": [
+    {
+      "id": "6aea3b625fa3d509fa3d32f7",
+      "dueAt": "2026-11-04T17:30:00.000Z",
+      "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R12.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
     {
       "id": "6ada73340cf9e34948499b7a",
       "dueAt": "2026-11-07T10:00:00.000Z",
@@ -264,6 +319,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R28.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6aea3b6352391758e2e660f5",
+      "dueAt": "2026-11-24T17:30:00.000Z",
+      "text": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R27.mp4",
           "tipo": "video/mp4"
         }
       ]

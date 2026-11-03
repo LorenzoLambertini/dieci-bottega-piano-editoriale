@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 03/11/2026, 20:52:05
+Ultimo controllo: 03/11/2026, 23:21:04
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -42,7 +42,7 @@ Ultimo controllo: 03/11/2026, 20:52:05
 
 ### facebook
 
-- 04/11/26, 18:30 · 
+- 04/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 10/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
 - 14/11/26, 11:00 · Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa deci
@@ -51,11 +51,11 @@ Ultimo controllo: 03/11/2026, 20:52:05
 - 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro 
 - 21/11/26, 11:00 · Hai mai provato a toccare un bottone che si sposta proprio mentre la p
 - 22/11/26, 11:00 · Cosa succede quando ci scrivi? Ti rispondiamo entro 24 ore con un pian
-- 24/11/26, 18:30 · 
+- 24/11/26, 18:30 · Quale di questi NON conta per comparire su Google Maps: la distanza, i
 
 ### linkedin
 
-- 04/11/26, 18:30 · 
+- 04/11/26, 18:30 · "Se il sito è un po' lento, perdo solo qualche visita." Falso. Su mobi
 - 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 - 10/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
@@ -64,11 +64,11 @@ Ultimo controllo: 03/11/2026, 20:52:05
 - 19/11/26, 18:30 · Per Google il contenuto principale di una pagina deve comparire entro 
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 22/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
-- 24/11/26, 18:30 · 
+- 24/11/26, 18:30 · Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il
 
 ### instagram
 
-- 04/11/26, 18:30 · 
+- 04/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 10/11/26, 18:30 · Pagina "Chi siamo": quale foto scegli? A o B nei commenti. Le persone 
 - 14/11/26, 11:00 · Quale menu ti fa decidere prima? A o B nei commenti. Più scelte, più t
@@ -77,7 +77,7 @@ Ultimo controllo: 03/11/2026, 20:52:05
 - 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro.
 - 21/11/26, 11:00 · Mentre la pagina carica, quale va meglio? A o B nei commenti. Quando i
 - 22/11/26, 11:00 · Cosa succede quando ci scrivi? Ti rispondiamo entro 24 ore, con un pia
-- 24/11/26, 18:30 · 
+- 24/11/26, 18:30 · Quale di questi NON è un fattore del ranking locale di Google? La dist
 
 
 ## Ultime sostituzioni automatiche
