@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-02T19:52+00:00",
+ "aggiornato": "2026-11-03T19:50+00:00",
  "contenuti": [
   {
    "id": "P06",
@@ -85,8 +85,8 @@
    "id": "S02",
    "titolo": "Il numero che non si clicca",
    "tipo": "reel",
-   "quando": "2026-11-04 18:30",
-   "dueAt": "2026-11-04T17:30:00.000Z",
+   "quando": "2026-11-12 18:30",
+   "dueAt": "2026-11-12T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -169,37 +169,6 @@
     "linkedin": {
      "stato": "programmato",
      "testo": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. Più di quante usino i social, che sono il 59%. (Istat, Imprese e ICT 2025)\n\nTre su quattro. Vuol dire che chi non ha un sito non è più \"indietro\": è fuori dal confronto. Il cliente che sceglie tra quattro fornitori ne trova tre online.\n\nE per le microimprese il dato è più basso. Lì c'è spazio per distinguersi.\n\n#Istat #Digitale #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "R20",
-   "titolo": "Chi c’e dietro",
-   "tipo": "reel",
-   "quando": "2026-11-03 18:30",
-   "dueAt": "2026-11-03T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R20_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R20.mp4",
-   "durata": 25,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Chi c'è dietro Dieci Bottega?\nLorenzo Lambertini, design e web: crede che ogni pixel debba guadagnarsi il proprio posto. Tommaso Villa, strategia e vendite: trasforma un brief in un piano d'azione concreto. Amici da più di dieci anni, oggi una bottega.\nQuando ci scrivi, ti rispondiamo noi.\n#founders #bottegadigitale #bologna #pmiitaliane #webdesign",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Chi c'è dietro Dieci Bottega?\n\nLorenzo, design e web. Tommaso, strategia e vendite. Amici da più di dieci anni, oggi una bottega. Quando ci scrivi, ti rispondiamo noi.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Chi c'è dietro Dieci Bottega.\n\nLorenzo Lambertini, design e web: crede che ogni pixel debba guadagnarsi il proprio posto.\nTommaso Villa, strategia e vendite: trasforma un brief in un piano d'azione concreto.\n\nCi conosciamo da più di dieci anni. Abbiamo scelto di restare piccoli apposta: chi ti parla è chi fa il lavoro, senza passaggi di mano.\n\n#Founders #Bologna #PMI",
      "formato": "video",
      "errore": null
     }
@@ -302,8 +271,8 @@
    "id": "R12",
    "titolo": "Solo qualche visita persa",
    "tipo": "reel",
-   "quando": "2026-11-12 18:30",
-   "dueAt": "2026-11-12T17:30:00.000Z",
+   "quando": "2026-11-04 18:30",
+   "dueAt": "2026-11-04T17:30:00.000Z",
    "slide": [],
    "poster": "img/R12_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R12.mp4",
@@ -1409,6 +1378,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Quattro regole del Profilo dell'Attività di Google che molte PMI ignorano:\n\n1. Il nome reale, senza parole chiave aggiunte.\n2. Categorie: le più specifiche possibili.\n3. Orari aggiornati, anche quelli stagionali.\n4. Un profilo per ogni sede, mai doppioni.\n\nSono gratis, richiedono un'ora, e decidono se compari su Maps quando qualcuno cerca quello che fai, vicino a te.\n\nFonte: linee guida di Google\n\n#GoogleBusiness #SEOLocale #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R47",
+   "titolo": "Imprese che usano l’AI",
+   "tipo": "reel",
+   "quando": "2026-12-18 18:30",
+   "dueAt": "2026-12-18T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R47_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R47.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Imprese italiane che usano l'AI nel 2025: il 4%, il 50% o il 16,4%?\nRispondi nei commenti. Nel video il dato Istat, quanto è cresciuto in un anno e la differenza enorme tra grandi imprese e PMI.\n#intelligenzaartificiale #istat #pmiitaliane #digitale #automazioni",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Imprese italiane che usano l'intelligenza artificiale nel 2025: il 4%, il 16,4% o il 50%?\n\nScrivi la tua, poi guarda la differenza tra grandi e piccole.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Nel 2025 il 16,4% delle imprese italiane con almeno 10 addetti usa l'intelligenza artificiale. Il doppio del 2024. (Istat, Imprese e ICT)\n\nMa la media nasconde una frattura: nelle grandi imprese siamo al 53,1%, nelle PMI al 15,7%.\n\nNon è una questione di budget. Molte automazioni utili a una piccola attività costano meno di un abbonamento software.\n\n#IntelligenzaArtificiale #Istat #PMI",
      "formato": "video",
      "errore": null
     }
