@@ -1040,8 +1040,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Attrazione",
-      "quando": "2026-11-04 18:30",
-      "dueAt": "2026-11-04T17:30:00.000Z",
+      "quando": "2026-11-12 18:30",
+      "dueAt": "2026-11-12T17:30:00.000Z",
       "nota": "Da girare: Lorenzo in camera + 2 registrazioni schermo da iPhone (numero testo / numero cliccabile) su sito fittizio. Quando il video è pronto va in media/strategia/S02.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1274,29 +1274,32 @@
       "titolo": "Solo qualche visita persa",
       "formato": "Vero o falso?",
       "tipo": "reel",
-      "quando": "2026-11-12 18:30",
-      "dueAt": "2026-11-12T17:30:00.000Z",
+      "quando": "2026-11-04 18:30",
+      "dueAt": "2026-11-04T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
           "video": "media/reel/R12.mp4",
           "stato": "programmato",
           "bufferId": "6adfc85e465475d28777d45f",
-          "programmatoIl": "2026-10-26T21:38:38.301Z"
+          "programmatoIl": "2026-10-26T21:38:38.301Z",
+          "daAggiornare": true
         },
         "facebook": {
           "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\n\nVota nei commenti. Il numero vero ti farà riaprire il tuo sito dal telefono.",
           "video": "media/reel/R12.mp4",
           "stato": "programmato",
           "bufferId": "6adfc85e465475d28777d4aa",
-          "programmatoIl": "2026-10-26T21:38:38.631Z"
+          "programmatoIl": "2026-10-26T21:38:38.631Z",
+          "daAggiornare": true
         },
         "linkedin": {
           "testo": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Falso.\n\nSu mobile, oltre i 3 secondi di caricamento se ne va il 53% delle visite. Più di una su due. (Google)\n\nIl punto non è la velocità in sé. È che quelle visite erano persone che ti avevano già scelto abbastanza da cercarti.\n\n#Performance #Mobile #PMI",
           "video": "media/reel/R12.mp4",
           "stato": "programmato",
           "bufferId": "6adfc85ea72c078abdbb9a9e",
-          "programmatoIl": "2026-10-26T21:38:38.919Z"
+          "programmatoIl": "2026-10-26T21:38:38.919Z",
+          "daAggiornare": true
         }
       }
     },
