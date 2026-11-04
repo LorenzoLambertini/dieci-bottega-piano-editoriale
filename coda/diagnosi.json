@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6aebb3cb50fc4a0253ecba9e",
+        "dueAt": "2026-11-26T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6aebb3ca196569598525f72d",
+        "dueAt": "2026-11-26T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Più voci metti nel menu... decidi prima, nessuna differenza ",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6aebb3ca022b8f16d7d5d2d4",
+        "dueAt": "2026-11-26T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Più voci metti nel menu del tuo sito... decidi prima, nessun",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6aea3b645fa3d509fa3d3345",
         "dueAt": "2026-11-24T17:30:00.000Z",
         "sentAt": null,
@@ -626,50 +665,11 @@
         "via": "buffer"
       },
       {
-        "id": "6aea3b635a7c19a37cd0373a",
-        "dueAt": "2026-11-04T17:30:00.000Z",
-        "sentAt": null,
-        "text": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Fals",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6aea3b6352391758e2e660f5",
         "dueAt": "2026-11-24T17:30:00.000Z",
         "sentAt": null,
         "text": "Quale di questi NON è un fattore del ranking locale di Googl",
         "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6aea3b625fa3d509fa3d32f7",
-        "dueAt": "2026-11-04T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi s",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6aea3b622128cca0a51e459b",
-        "dueAt": "2026-11-04T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi s",
-        "channelService": "facebook",
         "error": null,
         "notificationStatus": null,
         "schedulingType": "automatic",
@@ -992,6 +992,45 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6aea3b635a7c19a37cd0373a",
+        "dueAt": "2026-11-04T17:30:00.000Z",
+        "sentAt": "2026-11-04T17:31:45.278Z",
+        "text": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Fals",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6aea3b625fa3d509fa3d32f7",
+        "dueAt": "2026-11-04T17:30:00.000Z",
+        "sentAt": "2026-11-04T17:33:18.708Z",
+        "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi s",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6aea3b622128cca0a51e459b",
+        "dueAt": "2026-11-04T17:30:00.000Z",
+        "sentAt": "2026-11-04T17:31:35.023Z",
+        "text": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi s",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6ae8e9a69299fa2e50059aea",
         "dueAt": "2026-11-03T17:30:00.000Z",
@@ -1342,52 +1381,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad120a888872628bd7babfd",
-        "dueAt": "2026-10-29T17:30:00.000Z",
-        "sentAt": "2026-10-29T17:31:41.408Z",
-        "text": "Una ciclofficina, due homepage. Una funziona, l'altra no.\n\nL",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ad120a7f06f0ba71678587e",
-        "dueAt": "2026-10-29T17:30:00.000Z",
-        "sentAt": "2026-10-29T17:32:47.816Z",
-        "text": "Quale homepage funziona meglio?\n\nDue versioni, una sola funz",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
-      },
-      {
-        "id": "6ad120a7180e27ff0b098f37",
-        "dueAt": "2026-10-29T17:30:00.000Z",
-        "sentAt": "2026-10-29T17:31:36.677Z",
-        "text": "Una ciclofficina di Bologna, due homepage. Quale funziona me",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Tue, 03 Nov 2026 19:55:08 GMT 2888614",
-    "media/reel/R07.mp4": "200 Tue, 03 Nov 2026 19:55:08 GMT 3173777",
-    "index.html": "200 Tue, 03 Nov 2026 19:55:08 GMT 104461"
+    "media/reel/R02.mp4": "200 Wed, 04 Nov 2026 19:53:41 GMT 2888614",
+    "media/reel/R07.mp4": "200 Wed, 04 Nov 2026 19:53:41 GMT 3173777",
+    "index.html": "200 Wed, 04 Nov 2026 19:53:41 GMT 104461"
   }
 }

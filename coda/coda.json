@@ -1696,17 +1696,23 @@
         "instagram": {
           "testo": "Più voci metti nel menu... decidi prima, nessuna differenza o decidi più tardi?\nRispondi nei commenti. La risposta è nella legge di Hick-Hyman, e c'è un dettaglio che sorprende su quanto cresce il tempo.\n#ux #menu #webdesign #sitiweb #pmiitaliane",
           "video": "media/reel/R29.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aebb3ca196569598525f72d",
+          "programmatoIl": "2026-11-04T22:38:02.558Z"
         },
         "facebook": {
           "testo": "Più voci metti nel menu del tuo sito... decidi prima, nessuna differenza o decidi più tardi?\n\nScrivi la tua nei commenti.",
           "video": "media/reel/R29.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aebb3ca022b8f16d7d5d2d4",
+          "programmatoIl": "2026-11-04T22:38:03.040Z"
         },
         "linkedin": {
           "testo": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli anni '50 ed è ancora una delle più utili nel web design.\n\nIl tempo di decisione cresce in modo logaritmico: raddoppiare le voci non raddoppia l'attesa, ma la aumenta sempre.\n\nSu un sito aziendale significa una cosa semplice: ogni voce di menu deve giustificare il suo posto. Se non porta a una decisione, toglila.\n\n#UX #Menu #WebDesign",
           "video": "media/reel/R29.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aebb3cb50fc4a0253ecba9e",
+          "programmatoIl": "2026-11-04T22:38:03.642Z"
         }
       }
     },

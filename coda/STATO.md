@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 04/11/2026, 14:03:48
+Ultimo controllo: 04/11/2026, 23:38:04
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -20,7 +20,6 @@ Ultimo controllo: 04/11/2026, 14:03:48
 | 2026-11-09 18:30 | S04 | Sito del lunedì: l'agente immobiliare | manca_video | manca_video | manca_video |
 | 2026-11-10 18:30 | R11 | La foto del chi siamo | programmato | programmato | programmato |
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
-| 2026-11-04 18:30 | R12 | Solo qualche visita persa | programmato | programmato | programmato |
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
 | 2026-11-14 11:00 | R21 | Quale menu | programmato | programmato | programmato |
 | 2026-11-15 11:00 | R25 | Solo un effetto | programmato | programmato | programmato |
@@ -34,15 +33,15 @@ Ultimo controllo: 04/11/2026, 14:03:48
 | 2026-11-23 18:30 | S10 | Sito del lunedì: audit su richiesta | manca_video | manca_video | manca_video |
 | 2026-11-24 18:30 | R27 | Il ranking locale | programmato | programmato | programmato |
 | 2026-11-25 18:30 | S11 | Due idraulici | manca_video | manca_video | manca_video |
-| 2026-11-26 18:30 | R29 | Le voci nel menu | da_programmare | da_programmare | da_programmare |
+| 2026-11-26 18:30 | R29 | Le voci nel menu | programmato | programmato | programmato |
 | 2026-11-27 18:30 | S12 | 10 giorni in 40 secondi | manca_video | manca_video | manca_video |
 | 2026-11-28 11:00 | R31 | Banner cookie in regola | da_programmare | da_programmare | da_programmare |
+| 2026-11-29 11:00 | R33 | Con cosa e fatto | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### facebook
 
-- 04/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 10/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
 - 14/11/26, 11:00 · Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa deci
@@ -52,10 +51,10 @@ Ultimo controllo: 04/11/2026, 14:03:48
 - 21/11/26, 11:00 · Hai mai provato a toccare un bottone che si sposta proprio mentre la p
 - 22/11/26, 11:00 · Cosa succede quando ci scrivi? Ti rispondiamo entro 24 ore con un pian
 - 24/11/26, 18:30 · Quale di questi NON conta per comparire su Google Maps: la distanza, i
+- 26/11/26, 18:30 · 
 
 ### linkedin
 
-- 04/11/26, 18:30 · "Se il sito è un po' lento, perdo solo qualche visita." Falso. Su mobi
 - 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 - 10/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
@@ -65,10 +64,10 @@ Ultimo controllo: 04/11/2026, 14:03:48
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 22/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
 - 24/11/26, 18:30 · Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il
+- 26/11/26, 18:30 · 
 
 ### instagram
 
-- 04/11/26, 18:30 · Vero o falso: "Se il sito ci mette più di 3 secondi, perdi solo qualch
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 10/11/26, 18:30 · Pagina "Chi siamo": quale foto scegli? A o B nei commenti. Le persone 
 - 14/11/26, 11:00 · Quale menu ti fa decidere prima? A o B nei commenti. Più scelte, più t
@@ -78,6 +77,7 @@ Ultimo controllo: 04/11/2026, 14:03:48
 - 21/11/26, 11:00 · Mentre la pagina carica, quale va meglio? A o B nei commenti. Quando i
 - 22/11/26, 11:00 · Cosa succede quando ci scrivi? Ti rispondiamo entro 24 ore, con un pia
 - 24/11/26, 18:30 · Quale di questi NON è un fattore del ranking locale di Google? La dist
+- 26/11/26, 18:30 · 
 
 
 ## Ultime sostituzioni automatiche
