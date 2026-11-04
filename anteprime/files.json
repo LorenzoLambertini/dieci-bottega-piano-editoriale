@@ -1,7 +1,6 @@
 {
  "data.json": "anteprime/data.json",
  "img/R11_poster.jpg": "anteprime/img/R11_poster.jpg",
- "img/R12_poster.jpg": "anteprime/img/R12_poster.jpg",
  "img/R19_poster.jpg": "anteprime/img/R19_poster.jpg",
  "img/R21_poster.jpg": "anteprime/img/R21_poster.jpg",
  "img/R22_poster.jpg": "anteprime/img/R22_poster.jpg",
@@ -31,5 +30,6 @@
  "img/R53_poster.jpg": "anteprime/img/R53_poster.jpg",
  "img/R55_poster.jpg": "anteprime/img/R55_poster.jpg",
  "img/R58_poster.jpg": "anteprime/img/R58_poster.jpg",
- "img/R60_poster.jpg": "anteprime/img/R60_poster.jpg"
+ "img/R60_poster.jpg": "anteprime/img/R60_poster.jpg",
+ "img/R63_poster.jpg": "anteprime/img/R63_poster.jpg"
 }

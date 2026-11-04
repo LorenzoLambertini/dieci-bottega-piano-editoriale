@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-03T19:50+00:00",
+ "aggiornato": "2026-11-04T19:49+00:00",
  "contenuti": [
   {
    "id": "P06",
@@ -262,37 +262,6 @@
     "linkedin": {
      "stato": "manca_video",
      "testo": "Sono le dieci di sera. Una persona cerca un fisioterapista per il giorno dopo.\n\nTrova due siti. Il primo è del 2015: numero non cliccabile, niente orari. Il secondo dice cosa fa e ha un bottone: prenota.\n\nForse il primo era più bravo. Il cliente non lo saprà mai.\n\nOnline non vince il più bravo. Vince chi si fa capire in tre secondi.\n\n#Sanità #SitiWeb #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "R12",
-   "titolo": "Solo qualche visita persa",
-   "tipo": "reel",
-   "quando": "2026-11-04 18:30",
-   "dueAt": "2026-11-04T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R12_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R12.mp4",
-   "durata": 25,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\n\nVota nei commenti. Il numero vero ti farà riaprire il tuo sito dal telefono.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Falso.\n\nSu mobile, oltre i 3 secondi di caricamento se ne va il 53% delle visite. Più di una su due. (Google)\n\nIl punto non è la velocità in sé. È che quelle visite erano persone che ti avevano già scelto abbastanza da cercarti.\n\n#Performance #Mobile #PMI",
      "formato": "video",
      "errore": null
     }
@@ -651,19 +620,19 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Quale di questi NON conta per comparire su Google Maps: la distanza, il colore del logo o la pertinenza?\n\nSembra facile. Rispondi qui sotto.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il profilo risponde alla ricerca), distanza da chi cerca, prominenza (quanto sei conosciuto: link, recensioni, valutazioni).\n\nLe recensioni contano: più sono, e più sono positive, più possono aiutare. Rispondere mostra che l'attività è viva. (Google, guida del Profilo dell'Attività)\n\nIl colore del logo, invece, non conta. Ma quanti profili vediamo curati nel logo e lasciati vuoti negli orari?\n\n#GoogleMaps #SEOLocale #PMI",
      "formato": "video",
      "errore": null
@@ -1409,6 +1378,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Nel 2025 il 16,4% delle imprese italiane con almeno 10 addetti usa l'intelligenza artificiale. Il doppio del 2024. (Istat, Imprese e ICT)\n\nMa la media nasconde una frattura: nelle grandi imprese siamo al 53,1%, nelle PMI al 15,7%.\n\nNon è una questione di budget. Molte automazioni utili a una piccola attività costano meno di un abbonamento software.\n\n#IntelligenzaArtificiale #Istat #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R63",
+   "titolo": "Cinque domande",
+   "tipo": "reel",
+   "quando": "2026-12-19 11:00",
+   "dueAt": "2026-12-19T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R63_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R63.mp4",
+   "durata": 26,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Prima di firmare, cinque domande da fare a un'agenzia.\nChi lavora davvero al progetto? A chi è intestato il dominio? Con quale tecnologia, e perché? Quando si pensa a Google? Cosa succede dopo il lancio?\nLe nostre risposte: Lorenzo e Tommaso. A te. Next.js, codice a mano. Dal primo giorno. Supporto post-lancio, incluso. Prezzi pubblici, tempi reali, limiti chiari.\n#sitiweb #pmiitaliane #consigli #bottegadigitale #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Prima di firmare con un'agenzia, fai queste 5 domande: chi lavora al progetto? A chi è intestato il dominio? Con che tecnologia? Quando si pensa a Google? Cosa succede dopo?\n\nSalvalo per quando ti servirà.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Cinque domande da fare a un'agenzia prima di firmare:\n\n1. Chi lavora davvero al progetto?\n2. A chi è intestato il dominio?\n3. Con quale tecnologia, e perché?\n4. Quando si pensa a Google?\n5. Cosa succede dopo il lancio?\n\nLe nostre risposte: Lorenzo e Tommaso. A te. Next.js, codice scritto a mano. Dal primo giorno. Supporto post-lancio, incluso.\n\nPrezzi pubblici, tempi reali, limiti chiari.\n\n#PMI #Consigli #WebDesign",
      "formato": "video",
      "errore": null
     }
