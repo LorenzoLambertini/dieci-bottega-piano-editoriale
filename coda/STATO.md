@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 04/11/2026, 23:38:04
+Ultimo controllo: 05/11/2026, 14:17:03
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -51,7 +51,7 @@ Ultimo controllo: 04/11/2026, 23:38:04
 - 21/11/26, 11:00 · Hai mai provato a toccare un bottone che si sposta proprio mentre la p
 - 22/11/26, 11:00 · Cosa succede quando ci scrivi? Ti rispondiamo entro 24 ore con un pian
 - 24/11/26, 18:30 · Quale di questi NON conta per comparire su Google Maps: la distanza, i
-- 26/11/26, 18:30 · 
+- 26/11/26, 18:30 · Più voci metti nel menu del tuo sito... decidi prima, nessuna differen
 
 ### linkedin
 
@@ -64,7 +64,7 @@ Ultimo controllo: 04/11/2026, 23:38:04
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 22/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
 - 24/11/26, 18:30 · Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il
-- 26/11/26, 18:30 · 
+- 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
 
 ### instagram
 
@@ -77,7 +77,7 @@ Ultimo controllo: 04/11/2026, 23:38:04
 - 21/11/26, 11:00 · Mentre la pagina carica, quale va meglio? A o B nei commenti. Quando i
 - 22/11/26, 11:00 · Cosa succede quando ci scrivi? Ti rispondiamo entro 24 ore, con un pia
 - 24/11/26, 18:30 · Quale di questi NON è un fattore del ranking locale di Google? La dist
-- 26/11/26, 18:30 · 
+- 26/11/26, 18:30 · Più voci metti nel menu... decidi prima, nessuna differenza o decidi p
 
 
 ## Ultime sostituzioni automatiche
