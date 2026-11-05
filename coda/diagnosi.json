@@ -199,7 +199,7 @@
       "id": "6ab4510dea19ca0bdecc802f",
       "name": "diecibottega",
       "service": "instagram",
-      "isDisconnected": false,
+      "isDisconnected": true,
       "isLocked": false
     }
   ],
@@ -600,6 +600,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6aecddd29f2731311a664b05",
+        "dueAt": "2026-11-06T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Pagina \"Chi siamo\": foto di gruppo da catalogo o la faccia v",
+        "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6aecddd2845dce9f7663b861",
+        "dueAt": "2026-11-06T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Nella pagina \"Chi siamo\" le persone vere vengono guardate. L",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6aecddd1f12e774839568764",
+        "dueAt": "2026-11-06T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nL",
+        "channelService": "instagram",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6aebb3cb50fc4a0253ecba9e",
         "dueAt": "2026-11-26T17:30:00.000Z",
         "sentAt": null,
@@ -904,45 +943,6 @@
         "sentAt": null,
         "text": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù sce",
         "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ade5a943d5b27036bec2241",
-        "dueAt": "2026-11-10T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Nella pagina \"Chi siamo\" le persone vere vengono guardate. L",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ade5a93e4be8a4d86c31bba",
-        "dueAt": "2026-11-10T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nL",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ade5a93bd33ce99c38a442b",
-        "dueAt": "2026-11-10T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Pagina \"Chi siamo\": foto di gruppo da catalogo o la faccia v",
-        "channelService": "facebook",
         "error": null,
         "notificationStatus": null,
         "schedulingType": "automatic",
@@ -1386,8 +1386,8 @@
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Wed, 04 Nov 2026 19:53:41 GMT 2888614",
-    "media/reel/R07.mp4": "200 Wed, 04 Nov 2026 19:53:41 GMT 3173777",
-    "index.html": "200 Wed, 04 Nov 2026 19:53:41 GMT 104461"
+    "media/reel/R02.mp4": "200 Thu, 05 Nov 2026 19:51:28 GMT 2888614",
+    "media/reel/R07.mp4": "200 Thu, 05 Nov 2026 19:51:56 GMT 3173777",
+    "index.html": "200 Thu, 05 Nov 2026 19:52:05 GMT 104461"
   }
 }

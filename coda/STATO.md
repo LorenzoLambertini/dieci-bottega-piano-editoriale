@@ -1,12 +1,11 @@
 # Stato coda social
 
-Ultimo controllo: 05/11/2026, 20:49:39
+Ultimo controllo: 05/11/2026, 23:41:24
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
 | facebook | 10 | 0 |
 | linkedin | 10 | 0 |
-| instagram | 10 | 0 |
 
 ## Prossimi in coda
 
@@ -42,7 +41,7 @@ Ultimo controllo: 05/11/2026, 20:49:39
 
 ### facebook
 
-- 06/11/26, 18:30 · 
+- 06/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
 - 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
 - 14/11/26, 11:00 · Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa deci
 - 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
@@ -55,7 +54,7 @@ Ultimo controllo: 05/11/2026, 20:49:39
 
 ### linkedin
 
-- 06/11/26, 18:30 · 
+- 06/11/26, 18:30 · Nella pagina "Chi siamo" le persone vere vengono guardate. Le foto sto
 - 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 - 15/11/26, 11:00 · Un'animazione che non serve la storia è solo un effetto. Ed è quello c
@@ -65,19 +64,6 @@ Ultimo controllo: 05/11/2026, 20:49:39
 - 22/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
 - 24/11/26, 18:30 · Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
-
-### instagram
-
-- 06/11/26, 18:30 · 
-- 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
-- 14/11/26, 11:00 · Quale menu ti fa decidere prima? A o B nei commenti. Più scelte, più t
-- 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
-- 17/11/26, 18:30 · Vero o falso: "Se chiudi il banner con la X, accetti i cookie." Vota n
-- 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro.
-- 21/11/26, 11:00 · Mentre la pagina carica, quale va meglio? A o B nei commenti. Quando i
-- 22/11/26, 11:00 · Cosa succede quando ci scrivi? Ti rispondiamo entro 24 ore, con un pia
-- 24/11/26, 18:30 · Quale di questi NON è un fattore del ranking locale di Google? La dist
-- 26/11/26, 18:30 · Più voci metti nel menu... decidi prima, nessuna differenza o decidi p
 
 
 ## Ultime sostituzioni automatiche

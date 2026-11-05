@@ -1,6 +1,17 @@
 {
   "facebook": [
     {
+      "id": "6aecddd29f2731311a664b05",
+      "dueAt": "2026-11-06T17:30:00.000Z",
+      "text": "Pagina \"Chi siamo\": foto di gruppo da catalogo o la faccia vera di chi lavora? A o B?\n\nScrivi la tua nei commenti.",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R11.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ada7334a05ab31b9375b5d9",
       "dueAt": "2026-11-07T10:00:00.000Z",
       "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\n\nVota nei commenti. E se la tua è tra quelle senza, rimediamo in dieci giorni.",
@@ -102,6 +113,17 @@
   ],
   "linkedin": [
     {
+      "id": "6aecddd2845dce9f7663b861",
+      "dueAt": "2026-11-06T17:30:00.000Z",
+      "text": "Nella pagina \"Chi siamo\" le persone vere vengono guardate. Le foto stock vengono ignorate.\n\nGli studi di eyetracking di Nielsen Norman Group lo mostrano da anni: le foto del team reale vengono osservate più a lungo del testo, anche quando il testo occupa più spazio. Le immagini generiche, invece, l'occhio le salta.\n\nPer una piccola impresa è un vantaggio enorme: la faccia del titolare costa meno di qualsiasi foto stock, e vale di più.\n\n#WebDesign #Fiducia #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R11.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ada7334793513d242f2829c",
       "dueAt": "2026-11-07T10:00:00.000Z",
       "text": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. Più di quante usino i social, che sono il 59%. (Istat, Imprese e ICT 2025)\n\nTre su quattro. Vuol dire che chi non ha un sito non è più \"indietro\": è fuori dal confronto. Il cliente che sceglie tra quattro fornitori ne trova tre online.\n\nE per le microimprese il dato è più basso. Lì c'è spazio per distinguersi.\n\n#Istat #Digitale #PMI",
@@ -193,107 +215,6 @@
       "id": "6aebb3cb50fc4a0253ecba9e",
       "dueAt": "2026-11-26T17:30:00.000Z",
       "text": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli anni '50 ed è ancora una delle più utili nel web design.\n\nIl tempo di decisione cresce in modo logaritmico: raddoppiare le voci non raddoppia l'attesa, ma la aumenta sempre.\n\nSu un sito aziendale significa una cosa semplice: ogni voce di menu deve giustificare il suo posto. Se non porta a una decisione, toglila.\n\n#UX #Menu #WebDesign",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R29.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    }
-  ],
-  "instagram": [
-    {
-      "id": "6ada73340cf9e34948499b7a",
-      "dueAt": "2026-11-07T10:00:00.000Z",
-      "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\nRispondi nei commenti, poi guarda il dato Istat. Spoiler: sono più di quelle che usano i social.\nSe la tua è tra quelle che mancano, rimediamo in dieci giorni.\n#istat #pmiitaliane #sitiweb #digitale #bologna",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R19.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ae115a32f35d654faeed7a5",
-      "dueAt": "2026-11-14T10:00:00.000Z",
-      "text": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù scelte, più tempo per decidere: lo dice la legge di Hick-Hyman. Ma nel video c'è la parte che pochi sanno, su quanto cresce davvero quel tempo.\n#ux #webdesign #menu #sitiweb #pmiitaliane",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R21.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ae3a39c8828b976bca4bd00",
-      "dueAt": "2026-11-15T10:00:00.000Z",
-      "text": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\nIl movimento ha tre regole: rapido, deciso, mai gratuito. Ogni transizione sta tra 150 e 400 millisecondi. Oltre, l'occhio percepisce lentezza. Sotto, l'animazione sparisce. — Lorenzo\n#motiondesign #webdesign #dettagli #bottegadigitale #ux",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R25.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ae50c79406ab8a01883748e",
-      "dueAt": "2026-11-17T17:30:00.000Z",
-      "text": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R22.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ae5c9b2ceb491e585f04d80",
-      "dueAt": "2026-11-19T17:30:00.000Z",
-      "text": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R24.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ae798323f7155902f73306e",
-      "dueAt": "2026-11-21T10:00:00.000Z",
-      "text": "Mentre la pagina carica, quale va meglio? A o B nei commenti.\nQuando il bottone salta proprio mentre stai per toccarlo, non è sfortuna: è una misura precisa, ed è uno dei tre Core Web Vitals di Google. Te la spieghiamo nel video.\n#corewebvitals #ux #webdesign #sitiweb #pmiitaliane",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R26.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6ae8e9a7fb05897d9d38c481",
-      "dueAt": "2026-11-22T10:00:00.000Z",
-      "text": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, con un piano d'azione. Poi una prima call gratuita, trenta minuti. Senza impegno, senza preventivi gonfiati: capisci se siamo i giusti per te.\nScrivici da diecibottega.it o su WhatsApp.\n#bottegadigitale #sitiweb #pmiitaliane #bologna #webdesign",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R28.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6aea3b6352391758e2e660f5",
-      "dueAt": "2026-11-24T17:30:00.000Z",
-      "text": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R27.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6aebb3ca196569598525f72d",
-      "dueAt": "2026-11-26T17:30:00.000Z",
-      "text": "Più voci metti nel menu... decidi prima, nessuna differenza o decidi più tardi?\nRispondi nei commenti. La risposta è nella legge di Hick-Hyman, e c'è un dettaglio che sorprende su quanto cresce il tempo.\n#ux #menu #webdesign #sitiweb #pmiitaliane",
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R29.mp4",
