@@ -1,46 +1,6 @@
 {
- "aggiornato": "2026-11-04T19:49+00:00",
+ "aggiornato": "2026-11-05T19:49+00:00",
  "contenuti": [
-  {
-   "id": "P06",
-   "titolo": "Reel Dettaglio",
-   "tipo": "reel",
-   "quando": "2026-11-05 18:30",
-   "dueAt": "2026-11-05T17:30:00.000Z",
-   "slide": [],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "manca_video",
-     "testo": "Molti dettagli che fanno perdere clienti non si vedono finché non provi il sito con una mano, in piedi, in tram.\nProva il tuo adesso: riesci a prenotare con il pollice? Ogni settimana un dettaglio nuovo.\n\n#webdesign #ux #ristorantibologna #sitiweb #bologna",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "manca_video",
-     "testo": "Prova il tuo sito con una mano sola, in piedi: riesci a prenotare con il pollice?\n\nUn bottone troppo piccolo è la differenza tra una prenotazione e una chiamata persa. Si sistema in dieci minuti.\n\nOgni settimana un dettaglio nuovo. È tutto nei dettagli.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "manca_video",
-     "testo": "Un bottone troppo piccolo costa più di quanto sembra.\n\nLe linee guida di Apple e Google chiedono un'area toccabile di almeno 44-48 punti. Molti siti di ristoranti, studi e negozi hanno ancora il pulsante \"Prenota\" o \"Chiama\" minuscolo, in alto, dove il pollice non arriva.\n\nDa telefono, in piedi, con una mano sola, quel bottone non lo premi. E la prenotazione diventa una chiamata persa.\n\nLa correzione richiede dieci minuti: più grande, più in basso, più contrasto.\n\nÈ il tipo di dettaglio che non compare in nessun preventivo, ma che decide se un sito lavora o no.\n\n#UX #WebDesign #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   },
-   "sostituzioni": [
-    {
-     "il": "2026-10-14T19:00:00.000Z",
-     "da": "2026-10-14 18:30",
-     "a": "2026-10-30 18:30",
-     "conContenuto": null,
-     "nota": "controllo serale: sostituzione automatica non partita (cron GitHub saltato), slot del 14/10 18:30 rimasto vuoto"
-    }
-   ]
-  },
   {
    "id": "S01",
    "titolo": "Sito del lunedì: il ristorante",
@@ -116,8 +76,8 @@
    "id": "S03",
    "titolo": "Il passaparola non basta",
    "tipo": "reel",
-   "quando": "2026-11-06 18:30",
-   "dueAt": "2026-11-06T17:30:00.000Z",
+   "quando": "2026-11-10 18:30",
+   "dueAt": "2026-11-10T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -209,8 +169,8 @@
    "id": "R11",
    "titolo": "La foto del chi siamo",
    "tipo": "reel",
-   "quando": "2026-11-10 18:30",
-   "dueAt": "2026-11-10T17:30:00.000Z",
+   "quando": "2026-11-06 18:30",
+   "dueAt": "2026-11-06T17:30:00.000Z",
    "slide": [],
    "poster": "img/R11_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R11.mp4",
@@ -682,19 +642,19 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Più voci metti nel menu... decidi prima, nessuna differenza o decidi più tardi?\nRispondi nei commenti. La risposta è nella legge di Hick-Hyman, e c'è un dettaglio che sorprende su quanto cresce il tempo.\n#ux #menu #webdesign #sitiweb #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Più voci metti nel menu del tuo sito... decidi prima, nessuna differenza o decidi più tardi?\n\nScrivi la tua nei commenti.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli anni '50 ed è ancora una delle più utili nel web design.\n\nIl tempo di decisione cresce in modo logaritmico: raddoppiare le voci non raddoppia l'attesa, ma la aumenta sempre.\n\nSu un sito aziendale significa una cosa semplice: ogni voce di menu deve giustificare il suo posto. Se non porta a una decisione, toglila.\n\n#UX #Menu #WebDesign",
      "formato": "video",
      "errore": null
@@ -1409,6 +1369,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Cinque domande da fare a un'agenzia prima di firmare:\n\n1. Chi lavora davvero al progetto?\n2. A chi è intestato il dominio?\n3. Con quale tecnologia, e perché?\n4. Quando si pensa a Google?\n5. Cosa succede dopo il lancio?\n\nLe nostre risposte: Lorenzo e Tommaso. A te. Next.js, codice scritto a mano. Dal primo giorno. Supporto post-lancio, incluso.\n\nPrezzi pubblici, tempi reali, limiti chiari.\n\n#PMI #Consigli #WebDesign",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R49",
+   "titolo": "Chi risponde entro un’ora",
+   "tipo": "reel",
+   "quando": "2026-12-20 11:00",
+   "dueAt": "2026-12-20T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R49_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R49.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Quante aziende rispondono a un contatto entro un'ora? Il 37%, il 70% o il 90%?\nRispondi nei commenti. Nel video la percentuale vera e il tempo medio di risposta, che fa riflettere. Fonte: Harvard Business Review.\n#clienti #vendite #crm #pmiitaliane #automazioni",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Quante aziende rispondono a un nuovo contatto entro un'ora? Il 37%, il 70% o il 90%?\n\nScrivi la tua. Tu quanto ci metti di solito?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Solo il 37% delle aziende risponde a un nuovo contatto entro un'ora. Il tempo medio di risposta è di 42 ore: quasi due giorni. (Harvard Business Review)\n\nNel frattempo il cliente ha scritto ad altri tre.\n\nLa velocità di risposta è il vantaggio competitivo più economico che esista. Basta un modulo che arriva al telefono giusto e un promemoria se nessuno ha risposto.\n\n#Vendite #Lead #PMI",
      "formato": "video",
      "errore": null
     }
