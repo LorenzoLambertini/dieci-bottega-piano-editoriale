@@ -1099,8 +1099,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Consapevolezza",
-      "quando": "2026-11-06 18:30",
-      "dueAt": "2026-11-06T17:30:00.000Z",
+      "quando": "2026-11-10 18:30",
+      "dueAt": "2026-11-10T17:30:00.000Z",
       "nota": "Da girare: Lorenzo o Tommaso in camera + mani su tastiera/telefono con ricerca Google di un nome fittizio. Quando il video è pronto va in media/strategia/S03.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1215,29 +1215,32 @@
       "titolo": "La foto del chi siamo",
       "formato": "A o B?",
       "tipo": "reel",
-      "quando": "2026-11-10 18:30",
-      "dueAt": "2026-11-10T17:30:00.000Z",
+      "quando": "2026-11-06 18:30",
+      "dueAt": "2026-11-06T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nLe persone vere vengono guardate, le foto stock vengono ignorate. Nel video c'è il dato (fonte: Nielsen Norman Group).\n#webdesign #chisiamo #fotografia #sitiweb #pmiitaliane",
           "video": "media/reel/R11.mp4",
           "stato": "programmato",
           "bufferId": "6ade5a93e4be8a4d86c31bba",
-          "programmatoIl": "2026-10-25T19:37:55.551Z"
+          "programmatoIl": "2026-10-25T19:37:55.551Z",
+          "daAggiornare": true
         },
         "facebook": {
           "testo": "Pagina \"Chi siamo\": foto di gruppo da catalogo o la faccia vera di chi lavora? A o B?\n\nScrivi la tua nei commenti.",
           "video": "media/reel/R11.mp4",
           "stato": "programmato",
           "bufferId": "6ade5a93bd33ce99c38a442b",
-          "programmatoIl": "2026-10-25T19:37:55.953Z"
+          "programmatoIl": "2026-10-25T19:37:55.953Z",
+          "daAggiornare": true
         },
         "linkedin": {
           "testo": "Nella pagina \"Chi siamo\" le persone vere vengono guardate. Le foto stock vengono ignorate.\n\nGli studi di eyetracking di Nielsen Norman Group lo mostrano da anni: le foto del team reale vengono osservate più a lungo del testo, anche quando il testo occupa più spazio. Le immagini generiche, invece, l'occhio le salta.\n\nPer una piccola impresa è un vantaggio enorme: la faccia del titolare costa meno di qualsiasi foto stock, e vale di più.\n\n#WebDesign #Fiducia #PMI",
           "video": "media/reel/R11.mp4",
           "stato": "programmato",
           "bufferId": "6ade5a943d5b27036bec2241",
-          "programmatoIl": "2026-10-25T19:37:56.338Z"
+          "programmatoIl": "2026-10-25T19:37:56.338Z",
+          "daAggiornare": true
         }
       }
     },
