@@ -1,10 +1,9 @@
 # Stato coda social
 
-Ultimo controllo: 05/11/2026, 23:41:24
+Ultimo controllo: 06/11/2026, 14:00:17
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
-| facebook | 10 | 0 |
 | linkedin | 10 | 0 |
 
 ## Prossimi in coda
@@ -38,19 +37,6 @@ Ultimo controllo: 05/11/2026, 23:41:24
 | 2026-11-30 18:30 | R32 | Microimprese esenti | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
-
-### facebook
-
-- 06/11/26, 18:30 · Pagina "Chi siamo": foto di gruppo da catalogo o la faccia vera di chi
-- 07/11/26, 11:00 · Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, 
-- 14/11/26, 11:00 · Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa deci
-- 15/11/26, 11:00 · Lezione della settimana: un'animazione che non serve la storia è solo 
-- 17/11/26, 18:30 · Vero o falso: "Se chiudi il banner dei cookie con la X, li accetti." V
-- 19/11/26, 18:30 · Per Google, il contenuto principale della pagina deve comparire entro 
-- 21/11/26, 11:00 · Hai mai provato a toccare un bottone che si sposta proprio mentre la p
-- 22/11/26, 11:00 · Cosa succede quando ci scrivi? Ti rispondiamo entro 24 ore con un pian
-- 24/11/26, 18:30 · Quale di questi NON conta per comparire su Google Maps: la distanza, i
-- 26/11/26, 18:30 · Più voci metti nel menu del tuo sito... decidi prima, nessuna differen
 
 ### linkedin
 

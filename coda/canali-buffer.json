@@ -3,7 +3,7 @@
     "id": "6ab6dedeea19ca0bdeeadf4d",
     "name": "Dieci Bottega",
     "service": "facebook",
-    "isDisconnected": false,
+    "isDisconnected": true,
     "isLocked": false
   },
   {
