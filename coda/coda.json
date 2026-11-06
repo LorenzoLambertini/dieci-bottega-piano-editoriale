@@ -1765,7 +1765,9 @@
         "linkedin": {
           "testo": "Un banner cookie in regola deve permettere di chiudere o rifiutare con la stessa facilità con cui si accetta. Chiudere con la X equivale a rifiutare.\n\nE bloccare il sito finché l'utente non accetta (il cosiddetto cookie wall) non è ammesso. (Garante Privacy, linee guida 2021)\n\nMolti siti aziendali usano ancora banner con il solo \"Accetta tutto\". È uno dei controlli che facciamo prima di mettere online un sito.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
           "video": "media/reel/R31.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aee4fb4af7e526d43e50cad",
+          "programmatoIl": "2026-11-06T22:07:48.629Z"
         }
       }
     },

@@ -185,7 +185,7 @@
       "id": "6ab6dedeea19ca0bdeeadf4d",
       "name": "Dieci Bottega",
       "service": "facebook",
-      "isDisconnected": false,
+      "isDisconnected": true,
       "isLocked": false
     },
     {
@@ -596,33 +596,21 @@
         "via": "buffer"
       }
     ],
-    "error": [],
-    "needs_approval": [],
-    "scheduled": [
+    "error": [
       {
         "id": "6aecddd29f2731311a664b05",
         "dueAt": "2026-11-06T17:30:00.000Z",
         "sentAt": null,
         "text": "Pagina \"Chi siamo\": foto di gruppo da catalogo o la faccia v",
         "channelService": "facebook",
-        "error": null,
+        "error": {
+          "rawError": "Invalid Credentials",
+          "supportUrl": null
+        },
         "notificationStatus": null,
         "schedulingType": "automatic",
         "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6aecddd2845dce9f7663b861",
-        "dueAt": "2026-11-06T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Nella pagina \"Chi siamo\" le persone vere vengono guardate. L",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
+        "status": "error",
         "via": "buffer"
       },
       {
@@ -631,6 +619,25 @@
         "sentAt": null,
         "text": "Pagina \"Chi siamo\": quale foto scegli? A o B nei commenti.\nL",
         "channelService": "instagram",
+        "error": {
+          "rawError": "Invalid Credentials",
+          "supportUrl": null
+        },
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "error",
+        "via": "buffer"
+      }
+    ],
+    "needs_approval": [],
+    "scheduled": [
+      {
+        "id": "6aee4fb4af7e526d43e50cad",
+        "dueAt": "2026-11-28T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Un banner cookie in regola deve permettere di chiudere o rif",
+        "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
         "schedulingType": "automatic",
@@ -992,6 +999,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6aecddd2845dce9f7663b861",
+        "dueAt": "2026-11-06T17:30:00.000Z",
+        "sentAt": "2026-11-06T17:31:36.485Z",
+        "text": "Nella pagina \"Chi siamo\" le persone vere vengono guardate. L",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6aea3b635a7c19a37cd0373a",
         "dueAt": "2026-11-04T17:30:00.000Z",
@@ -1368,26 +1388,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad3c594769b4579348ebf4b",
-        "dueAt": "2026-10-18T09:00:00.000Z",
-        "sentAt": "2026-10-18T09:01:42.477Z",
-        "text": "Quale testo si legge davvero? A o B nei commenti.\nTitoli chi",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Thu, 05 Nov 2026 19:51:28 GMT 2888614",
-    "media/reel/R07.mp4": "200 Thu, 05 Nov 2026 19:51:56 GMT 3173777",
-    "index.html": "200 Thu, 05 Nov 2026 19:52:05 GMT 104461"
+    "media/reel/R02.mp4": "200 Fri, 06 Nov 2026 19:51:16 GMT 2888614",
+    "media/reel/R07.mp4": "200 Fri, 06 Nov 2026 19:51:16 GMT 3173777",
+    "index.html": "200 Fri, 06 Nov 2026 19:51:17 GMT 104461"
   }
 }
