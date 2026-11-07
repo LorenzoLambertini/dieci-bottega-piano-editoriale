@@ -1,134 +1,32 @@
 {
- "aggiornato": "2026-11-06T19:50+00:00",
+ "aggiornato": "2026-11-07T19:49+00:00",
  "contenuti": [
   {
-   "id": "S01",
-   "titolo": "Sito del lunedì: il ristorante",
+   "id": "R25",
+   "titolo": "Solo un effetto",
    "tipo": "reel",
    "quando": "2026-11-08 11:00",
    "dueAt": "2026-11-08T10:00:00.000Z",
    "slide": [],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "manca_video",
-     "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\nTre dettagli che mandano il cliente dal vicino: «Benvenuti» al posto di cosa fai e dove sei, il menu in PDF, la prenotazione solo per telefono.\nHai un locale? Commenta SITO e il prossimo lunedì guardo il tuo.\n#ristorantibologna #sitiweb #bologna #pmiitaliane #bottegadigitale",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "manca_video",
-     "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\n\n\"Benvenuti\" invece di cosa fai e dove sei, menu in PDF, prenotazione solo per telefono. Tre dettagli che mandano il cliente dal vicino.\n\nHai un locale? Scrivi SITO nei commenti e lunedì prossimo guardiamo il tuo.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "manca_video",
-     "testo": "Trenta secondi sul sito di un ristorante (fittizio). Tre problemi che vediamo ogni settimana:\n\n1. In alto c'è scritto \"Benvenuti\". Non cosa si mangia, non dove.\n2. Il menu è un PDF: da telefono si zooma, si scorre, si rinuncia.\n3. Per prenotare bisogna chiamare. Alle dieci di sera, il locale è chiuso.\n\nIl risultato: il cliente prenota dal vicino, e il titolare non lo saprà mai.\n\nSi sistema così: cosa fai e dove sei in alto, menu leggibile da telefono, prenotazione online.\n\n#Ristorazione #SitiWeb #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   },
-   "sostituzioni": [
-    {
-     "il": "2026-11-01T20:00:00.000Z",
-     "da": "2026-11-02 18:30",
-     "a": "2026-11-03 18:30",
-     "conContenuto": "R09",
-     "manuale": true
-    }
-   ]
-  },
-  {
-   "id": "S02",
-   "titolo": "Il numero che non si clicca",
-   "tipo": "reel",
-   "quando": "2026-11-12 18:30",
-   "dueAt": "2026-11-12T17:30:00.000Z",
-   "slide": [],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "manca_video",
-     "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\nSe è solo testo, chi ti cerca deve copiarlo, uscire, incollarlo. Cinque passaggi invece di uno. Molti si fermano prima.\nProva sul tuo adesso e scrivimi com'è andata.\n#sitiweb #ux #mobile #pmiitaliane #bologna",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "manca_video",
-     "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\n\nSe è solo testo, il cliente deve copiarlo e incollarlo. Cinque passaggi invece di uno. Prova adesso e dimmi com'è andata.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "manca_video",
-     "testo": "Un test da 10 secondi per il sito della tua attività: aprilo da telefono e tocca il numero.\n\nSe parte la chiamata, bene. Se è solo testo, il cliente deve selezionarlo, copiarlo, uscire, aprire il telefono, incollarlo. Cinque passaggi invece di uno.\n\nÈ una riga di codice. Ed è uno dei motivi più frequenti per cui un sito \"ha visite ma nessuno chiama\".\n\n#UX #Mobile #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "S03",
-   "titolo": "Il passaparola non basta",
-   "tipo": "reel",
-   "quando": "2026-11-10 18:30",
-   "dueAt": "2026-11-10T17:30:00.000Z",
-   "slide": [],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "manca_video",
-     "testo": "«Lavoro bene, mi basta il passaparola.»\nIl passaparola porta il tuo nome. Poi chi lo riceve ti cerca su Google. Se trova un sito vecchio, o niente, il consiglio si raffredda. Il sito non sostituisce il passaparola: lo conferma.\nVero o falso? Scrivilo nei commenti.\n#passaparola #pmiitaliane #sitiweb #artigiani #bologna",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "manca_video",
-     "testo": "\"Lavoro bene, mi basta il passaparola.\" Vero o falso?\n\nIl passaparola porta il tuo nome. Ma poi chi lo riceve ti cerca su Google. Cosa trova?",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "manca_video",
-     "testo": "\"Il passaparola non è una strategia. È fortuna con un nome più elegante.\"\n\nIl passaparola funziona: porta il tuo nome. Poi chi lo riceve fa una cosa sola, ti cerca su Google. Se trova un sito del 2015, o niente, il consiglio dell'amico si raffredda.\n\nIl sito non sostituisce il passaparola. Lo conferma.\n\nChi ti consigliano deve trovarti in tre secondi.\n\n#Passaparola #PMI #SitiWeb",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "R19",
-   "titolo": "Quante imprese hanno un sito",
-   "tipo": "reel",
-   "quando": "2026-11-07 11:00",
-   "dueAt": "2026-11-07T10:00:00.000Z",
-   "slide": [],
-   "poster": "img/R19_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R19.mp4",
+   "poster": "img/R25_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R25.mp4",
    "durata": 25,
    "canali": {
     "instagram": {
      "stato": "programmato",
-     "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\nRispondi nei commenti, poi guarda il dato Istat. Spoiler: sono più di quelle che usano i social.\nSe la tua è tra quelle che mancano, rimediamo in dieci giorni.\n#istat #pmiitaliane #sitiweb #digitale #bologna",
+     "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\nIl movimento ha tre regole: rapido, deciso, mai gratuito. Ogni transizione sta tra 150 e 400 millisecondi. Oltre, l'occhio percepisce lentezza. Sotto, l'animazione sparisce. — Lorenzo\n#motiondesign #webdesign #dettagli #bottegadigitale #ux",
      "formato": "video",
      "errore": null
     },
     "facebook": {
      "stato": "programmato",
-     "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\n\nVota nei commenti. E se la tua è tra quelle senza, rimediamo in dieci giorni.",
+     "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto.\n\nLe nostre regole: rapido, deciso, mai gratuito. Tra 150 e 400 millisecondi. — Lorenzo",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
      "stato": "programmato",
-     "testo": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. Più di quante usino i social, che sono il 59%. (Istat, Imprese e ICT 2025)\n\nTre su quattro. Vuol dire che chi non ha un sito non è più \"indietro\": è fuori dal confronto. Il cliente che sceglie tra quattro fornitori ne trova tre online.\n\nE per le microimprese il dato è più basso. Lì c'è spazio per distinguersi.\n\n#Istat #Digitale #PMI",
+     "testo": "Un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\n\nIl movimento, nei nostri siti, ha tre regole: rapido, deciso, mai gratuito.\n\nOgni transizione sta tra 150 e 400 millisecondi. Sotto, l'animazione sparisce e non aiuta. Sopra, l'occhio la percepisce come lentezza.\n\nÈ un dettaglio che il cliente non nota mai. Nota solo che il sito \"sembra veloce\".\n\n— Lorenzo, design e codice\n\n#MotionDesign #UX #WebDesign",
      "formato": "video",
      "errore": null
     }
@@ -166,6 +64,37 @@
    }
   },
   {
+   "id": "S03",
+   "titolo": "Il passaparola non basta",
+   "tipo": "reel",
+   "quando": "2026-11-10 18:30",
+   "dueAt": "2026-11-10T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "«Lavoro bene, mi basta il passaparola.»\nIl passaparola porta il tuo nome. Poi chi lo riceve ti cerca su Google. Se trova un sito vecchio, o niente, il consiglio si raffredda. Il sito non sostituisce il passaparola: lo conferma.\nVero o falso? Scrivilo nei commenti.\n#passaparola #pmiitaliane #sitiweb #artigiani #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "\"Lavoro bene, mi basta il passaparola.\" Vero o falso?\n\nIl passaparola porta il tuo nome. Ma poi chi lo riceve ti cerca su Google. Cosa trova?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "\"Il passaparola non è una strategia. È fortuna con un nome più elegante.\"\n\nIl passaparola funziona: porta il tuo nome. Poi chi lo riceve fa una cosa sola, ti cerca su Google. Se trova un sito del 2015, o niente, il consiglio dell'amico si raffredda.\n\nIl sito non sostituisce il passaparola. Lo conferma.\n\nChi ti consigliano deve trovarti in tre secondi.\n\n#Passaparola #PMI #SitiWeb",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
    "id": "S05",
    "titolo": "Il cliente delle 22",
    "tipo": "reel",
@@ -191,6 +120,37 @@
     "linkedin": {
      "stato": "manca_video",
      "testo": "Sono le dieci di sera. Una persona cerca un fisioterapista per il giorno dopo.\n\nTrova due siti. Il primo è del 2015: numero non cliccabile, niente orari. Il secondo dice cosa fa e ha un bottone: prenota.\n\nForse il primo era più bravo. Il cliente non lo saprà mai.\n\nOnline non vince il più bravo. Vince chi si fa capire in tre secondi.\n\n#Sanità #SitiWeb #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "S02",
+   "titolo": "Il numero che non si clicca",
+   "tipo": "reel",
+   "quando": "2026-11-12 18:30",
+   "dueAt": "2026-11-12T17:30:00.000Z",
+   "slide": [],
+   "poster": null,
+   "video": null,
+   "durata": null,
+   "canali": {
+    "instagram": {
+     "stato": "manca_video",
+     "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\nSe è solo testo, chi ti cerca deve copiarlo, uscire, incollarlo. Cinque passaggi invece di uno. Molti si fermano prima.\nProva sul tuo adesso e scrivimi com'è andata.\n#sitiweb #ux #mobile #pmiitaliane #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "manca_video",
+     "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\n\nSe è solo testo, il cliente deve copiarlo e incollarlo. Cinque passaggi invece di uno. Prova adesso e dimmi com'è andata.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "manca_video",
+     "testo": "Un test da 10 secondi per il sito della tua attività: aprilo da telefono e tocca il numero.\n\nSe parte la chiamata, bene. Se è solo testo, il cliente deve selezionarlo, copiarlo, uscire, aprire il telefono, incollarlo. Cinque passaggi invece di uno.\n\nÈ una riga di codice. Ed è uno dei motivi più frequenti per cui un sito \"ha visite ma nessuno chiama\".\n\n#UX #Mobile #PMI",
      "formato": "video",
      "errore": null
     }
@@ -259,35 +219,51 @@
    }
   },
   {
-   "id": "R25",
-   "titolo": "Solo un effetto",
+   "id": "S01",
+   "titolo": "Sito del lunedì: il ristorante",
    "tipo": "reel",
    "quando": "2026-11-15 11:00",
    "dueAt": "2026-11-15T10:00:00.000Z",
    "slide": [],
-   "poster": "img/R25_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R25.mp4",
-   "durata": 25,
+   "poster": null,
+   "video": null,
+   "durata": null,
    "canali": {
     "instagram": {
-     "stato": "programmato",
-     "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\nIl movimento ha tre regole: rapido, deciso, mai gratuito. Ogni transizione sta tra 150 e 400 millisecondi. Oltre, l'occhio percepisce lentezza. Sotto, l'animazione sparisce. — Lorenzo\n#motiondesign #webdesign #dettagli #bottegadigitale #ux",
+     "stato": "manca_video",
+     "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\nTre dettagli che mandano il cliente dal vicino: «Benvenuti» al posto di cosa fai e dove sei, il menu in PDF, la prenotazione solo per telefono.\nHai un locale? Commenta SITO e il prossimo lunedì guardo il tuo.\n#ristorantibologna #sitiweb #bologna #pmiitaliane #bottegadigitale",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "programmato",
-     "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto.\n\nLe nostre regole: rapido, deciso, mai gratuito. Tra 150 e 400 millisecondi. — Lorenzo",
+     "stato": "manca_video",
+     "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\n\n\"Benvenuti\" invece di cosa fai e dove sei, menu in PDF, prenotazione solo per telefono. Tre dettagli che mandano il cliente dal vicino.\n\nHai un locale? Scrivi SITO nei commenti e lunedì prossimo guardiamo il tuo.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "programmato",
-     "testo": "Un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\n\nIl movimento, nei nostri siti, ha tre regole: rapido, deciso, mai gratuito.\n\nOgni transizione sta tra 150 e 400 millisecondi. Sotto, l'animazione sparisce e non aiuta. Sopra, l'occhio la percepisce come lentezza.\n\nÈ un dettaglio che il cliente non nota mai. Nota solo che il sito \"sembra veloce\".\n\n— Lorenzo, design e codice\n\n#MotionDesign #UX #WebDesign",
+     "stato": "manca_video",
+     "testo": "Trenta secondi sul sito di un ristorante (fittizio). Tre problemi che vediamo ogni settimana:\n\n1. In alto c'è scritto \"Benvenuti\". Non cosa si mangia, non dove.\n2. Il menu è un PDF: da telefono si zooma, si scorre, si rinuncia.\n3. Per prenotare bisogna chiamare. Alle dieci di sera, il locale è chiuso.\n\nIl risultato: il cliente prenota dal vicino, e il titolare non lo saprà mai.\n\nSi sistema così: cosa fai e dove sei in alto, menu leggibile da telefono, prenotazione online.\n\n#Ristorazione #SitiWeb #PMI",
      "formato": "video",
      "errore": null
     }
-   }
+   },
+   "sostituzioni": [
+    {
+     "il": "2026-11-01T20:00:00.000Z",
+     "da": "2026-11-02 18:30",
+     "a": "2026-11-03 18:30",
+     "conContenuto": "R09",
+     "manuale": true
+    },
+    {
+     "il": "2026-11-07T20:00:00.000Z",
+     "da": "2026-11-08 11:00",
+     "a": "2026-11-15 11:00",
+     "conContenuto": "R25",
+     "manuale": true
+    }
+   ]
   },
   {
    "id": "S07",
@@ -685,7 +661,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Un banner cookie in regola deve permettere di chiudere o rifiutare con la stessa facilità con cui si accetta. Chiudere con la X equivale a rifiutare.\n\nE bloccare il sito finché l'utente non accetta (il cosiddetto cookie wall) non è ammesso. (Garante Privacy, linee guida 2021)\n\nMolti siti aziendali usano ancora banner con il solo \"Accetta tutto\". È uno dei controlli che facciamo prima di mettere online un sito.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
      "formato": "video",
      "errore": null
@@ -716,7 +692,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Con cosa costruiamo un sito, strato per strato:\n\nDesign · Figma, palette, tipografia.\nCodice · Next.js, TypeScript, Tailwind.\nMovimento · Framer Motion.\nDati · Supabase.\nEmail · Resend.\nAI co-working · Claude.\n\nStrumenti moderni, scelti perché rendono il sito veloce e facile da mantenere. Ma il codice lo scriviamo a mano, e lo rileggiamo riga per riga.\n\n#WebDevelopment #NextJS #WebDesign",
      "formato": "video",
      "errore": null
@@ -1400,6 +1376,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "In un anno le imprese italiane con almeno 10 addetti che usano l'intelligenza artificiale sono passate dall'8,2% al 16,4%. (Istat, Imprese e ICT 2025)\n\nRaddoppiare in dodici mesi è un segnale chiaro: non è più una sperimentazione.\n\nIl nostro approccio resta lo stesso dal primo giorno. AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano: gli diamo un martello migliore.\n\n#IntelligenzaArtificiale #Istat #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R51",
+   "titolo": "La versione da telefono",
+   "tipo": "reel",
+   "quando": "2026-12-22 18:30",
+   "dueAt": "2026-12-22T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R51_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R51.mp4",
+   "durata": 30,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Da telefono, quale versione funziona? A o B nei commenti.\nTesto leggibile, bottoni grandi, niente zoom. E c'è un motivo in più per farlo bene: nel video, come Google guarda il tuo sito.\n#mobilefirst #webdesign #ux #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Da telefono, quale versione del sito usi volentieri? Testo grande e bottoni comodi, o il sito del computer rimpicciolito? A o B?",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Testo leggibile, bottoni grandi, niente zoom. Sono le tre condizioni minime di un sito pensato per il telefono.\n\nE non è solo una questione di comodità: Google usa la versione mobile del sito per indicizzarlo. Se da telefono il sito è una versione rimpicciolita del desktop, è quella che Google valuta.\n\nFonte: Google Search Central, mobile-first indexing\n\n#MobileFirst #UX #SEO",
      "formato": "video",
      "errore": null
     }
