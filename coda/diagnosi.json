@@ -628,10 +628,68 @@
         "shareMode": "customScheduled",
         "status": "error",
         "via": "buffer"
+      },
+      {
+        "id": "6ada7334a05ab31b9375b5d9",
+        "dueAt": "2026-11-07T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito",
+        "channelService": "facebook",
+        "error": {
+          "rawError": "Invalid Credentials",
+          "supportUrl": null
+        },
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "error",
+        "via": "buffer"
+      },
+      {
+        "id": "6ada73340cf9e34948499b7a",
+        "dueAt": "2026-11-07T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito",
+        "channelService": "instagram",
+        "error": {
+          "rawError": "Invalid Credentials",
+          "supportUrl": null
+        },
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "error",
+        "via": "buffer"
       }
     ],
     "needs_approval": [],
     "scheduled": [
+      {
+        "id": "6aef80c851492b796ef8b9bc",
+        "dueAt": "2026-11-08T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Un'animazione che non serve la storia è solo un effetto. Ed ",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6aef0fbdaf7e526d431beae6",
+        "dueAt": "2026-11-29T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Con cosa costruiamo un sito, strato per strato:\n\nDesign · Fi",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
       {
         "id": "6aee4fb4af7e526d43e50cad",
         "dueAt": "2026-11-28T10:00:00.000Z",
@@ -880,45 +938,6 @@
         "via": "buffer"
       },
       {
-        "id": "6ae3a39ea50b3f7a4193a3f8",
-        "dueAt": "2026-11-15T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Un'animazione che non serve la storia è solo un effetto. Ed ",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae3a39dbe6b4bd5b62ed112",
-        "dueAt": "2026-11-15T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Lezione della settimana: un'animazione che non serve la stor",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae3a39c8828b976bca4bd00",
-        "dueAt": "2026-11-15T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Lezione della settimana: un'animazione che non serve la stor",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6ae115a4e2341add8c5c6d6b",
         "dueAt": "2026-11-14T10:00:00.000Z",
         "sentAt": null,
@@ -949,45 +968,6 @@
         "dueAt": "2026-11-14T10:00:00.000Z",
         "sentAt": null,
         "text": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù sce",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ada7334a05ab31b9375b5d9",
-        "dueAt": "2026-11-07T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ada7334793513d242f2829c",
-        "dueAt": "2026-11-07T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un ",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ada73340cf9e34948499b7a",
-        "dueAt": "2026-11-07T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Imprese italiane con almeno 10 addetti: quante hanno un sito",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -1161,6 +1141,19 @@
         "sentAt": "2026-10-30T17:31:01.289Z",
         "text": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief a",
         "channelService": "facebook",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6ada7334793513d242f2829c",
+        "dueAt": "2026-11-07T10:00:00.000Z",
+        "sentAt": "2026-11-07T10:02:36.619Z",
+        "text": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un ",
+        "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
         "schedulingType": "automatic",
@@ -1375,26 +1368,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad3c594938409f1d09bfcb5",
-        "dueAt": "2026-10-18T09:00:00.000Z",
-        "sentAt": "2026-10-18T09:00:46.326Z",
-        "text": "Due testi per un'officina: un muro di parole o titolo chiaro",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Fri, 06 Nov 2026 19:51:16 GMT 2888614",
-    "media/reel/R07.mp4": "200 Fri, 06 Nov 2026 19:51:16 GMT 3173777",
-    "index.html": "200 Fri, 06 Nov 2026 19:51:17 GMT 104461"
+    "media/reel/R02.mp4": "200 Sat, 07 Nov 2026 19:51:45 GMT 2888614",
+    "media/reel/R07.mp4": "200 Sat, 07 Nov 2026 19:51:45 GMT 3173777",
+    "index.html": "200 Sat, 07 Nov 2026 19:51:46 GMT 104461"
   }
 }

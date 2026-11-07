@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 07/11/2026, 20:49:28
+Ultimo controllo: 07/11/2026, 21:53:28
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -40,7 +40,7 @@ Ultimo controllo: 07/11/2026, 20:49:28
 
 ### linkedin
 
-- 08/11/26, 11:00 · 
+- 08/11/26, 11:00 · Un'animazione che non serve la storia è solo un effetto. Ed è quello c
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 - 17/11/26, 18:30 · Chiudere il banner dei cookie con la X non significa accettarli: equiv
 - 19/11/26, 18:30 · Per Google il contenuto principale di una pagina deve comparire entro 
