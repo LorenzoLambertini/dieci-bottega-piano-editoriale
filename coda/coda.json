@@ -870,38 +870,35 @@
       "nota": "9/10: Lorenzo lo toglie a mano da Buffer per fare spazio al Listino; il sync lo rimette (se è ancora lì lo riconosce e non lo duplica)"
     },
     {
-      "id": "P06",
-      "titolo": "Reel Dettaglio",
+      "id": "R23",
+      "titolo": "Perche Bottega",
+      "formato": "Informativo",
       "tipo": "reel",
-      "quando": "2026-11-05 18:30",
-      "dueAt": "2026-11-05T17:30:00.000Z",
+      "quando": "2026-10-30 18:30",
+      "dueAt": "2026-10-30T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Molti dettagli che fanno perdere clienti non si vedono finché non provi il sito con una mano, in piedi, in tram.\nProva il tuo adesso: riesci a prenotare con il pollice? Ogni settimana un dettaglio nuovo.\n\n#webdesign #ux #ristorantibologna #sitiweb #bologna",
-          "video": "media/post/P06/video.mp4",
-          "stato": "manca_video"
+          "testo": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
+          "video": "media/reel/R23.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae3a39ba50b3f7a41939da7",
+          "programmatoIl": "2026-10-29T19:50:51.555Z"
         },
         "facebook": {
-          "testo": "Prova il tuo sito con una mano sola, in piedi: riesci a prenotare con il pollice?\n\nUn bottone troppo piccolo è la differenza tra una prenotazione e una chiamata persa. Si sistema in dieci minuti.\n\nOgni settimana un dettaglio nuovo. È tutto nei dettagli.",
-          "video": "media/post/P06/video.mp4",
-          "stato": "manca_video"
+          "testo": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
+          "video": "media/reel/R23.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae3a39b98c11c76e3762f81",
+          "programmatoIl": "2026-10-29T19:50:51.999Z"
         },
         "linkedin": {
-          "testo": "Un bottone troppo piccolo costa più di quanto sembra.\n\nLe linee guida di Apple e Google chiedono un'area toccabile di almeno 44-48 punti. Molti siti di ristoranti, studi e negozi hanno ancora il pulsante \"Prenota\" o \"Chiama\" minuscolo, in alto, dove il pollice non arriva.\n\nDa telefono, in piedi, con una mano sola, quel bottone non lo premi. E la prenotazione diventa una chiamata persa.\n\nLa correzione richiede dieci minuti: più grande, più in basso, più contrasto.\n\nÈ il tipo di dettaglio che non compare in nessun preventivo, ma che decide se un sito lavora o no.\n\n#UX #WebDesign #PMI",
-          "video": "media/post/P06/video.mp4",
-          "stato": "manca_video"
+          "testo": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
+          "video": "media/reel/R23.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae3a39c1026f5c4e0c05d06",
+          "programmatoIl": "2026-10-29T19:50:52.493Z"
         }
-      },
-      "nota": "Serve il video girato: caricalo in media/post/P06/video.mp4 e cambia stato in da_programmare.",
-      "sostituzioni": [
-        {
-          "il": "2026-10-14T19:00:00.000Z",
-          "da": "2026-10-14 18:30",
-          "a": "2026-10-30 18:30",
-          "conContenuto": null,
-          "nota": "controllo serale: sostituzione automatica non partita (cron GitHub saltato), slot del 14/10 18:30 rimasto vuoto"
-        }
-      ]
+      }
     },
     {
       "id": "R17",
@@ -966,43 +963,6 @@
       }
     },
     {
-      "id": "S01",
-      "titolo": "Sito del lunedì: il ristorante",
-      "formato": "Audit lampo",
-      "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Attrazione",
-      "quando": "2026-11-08 11:00",
-      "dueAt": "2026-11-08T10:00:00.000Z",
-      "nota": "Da girare: Lorenzo in camera + registrazione schermo del sito fittizio «Osteria del Portico» (da creare, niente siti reali). Quando il video è pronto va in media/strategia/S01.mp4 e lo stato passa a da_programmare.",
-      "canali": {
-        "instagram": {
-          "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\nTre dettagli che mandano il cliente dal vicino: «Benvenuti» al posto di cosa fai e dove sei, il menu in PDF, la prenotazione solo per telefono.\nHai un locale? Commenta SITO e il prossimo lunedì guardo il tuo.\n#ristorantibologna #sitiweb #bologna #pmiitaliane #bottegadigitale",
-          "video": "media/strategia/S01.mp4",
-          "stato": "manca_video"
-        },
-        "facebook": {
-          "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\n\n\"Benvenuti\" invece di cosa fai e dove sei, menu in PDF, prenotazione solo per telefono. Tre dettagli che mandano il cliente dal vicino.\n\nHai un locale? Scrivi SITO nei commenti e lunedì prossimo guardiamo il tuo.",
-          "video": "media/strategia/S01.mp4",
-          "stato": "manca_video"
-        },
-        "linkedin": {
-          "testo": "Trenta secondi sul sito di un ristorante (fittizio). Tre problemi che vediamo ogni settimana:\n\n1. In alto c'è scritto \"Benvenuti\". Non cosa si mangia, non dove.\n2. Il menu è un PDF: da telefono si zooma, si scorre, si rinuncia.\n3. Per prenotare bisogna chiamare. Alle dieci di sera, il locale è chiuso.\n\nIl risultato: il cliente prenota dal vicino, e il titolare non lo saprà mai.\n\nSi sistema così: cosa fai e dove sei in alto, menu leggibile da telefono, prenotazione online.\n\n#Ristorazione #SitiWeb #PMI",
-          "video": "media/strategia/S01.mp4",
-          "stato": "manca_video"
-        }
-      },
-      "sostituzioni": [
-        {
-          "il": "2026-11-01T20:00:00.000Z",
-          "da": "2026-11-02 18:30",
-          "a": "2026-11-03 18:30",
-          "conContenuto": "R09",
-          "manuale": true
-        }
-      ]
-    },
-    {
       "id": "R09",
       "titolo": "La X dei cookie",
       "formato": "Quiz",
@@ -1030,124 +990,6 @@
           "stato": "programmato",
           "bufferId": "6ae7981d5604f9d85b85074b",
           "programmatoIl": "2026-11-01T19:50:53.323Z"
-        }
-      }
-    },
-    {
-      "id": "S02",
-      "titolo": "Il numero che non si clicca",
-      "formato": "Test dal telefono",
-      "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Attrazione",
-      "quando": "2026-11-12 18:30",
-      "dueAt": "2026-11-12T17:30:00.000Z",
-      "nota": "Da girare: Lorenzo in camera + 2 registrazioni schermo da iPhone (numero testo / numero cliccabile) su sito fittizio. Quando il video è pronto va in media/strategia/S02.mp4 e lo stato passa a da_programmare.",
-      "canali": {
-        "instagram": {
-          "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\nSe è solo testo, chi ti cerca deve copiarlo, uscire, incollarlo. Cinque passaggi invece di uno. Molti si fermano prima.\nProva sul tuo adesso e scrivimi com'è andata.\n#sitiweb #ux #mobile #pmiitaliane #bologna",
-          "video": "media/strategia/S02.mp4",
-          "stato": "manca_video"
-        },
-        "facebook": {
-          "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\n\nSe è solo testo, il cliente deve copiarlo e incollarlo. Cinque passaggi invece di uno. Prova adesso e dimmi com'è andata.",
-          "video": "media/strategia/S02.mp4",
-          "stato": "manca_video"
-        },
-        "linkedin": {
-          "testo": "Un test da 10 secondi per il sito della tua attività: aprilo da telefono e tocca il numero.\n\nSe parte la chiamata, bene. Se è solo testo, il cliente deve selezionarlo, copiarlo, uscire, aprire il telefono, incollarlo. Cinque passaggi invece di uno.\n\nÈ una riga di codice. Ed è uno dei motivi più frequenti per cui un sito \"ha visite ma nessuno chiama\".\n\n#UX #Mobile #PMI",
-          "video": "media/strategia/S02.mp4",
-          "stato": "manca_video"
-        }
-      }
-    },
-    {
-      "id": "R23",
-      "titolo": "Perche Bottega",
-      "formato": "Informativo",
-      "tipo": "reel",
-      "quando": "2026-10-30 18:30",
-      "dueAt": "2026-10-30T17:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Perché si chiama Dieci Bottega?\nDieci: dieci giorni dal brief al sito online. Bottega: un luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta. E l'intelligenza artificiale? Non sostituiamo l'artigiano, gli diamo un martello migliore.\nVeloci, non frettolosi. Accessibili, non economici.\n#bottegadigitale #bologna #artigianato #intelligenzaartificiale #pmiitaliane",
-          "video": "media/reel/R23.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae3a39ba50b3f7a41939da7",
-          "programmatoIl": "2026-10-29T19:50:51.555Z"
-        },
-        "facebook": {
-          "testo": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief al sito online. Bottega: un posto piccolo dove ogni lavoro porta la firma di chi l'ha fatto. E l'AI? Non sostituisce l'artigiano, gli dà un martello migliore.",
-          "video": "media/reel/R23.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae3a39b98c11c76e3762f81",
-          "programmatoIl": "2026-10-29T19:50:51.999Z"
-        },
-        "linkedin": {
-          "testo": "Perché ci chiamiamo Dieci Bottega.\n\nDieci, come i giorni dal brief al sito online.\nBottega, come il luogo piccolo dove il mestiere si tramanda e ogni opera porta la firma di chi l'ha fatta.\n\nE l'intelligenza artificiale? Non sostituiamo l'artigiano. Gli diamo un martello migliore.\n\nVeloci, non frettolosi. Accessibili, non economici.\n\n#Brand #Artigianato #IntelligenzaArtificiale",
-          "video": "media/reel/R23.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae3a39c1026f5c4e0c05d06",
-          "programmatoIl": "2026-10-29T19:50:52.493Z"
-        }
-      }
-    },
-    {
-      "id": "S03",
-      "titolo": "Il passaparola non basta",
-      "formato": "Mito vs realtà",
-      "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Consapevolezza",
-      "quando": "2026-11-10 18:30",
-      "dueAt": "2026-11-10T17:30:00.000Z",
-      "nota": "Da girare: Lorenzo o Tommaso in camera + mani su tastiera/telefono con ricerca Google di un nome fittizio. Quando il video è pronto va in media/strategia/S03.mp4 e lo stato passa a da_programmare.",
-      "canali": {
-        "instagram": {
-          "testo": "«Lavoro bene, mi basta il passaparola.»\nIl passaparola porta il tuo nome. Poi chi lo riceve ti cerca su Google. Se trova un sito vecchio, o niente, il consiglio si raffredda. Il sito non sostituisce il passaparola: lo conferma.\nVero o falso? Scrivilo nei commenti.\n#passaparola #pmiitaliane #sitiweb #artigiani #bologna",
-          "video": "media/strategia/S03.mp4",
-          "stato": "manca_video"
-        },
-        "facebook": {
-          "testo": "\"Lavoro bene, mi basta il passaparola.\" Vero o falso?\n\nIl passaparola porta il tuo nome. Ma poi chi lo riceve ti cerca su Google. Cosa trova?",
-          "video": "media/strategia/S03.mp4",
-          "stato": "manca_video"
-        },
-        "linkedin": {
-          "testo": "\"Il passaparola non è una strategia. È fortuna con un nome più elegante.\"\n\nIl passaparola funziona: porta il tuo nome. Poi chi lo riceve fa una cosa sola, ti cerca su Google. Se trova un sito del 2015, o niente, il consiglio dell'amico si raffredda.\n\nIl sito non sostituisce il passaparola. Lo conferma.\n\nChi ti consigliano deve trovarti in tre secondi.\n\n#Passaparola #PMI #SitiWeb",
-          "video": "media/strategia/S03.mp4",
-          "stato": "manca_video"
-        }
-      }
-    },
-    {
-      "id": "R19",
-      "titolo": "Quante imprese hanno un sito",
-      "formato": "Quiz",
-      "tipo": "reel",
-      "quando": "2026-11-07 11:00",
-      "dueAt": "2026-11-07T10:00:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\nRispondi nei commenti, poi guarda il dato Istat. Spoiler: sono più di quelle che usano i social.\nSe la tua è tra quelle che mancano, rimediamo in dieci giorni.\n#istat #pmiitaliane #sitiweb #digitale #bologna",
-          "video": "media/reel/R19.mp4",
-          "stato": "programmato",
-          "bufferId": "6ada73340cf9e34948499b7a",
-          "programmatoIl": "2026-10-22T20:33:56.312Z"
-        },
-        "facebook": {
-          "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\n\nVota nei commenti. E se la tua è tra quelle senza, rimediamo in dieci giorni.",
-          "video": "media/reel/R19.mp4",
-          "stato": "programmato",
-          "bufferId": "6ada7334a05ab31b9375b5d9",
-          "programmatoIl": "2026-10-22T20:33:56.669Z"
-        },
-        "linkedin": {
-          "testo": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. Più di quante usino i social, che sono il 59%. (Istat, Imprese e ICT 2025)\n\nTre su quattro. Vuol dire che chi non ha un sito non è più \"indietro\": è fuori dal confronto. Il cliente che sceglie tra quattro fornitori ne trova tre online.\n\nE per le microimprese il dato è più basso. Lì c'è spazio per distinguersi.\n\n#Istat #Digitale #PMI",
-          "video": "media/reel/R19.mp4",
-          "stato": "programmato",
-          "bufferId": "6ada7334793513d242f2829c",
-          "programmatoIl": "2026-10-22T20:33:57.060Z"
         }
       }
     },
@@ -1183,32 +1025,69 @@
       }
     },
     {
-      "id": "S04",
-      "titolo": "Sito del lunedì: l'agente immobiliare",
-      "formato": "Audit lampo",
+      "id": "R12",
+      "titolo": "Solo qualche visita persa",
+      "formato": "Vero o falso?",
       "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Attrazione",
-      "quando": "2026-11-09 18:30",
-      "dueAt": "2026-11-09T17:30:00.000Z",
-      "nota": "Da girare: Lorenzo in camera + green screen su sito fittizio «Casa Saragozza Immobiliare». Quando il video è pronto va in media/strategia/S04.mp4 e lo stato passa a da_programmare.",
+      "quando": "2026-11-04 18:30",
+      "dueAt": "2026-11-04T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
-          "video": "media/strategia/S04.mp4",
+          "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
+          "video": "media/reel/R12.mp4",
+          "stato": "programmato",
+          "bufferId": "6aea3b625fa3d509fa3d32f7",
+          "programmatoIl": "2026-11-03T19:52:02.668Z"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\n\nVota nei commenti. Il numero vero ti farà riaprire il tuo sito dal telefono.",
+          "video": "media/reel/R12.mp4",
+          "stato": "programmato",
+          "bufferId": "6aea3b622128cca0a51e459b",
+          "programmatoIl": "2026-11-03T19:52:03.034Z"
+        },
+        "linkedin": {
+          "testo": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Falso.\n\nSu mobile, oltre i 3 secondi di caricamento se ne va il 53% delle visite. Più di una su due. (Google)\n\nIl punto non è la velocità in sé. È che quelle visite erano persone che ti avevano già scelto abbastanza da cercarti.\n\n#Performance #Mobile #PMI",
+          "video": "media/reel/R12.mp4",
+          "stato": "programmato",
+          "bufferId": "6aea3b635a7c19a37cd0373a",
+          "programmatoIl": "2026-11-03T19:52:03.460Z"
+        }
+      }
+    },
+    {
+      "id": "P06",
+      "titolo": "Reel Dettaglio",
+      "tipo": "reel",
+      "quando": "2026-11-05 18:30",
+      "dueAt": "2026-11-05T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Molti dettagli che fanno perdere clienti non si vedono finché non provi il sito con una mano, in piedi, in tram.\nProva il tuo adesso: riesci a prenotare con il pollice? Ogni settimana un dettaglio nuovo.\n\n#webdesign #ux #ristorantibologna #sitiweb #bologna",
+          "video": "media/post/P06/video.mp4",
           "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Sito del lunedì: l'agente immobiliare.\n\nTre cose devono stare in alto: la tua faccia e il tuo nome, la zona in cui lavori, WhatsApp a un tocco. Nella casa ci si fida di una persona.\n\nSei un agente? Scrivi SITO nei commenti.",
-          "video": "media/strategia/S04.mp4",
+          "testo": "Prova il tuo sito con una mano sola, in piedi: riesci a prenotare con il pollice?\n\nUn bottone troppo piccolo è la differenza tra una prenotazione e una chiamata persa. Si sistema in dieci minuti.\n\nOgni settimana un dettaglio nuovo. È tutto nei dettagli.",
+          "video": "media/post/P06/video.mp4",
           "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Il sito di un agente immobiliare (fittizio), in trenta secondi.\n\n1. In alto c'è solo il logo dell'agenzia. Nessuna faccia, nessun nome.\n2. \"Soluzioni immobiliari\": in che zona? Vendita, affitto, valutazioni?\n3. Il contatto è un modulo con dieci campi, in fondo alla pagina.\n\nNella casa le persone si fidano di una persona, non di un marchio senza volto.\n\nSi sistema così: foto e nome in alto, zona e servizio in una riga, WhatsApp a un tocco.\n\n#Immobiliare #AgentiImmobiliari #PMI",
-          "video": "media/strategia/S04.mp4",
+          "testo": "Un bottone troppo piccolo costa più di quanto sembra.\n\nLe linee guida di Apple e Google chiedono un'area toccabile di almeno 44-48 punti. Molti siti di ristoranti, studi e negozi hanno ancora il pulsante \"Prenota\" o \"Chiama\" minuscolo, in alto, dove il pollice non arriva.\n\nDa telefono, in piedi, con una mano sola, quel bottone non lo premi. E la prenotazione diventa una chiamata persa.\n\nLa correzione richiede dieci minuti: più grande, più in basso, più contrasto.\n\nÈ il tipo di dettaglio che non compare in nessun preventivo, ma che decide se un sito lavora o no.\n\n#UX #WebDesign #PMI",
+          "video": "media/post/P06/video.mp4",
           "stato": "manca_video"
         }
-      }
+      },
+      "nota": "Serve il video girato: caricalo in media/post/P06/video.mp4 e cambia stato in da_programmare.",
+      "sostituzioni": [
+        {
+          "il": "2026-10-14T19:00:00.000Z",
+          "da": "2026-10-14 18:30",
+          "a": "2026-10-30 18:30",
+          "conContenuto": null,
+          "nota": "controllo serale: sostituzione automatica non partita (cron GitHub saltato), slot del 14/10 18:30 rimasto vuoto"
+        }
+      ]
     },
     {
       "id": "R11",
@@ -1242,6 +1121,127 @@
       }
     },
     {
+      "id": "R19",
+      "titolo": "Quante imprese hanno un sito",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2026-11-07 11:00",
+      "dueAt": "2026-11-07T10:00:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\nRispondi nei commenti, poi guarda il dato Istat. Spoiler: sono più di quelle che usano i social.\nSe la tua è tra quelle che mancano, rimediamo in dieci giorni.\n#istat #pmiitaliane #sitiweb #digitale #bologna",
+          "video": "media/reel/R19.mp4",
+          "stato": "programmato",
+          "bufferId": "6ada73340cf9e34948499b7a",
+          "programmatoIl": "2026-10-22T20:33:56.312Z"
+        },
+        "facebook": {
+          "testo": "Imprese italiane con almeno 10 addetti: quante hanno un sito? 1 su 4, la metà o 3 su 4?\n\nVota nei commenti. E se la tua è tra quelle senza, rimediamo in dieci giorni.",
+          "video": "media/reel/R19.mp4",
+          "stato": "programmato",
+          "bufferId": "6ada7334a05ab31b9375b5d9",
+          "programmatoIl": "2026-10-22T20:33:56.669Z"
+        },
+        "linkedin": {
+          "testo": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. Più di quante usino i social, che sono il 59%. (Istat, Imprese e ICT 2025)\n\nTre su quattro. Vuol dire che chi non ha un sito non è più \"indietro\": è fuori dal confronto. Il cliente che sceglie tra quattro fornitori ne trova tre online.\n\nE per le microimprese il dato è più basso. Lì c'è spazio per distinguersi.\n\n#Istat #Digitale #PMI",
+          "video": "media/reel/R19.mp4",
+          "stato": "programmato",
+          "bufferId": "6ada7334793513d242f2829c",
+          "programmatoIl": "2026-10-22T20:33:57.060Z"
+        }
+      }
+    },
+    {
+      "id": "R25",
+      "titolo": "Solo un effetto",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-11-08 11:00",
+      "dueAt": "2026-11-08T10:00:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\nIl movimento ha tre regole: rapido, deciso, mai gratuito. Ogni transizione sta tra 150 e 400 millisecondi. Oltre, l'occhio percepisce lentezza. Sotto, l'animazione sparisce. — Lorenzo\n#motiondesign #webdesign #dettagli #bottegadigitale #ux",
+          "video": "media/reel/R25.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae3a39c8828b976bca4bd00",
+          "programmatoIl": "2026-10-29T19:50:53.105Z",
+          "daAggiornare": true
+        },
+        "facebook": {
+          "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto.\n\nLe nostre regole: rapido, deciso, mai gratuito. Tra 150 e 400 millisecondi. — Lorenzo",
+          "video": "media/reel/R25.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae3a39dbe6b4bd5b62ed112",
+          "programmatoIl": "2026-10-29T19:50:53.562Z",
+          "daAggiornare": true
+        },
+        "linkedin": {
+          "testo": "Un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\n\nIl movimento, nei nostri siti, ha tre regole: rapido, deciso, mai gratuito.\n\nOgni transizione sta tra 150 e 400 millisecondi. Sotto, l'animazione sparisce e non aiuta. Sopra, l'occhio la percepisce come lentezza.\n\nÈ un dettaglio che il cliente non nota mai. Nota solo che il sito \"sembra veloce\".\n\n— Lorenzo, design e codice\n\n#MotionDesign #UX #WebDesign",
+          "video": "media/reel/R25.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae3a39ea50b3f7a4193a3f8",
+          "programmatoIl": "2026-10-29T19:50:54.324Z",
+          "daAggiornare": true
+        }
+      }
+    },
+    {
+      "id": "S04",
+      "titolo": "Sito del lunedì: l'agente immobiliare",
+      "formato": "Audit lampo",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
+      "quando": "2026-11-09 18:30",
+      "dueAt": "2026-11-09T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + green screen su sito fittizio «Casa Saragozza Immobiliare». Quando il video è pronto va in media/strategia/S04.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Sito del lunedì: l'agente immobiliare.\n\nTre cose devono stare in alto: la tua faccia e il tuo nome, la zona in cui lavori, WhatsApp a un tocco. Nella casa ci si fida di una persona.\n\nSei un agente? Scrivi SITO nei commenti.",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
+        },
+        "linkedin": {
+          "testo": "Il sito di un agente immobiliare (fittizio), in trenta secondi.\n\n1. In alto c'è solo il logo dell'agenzia. Nessuna faccia, nessun nome.\n2. \"Soluzioni immobiliari\": in che zona? Vendita, affitto, valutazioni?\n3. Il contatto è un modulo con dieci campi, in fondo alla pagina.\n\nNella casa le persone si fidano di una persona, non di un marchio senza volto.\n\nSi sistema così: foto e nome in alto, zona e servizio in una riga, WhatsApp a un tocco.\n\n#Immobiliare #AgentiImmobiliari #PMI",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
+      "id": "S03",
+      "titolo": "Il passaparola non basta",
+      "formato": "Mito vs realtà",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Consapevolezza",
+      "quando": "2026-11-10 18:30",
+      "dueAt": "2026-11-10T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo o Tommaso in camera + mani su tastiera/telefono con ricerca Google di un nome fittizio. Quando il video è pronto va in media/strategia/S03.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "«Lavoro bene, mi basta il passaparola.»\nIl passaparola porta il tuo nome. Poi chi lo riceve ti cerca su Google. Se trova un sito vecchio, o niente, il consiglio si raffredda. Il sito non sostituisce il passaparola: lo conferma.\nVero o falso? Scrivilo nei commenti.\n#passaparola #pmiitaliane #sitiweb #artigiani #bologna",
+          "video": "media/strategia/S03.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "\"Lavoro bene, mi basta il passaparola.\" Vero o falso?\n\nIl passaparola porta il tuo nome. Ma poi chi lo riceve ti cerca su Google. Cosa trova?",
+          "video": "media/strategia/S03.mp4",
+          "stato": "manca_video"
+        },
+        "linkedin": {
+          "testo": "\"Il passaparola non è una strategia. È fortuna con un nome più elegante.\"\n\nIl passaparola funziona: porta il tuo nome. Poi chi lo riceve fa una cosa sola, ti cerca su Google. Se trova un sito del 2015, o niente, il consiglio dell'amico si raffredda.\n\nIl sito non sostituisce il passaparola. Lo conferma.\n\nChi ti consigliano deve trovarti in tre secondi.\n\n#Passaparola #PMI #SitiWeb",
+          "video": "media/strategia/S03.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
       "id": "S05",
       "titolo": "Il cliente delle 22",
       "formato": "Viaggio del cliente perso",
@@ -1270,33 +1270,30 @@
       }
     },
     {
-      "id": "R12",
-      "titolo": "Solo qualche visita persa",
-      "formato": "Vero o falso?",
+      "id": "S02",
+      "titolo": "Il numero che non si clicca",
+      "formato": "Test dal telefono",
       "tipo": "reel",
-      "quando": "2026-11-04 18:30",
-      "dueAt": "2026-11-04T17:30:00.000Z",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
+      "quando": "2026-11-12 18:30",
+      "dueAt": "2026-11-12T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + 2 registrazioni schermo da iPhone (numero testo / numero cliccabile) su sito fittizio. Quando il video è pronto va in media/strategia/S02.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\nVota nei commenti prima del reveal. Il numero vero è nel video, e non è \"qualche\".\n#verofalso #sitiweb #velocita #pmiitaliane #bologna",
-          "video": "media/reel/R12.mp4",
-          "stato": "programmato",
-          "bufferId": "6aea3b625fa3d509fa3d32f7",
-          "programmatoIl": "2026-11-03T19:52:02.668Z"
+          "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\nSe è solo testo, chi ti cerca deve copiarlo, uscire, incollarlo. Cinque passaggi invece di uno. Molti si fermano prima.\nProva sul tuo adesso e scrivimi com'è andata.\n#sitiweb #ux #mobile #pmiitaliane #bologna",
+          "video": "media/strategia/S02.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Vero o falso: \"Se il sito ci mette più di 3 secondi, perdi solo qualche visita.\"\n\nVota nei commenti. Il numero vero ti farà riaprire il tuo sito dal telefono.",
-          "video": "media/reel/R12.mp4",
-          "stato": "programmato",
-          "bufferId": "6aea3b622128cca0a51e459b",
-          "programmatoIl": "2026-11-03T19:52:03.034Z"
+          "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\n\nSe è solo testo, il cliente deve copiarlo e incollarlo. Cinque passaggi invece di uno. Prova adesso e dimmi com'è andata.",
+          "video": "media/strategia/S02.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "\"Se il sito è un po' lento, perdo solo qualche visita.\" Falso.\n\nSu mobile, oltre i 3 secondi di caricamento se ne va il 53% delle visite. Più di una su due. (Google)\n\nIl punto non è la velocità in sé. È che quelle visite erano persone che ti avevano già scelto abbastanza da cercarti.\n\n#Performance #Mobile #PMI",
-          "video": "media/reel/R12.mp4",
-          "stato": "programmato",
-          "bufferId": "6aea3b635a7c19a37cd0373a",
-          "programmatoIl": "2026-11-03T19:52:03.460Z"
+          "testo": "Un test da 10 secondi per il sito della tua attività: aprilo da telefono e tocca il numero.\n\nSe parte la chiamata, bene. Se è solo testo, il cliente deve selezionarlo, copiarlo, uscire, aprire il telefono, incollarlo. Cinque passaggi invece di uno.\n\nÈ una riga di codice. Ed è uno dei motivi più frequenti per cui un sito \"ha visite ma nessuno chiama\".\n\n#UX #Mobile #PMI",
+          "video": "media/strategia/S02.mp4",
+          "stato": "manca_video"
         }
       }
     },
@@ -1360,35 +1357,48 @@
       }
     },
     {
-      "id": "R25",
-      "titolo": "Solo un effetto",
-      "formato": "Informativo",
+      "id": "S01",
+      "titolo": "Sito del lunedì: il ristorante",
+      "formato": "Audit lampo",
       "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
       "quando": "2026-11-15 11:00",
       "dueAt": "2026-11-15T10:00:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + registrazione schermo del sito fittizio «Osteria del Portico» (da creare, niente siti reali). Quando il video è pronto va in media/strategia/S01.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\nIl movimento ha tre regole: rapido, deciso, mai gratuito. Ogni transizione sta tra 150 e 400 millisecondi. Oltre, l'occhio percepisce lentezza. Sotto, l'animazione sparisce. — Lorenzo\n#motiondesign #webdesign #dettagli #bottegadigitale #ux",
-          "video": "media/reel/R25.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae3a39c8828b976bca4bd00",
-          "programmatoIl": "2026-10-29T19:50:53.105Z"
+          "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\nTre dettagli che mandano il cliente dal vicino: «Benvenuti» al posto di cosa fai e dove sei, il menu in PDF, la prenotazione solo per telefono.\nHai un locale? Commenta SITO e il prossimo lunedì guardo il tuo.\n#ristorantibologna #sitiweb #bologna #pmiitaliane #bottegadigitale",
+          "video": "media/strategia/S01.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto.\n\nLe nostre regole: rapido, deciso, mai gratuito. Tra 150 e 400 millisecondi. — Lorenzo",
-          "video": "media/reel/R25.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae3a39dbe6b4bd5b62ed112",
-          "programmatoIl": "2026-10-29T19:50:53.562Z"
+          "testo": "Sito del lunedì: trenta secondi sul sito di un ristorante.\n\n\"Benvenuti\" invece di cosa fai e dove sei, menu in PDF, prenotazione solo per telefono. Tre dettagli che mandano il cliente dal vicino.\n\nHai un locale? Scrivi SITO nei commenti e lunedì prossimo guardiamo il tuo.",
+          "video": "media/strategia/S01.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\n\nIl movimento, nei nostri siti, ha tre regole: rapido, deciso, mai gratuito.\n\nOgni transizione sta tra 150 e 400 millisecondi. Sotto, l'animazione sparisce e non aiuta. Sopra, l'occhio la percepisce come lentezza.\n\nÈ un dettaglio che il cliente non nota mai. Nota solo che il sito \"sembra veloce\".\n\n— Lorenzo, design e codice\n\n#MotionDesign #UX #WebDesign",
-          "video": "media/reel/R25.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae3a39ea50b3f7a4193a3f8",
-          "programmatoIl": "2026-10-29T19:50:54.324Z"
+          "testo": "Trenta secondi sul sito di un ristorante (fittizio). Tre problemi che vediamo ogni settimana:\n\n1. In alto c'è scritto \"Benvenuti\". Non cosa si mangia, non dove.\n2. Il menu è un PDF: da telefono si zooma, si scorre, si rinuncia.\n3. Per prenotare bisogna chiamare. Alle dieci di sera, il locale è chiuso.\n\nIl risultato: il cliente prenota dal vicino, e il titolare non lo saprà mai.\n\nSi sistema così: cosa fai e dove sei in alto, menu leggibile da telefono, prenotazione online.\n\n#Ristorazione #SitiWeb #PMI",
+          "video": "media/strategia/S01.mp4",
+          "stato": "manca_video"
         }
-      }
+      },
+      "sostituzioni": [
+        {
+          "il": "2026-11-01T20:00:00.000Z",
+          "da": "2026-11-02 18:30",
+          "a": "2026-11-03 18:30",
+          "conContenuto": "R09",
+          "manuale": true
+        },
+        {
+          "il": "2026-11-07T20:00:00.000Z",
+          "da": "2026-11-08 11:00",
+          "a": "2026-11-15 11:00",
+          "conContenuto": "R25",
+          "manuale": true
+        }
+      ]
     },
     {
       "id": "S07",
