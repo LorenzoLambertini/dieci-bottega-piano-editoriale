@@ -1162,26 +1162,19 @@
         "instagram": {
           "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\nIl movimento ha tre regole: rapido, deciso, mai gratuito. Ogni transizione sta tra 150 e 400 millisecondi. Oltre, l'occhio percepisce lentezza. Sotto, l'animazione sparisce. — Lorenzo\n#motiondesign #webdesign #dettagli #bottegadigitale #ux",
           "video": "media/reel/R25.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae3a39c8828b976bca4bd00",
-          "programmatoIl": "2026-10-29T19:50:53.105Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto.\n\nLe nostre regole: rapido, deciso, mai gratuito. Tra 150 e 400 millisecondi. — Lorenzo",
           "video": "media/reel/R25.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae3a39dbe6b4bd5b62ed112",
-          "programmatoIl": "2026-10-29T19:50:53.562Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "linkedin": {
           "testo": "Un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\n\nIl movimento, nei nostri siti, ha tre regole: rapido, deciso, mai gratuito.\n\nOgni transizione sta tra 150 e 400 millisecondi. Sotto, l'animazione sparisce e non aiuta. Sopra, l'occhio la percepisce come lentezza.\n\nÈ un dettaglio che il cliente non nota mai. Nota solo che il sito \"sembra veloce\".\n\n— Lorenzo, design e codice\n\n#MotionDesign #UX #WebDesign",
           "video": "media/reel/R25.mp4",
           "stato": "programmato",
-          "bufferId": "6ae3a39ea50b3f7a4193a3f8",
-          "programmatoIl": "2026-10-29T19:50:54.324Z",
-          "daAggiornare": true
+          "bufferId": "6aef80c851492b796ef8b9bc",
+          "programmatoIl": "2026-11-07T19:49:28.836Z"
         }
       }
     },
