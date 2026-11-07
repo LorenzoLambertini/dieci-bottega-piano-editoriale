@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 06/11/2026, 23:07:49
+Ultimo controllo: 07/11/2026, 12:47:10
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -13,7 +13,6 @@ Ultimo controllo: 06/11/2026, 23:07:49
 | 2026-11-08 11:00 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
 | 2026-11-12 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
 | 2026-11-10 18:30 | S03 | Il passaparola non basta | manca_video | manca_video | manca_video |
-| 2026-11-07 11:00 | R19 | Quante imprese hanno un sito | programmato | programmato | programmato |
 | 2026-11-09 18:30 | S04 | Sito del lunedì: l'agente immobiliare | manca_video | manca_video | manca_video |
 | 2026-11-11 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-11-13 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
@@ -32,15 +31,15 @@ Ultimo controllo: 06/11/2026, 23:07:49
 | 2026-11-26 18:30 | R29 | Le voci nel menu | programmato | programmato | programmato |
 | 2026-11-27 18:30 | S12 | 10 giorni in 40 secondi | manca_video | manca_video | manca_video |
 | 2026-11-28 11:00 | R31 | Banner cookie in regola | da_programmare | da_programmare | programmato |
-| 2026-11-29 11:00 | R33 | Con cosa e fatto | da_programmare | da_programmare | da_programmare |
+| 2026-11-29 11:00 | R33 | Con cosa e fatto | da_programmare | da_programmare | programmato |
 | 2026-11-30 18:30 | R32 | Microimprese esenti | da_programmare | da_programmare | da_programmare |
 | 2026-12-01 18:30 | R38 | Ti riconosci | da_programmare | da_programmare | da_programmare |
+| 2026-12-02 18:30 | R34 | AI Mode in italiano | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### linkedin
 
-- 07/11/26, 11:00 · Il 76,5% delle imprese italiane con almeno 10 addetti ha un sito web. 
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 - 15/11/26, 11:00 · Un'animazione che non serve la storia è solo un effetto. Ed è quello c
 - 17/11/26, 18:30 · Chiudere il banner dei cookie con la X non significa accettarli: equiv
@@ -49,7 +48,8 @@ Ultimo controllo: 06/11/2026, 23:07:49
 - 22/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
 - 24/11/26, 18:30 · Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
-- 28/11/26, 11:00 · 
+- 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
+- 29/11/26, 11:00 · 
 
 
 ## Ultime sostituzioni automatiche

@@ -1792,7 +1792,9 @@
         "linkedin": {
           "testo": "Con cosa costruiamo un sito, strato per strato:\n\nDesign · Figma, palette, tipografia.\nCodice · Next.js, TypeScript, Tailwind.\nMovimento · Framer Motion.\nDati · Supabase.\nEmail · Resend.\nAI co-working · Claude.\n\nStrumenti moderni, scelti perché rendono il sito veloce e facile da mantenere. Ma il codice lo scriviamo a mano, e lo rileggiamo riga per riga.\n\n#WebDevelopment #NextJS #WebDesign",
           "video": "media/reel/R33.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aef0fbdaf7e526d431beae6",
+          "programmatoIl": "2026-11-07T11:47:10.041Z"
         }
       }
     },
