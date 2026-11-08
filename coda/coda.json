@@ -1822,7 +1822,9 @@
         "linkedin": {
           "testo": "Vero: le microimprese che forniscono servizi sono esenti dagli obblighi dell'European Accessibility Act. Microimpresa vuol dire meno di 10 dipendenti e fatturato o bilancio fino a 2 milioni di euro. (D.Lgs. 82/2022)\n\nPer tutti gli altri il riferimento tecnico è WCAG 2.1, livello AA.\n\nEsenti non significa che l'accessibilità non serva: un sito leggibile da tutti è un sito che vende a più persone.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #EAA #PMI",
           "video": "media/reel/R32.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6af063f6004e4879a7b4f832",
+          "programmatoIl": "2026-11-08T11:58:46.622Z"
         }
       }
     },

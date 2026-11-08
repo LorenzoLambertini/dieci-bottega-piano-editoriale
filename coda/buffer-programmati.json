@@ -1,17 +1,6 @@
 {
   "linkedin": [
     {
-      "id": "6aef80c851492b796ef8b9bc",
-      "dueAt": "2026-11-08T10:00:00.000Z",
-      "text": "Un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\n\nIl movimento, nei nostri siti, ha tre regole: rapido, deciso, mai gratuito.\n\nOgni transizione sta tra 150 e 400 millisecondi. Sotto, l'animazione sparisce e non aiuta. Sopra, l'occhio la percepisce come lentezza.\n\nÈ un dettaglio che il cliente non nota mai. Nota solo che il sito \"sembra veloce\".\n\n— Lorenzo, design e codice\n\n#MotionDesign #UX #WebDesign",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R25.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ae115a42f35d654faeed7f2",
       "dueAt": "2026-11-14T10:00:00.000Z",
       "text": "Più voci metti nel menu, più tempo serve per decidere dove cliccare. È la legge di Hick-Hyman, psicologia degli anni '50.\n\nIl dettaglio interessante: il tempo non raddoppia se raddoppi le voci, cresce meno. Ma cresce sempre. E su un telefono ogni esitazione è un'uscita in più.\n\nPer un sito di una PMI, quattro o cinque voci bastano quasi sempre: servizi, prezzi, chi siamo, contatti.\n\n#UX #Menu #PMI",
