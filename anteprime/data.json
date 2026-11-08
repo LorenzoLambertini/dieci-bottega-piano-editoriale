@@ -1,63 +1,32 @@
 {
- "aggiornato": "2026-11-07T19:49+00:00",
+ "aggiornato": "2026-11-08T19:50+00:00",
  "contenuti": [
   {
-   "id": "R25",
-   "titolo": "Solo un effetto",
-   "tipo": "reel",
-   "quando": "2026-11-08 11:00",
-   "dueAt": "2026-11-08T10:00:00.000Z",
-   "slide": [],
-   "poster": "img/R25_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R25.mp4",
-   "durata": 25,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\nIl movimento ha tre regole: rapido, deciso, mai gratuito. Ogni transizione sta tra 150 e 400 millisecondi. Oltre, l'occhio percepisce lentezza. Sotto, l'animazione sparisce. — Lorenzo\n#motiondesign #webdesign #dettagli #bottegadigitale #ux",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Lezione della settimana: un'animazione che non serve la storia è solo un effetto.\n\nLe nostre regole: rapido, deciso, mai gratuito. Tra 150 e 400 millisecondi. — Lorenzo",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Un'animazione che non serve la storia è solo un effetto. Ed è quello che facciamo di meno.\n\nIl movimento, nei nostri siti, ha tre regole: rapido, deciso, mai gratuito.\n\nOgni transizione sta tra 150 e 400 millisecondi. Sotto, l'animazione sparisce e non aiuta. Sopra, l'occhio la percepisce come lentezza.\n\nÈ un dettaglio che il cliente non nota mai. Nota solo che il sito \"sembra veloce\".\n\n— Lorenzo, design e codice\n\n#MotionDesign #UX #WebDesign",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "S04",
-   "titolo": "Sito del lunedì: l'agente immobiliare",
+   "id": "R22",
+   "titolo": "La X accetta i cookie",
    "tipo": "reel",
    "quando": "2026-11-09 18:30",
    "dueAt": "2026-11-09T17:30:00.000Z",
    "slide": [],
-   "poster": null,
-   "video": null,
-   "durata": null,
+   "poster": "img/R22_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R22.mp4",
+   "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "manca_video",
-     "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
+     "stato": "programmato",
+     "testo": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "manca_video",
-     "testo": "Sito del lunedì: l'agente immobiliare.\n\nTre cose devono stare in alto: la tua faccia e il tuo nome, la zona in cui lavori, WhatsApp a un tocco. Nella casa ci si fida di una persona.\n\nSei un agente? Scrivi SITO nei commenti.",
+     "stato": "programmato",
+     "testo": "Vero o falso: \"Se chiudi il banner dei cookie con la X, li accetti.\"\n\nVota qui sotto. La risposta è nel video, insieme a un dettaglio sui cookie tecnici.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "manca_video",
-     "testo": "Il sito di un agente immobiliare (fittizio), in trenta secondi.\n\n1. In alto c'è solo il logo dell'agenzia. Nessuna faccia, nessun nome.\n2. \"Soluzioni immobiliari\": in che zona? Vendita, affitto, valutazioni?\n3. Il contatto è un modulo con dieci campi, in fondo alla pagina.\n\nNella casa le persone si fidano di una persona, non di un marchio senza volto.\n\nSi sistema così: foto e nome in alto, zona e servizio in una riga, WhatsApp a un tocco.\n\n#Immobiliare #AgentiImmobiliari #PMI",
+     "stato": "programmato",
+     "testo": "Chiudere il banner dei cookie con la X non significa accettarli: equivale a rifiutare.\n\nE i cookie tecnici, quelli che servono al funzionamento del sito? Quelli non chiedono consenso: basta l'informativa. (Garante Privacy, linee guida e FAQ 2021)\n\nUn banner fatto bene distingue le due cose. Uno fatto male chiede il consenso per tutto, o lo dà per scontato.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
      "formato": "video",
      "errore": null
     }
@@ -297,35 +266,43 @@
    }
   },
   {
-   "id": "R22",
-   "titolo": "La X accetta i cookie",
+   "id": "S04",
+   "titolo": "Sito del lunedì: l'agente immobiliare",
    "tipo": "reel",
    "quando": "2026-11-17 18:30",
    "dueAt": "2026-11-17T17:30:00.000Z",
    "slide": [],
-   "poster": "img/R22_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R22.mp4",
-   "durata": 29,
+   "poster": null,
+   "video": null,
+   "durata": null,
    "canali": {
     "instagram": {
-     "stato": "programmato",
-     "testo": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
+     "stato": "manca_video",
+     "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "programmato",
-     "testo": "Vero o falso: \"Se chiudi il banner dei cookie con la X, li accetti.\"\n\nVota qui sotto. La risposta è nel video, insieme a un dettaglio sui cookie tecnici.",
+     "stato": "manca_video",
+     "testo": "Sito del lunedì: l'agente immobiliare.\n\nTre cose devono stare in alto: la tua faccia e il tuo nome, la zona in cui lavori, WhatsApp a un tocco. Nella casa ci si fida di una persona.\n\nSei un agente? Scrivi SITO nei commenti.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "programmato",
-     "testo": "Chiudere il banner dei cookie con la X non significa accettarli: equivale a rifiutare.\n\nE i cookie tecnici, quelli che servono al funzionamento del sito? Quelli non chiedono consenso: basta l'informativa. (Garante Privacy, linee guida e FAQ 2021)\n\nUn banner fatto bene distingue le due cose. Uno fatto male chiede il consenso per tutto, o lo dà per scontato.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
+     "stato": "manca_video",
+     "testo": "Il sito di un agente immobiliare (fittizio), in trenta secondi.\n\n1. In alto c'è solo il logo dell'agenzia. Nessuna faccia, nessun nome.\n2. \"Soluzioni immobiliari\": in che zona? Vendita, affitto, valutazioni?\n3. Il contatto è un modulo con dieci campi, in fondo alla pagina.\n\nNella casa le persone si fidano di una persona, non di un marchio senza volto.\n\nSi sistema così: foto e nome in alto, zona e servizio in una riga, WhatsApp a un tocco.\n\n#Immobiliare #AgentiImmobiliari #PMI",
      "formato": "video",
      "errore": null
     }
-   }
+   },
+   "sostituzioni": [
+    {
+     "il": "2026-11-08T19:48:41.525Z",
+     "da": "2026-11-09 18:30",
+     "a": "2026-11-17 18:30",
+     "conContenuto": "R22"
+    }
+   ]
   },
   {
    "id": "S08",
@@ -723,7 +700,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Vero: le microimprese che forniscono servizi sono esenti dagli obblighi dell'European Accessibility Act. Microimpresa vuol dire meno di 10 dipendenti e fatturato o bilancio fino a 2 milioni di euro. (D.Lgs. 82/2022)\n\nPer tutti gli altri il riferimento tecnico è WCAG 2.1, livello AA.\n\nEsenti non significa che l'accessibilità non serva: un sito leggibile da tutti è un sito che vende a più persone.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #EAA #PMI",
      "formato": "video",
      "errore": null
@@ -1407,6 +1384,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Testo leggibile, bottoni grandi, niente zoom. Sono le tre condizioni minime di un sito pensato per il telefono.\n\nE non è solo una questione di comodità: Google usa la versione mobile del sito per indicizzarlo. Se da telefono il sito è una versione rimpicciolita del desktop, è quella che Google valuta.\n\nFonte: Google Search Central, mobile-first indexing\n\n#MobileFirst #UX #SEO",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R68",
+   "titolo": "Il giorno undici",
+   "tipo": "reel",
+   "quando": "2026-12-23 18:30",
+   "dueAt": "2026-12-23T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R68_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R68.mp4",
+   "durata": 24,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Il sito è online. E il giorno undici?\nLe chiavi sono tue: credenziali e dominio a tuo nome. Lo aggiorni da solo, con una guida scritta per te. Supporto post-lancio, incluso nel prezzo. E se serve altro, te lo diciamo chiaro.\nNiente sorprese alla consegna.\n#sitiweb #trasparenza #pmiitaliane #bottegadigitale #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Il sito è online. E il giorno undici?\n\nLe chiavi sono tue, lo aggiorni da solo con una guida, il supporto dopo il lancio è incluso. E se serve altro, te lo diciamo chiaro.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Il sito è online. Cosa succede il giorno undici?\n\nLe chiavi sono del cliente: credenziali e dominio a suo nome.\nLo aggiorna da solo, con una guida scritta per lui.\nIl supporto post-lancio è incluso nel prezzo.\nSe serve altro, lo diciamo chiaro, con un prezzo prima.\n\nNiente sorprese alla consegna. Né dopo.\n\n#Trasparenza #WebDesign #PMI",
      "formato": "video",
      "errore": null
     }
