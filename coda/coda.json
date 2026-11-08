@@ -1179,30 +1179,36 @@
       }
     },
     {
-      "id": "S04",
-      "titolo": "Sito del lunedì: l'agente immobiliare",
-      "formato": "Audit lampo",
+      "id": "R22",
+      "titolo": "La X accetta i cookie",
+      "formato": "Vero o falso?",
       "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Attrazione",
       "quando": "2026-11-09 18:30",
       "dueAt": "2026-11-09T17:30:00.000Z",
-      "nota": "Da girare: Lorenzo in camera + green screen su sito fittizio «Casa Saragozza Immobiliare». Quando il video è pronto va in media/strategia/S04.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
-          "video": "media/strategia/S04.mp4",
-          "stato": "manca_video"
+          "testo": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
+          "video": "media/reel/R22.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae50c79406ab8a01883748e",
+          "programmatoIl": "2026-10-30T21:30:33.229Z",
+          "daAggiornare": true
         },
         "facebook": {
-          "testo": "Sito del lunedì: l'agente immobiliare.\n\nTre cose devono stare in alto: la tua faccia e il tuo nome, la zona in cui lavori, WhatsApp a un tocco. Nella casa ci si fida di una persona.\n\nSei un agente? Scrivi SITO nei commenti.",
-          "video": "media/strategia/S04.mp4",
-          "stato": "manca_video"
+          "testo": "Vero o falso: \"Se chiudi il banner dei cookie con la X, li accetti.\"\n\nVota qui sotto. La risposta è nel video, insieme a un dettaglio sui cookie tecnici.",
+          "video": "media/reel/R22.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae50c79406ab8a0188374c6",
+          "programmatoIl": "2026-10-30T21:30:33.652Z",
+          "daAggiornare": true
         },
         "linkedin": {
-          "testo": "Il sito di un agente immobiliare (fittizio), in trenta secondi.\n\n1. In alto c'è solo il logo dell'agenzia. Nessuna faccia, nessun nome.\n2. \"Soluzioni immobiliari\": in che zona? Vendita, affitto, valutazioni?\n3. Il contatto è un modulo con dieci campi, in fondo alla pagina.\n\nNella casa le persone si fidano di una persona, non di un marchio senza volto.\n\nSi sistema così: foto e nome in alto, zona e servizio in una riga, WhatsApp a un tocco.\n\n#Immobiliare #AgentiImmobiliari #PMI",
-          "video": "media/strategia/S04.mp4",
-          "stato": "manca_video"
+          "testo": "Chiudere il banner dei cookie con la X non significa accettarli: equivale a rifiutare.\n\nE i cookie tecnici, quelli che servono al funzionamento del sito? Quelli non chiedono consenso: basta l'informativa. (Garante Privacy, linee guida e FAQ 2021)\n\nUn banner fatto bene distingue le due cose. Uno fatto male chiede il consenso per tutto, o lo dà per scontato.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
+          "video": "media/reel/R22.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae50c7aeaa24d6f9a3e1064",
+          "programmatoIl": "2026-10-30T21:30:34.290Z",
+          "daAggiornare": true
         }
       }
     },
@@ -1422,35 +1428,40 @@
       }
     },
     {
-      "id": "R22",
-      "titolo": "La X accetta i cookie",
-      "formato": "Vero o falso?",
+      "id": "S04",
+      "titolo": "Sito del lunedì: l'agente immobiliare",
+      "formato": "Audit lampo",
       "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
       "quando": "2026-11-17 18:30",
       "dueAt": "2026-11-17T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + green screen su sito fittizio «Casa Saragozza Immobiliare». Quando il video è pronto va in media/strategia/S04.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
-          "video": "media/reel/R22.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae50c79406ab8a01883748e",
-          "programmatoIl": "2026-10-30T21:30:33.229Z"
+          "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Vero o falso: \"Se chiudi il banner dei cookie con la X, li accetti.\"\n\nVota qui sotto. La risposta è nel video, insieme a un dettaglio sui cookie tecnici.",
-          "video": "media/reel/R22.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae50c79406ab8a0188374c6",
-          "programmatoIl": "2026-10-30T21:30:33.652Z"
+          "testo": "Sito del lunedì: l'agente immobiliare.\n\nTre cose devono stare in alto: la tua faccia e il tuo nome, la zona in cui lavori, WhatsApp a un tocco. Nella casa ci si fida di una persona.\n\nSei un agente? Scrivi SITO nei commenti.",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Chiudere il banner dei cookie con la X non significa accettarli: equivale a rifiutare.\n\nE i cookie tecnici, quelli che servono al funzionamento del sito? Quelli non chiedono consenso: basta l'informativa. (Garante Privacy, linee guida e FAQ 2021)\n\nUn banner fatto bene distingue le due cose. Uno fatto male chiede il consenso per tutto, o lo dà per scontato.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
-          "video": "media/reel/R22.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae50c7aeaa24d6f9a3e1064",
-          "programmatoIl": "2026-10-30T21:30:34.290Z"
+          "testo": "Il sito di un agente immobiliare (fittizio), in trenta secondi.\n\n1. In alto c'è solo il logo dell'agenzia. Nessuna faccia, nessun nome.\n2. \"Soluzioni immobiliari\": in che zona? Vendita, affitto, valutazioni?\n3. Il contatto è un modulo con dieci campi, in fondo alla pagina.\n\nNella casa le persone si fidano di una persona, non di un marchio senza volto.\n\nSi sistema così: foto e nome in alto, zona e servizio in una riga, WhatsApp a un tocco.\n\n#Immobiliare #AgentiImmobiliari #PMI",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
         }
-      }
+      },
+      "sostituzioni": [
+        {
+          "il": "2026-11-08T19:48:41.525Z",
+          "da": "2026-11-09 18:30",
+          "a": "2026-11-17 18:30",
+          "conContenuto": "R22"
+        }
+      ]
     },
     {
       "id": "S08",
