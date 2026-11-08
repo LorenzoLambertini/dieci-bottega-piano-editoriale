@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 08/11/2026, 20:50:43
+Ultimo controllo: 08/11/2026, 22:11:21
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -40,7 +40,7 @@ Ultimo controllo: 08/11/2026, 20:50:43
 
 ### linkedin
 
-- 09/11/26, 18:30 · 
+- 09/11/26, 18:30 · Chiudere il banner dei cookie con la X non significa accettarli: equiv
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 - 19/11/26, 18:30 · Per Google il contenuto principale di una pagina deve comparire entro 
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
