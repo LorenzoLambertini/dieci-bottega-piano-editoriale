@@ -1,43 +1,12 @@
 {
- "aggiornato": "2026-11-08T19:50+00:00",
+ "aggiornato": "2026-11-09T19:50+00:00",
  "contenuti": [
-  {
-   "id": "R22",
-   "titolo": "La X accetta i cookie",
-   "tipo": "reel",
-   "quando": "2026-11-09 18:30",
-   "dueAt": "2026-11-09T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R22_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R22.mp4",
-   "durata": 29,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Vero o falso: \"Se chiudi il banner con la X, accetti i cookie.\"\nVota nei commenti. Nel video la risposta, e cosa cambia per i cookie tecnici. Fonte: Garante Privacy.\n#cookie #privacy #gdpr #verofalso #sitiweb",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Vero o falso: \"Se chiudi il banner dei cookie con la X, li accetti.\"\n\nVota qui sotto. La risposta è nel video, insieme a un dettaglio sui cookie tecnici.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Chiudere il banner dei cookie con la X non significa accettarli: equivale a rifiutare.\n\nE i cookie tecnici, quelli che servono al funzionamento del sito? Quelli non chiedono consenso: basta l'informativa. (Garante Privacy, linee guida e FAQ 2021)\n\nUn banner fatto bene distingue le due cose. Uno fatto male chiede il consenso per tutto, o lo dà per scontato.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "S03",
    "titolo": "Il passaparola non basta",
    "tipo": "reel",
-   "quando": "2026-11-10 18:30",
-   "dueAt": "2026-11-10T17:30:00.000Z",
+   "quando": "2026-11-24 18:30",
+   "dueAt": "2026-11-24T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -494,8 +463,8 @@
    "id": "R27",
    "titolo": "Il ranking locale",
    "tipo": "reel",
-   "quando": "2026-11-24 18:30",
-   "dueAt": "2026-11-24T17:30:00.000Z",
+   "quando": "2026-11-10 18:30",
+   "dueAt": "2026-11-10T17:30:00.000Z",
    "slide": [],
    "poster": "img/R27_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R27.mp4",
@@ -1415,6 +1384,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Il sito è online. Cosa succede il giorno undici?\n\nLe chiavi sono del cliente: credenziali e dominio a suo nome.\nLo aggiorna da solo, con una guida scritta per lui.\nIl supporto post-lancio è incluso nel prezzo.\nSe serve altro, lo diciamo chiaro, con un prezzo prima.\n\nNiente sorprese alla consegna. Né dopo.\n\n#Trasparenza #WebDesign #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R52",
+   "titolo": "Le foto stock",
+   "tipo": "reel",
+   "quando": "2026-12-24 18:30",
+   "dueAt": "2026-12-24T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R52_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R52.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Vero o falso: \"Le foto stock fanno sembrare il sito più professionale.\"\nVota nei commenti. Nel video cosa fanno davvero gli utenti con le foto stock, e a quale condizione le foto funzionano. Fonte: Nielsen Norman Group.\n#fotografia #webdesign #verofalso #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Vero o falso: \"Le foto stock fanno sembrare il sito più professionale.\"\n\nVota qui sotto.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Le foto stock non rendono un sito più professionale. Gli utenti le ignorano.\n\nGli studi di eyetracking di Nielsen Norman Group mostrano che le immagini vengono guardate a una condizione: che siano persone reali che lavorano davvero in azienda.\n\nUna foto del titolare in bottega, anche fatta con il telefono e con la luce giusta, vale più della stretta di mano generica in ufficio.\n\n#Fotografia #WebDesign #PMI",
      "formato": "video",
      "errore": null
     }
