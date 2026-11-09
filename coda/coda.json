@@ -1212,8 +1212,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Consapevolezza",
-      "quando": "2026-11-10 18:30",
-      "dueAt": "2026-11-10T17:30:00.000Z",
+      "quando": "2026-11-24 18:30",
+      "dueAt": "2026-11-24T17:30:00.000Z",
       "nota": "Da girare: Lorenzo o Tommaso in camera + mani su tastiera/telefono con ricerca Google di un nome fittizio. Quando il video è pronto va in media/strategia/S03.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1638,29 +1638,32 @@
       "titolo": "Il ranking locale",
       "formato": "Quiz",
       "tipo": "reel",
-      "quando": "2026-11-24 18:30",
-      "dueAt": "2026-11-24T17:30:00.000Z",
+      "quando": "2026-11-10 18:30",
+      "dueAt": "2026-11-10T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
           "video": "media/reel/R27.mp4",
           "stato": "programmato",
           "bufferId": "6aea3b6352391758e2e660f5",
-          "programmatoIl": "2026-11-03T19:52:04.068Z"
+          "programmatoIl": "2026-11-03T19:52:04.068Z",
+          "daAggiornare": true
         },
         "facebook": {
           "testo": "Quale di questi NON conta per comparire su Google Maps: la distanza, il colore del logo o la pertinenza?\n\nSembra facile. Rispondi qui sotto.",
           "video": "media/reel/R27.mp4",
           "stato": "programmato",
           "bufferId": "6aea3b645fa3d509fa3d3345",
-          "programmatoIl": "2026-11-03T19:52:04.457Z"
+          "programmatoIl": "2026-11-03T19:52:04.457Z",
+          "daAggiornare": true
         },
         "linkedin": {
           "testo": "Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il profilo risponde alla ricerca), distanza da chi cerca, prominenza (quanto sei conosciuto: link, recensioni, valutazioni).\n\nLe recensioni contano: più sono, e più sono positive, più possono aiutare. Rispondere mostra che l'attività è viva. (Google, guida del Profilo dell'Attività)\n\nIl colore del logo, invece, non conta. Ma quanti profili vediamo curati nel logo e lasciati vuoti negli orari?\n\n#GoogleMaps #SEOLocale #PMI",
           "video": "media/reel/R27.mp4",
           "stato": "programmato",
           "bufferId": "6aea3b642128cca0a51e45f5",
-          "programmatoIl": "2026-11-03T19:52:04.815Z"
+          "programmatoIl": "2026-11-03T19:52:04.815Z",
+          "daAggiornare": true
         }
       }
     },
