@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09T19:50+00:00",
+ "aggiornato": "2026-11-09T19:51+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -471,13 +471,13 @@
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Quale di questi NON conta per comparire su Google Maps: la distanza, il colore del logo o la pertinenza?\n\nSembra facile. Rispondi qui sotto.",
      "formato": "video",
      "errore": null
@@ -700,7 +700,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Tre frasi che sentiamo ogni settimana:\n\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" (ristorante)\n\"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" (agente immobiliare)\n\"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\" (personal trainer)\n\nPunti di partenza diversi, stesso bisogno: un sito che lavori per chi lo possiede.\n\n#PMI #WebDesign #Bologna",
      "formato": "video",
      "errore": null
