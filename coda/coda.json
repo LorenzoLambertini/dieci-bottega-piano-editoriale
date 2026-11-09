@@ -1644,26 +1644,19 @@
         "instagram": {
           "testo": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
           "video": "media/reel/R27.mp4",
-          "stato": "programmato",
-          "bufferId": "6aea3b6352391758e2e660f5",
-          "programmatoIl": "2026-11-03T19:52:04.068Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Quale di questi NON conta per comparire su Google Maps: la distanza, il colore del logo o la pertinenza?\n\nSembra facile. Rispondi qui sotto.",
           "video": "media/reel/R27.mp4",
-          "stato": "programmato",
-          "bufferId": "6aea3b645fa3d509fa3d3345",
-          "programmatoIl": "2026-11-03T19:52:04.457Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "linkedin": {
           "testo": "Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il profilo risponde alla ricerca), distanza da chi cerca, prominenza (quanto sei conosciuto: link, recensioni, valutazioni).\n\nLe recensioni contano: più sono, e più sono positive, più possono aiutare. Rispondere mostra che l'attività è viva. (Google, guida del Profilo dell'Attività)\n\nIl colore del logo, invece, non conta. Ma quanti profili vediamo curati nel logo e lasciati vuoti negli orari?\n\n#GoogleMaps #SEOLocale #PMI",
           "video": "media/reel/R27.mp4",
           "stato": "programmato",
-          "bufferId": "6aea3b642128cca0a51e45f5",
-          "programmatoIl": "2026-11-03T19:52:04.815Z",
-          "daAggiornare": true
+          "bufferId": "6af223ffb3dd86936aa3af79",
+          "programmatoIl": "2026-11-09T19:50:23.732Z"
         }
       }
     },
@@ -1856,7 +1849,9 @@
         "linkedin": {
           "testo": "Tre frasi che sentiamo ogni settimana:\n\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" (ristorante)\n\"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" (agente immobiliare)\n\"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\" (personal trainer)\n\nPunti di partenza diversi, stesso bisogno: un sito che lavori per chi lo possiede.\n\n#PMI #WebDesign #Bologna",
           "video": "media/reel/R38.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6af2240029d3f56e691fc7a5",
+          "programmatoIl": "2026-11-09T19:50:24.265Z"
         }
       }
     },
