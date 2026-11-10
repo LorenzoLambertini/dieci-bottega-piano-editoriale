@@ -1,17 +1,6 @@
 {
   "linkedin": [
     {
-      "id": "6af223ffb3dd86936aa3af79",
-      "dueAt": "2026-11-10T17:30:00.000Z",
-      "text": "Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il profilo risponde alla ricerca), distanza da chi cerca, prominenza (quanto sei conosciuto: link, recensioni, valutazioni).\n\nLe recensioni contano: più sono, e più sono positive, più possono aiutare. Rispondere mostra che l'attività è viva. (Google, guida del Profilo dell'Attività)\n\nIl colore del logo, invece, non conta. Ma quanti profili vediamo curati nel logo e lasciati vuoti negli orari?\n\n#GoogleMaps #SEOLocale #PMI",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R27.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ae115a42f35d654faeed7f2",
       "dueAt": "2026-11-14T10:00:00.000Z",
       "text": "Più voci metti nel menu, più tempo serve per decidere dove cliccare. È la legge di Hick-Hyman, psicologia degli anni '50.\n\nIl dettaglio interessante: il tempo non raddoppia se raddoppi le voci, cresce meno. Ma cresce sempre. E su un telefono ogni esitazione è un'uscita in più.\n\nPer un sito di una PMI, quattro o cinque voci bastano quasi sempre: servizi, prezzi, chi siamo, contatti.\n\n#UX #Menu #PMI",
@@ -95,17 +84,6 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R32.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
-      "id": "6af2240029d3f56e691fc7a5",
-      "dueAt": "2026-12-01T17:30:00.000Z",
-      "text": "Tre frasi che sentiamo ogni settimana:\n\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" (ristorante)\n\"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" (agente immobiliare)\n\"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\" (personal trainer)\n\nPunti di partenza diversi, stesso bisogno: un sito che lavori per chi lo possiede.\n\n#PMI #WebDesign #Bologna",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R38.mp4",
           "tipo": "video/mp4"
         }
       ]
