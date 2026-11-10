@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09T19:51+00:00",
+ "aggiornato": "2026-11-10T19:50+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -36,8 +36,8 @@
    "id": "S05",
    "titolo": "Il cliente delle 22",
    "tipo": "reel",
-   "quando": "2026-11-11 18:30",
-   "dueAt": "2026-11-11T17:30:00.000Z",
+   "quando": "2026-12-01 18:30",
+   "dueAt": "2026-12-01T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -460,37 +460,6 @@
    }
   },
   {
-   "id": "R27",
-   "titolo": "Il ranking locale",
-   "tipo": "reel",
-   "quando": "2026-11-10 18:30",
-   "dueAt": "2026-11-10T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R27_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R27.mp4",
-   "durata": 29,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "Quale di questi NON conta per comparire su Google Maps: la distanza, il colore del logo o la pertinenza?\n\nSembra facile. Rispondi qui sotto.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il profilo risponde alla ricerca), distanza da chi cerca, prominenza (quanto sei conosciuto: link, recensioni, valutazioni).\n\nLe recensioni contano: più sono, e più sono positive, più possono aiutare. Rispondere mostra che l'attività è viva. (Google, guida del Profilo dell'Attività)\n\nIl colore del logo, invece, non conta. Ma quanti profili vediamo curati nel logo e lasciati vuoti negli orari?\n\n#GoogleMaps #SEOLocale #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
    "id": "S11",
    "titolo": "Due idraulici",
    "tipo": "reel",
@@ -680,8 +649,8 @@
    "id": "R38",
    "titolo": "Ti riconosci",
    "tipo": "reel",
-   "quando": "2026-12-01 18:30",
-   "dueAt": "2026-12-01T17:30:00.000Z",
+   "quando": "2026-11-11 18:30",
+   "dueAt": "2026-11-11T17:30:00.000Z",
    "slide": [],
    "poster": "img/R38_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R38.mp4",
@@ -1415,6 +1384,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Le foto stock non rendono un sito più professionale. Gli utenti le ignorano.\n\nGli studi di eyetracking di Nielsen Norman Group mostrano che le immagini vengono guardate a una condizione: che siano persone reali che lavorano davvero in azienda.\n\nUna foto del titolare in bottega, anche fatta con il telefono e con la luce giusta, vale più della stretta di mano generica in ufficio.\n\n#Fotografia #WebDesign #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R70",
+   "titolo": "Cosa e la GEO",
+   "tipo": "reel",
+   "quando": "2026-12-25 18:30",
+   "dueAt": "2026-12-25T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R70_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R70.mp4",
+   "durata": 26,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "La SEO la conosci. E la GEO?\nGenerative Engine Optimization: farsi citare nelle risposte delle AI. Dall'8 ottobre 2025 AI Mode di Google parla anche italiano. Fonti, citazioni e dati possono portare fino al 40% di visibilità in più nelle risposte. Riempire di parole chiave? Non funziona.\nScrivi chiaro, cita le fonti, usa dati veri.\n#geo #seo #intelligenzaartificiale #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "La SEO la conosci. E la GEO?\n\nÈ farsi citare quando qualcuno chiede all'intelligenza artificiale. La regola è semplice: scrivi chiaro, cita le fonti, usa dati veri.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "La SEO la conosci. La GEO, Generative Engine Optimization, è il passo successivo: farsi citare nelle risposte delle AI.\n\nDall'8 ottobre 2025 AI Mode di Google parla anche italiano. Secondo lo studio di Aggarwal et al. (KDD 2024), fonti, citazioni e dati possono portare fino al 40% di visibilità in più nelle risposte generate. Riempire le pagine di parole chiave, invece, non funziona.\n\nScrivi chiaro. Cita le fonti. Usa dati veri.\n\n#GEO #SEO #IntelligenzaArtificiale",
      "formato": "video",
      "errore": null
     }
