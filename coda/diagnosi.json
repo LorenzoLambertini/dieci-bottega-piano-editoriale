@@ -665,10 +665,23 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6af0d29251492b796e5a68b3",
-        "dueAt": "2026-11-09T17:30:00.000Z",
+        "id": "6af2240029d3f56e691fc7a5",
+        "dueAt": "2026-12-01T17:30:00.000Z",
         "sentAt": null,
-        "text": "Chiudere il banner dei cookie con la X non significa accetta",
+        "text": "Tre frasi che sentiamo ogni settimana:\n\n\"Il mio sito è del 2",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6af223ffb3dd86936aa3af79",
+        "dueAt": "2026-11-10T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Google Maps decide chi mostrare con tre criteri: pertinenza ",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -748,45 +761,6 @@
         "sentAt": null,
         "text": "Più voci metti nel menu del tuo sito... decidi prima, nessun",
         "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6aea3b645fa3d509fa3d3345",
-        "dueAt": "2026-11-24T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Quale di questi NON conta per comparire su Google Maps: la d",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6aea3b642128cca0a51e45f5",
-        "dueAt": "2026-11-24T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Google Maps decide chi mostrare con tre criteri: pertinenza ",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6aea3b6352391758e2e660f5",
-        "dueAt": "2026-11-24T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Quale di questi NON è un fattore del ranking locale di Googl",
-        "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
         "schedulingType": "automatic",
@@ -953,6 +927,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6af0d29251492b796e5a68b3",
+        "dueAt": "2026-11-09T17:30:00.000Z",
+        "sentAt": "2026-11-09T17:31:45.833Z",
+        "text": "Chiudere il banner dei cookie con la X non significa accetta",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6aef80c851492b796ef8b9bc",
         "dueAt": "2026-11-08T10:00:00.000Z",
@@ -1329,26 +1316,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad3c595ae173d6e00cd177c",
-        "dueAt": "2026-10-18T09:00:00.000Z",
-        "sentAt": "2026-10-18T09:00:54.413Z",
-        "text": "Online quasi nessuno legge parola per parola. Si scansiona.\n",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Sun, 08 Nov 2026 19:52:30 GMT 2888614",
-    "media/reel/R07.mp4": "200 Sun, 08 Nov 2026 19:52:30 GMT 3173777",
-    "index.html": "200 Sun, 08 Nov 2026 19:52:30 GMT 104461"
+    "media/reel/R02.mp4": "200 Mon, 09 Nov 2026 19:52:41 GMT 2888614",
+    "media/reel/R07.mp4": "200 Mon, 09 Nov 2026 19:52:41 GMT 3173777",
+    "index.html": "200 Mon, 09 Nov 2026 19:52:40 GMT 104461"
   }
 }
