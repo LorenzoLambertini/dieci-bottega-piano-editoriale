@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 10/11/2026, 20:50:36
+Ultimo controllo: 10/11/2026, 23:23:01
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -40,7 +40,7 @@ Ultimo controllo: 10/11/2026, 20:50:36
 
 ### linkedin
 
-- 11/11/26, 18:30 · 
+- 11/11/26, 18:30 · Tre frasi che sentiamo ogni settimana: "Il mio sito è del 2014, mi ver
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 - 19/11/26, 18:30 · Per Google il contenuto principale di una pagina deve comparire entro 
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
@@ -49,7 +49,7 @@ Ultimo controllo: 10/11/2026, 20:50:36
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
 - 29/11/26, 11:00 · Con cosa costruiamo un sito, strato per strato: Design · Figma, palett
 - 30/11/26, 18:30 · Vero: le microimprese che forniscono servizi sono esenti dagli obbligh
-- 02/12/26, 18:30 · 
+- 02/12/26, 18:30 · Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano,
 
 
 ## Ultime sostituzioni automatiche
