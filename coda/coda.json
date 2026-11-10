@@ -1240,8 +1240,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Attrazione",
-      "quando": "2026-11-11 18:30",
-      "dueAt": "2026-11-11T17:30:00.000Z",
+      "quando": "2026-12-01 18:30",
+      "dueAt": "2026-12-01T17:30:00.000Z",
       "nota": "Da girare: Riprese telefono in mano di sera (luce calda) + Lorenzo in camera. Due siti fittizi di fisioterapisti. Quando il video è pronto va in media/strategia/S05.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1833,8 +1833,8 @@
       "titolo": "Ti riconosci",
       "formato": "Informativo",
       "tipo": "reel",
-      "quando": "2026-12-01 18:30",
-      "dueAt": "2026-12-01T17:30:00.000Z",
+      "quando": "2026-11-11 18:30",
+      "dueAt": "2026-11-11T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Ti riconosci?\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" \"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" \"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\"\nQualunque sia il punto di partenza: il sito che ti serve, fatto bene.\n#sitiweb #pmiitaliane #ristoranti #personaltrainer #bologna",
@@ -1851,7 +1851,8 @@
           "video": "media/reel/R38.mp4",
           "stato": "programmato",
           "bufferId": "6af2240029d3f56e691fc7a5",
-          "programmatoIl": "2026-11-09T19:50:24.265Z"
+          "programmatoIl": "2026-11-09T19:50:24.265Z",
+          "daAggiornare": true
         }
       }
     },
