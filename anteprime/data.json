@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T19:51+00:00",
+ "aggiornato": "2026-11-11T19:49+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -67,8 +67,8 @@
    "id": "S02",
    "titolo": "Il numero che non si clicca",
    "tipo": "reel",
-   "quando": "2026-11-12 18:30",
-   "dueAt": "2026-11-12T17:30:00.000Z",
+   "quando": "2026-11-19 18:30",
+   "dueAt": "2026-11-19T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -308,21 +308,21 @@
    "id": "R24",
    "titolo": "Il tempo LCP",
    "tipo": "reel",
-   "quando": "2026-11-19 18:30",
-   "dueAt": "2026-11-19T17:30:00.000Z",
+   "quando": "2026-11-12 18:30",
+   "dueAt": "2026-11-12T17:30:00.000Z",
    "slide": [],
    "poster": "img/R24_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R24.mp4",
    "durata": 29,
    "canali": {
     "instagram": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Per Google, il contenuto principale della pagina deve comparire entro quanto? 2,5, 5 o 10 secondi?\n\nScrivi la tua risposta nei commenti.",
      "formato": "video",
      "errore": null
@@ -646,37 +646,6 @@
    }
   },
   {
-   "id": "R38",
-   "titolo": "Ti riconosci",
-   "tipo": "reel",
-   "quando": "2026-11-11 18:30",
-   "dueAt": "2026-11-11T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R38_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R38.mp4",
-   "durata": 26,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "Ti riconosci?\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" \"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" \"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\"\nQualunque sia il punto di partenza: il sito che ti serve, fatto bene.\n#sitiweb #pmiitaliane #ristoranti #personaltrainer #bologna",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "Ti riconosci?\n\n\"Il mio sito è del 2014.\" \"Lavoro su WhatsApp, mi serve un sito pulito.\" \"Sono solo su Instagram, ma chi mi cerca su Google non mi trova.\"\n\nDa qualunque punto parti, c'è il sito che ti serve. Scrivici.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Tre frasi che sentiamo ogni settimana:\n\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" (ristorante)\n\"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" (agente immobiliare)\n\"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\" (personal trainer)\n\nPunti di partenza diversi, stesso bisogno: un sito che lavori per chi lo possiede.\n\n#PMI #WebDesign #Bologna",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
    "id": "R34",
    "titolo": "AI Mode in italiano",
    "tipo": "reel",
@@ -731,7 +700,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\nPrima di andare online, ogni sito passa quattro controlli:\nSpaziature, coerenti in ogni pagina.\nMicrocopy: massimo tre parole per bottone, niente esclamativi.\nPerformance, misurate sui telefoni.\nAccessibilità, con contrasto almeno AA.\n\nNessuno di questi punti compare in un preventivo. Tutti insieme decidono se un sito funziona.\n\n#Dettagli #WebDesign #Qualità",
      "formato": "video",
      "errore": null
@@ -1415,6 +1384,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "La SEO la conosci. La GEO, Generative Engine Optimization, è il passo successivo: farsi citare nelle risposte delle AI.\n\nDall'8 ottobre 2025 AI Mode di Google parla anche italiano. Secondo lo studio di Aggarwal et al. (KDD 2024), fonti, citazioni e dati possono portare fino al 40% di visibilità in più nelle risposte generate. Riempire le pagine di parole chiave, invece, non funziona.\n\nScrivi chiaro. Cita le fonti. Usa dati veri.\n\n#GEO #SEO #IntelligenzaArtificiale",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R54",
+   "titolo": "Il primo banner",
+   "tipo": "reel",
+   "quando": "2026-12-26 11:00",
+   "dueAt": "2026-12-26T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R54_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R54.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Il primo banner pubblicitario della storia, 1994. Quanti lo cliccarono? Il 4%, il 14% o il 44%?\nRispondi nei commenti. Nel video la risposta, e cosa c'era scritto sopra. Avevano ragione.\n#storiadelweb #web #curiosita #marketing #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Il primo banner pubblicitario della storia, 1994. Quanti lo cliccarono? Il 4%, il 14% o il 44%?\n\nScrivi la tua. Il testo che c'era sopra è geniale.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Il primo banner pubblicitario della storia è del 1994. Lo cliccò il 44% di chi lo vide. (The Drum)\n\nIl testo diceva: \"Hai mai cliccato qui con il mouse? Lo farai.\"\n\nOggi i tassi di clic sono una frazione di allora. Non perché la pubblicità sia peggiorata, ma perché l'attenzione si è fatta preziosa. Ed è proprio per questo che un sito chiaro, veloce e onesto vale più di un banner in più.\n\n#StoriaDelWeb #Marketing #Curiosità",
      "formato": "video",
      "errore": null
     }
