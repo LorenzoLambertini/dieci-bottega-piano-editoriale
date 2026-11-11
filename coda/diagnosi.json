@@ -665,10 +665,23 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6af3758ce021f9ae4259f42b",
-        "dueAt": "2026-11-11T17:30:00.000Z",
+        "id": "6af4c6c8b933477d281deed3",
+        "dueAt": "2026-11-12T17:30:00.000Z",
         "sentAt": null,
-        "text": "Tre frasi che sentiamo ogni settimana:\n\n\"Il mio sito è del 2",
+        "text": "Per Google il contenuto principale di una pagina deve compar",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6af4c6c82f8776bfa37a264c",
+        "dueAt": "2026-12-03T17:30:00.000Z",
+        "sentAt": null,
+        "text": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\n",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -847,45 +860,6 @@
         "via": "buffer"
       },
       {
-        "id": "6ae5c9b3ceb491e585f04de2",
-        "dueAt": "2026-11-19T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Per Google il contenuto principale di una pagina deve compar",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae5c9b2ceb491e585f04d80",
-        "dueAt": "2026-11-19T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Per Google, il contenuto principale della pagina deve compar",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae5c9b2b84259308bd071d1",
-        "dueAt": "2026-11-19T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Per Google, il contenuto principale della pagina deve compar",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6ae115a4e2341add8c5c6d6b",
         "dueAt": "2026-11-14T10:00:00.000Z",
         "sentAt": null,
@@ -927,6 +901,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6af3758ce021f9ae4259f42b",
+        "dueAt": "2026-11-11T17:30:00.000Z",
+        "sentAt": "2026-11-11T17:31:44.006Z",
+        "text": "Tre frasi che sentiamo ogni settimana:\n\n\"Il mio sito è del 2",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6af223ffb3dd86936aa3af79",
         "dueAt": "2026-11-10T17:30:00.000Z",
@@ -1303,26 +1290,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad3c596ae173d6e00cd17a9",
-        "dueAt": "2026-10-21T16:30:00.000Z",
-        "sentAt": "2026-10-21T16:32:01.671Z",
-        "text": "A volte diciamo di no.\n\nSe il tuo progetto non è adatto a no",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Tue, 10 Nov 2026 13:34:36 GMT 2888614",
-    "media/reel/R07.mp4": "200 Tue, 10 Nov 2026 13:34:36 GMT 3173777",
-    "index.html": "200 Tue, 10 Nov 2026 13:34:36 GMT 104461"
+    "media/reel/R02.mp4": "200 Wed, 11 Nov 2026 19:51:28 GMT 2888614",
+    "media/reel/R07.mp4": "200 Wed, 11 Nov 2026 19:51:27 GMT 3173777",
+    "index.html": "200 Wed, 11 Nov 2026 19:51:27 GMT 104461"
   }
 }
