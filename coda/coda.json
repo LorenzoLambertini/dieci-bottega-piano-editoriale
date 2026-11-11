@@ -1495,26 +1495,19 @@
         "instagram": {
           "testo": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
           "video": "media/reel/R24.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae5c9b2ceb491e585f04d80",
-          "programmatoIl": "2026-10-31T10:57:54.443Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Per Google, il contenuto principale della pagina deve comparire entro quanto? 2,5, 5 o 10 secondi?\n\nScrivi la tua risposta nei commenti.",
           "video": "media/reel/R24.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae5c9b2b84259308bd071d1",
-          "programmatoIl": "2026-10-31T10:57:54.791Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "linkedin": {
           "testo": "Per Google il contenuto principale di una pagina deve comparire entro 2,5 secondi. La misura si chiama LCP, Largest Contentful Paint, ed è uno dei tre Core Web Vitals.\n\nIl dettaglio che pochi conoscono: non basta riuscirci una volta. Deve succedere nel 75% delle visite reali, misurate sui telefoni di chi naviga davvero.\n\nPer questo un sito veloce sul computer dell'agenzia non è ancora un sito veloce.\n\nFonte: web.dev\n\n#CoreWebVitals #SEO #Performance",
           "video": "media/reel/R24.mp4",
           "stato": "programmato",
-          "bufferId": "6ae5c9b3ceb491e585f04de2",
-          "programmatoIl": "2026-10-31T10:57:55.091Z",
-          "daAggiornare": true
+          "bufferId": "6af4c6c8b933477d281deed3",
+          "programmatoIl": "2026-11-11T19:49:28.507Z"
         }
       }
     },
@@ -1906,7 +1899,9 @@
         "linkedin": {
           "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\nPrima di andare online, ogni sito passa quattro controlli:\nSpaziature, coerenti in ogni pagina.\nMicrocopy: massimo tre parole per bottone, niente esclamativi.\nPerformance, misurate sui telefoni.\nAccessibilità, con contrasto almeno AA.\n\nNessuno di questi punti compare in un preventivo. Tutti insieme decidono se un sito funziona.\n\n#Dettagli #WebDesign #Qualità",
           "video": "media/reel/R40.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6af4c6c82f8776bfa37a264c",
+          "programmatoIl": "2026-11-11T19:49:28.933Z"
         }
       }
     },
