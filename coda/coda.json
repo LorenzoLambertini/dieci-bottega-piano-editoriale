@@ -1268,8 +1268,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Attrazione",
-      "quando": "2026-11-12 18:30",
-      "dueAt": "2026-11-12T17:30:00.000Z",
+      "quando": "2026-11-19 18:30",
+      "dueAt": "2026-11-19T17:30:00.000Z",
       "nota": "Da girare: Lorenzo in camera + 2 registrazioni schermo da iPhone (numero testo / numero cliccabile) su sito fittizio. Quando il video è pronto va in media/strategia/S02.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1489,29 +1489,32 @@
       "titolo": "Il tempo LCP",
       "formato": "Quiz",
       "tipo": "reel",
-      "quando": "2026-11-19 18:30",
-      "dueAt": "2026-11-19T17:30:00.000Z",
+      "quando": "2026-11-12 18:30",
+      "dueAt": "2026-11-12T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
           "video": "media/reel/R24.mp4",
           "stato": "programmato",
           "bufferId": "6ae5c9b2ceb491e585f04d80",
-          "programmatoIl": "2026-10-31T10:57:54.443Z"
+          "programmatoIl": "2026-10-31T10:57:54.443Z",
+          "daAggiornare": true
         },
         "facebook": {
           "testo": "Per Google, il contenuto principale della pagina deve comparire entro quanto? 2,5, 5 o 10 secondi?\n\nScrivi la tua risposta nei commenti.",
           "video": "media/reel/R24.mp4",
           "stato": "programmato",
           "bufferId": "6ae5c9b2b84259308bd071d1",
-          "programmatoIl": "2026-10-31T10:57:54.791Z"
+          "programmatoIl": "2026-10-31T10:57:54.791Z",
+          "daAggiornare": true
         },
         "linkedin": {
           "testo": "Per Google il contenuto principale di una pagina deve comparire entro 2,5 secondi. La misura si chiama LCP, Largest Contentful Paint, ed è uno dei tre Core Web Vitals.\n\nIl dettaglio che pochi conoscono: non basta riuscirci una volta. Deve succedere nel 75% delle visite reali, misurate sui telefoni di chi naviga davvero.\n\nPer questo un sito veloce sul computer dell'agenzia non è ancora un sito veloce.\n\nFonte: web.dev\n\n#CoreWebVitals #SEO #Performance",
           "video": "media/reel/R24.mp4",
           "stato": "programmato",
           "bufferId": "6ae5c9b3ceb491e585f04de2",
-          "programmatoIl": "2026-10-31T10:57:55.091Z"
+          "programmatoIl": "2026-10-31T10:57:55.091Z",
+          "daAggiornare": true
         }
       }
     },
