@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 12/11/2026, 20:49:55
+Ultimo controllo: 12/11/2026, 23:44:07
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -40,7 +40,7 @@ Ultimo controllo: 12/11/2026, 20:49:55
 
 ### linkedin
 
-- 13/11/26, 18:30 · 
+- 13/11/26, 18:30 · "È tutto nei dettagli" non è una tagline. È un protocollo. Prima di an
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 22/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
@@ -49,7 +49,7 @@ Ultimo controllo: 12/11/2026, 20:49:55
 - 29/11/26, 11:00 · Con cosa costruiamo un sito, strato per strato: Design · Figma, palett
 - 30/11/26, 18:30 · Vero: le microimprese che forniscono servizi sono esenti dagli obbligh
 - 02/12/26, 18:30 · Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano,
-- 04/12/26, 18:30 · 
+- 04/12/26, 18:30 · Su Google Maps il nome dell'attività deve essere quello reale, senza p
 
 
 ## Ultime sostituzioni automatiche

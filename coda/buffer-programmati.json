@@ -1,6 +1,17 @@
 {
   "linkedin": [
     {
+      "id": "6af61863b3f03c1403ea569f",
+      "dueAt": "2026-11-13T17:30:00.000Z",
+      "text": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\nPrima di andare online, ogni sito passa quattro controlli:\nSpaziature, coerenti in ogni pagina.\nMicrocopy: massimo tre parole per bottone, niente esclamativi.\nPerformance, misurate sui telefoni.\nAccessibilità, con contrasto almeno AA.\n\nNessuno di questi punti compare in un preventivo. Tutti insieme decidono se un sito funziona.\n\n#Dettagli #WebDesign #Qualità",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R40.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6ae115a42f35d654faeed7f2",
       "dueAt": "2026-11-14T10:00:00.000Z",
       "text": "Più voci metti nel menu, più tempo serve per decidere dove cliccare. È la legge di Hick-Hyman, psicologia degli anni '50.\n\nIl dettaglio interessante: il tempo non raddoppia se raddoppi le voci, cresce meno. Ma cresce sempre. E su un telefono ogni esitazione è un'uscita in più.\n\nPer un sito di una PMI, quattro o cinque voci bastano quasi sempre: servizi, prezzi, chi siamo, contatti.\n\n#UX #Menu #PMI",
@@ -84,6 +95,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R34.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6af618636f87535976fd1c5b",
+      "dueAt": "2026-12-04T17:30:00.000Z",
+      "text": "Su Google Maps il nome dell'attività deve essere quello reale, senza parole chiave aggiunte. Aggiungere \"siti web Bologna economici\" al nome è contro le linee guida di Google e può portare alla sospensione del profilo.\n\nDove mettere invece le parole giuste? Nelle categorie: le più specifiche possibili, non le più numerose.\n\nÈ una delle prime cose che sistemiamo quando colleghiamo il Profilo dell'Attività di un cliente.\n\n#GoogleMaps #SEOLocale #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R36.mp4",
           "tipo": "video/mp4"
         }
       ]
