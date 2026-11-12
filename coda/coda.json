@@ -1296,8 +1296,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Consapevolezza",
-      "quando": "2026-11-13 18:30",
-      "dueAt": "2026-11-13T17:30:00.000Z",
+      "quando": "2026-12-03 18:30",
+      "dueAt": "2026-12-03T17:30:00.000Z",
       "nota": "Da girare: Animazione notifiche (possiamo farla in motion) + Lorenzo o Tommaso in camera. Quando il video è pronto va in media/strategia/S06.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1315,7 +1315,15 @@
           "video": "media/strategia/S06.mp4",
           "stato": "manca_video"
         }
-      }
+      },
+      "sostituzioni": [
+        {
+          "il": "2026-11-12T19:48:46.217703Z",
+          "da": "2026-11-13 18:30",
+          "a": "2026-12-03 18:30",
+          "conContenuto": "R40"
+        }
+      ]
     },
     {
       "id": "R21",
@@ -1883,8 +1891,8 @@
       "titolo": "Un protocollo",
       "formato": "Informativo",
       "tipo": "reel",
-      "quando": "2026-12-03 18:30",
-      "dueAt": "2026-12-03T17:30:00.000Z",
+      "quando": "2026-11-13 18:30",
+      "dueAt": "2026-11-13T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\nSpaziature. Microcopy: massimo tre parole, niente esclamativi. Performance. Accessibilità, con contrasto AA. Ogni sito passa questi controlli prima di andare online. Tutto curato.\n#dettagli #webdesign #bottegadigitale #ux #sitiweb",
@@ -1901,7 +1909,8 @@
           "video": "media/reel/R40.mp4",
           "stato": "programmato",
           "bufferId": "6af4c6c82f8776bfa37a264c",
-          "programmatoIl": "2026-11-11T19:49:28.933Z"
+          "programmatoIl": "2026-11-11T19:49:28.933Z",
+          "daAggiornare": true
         }
       }
     },
