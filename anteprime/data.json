@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-11T19:49+00:00",
+ "aggiornato": "2026-11-12T19:49+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -98,8 +98,8 @@
    "id": "S06",
    "titolo": "WhatsApp, mail, DM",
    "tipo": "reel",
-   "quando": "2026-11-13 18:30",
-   "dueAt": "2026-11-13T17:30:00.000Z",
+   "quando": "2026-12-03 18:30",
+   "dueAt": "2026-12-03T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -123,7 +123,15 @@
      "formato": "video",
      "errore": null
     }
-   }
+   },
+   "sostituzioni": [
+    {
+     "il": "2026-11-12T19:48:46.217703Z",
+     "da": "2026-11-13 18:30",
+     "a": "2026-12-03 18:30",
+     "conContenuto": "R40"
+    }
+   ]
   },
   {
    "id": "R21",
@@ -299,37 +307,6 @@
     "linkedin": {
      "stato": "manca_video",
      "testo": "800 € per una landing page. Ecco cosa c'è dentro, voce per voce:\n\n— una pagina su misura per il mestiere del cliente, non un template generico;\n— funziona da telefono, perché è lì che ti cercano;\n— un modulo testato che arriva davvero;\n— le basi per farsi trovare su Google;\n— una revisione, consegna in circa sette giorni. Da 800 a 1.000 €, IVA esclusa.\n\nCosa non c'è: riunioni inutili, preventivi gonfiati, tre mesi di attesa.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=S08\n\n#Prezzi #LandingPage #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "R24",
-   "titolo": "Il tempo LCP",
-   "tipo": "reel",
-   "quando": "2026-11-12 18:30",
-   "dueAt": "2026-11-12T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R24_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R24.mp4",
-   "durata": 29,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "Per Google, il contenuto principale della pagina deve comparire entro quanto? 2,5, 5 o 10 secondi?\n\nScrivi la tua risposta nei commenti.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Per Google il contenuto principale di una pagina deve comparire entro 2,5 secondi. La misura si chiama LCP, Largest Contentful Paint, ed è uno dei tre Core Web Vitals.\n\nIl dettaglio che pochi conoscono: non basta riuscirci una volta. Deve succedere nel 75% delle visite reali, misurate sui telefoni di chi naviga davvero.\n\nPer questo un sito veloce sul computer dell'agenzia non è ancora un sito veloce.\n\nFonte: web.dev\n\n#CoreWebVitals #SEO #Performance",
      "formato": "video",
      "errore": null
     }
@@ -680,8 +657,8 @@
    "id": "R40",
    "titolo": "Un protocollo",
    "tipo": "reel",
-   "quando": "2026-12-03 18:30",
-   "dueAt": "2026-12-03T17:30:00.000Z",
+   "quando": "2026-11-13 18:30",
+   "dueAt": "2026-11-13T17:30:00.000Z",
    "slide": [],
    "poster": "img/R40_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R40.mp4",
@@ -1415,6 +1392,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Il primo banner pubblicitario della storia è del 1994. Lo cliccò il 44% di chi lo vide. (The Drum)\n\nIl testo diceva: \"Hai mai cliccato qui con il mouse? Lo farai.\"\n\nOggi i tassi di clic sono una frazione di allora. Non perché la pubblicità sia peggiorata, ma perché l'attenzione si è fatta preziosa. Ed è proprio per questo che un sito chiaro, veloce e onesto vale più di un banner in più.\n\n#StoriaDelWeb #Marketing #Curiosità",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R73",
+   "titolo": "Lead caldi",
+   "tipo": "reel",
+   "quando": "2026-12-27 11:00",
+   "dueAt": "2026-12-27T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R73_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R73.mp4",
+   "durata": 27,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Un cliente ti scrive alle 19:40. Quanto aspetti a rispondere?\nRispondere entro un'ora rende 7 volte più probabile qualificare il contatto, e fino a 60 volte rispetto a chi risponde dopo 24 ore. Eppure solo il 37% delle aziende risponde entro un'ora (fonte: Harvard Business Review).\nIl sito porta il contatto. La velocità la porti tu.\n#lead #clienti #automazioni #crm #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Un cliente ti scrive alle 19:40. Quanto aspetti a rispondere?\n\nChi risponde entro un'ora ha 7 volte più possibilità di chiudere. Eppure lo fa solo il 37% delle aziende. Il sito porta il contatto, la velocità la porti tu.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Un cliente scrive dal sito alle 19:40. Quando rispondi?\n\nRispondere entro un'ora rende 7 volte più probabile qualificare il contatto. Rispetto a chi risponde dopo 24 ore, 60 volte. Eppure solo il 37% delle aziende risponde entro un'ora. (Harvard Business Review)\n\nIl sito porta il contatto. La velocità la porti tu. Oppure un'automazione che conferma subito la richiesta e ti avvisa.\n\n#Lead #Automazioni #PMI",
      "formato": "video",
      "errore": null
     }
