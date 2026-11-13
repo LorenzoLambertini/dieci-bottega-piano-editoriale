@@ -665,10 +665,10 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6af61863b3f03c1403ea569f",
-        "dueAt": "2026-11-13T17:30:00.000Z",
+        "id": "6af7915c78196a0a97261e08",
+        "dueAt": "2026-12-05T10:00:00.000Z",
         "sentAt": null,
-        "text": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\n",
+        "text": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il temp",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -901,6 +901,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6af61863b3f03c1403ea569f",
+        "dueAt": "2026-11-13T17:30:00.000Z",
+        "sentAt": "2026-11-13T17:31:27.108Z",
+        "text": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\n",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6af4c6c8b933477d281deed3",
         "dueAt": "2026-11-12T17:30:00.000Z",
@@ -1277,26 +1290,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad3c5970b0d72757aee7d9e",
-        "dueAt": "2026-10-24T09:00:00.000Z",
-        "sentAt": "2026-10-24T09:01:56.352Z",
-        "text": "Ti arriva un contatto. Se rispondi entro un'ora, quanto ti a",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Thu, 12 Nov 2026 19:51:50 GMT 2888614",
-    "media/reel/R07.mp4": "200 Thu, 12 Nov 2026 19:51:50 GMT 3173777",
-    "index.html": "200 Thu, 12 Nov 2026 19:51:50 GMT 104461"
+    "media/reel/R02.mp4": "200 Fri, 13 Nov 2026 19:50:30 GMT 2888614",
+    "media/reel/R07.mp4": "200 Fri, 13 Nov 2026 19:50:31 GMT 3173777",
+    "index.html": "200 Fri, 13 Nov 2026 19:50:30 GMT 104461"
   }
 }

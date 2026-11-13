@@ -1961,7 +1961,9 @@
         "linkedin": {
           "testo": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il tempo non va nel lavoro, va nelle attese: riunioni, approvazioni, passaggi di mano.\n\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. Non è una scorciatoia: è un metodo, con un calendario preciso e due round di revisione.\n\nVeloci, non frettolosi.\n\n#Metodo #PMI #WebDesign",
           "video": "media/reel/R43.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6af7915c78196a0a97261e08",
+          "programmatoIl": "2026-11-13T22:38:20.489Z"
         }
       }
     },

@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 13/11/2026, 14:12:02
+Ultimo controllo: 13/11/2026, 23:38:20
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -30,17 +30,16 @@ Ultimo controllo: 13/11/2026, 14:12:02
 | 2026-11-29 11:00 | R33 | Con cosa e fatto | da_programmare | da_programmare | programmato |
 | 2026-11-30 18:30 | R32 | Microimprese esenti | da_programmare | da_programmare | programmato |
 | 2026-12-02 18:30 | R34 | AI Mode in italiano | da_programmare | da_programmare | programmato |
-| 2026-11-13 18:30 | R40 | Un protocollo | da_programmare | da_programmare | programmato |
 | 2026-12-04 18:30 | R36 | Il nome su Maps | da_programmare | da_programmare | programmato |
-| 2026-12-05 11:00 | R43 | Tre mesi | da_programmare | da_programmare | da_programmare |
+| 2026-12-05 11:00 | R43 | Tre mesi | da_programmare | da_programmare | programmato |
 | 2026-12-06 11:00 | R37 | Cosa misura l’INP | da_programmare | da_programmare | da_programmare |
 | 2026-12-07 18:30 | R48 | Di chi e il sito | da_programmare | da_programmare | da_programmare |
+| 2026-12-08 18:30 | R39 | Accessibilita e microimprese | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### linkedin
 
-- 13/11/26, 18:30 · "È tutto nei dettagli" non è una tagline. È un protocollo. Prima di an
 - 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 22/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
@@ -50,6 +49,7 @@ Ultimo controllo: 13/11/2026, 14:12:02
 - 30/11/26, 18:30 · Vero: le microimprese che forniscono servizi sono esenti dagli obbligh
 - 02/12/26, 18:30 · Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano,
 - 04/12/26, 18:30 · Su Google Maps il nome dell'attività deve essere quello reale, senza p
+- 05/12/26, 11:00 · 
 
 
 ## Ultime sostituzioni automatiche
