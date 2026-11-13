@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-12T19:49+00:00",
+ "aggiornato": "2026-11-13T19:48+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -654,37 +654,6 @@
    }
   },
   {
-   "id": "R40",
-   "titolo": "Un protocollo",
-   "tipo": "reel",
-   "quando": "2026-11-13 18:30",
-   "dueAt": "2026-11-13T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R40_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R40.mp4",
-   "durata": 25,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\nSpaziature. Microcopy: massimo tre parole, niente esclamativi. Performance. Accessibilità, con contrasto AA. Ogni sito passa questi controlli prima di andare online. Tutto curato.\n#dettagli #webdesign #bottegadigitale #ux #sitiweb",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "\"È tutto nei dettagli\" non è uno slogan. È il nostro controllo prima di mettere online ogni sito: spaziature, testi dei bottoni, velocità, accessibilità.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\nPrima di andare online, ogni sito passa quattro controlli:\nSpaziature, coerenti in ogni pagina.\nMicrocopy: massimo tre parole per bottone, niente esclamativi.\nPerformance, misurate sui telefoni.\nAccessibilità, con contrasto almeno AA.\n\nNessuno di questi punti compare in un preventivo. Tutti insieme decidono se un sito funziona.\n\n#Dettagli #WebDesign #Qualità",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
    "id": "R36",
    "titolo": "Il nome su Maps",
    "tipo": "reel",
@@ -708,7 +677,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Su Google Maps il nome dell'attività deve essere quello reale, senza parole chiave aggiunte. Aggiungere \"siti web Bologna economici\" al nome è contro le linee guida di Google e può portare alla sospensione del profilo.\n\nDove mettere invece le parole giuste? Nelle categorie: le più specifiche possibili, non le più numerose.\n\nÈ una delle prime cose che sistemiamo quando colleghiamo il Profilo dell'Attività di un cliente.\n\n#GoogleMaps #SEOLocale #PMI",
      "formato": "video",
      "errore": null
@@ -1423,6 +1392,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Un cliente scrive dal sito alle 19:40. Quando rispondi?\n\nRispondere entro un'ora rende 7 volte più probabile qualificare il contatto. Rispetto a chi risponde dopo 24 ore, 60 volte. Eppure solo il 37% delle aziende risponde entro un'ora. (Harvard Business Review)\n\nIl sito porta il contatto. La velocità la porti tu. Oppure un'automazione che conferma subito la richiesta e ti avvisa.\n\n#Lead #Automazioni #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R56",
+   "titolo": "Rispondere alle recensioni",
+   "tipo": "reel",
+   "quando": "2026-12-28 18:30",
+   "dueAt": "2026-12-28T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R56_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R56.mp4",
+   "durata": 30,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Arriva una recensione. Come reagisci? A o B nei commenti.\nRispondere mostra che tieni ai clienti. E nel video c'è un dettaglio che pochi sanno su cosa succede quando rispondi. Fonte: Google, guida del Profilo dell'Attività.\n#recensioni #googlebusiness #clienti #pmiitaliane #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Arriva una recensione su Google. Rispondi o lasci perdere? A o B?\n\nScrivi qui sotto come fai di solito.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Rispondere alle recensioni su Google mostra ai potenziali clienti che tieni al parere di chi ti ha scelto.\n\nE c'è un dettaglio che pochi conoscono: quando rispondi, chi ha scritto la recensione riceve una notifica. È un secondo contatto con un cliente, gratuito. (Google, guida del Profilo dell'Attività)\n\nUna risposta breve, personale, anche alle recensioni negative. Due minuti al giorno.\n\n#Recensioni #GoogleBusiness #PMI",
      "formato": "video",
      "errore": null
     }
