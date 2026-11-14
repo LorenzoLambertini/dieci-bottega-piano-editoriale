@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 14/11/2026, 20:49:28
+Ultimo controllo: 14/11/2026, 22:30:32
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -40,7 +40,7 @@ Ultimo controllo: 14/11/2026, 20:49:28
 
 ### linkedin
 
-- 15/11/26, 11:00 · 
+- 15/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con

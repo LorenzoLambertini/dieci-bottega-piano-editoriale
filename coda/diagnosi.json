@@ -630,6 +630,38 @@
         "via": "buffer"
       },
       {
+        "id": "6ae115a4e2341add8c5c6d6b",
+        "dueAt": "2026-11-14T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Due menu per lo stesso sito: quattro voci o quindici. Quale ",
+        "channelService": "facebook",
+        "error": {
+          "rawError": "Invalid Credentials",
+          "supportUrl": null
+        },
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "error",
+        "via": "buffer"
+      },
+      {
+        "id": "6ae115a32f35d654faeed7a5",
+        "dueAt": "2026-11-14T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù sce",
+        "channelService": "instagram",
+        "error": {
+          "rawError": "Invalid Credentials",
+          "supportUrl": null
+        },
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "error",
+        "via": "buffer"
+      },
+      {
         "id": "6ada7334a05ab31b9375b5d9",
         "dueAt": "2026-11-07T10:00:00.000Z",
         "sentAt": null,
@@ -664,6 +696,32 @@
     ],
     "needs_approval": [],
     "scheduled": [
+      {
+        "id": "6af8bb48918fe79d2e9eae6f",
+        "dueAt": "2026-11-15T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta ent",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6af851024b28296eb1572a9f",
+        "dueAt": "2026-12-06T10:00:00.000Z",
+        "sentAt": null,
+        "text": "INP, Interaction to Next Paint, misura quanto il sito rispon",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
       {
         "id": "6af7915c78196a0a97261e08",
         "dueAt": "2026-12-05T10:00:00.000Z",
@@ -782,45 +840,6 @@
         "via": "buffer"
       },
       {
-        "id": "6ae8e9a8ff93b610bb962ce2",
-        "dueAt": "2026-11-22T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta ent",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae8e9a7ff93b610bb9629ab",
-        "dueAt": "2026-11-22T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Cosa succede quando ci scrivi?\n\nTi rispondiamo entro 24 ore ",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae8e9a7fb05897d9d38c481",
-        "dueAt": "2026-11-22T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, ",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6ae798335604f9d85b850cc7",
         "dueAt": "2026-11-21T10:00:00.000Z",
         "sentAt": null,
@@ -851,45 +870,6 @@
         "dueAt": "2026-11-21T10:00:00.000Z",
         "sentAt": null,
         "text": "Mentre la pagina carica, quale va meglio? A o B nei commenti",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae115a4e2341add8c5c6d6b",
-        "dueAt": "2026-11-14T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Due menu per lo stesso sito: quattro voci o quindici. Quale ",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae115a42f35d654faeed7f2",
-        "dueAt": "2026-11-14T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Più voci metti nel menu, più tempo serve per decidere dove c",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6ae115a32f35d654faeed7a5",
-        "dueAt": "2026-11-14T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù sce",
         "channelService": "instagram",
         "error": null,
         "notificationStatus": null,
@@ -1149,6 +1129,19 @@
         "via": "buffer"
       },
       {
+        "id": "6ae115a42f35d654faeed7f2",
+        "dueAt": "2026-11-14T10:00:00.000Z",
+        "sentAt": "2026-11-14T10:01:44.853Z",
+        "text": "Più voci metti nel menu, più tempo serve per decidere dove c",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
         "id": "6ada7334793513d242f2829c",
         "dueAt": "2026-11-07T10:00:00.000Z",
         "sentAt": "2026-11-07T10:02:36.619Z",
@@ -1277,26 +1270,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad3c597769b4579348ebfbc",
-        "dueAt": "2026-10-24T09:00:00.000Z",
-        "sentAt": "2026-10-24T09:02:02.965Z",
-        "text": "Chi risponde a un nuovo contatto entro un'ora ha 7 volte più",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Fri, 13 Nov 2026 19:50:30 GMT 2888614",
-    "media/reel/R07.mp4": "200 Fri, 13 Nov 2026 19:50:31 GMT 3173777",
-    "index.html": "200 Fri, 13 Nov 2026 19:50:30 GMT 104461"
+    "media/reel/R02.mp4": "200 Sat, 14 Nov 2026 19:51:16 GMT 2888614",
+    "media/reel/R07.mp4": "200 Sat, 14 Nov 2026 19:51:16 GMT 3173777",
+    "index.html": "200 Sat, 14 Nov 2026 19:51:15 GMT 104461"
   }
 }
