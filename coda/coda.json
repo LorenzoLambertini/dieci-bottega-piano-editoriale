@@ -1596,26 +1596,19 @@
         "instagram": {
           "testo": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, con un piano d'azione. Poi una prima call gratuita, trenta minuti. Senza impegno, senza preventivi gonfiati: capisci se siamo i giusti per te.\nScrivici da diecibottega.it o su WhatsApp.\n#bottegadigitale #sitiweb #pmiitaliane #bologna #webdesign",
           "video": "media/reel/R28.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae8e9a7fb05897d9d38c481",
-          "programmatoIl": "2026-11-02T19:51:03.507Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Cosa succede quando ci scrivi?\n\nTi rispondiamo entro 24 ore con un piano d'azione. Poi una call gratuita di trenta minuti, senza impegno e senza preventivi gonfiati.\n\nScrivici: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=R28",
           "video": "media/reel/R28.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae8e9a7ff93b610bb9629ab",
-          "programmatoIl": "2026-11-02T19:51:03.947Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "linkedin": {
           "testo": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta entro 24 ore.\n2. Un piano d'azione, non un preventivo generico.\n3. Una prima call gratuita di trenta minuti.\n\nSenza impegno e senza preventivi gonfiati. In mezz'ora capisci se siamo le persone giuste per il tuo progetto, e se non lo siamo te lo diciamo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=R28\n\n#PMI #WebDesign #Bologna",
           "video": "media/reel/R28.mp4",
           "stato": "programmato",
-          "bufferId": "6ae8e9a8ff93b610bb962ce2",
-          "programmatoIl": "2026-11-02T19:51:04.438Z",
-          "daAggiornare": true
+          "bufferId": "6af8bb48918fe79d2e9eae6f",
+          "programmatoIl": "2026-11-14T19:49:28.913Z"
         }
       }
     },
