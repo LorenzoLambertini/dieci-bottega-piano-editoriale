@@ -1363,8 +1363,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Attrazione",
-      "quando": "2026-11-15 11:00",
-      "dueAt": "2026-11-15T10:00:00.000Z",
+      "quando": "2026-11-22 11:00",
+      "dueAt": "2026-11-22T10:00:00.000Z",
       "nota": "Da girare: Lorenzo in camera + registrazione schermo del sito fittizio «Osteria del Portico» (da creare, niente siti reali). Quando il video è pronto va in media/strategia/S01.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1396,6 +1396,13 @@
           "da": "2026-11-08 11:00",
           "a": "2026-11-15 11:00",
           "conContenuto": "R25",
+          "manuale": true
+        },
+        {
+          "il": "2026-11-14T20:00:00.000Z",
+          "da": "2026-11-15 11:00",
+          "a": "2026-11-22 11:00",
+          "conContenuto": "R28",
           "manuale": true
         }
       ]
@@ -1583,29 +1590,32 @@
       "titolo": "Quando ci scrivi",
       "formato": "Informativo",
       "tipo": "reel",
-      "quando": "2026-11-22 11:00",
-      "dueAt": "2026-11-22T10:00:00.000Z",
+      "quando": "2026-11-15 11:00",
+      "dueAt": "2026-11-15T10:00:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, con un piano d'azione. Poi una prima call gratuita, trenta minuti. Senza impegno, senza preventivi gonfiati: capisci se siamo i giusti per te.\nScrivici da diecibottega.it o su WhatsApp.\n#bottegadigitale #sitiweb #pmiitaliane #bologna #webdesign",
           "video": "media/reel/R28.mp4",
           "stato": "programmato",
           "bufferId": "6ae8e9a7fb05897d9d38c481",
-          "programmatoIl": "2026-11-02T19:51:03.507Z"
+          "programmatoIl": "2026-11-02T19:51:03.507Z",
+          "daAggiornare": true
         },
         "facebook": {
           "testo": "Cosa succede quando ci scrivi?\n\nTi rispondiamo entro 24 ore con un piano d'azione. Poi una call gratuita di trenta minuti, senza impegno e senza preventivi gonfiati.\n\nScrivici: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=R28",
           "video": "media/reel/R28.mp4",
           "stato": "programmato",
           "bufferId": "6ae8e9a7ff93b610bb9629ab",
-          "programmatoIl": "2026-11-02T19:51:03.947Z"
+          "programmatoIl": "2026-11-02T19:51:03.947Z",
+          "daAggiornare": true
         },
         "linkedin": {
           "testo": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta entro 24 ore.\n2. Un piano d'azione, non un preventivo generico.\n3. Una prima call gratuita di trenta minuti.\n\nSenza impegno e senza preventivi gonfiati. In mezz'ora capisci se siamo le persone giuste per il tuo progetto, e se non lo siamo te lo diciamo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=R28\n\n#PMI #WebDesign #Bologna",
           "video": "media/reel/R28.mp4",
           "stato": "programmato",
           "bufferId": "6ae8e9a8ff93b610bb962ce2",
-          "programmatoIl": "2026-11-02T19:51:04.438Z"
+          "programmatoIl": "2026-11-02T19:51:04.438Z",
+          "daAggiornare": true
         }
       }
     },
