@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-13T19:48+00:00",
+ "aggiornato": "2026-11-14T19:49+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -134,42 +134,11 @@
    ]
   },
   {
-   "id": "R21",
-   "titolo": "Quale menu",
-   "tipo": "reel",
-   "quando": "2026-11-14 11:00",
-   "dueAt": "2026-11-14T10:00:00.000Z",
-   "slide": [],
-   "poster": "img/R21_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R21.mp4",
-   "durata": 30,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Quale menu ti fa decidere prima? A o B nei commenti.\nPiù scelte, più tempo per decidere: lo dice la legge di Hick-Hyman. Ma nel video c'è la parte che pochi sanno, su quanto cresce davvero quel tempo.\n#ux #webdesign #menu #sitiweb #pmiitaliane",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Due menu per lo stesso sito: quattro voci o quindici. Quale ti fa decidere prima, A o B?",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Più voci metti nel menu, più tempo serve per decidere dove cliccare. È la legge di Hick-Hyman, psicologia degli anni '50.\n\nIl dettaglio interessante: il tempo non raddoppia se raddoppi le voci, cresce meno. Ma cresce sempre. E su un telefono ogni esitazione è un'uscita in più.\n\nPer un sito di una PMI, quattro o cinque voci bastano quasi sempre: servizi, prezzi, chi siamo, contatti.\n\n#UX #Menu #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
    "id": "S01",
    "titolo": "Sito del lunedì: il ristorante",
    "tipo": "reel",
-   "quando": "2026-11-15 11:00",
-   "dueAt": "2026-11-15T10:00:00.000Z",
+   "quando": "2026-11-22 11:00",
+   "dueAt": "2026-11-22T10:00:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -207,6 +176,13 @@
      "da": "2026-11-08 11:00",
      "a": "2026-11-15 11:00",
      "conContenuto": "R25",
+     "manuale": true
+    },
+    {
+     "il": "2026-11-14T20:00:00.000Z",
+     "da": "2026-11-15 11:00",
+     "a": "2026-11-22 11:00",
+     "conContenuto": "R28",
      "manuale": true
     }
    ]
@@ -378,21 +354,21 @@
    "id": "R28",
    "titolo": "Quando ci scrivi",
    "tipo": "reel",
-   "quando": "2026-11-22 11:00",
-   "dueAt": "2026-11-22T10:00:00.000Z",
+   "quando": "2026-11-15 11:00",
+   "dueAt": "2026-11-15T10:00:00.000Z",
    "slide": [],
    "poster": "img/R28_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R28.mp4",
    "durata": 26,
    "canali": {
     "instagram": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, con un piano d'azione. Poi una prima call gratuita, trenta minuti. Senza impegno, senza preventivi gonfiati: capisci se siamo i giusti per te.\nScrivici da diecibottega.it o su WhatsApp.\n#bottegadigitale #sitiweb #pmiitaliane #bologna #webdesign",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Cosa succede quando ci scrivi?\n\nTi rispondiamo entro 24 ore con un piano d'azione. Poi una call gratuita di trenta minuti, senza impegno e senza preventivi gonfiati.\n\nScrivici: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=R28",
      "formato": "video",
      "errore": null
@@ -708,7 +684,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il tempo non va nel lavoro, va nelle attese: riunioni, approvazioni, passaggi di mano.\n\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. Non è una scorciatoia: è un metodo, con un calendario preciso e due round di revisione.\n\nVeloci, non frettolosi.\n\n#Metodo #PMI #WebDesign",
      "formato": "video",
      "errore": null
@@ -739,7 +715,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "INP, Interaction to Next Paint, misura quanto il sito risponde quando lo tocchi. Un valore buono è sotto i 200 millisecondi. (web.dev, Core Web Vitals)\n\nÈ la metrica più ignorata: un sito può caricare velocemente e poi \"impastarsi\" a ogni tocco, per colpa di script pesanti, chat, pixel di tracciamento.\n\nPer chi lo usa, la sensazione è una sola: questo sito non funziona.\n\n#CoreWebVitals #Performance #UX",
      "formato": "video",
      "errore": null
@@ -1423,6 +1399,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Rispondere alle recensioni su Google mostra ai potenziali clienti che tieni al parere di chi ti ha scelto.\n\nE c'è un dettaglio che pochi conoscono: quando rispondi, chi ha scritto la recensione riceve una notifica. È un secondo contatto con un cliente, gratuito. (Google, guida del Profilo dell'Attività)\n\nUna risposta breve, personale, anche alle recensioni negative. Due minuti al giorno.\n\n#Recensioni #GoogleBusiness #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R75",
+   "titolo": "Cosa e un funnel",
+   "tipo": "reel",
+   "quando": "2026-12-29 18:30",
+   "dueAt": "2026-12-29T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R75_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R75.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Cos'è un funnel?\nIl modello AIDA, il percorso di chi ti sceglie. Attenzione: ti trovano su Google o sui social. Interesse: il sito spiega chiaro. Desiderio: lavori, prezzi, persone vere. Azione: un bottone, scrivici.\nOgni passaggio perde qualcuno. Il sito serve a perderne meno.\n#funnel #marketing #sitiweb #pmiitaliane #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Cos'è un funnel? Detto semplice: è il percorso di chi ti sceglie. Ti trova, capisce cosa fai, si fida, ti scrive.\n\nA ogni passaggio qualcuno si perde. Il sito serve a perderne meno.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Il modello AIDA, ovvero il percorso di chi sceglie un fornitore:\n\nAttenzione · ti trova su Google o sui social.\nInteresse · il sito spiega chiaro cosa fai.\nDesiderio · lavori, prezzi, persone vere.\nAzione · un bottone: scrivici.\n\nOgni passaggio perde qualcuno. Un buon sito non aggiunge magia: toglie gli ostacoli tra un passaggio e l'altro.\n\n#Marketing #SitiWeb #PMI",
      "formato": "video",
      "errore": null
     }
