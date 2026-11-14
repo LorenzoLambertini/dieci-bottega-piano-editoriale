@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 13/11/2026, 23:38:20
+Ultimo controllo: 14/11/2026, 13:16:02
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -14,7 +14,6 @@ Ultimo controllo: 13/11/2026, 23:38:20
 | 2026-12-01 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-11-19 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
 | 2026-12-03 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
-| 2026-11-14 11:00 | R21 | Quale menu | programmato | programmato | programmato |
 | 2026-11-15 11:00 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
 | 2026-11-16 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
 | 2026-11-17 18:30 | S04 | Sito del lunedì: l'agente immobiliare | manca_video | manca_video | manca_video |
@@ -32,15 +31,15 @@ Ultimo controllo: 13/11/2026, 23:38:20
 | 2026-12-02 18:30 | R34 | AI Mode in italiano | da_programmare | da_programmare | programmato |
 | 2026-12-04 18:30 | R36 | Il nome su Maps | da_programmare | da_programmare | programmato |
 | 2026-12-05 11:00 | R43 | Tre mesi | da_programmare | da_programmare | programmato |
-| 2026-12-06 11:00 | R37 | Cosa misura l’INP | da_programmare | da_programmare | da_programmare |
+| 2026-12-06 11:00 | R37 | Cosa misura l’INP | da_programmare | da_programmare | programmato |
 | 2026-12-07 18:30 | R48 | Di chi e il sito | da_programmare | da_programmare | da_programmare |
 | 2026-12-08 18:30 | R39 | Accessibilita e microimprese | da_programmare | da_programmare | da_programmare |
+| 2026-12-09 18:30 | R50 | La X del banner | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### linkedin
 
-- 14/11/26, 11:00 · Più voci metti nel menu, più tempo serve per decidere dove cliccare. È
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 22/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
@@ -49,7 +48,8 @@ Ultimo controllo: 13/11/2026, 23:38:20
 - 30/11/26, 18:30 · Vero: le microimprese che forniscono servizi sono esenti dagli obbligh
 - 02/12/26, 18:30 · Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano,
 - 04/12/26, 18:30 · Su Google Maps il nome dell'attività deve essere quello reale, senza p
-- 05/12/26, 11:00 · 
+- 05/12/26, 11:00 · Perché un sito dovrebbe richiedere tre mesi? Spesso il tempo non va ne
+- 06/12/26, 11:00 · 
 
 
 ## Ultime sostituzioni automatiche

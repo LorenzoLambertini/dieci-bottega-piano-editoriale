@@ -1988,7 +1988,9 @@
         "linkedin": {
           "testo": "INP, Interaction to Next Paint, misura quanto il sito risponde quando lo tocchi. Un valore buono è sotto i 200 millisecondi. (web.dev, Core Web Vitals)\n\nÈ la metrica più ignorata: un sito può caricare velocemente e poi \"impastarsi\" a ogni tocco, per colpa di script pesanti, chat, pixel di tracciamento.\n\nPer chi lo usa, la sensazione è una sola: questo sito non funziona.\n\n#CoreWebVitals #Performance #UX",
           "video": "media/reel/R37.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6af851024b28296eb1572a9f",
+          "programmatoIl": "2026-11-14T12:16:02.648Z"
         }
       }
     },
