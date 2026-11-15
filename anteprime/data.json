@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-14T19:49+00:00",
+ "aggiornato": "2026-11-15T19:50+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -191,8 +191,8 @@
    "id": "S07",
    "titolo": "Sito del lunedì: il menu in PDF",
    "tipo": "reel",
-   "quando": "2026-11-16 18:30",
-   "dueAt": "2026-11-16T17:30:00.000Z",
+   "quando": "2026-11-30 18:30",
+   "dueAt": "2026-11-30T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -216,7 +216,16 @@
      "formato": "video",
      "errore": null
     }
-   }
+   },
+   "sostituzioni": [
+    {
+     "il": "2026-11-15T20:00:00.000Z",
+     "da": "2026-11-16 18:30",
+     "a": "2026-11-30 18:30",
+     "conContenuto": "R34",
+     "manuale": true
+    }
+   ]
   },
   {
    "id": "S04",
@@ -345,37 +354,6 @@
     "linkedin": {
      "stato": "programmato",
      "testo": "Quando la pagina si sposta mentre carica e il bottone ti scappa sotto il dito, non è sfortuna. È una metrica precisa: CLS, Cumulative Layout Shift, uno dei tre Core Web Vitals di Google.\n\nUn valore buono è sotto 0,1. Si ottiene con accorgimenti semplici: dimensioni fissate per immagini e banner, font caricati bene, niente contenuti che spuntano dall'alto.\n\nFonte: web.dev\n\n#CoreWebVitals #UX #Performance",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "R28",
-   "titolo": "Quando ci scrivi",
-   "tipo": "reel",
-   "quando": "2026-11-15 11:00",
-   "dueAt": "2026-11-15T10:00:00.000Z",
-   "slide": [],
-   "poster": "img/R28_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R28.mp4",
-   "durata": 26,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, con un piano d'azione. Poi una prima call gratuita, trenta minuti. Senza impegno, senza preventivi gonfiati: capisci se siamo i giusti per te.\nScrivici da diecibottega.it o su WhatsApp.\n#bottegadigitale #sitiweb #pmiitaliane #bologna #webdesign",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "Cosa succede quando ci scrivi?\n\nTi rispondiamo entro 24 ore con un piano d'azione. Poi una call gratuita di trenta minuti, senza impegno e senza preventivi gonfiati.\n\nScrivici: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=R28",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta entro 24 ore.\n2. Un piano d'azione, non un preventivo generico.\n3. Una prima call gratuita di trenta minuti.\n\nSenza impegno e senza preventivi gonfiati. In mezz'ora capisci se siamo le persone giuste per il tuo progetto, e se non lo siamo te lo diciamo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=R28\n\n#PMI #WebDesign #Bologna",
      "formato": "video",
      "errore": null
     }
@@ -571,8 +549,8 @@
    "id": "R32",
    "titolo": "Microimprese esenti",
    "tipo": "reel",
-   "quando": "2026-11-30 18:30",
-   "dueAt": "2026-11-30T17:30:00.000Z",
+   "quando": "2026-12-02 18:30",
+   "dueAt": "2026-12-02T17:30:00.000Z",
    "slide": [],
    "poster": "img/R32_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R32.mp4",
@@ -602,8 +580,8 @@
    "id": "R34",
    "titolo": "AI Mode in italiano",
    "tipo": "reel",
-   "quando": "2026-12-02 18:30",
-   "dueAt": "2026-12-02T17:30:00.000Z",
+   "quando": "2026-11-16 18:30",
+   "dueAt": "2026-11-16T17:30:00.000Z",
    "slide": [],
    "poster": "img/R34_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R34.mp4",
@@ -746,7 +724,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Quattro domande da fare oggi a chi gestisce il tuo sito:\n\n1. Il dominio è intestato a te?\n2. Hai accesso al registrar?\n3. Hai le credenziali dell'hosting?\n4. Potresti cambiare fornitore domani?\n\nSe il dominio è intestato all'agenzia, cambiare diventa difficile. Per questo, il giorno della consegna, diamo al cliente le chiavi di casa: credenziali, dominio a suo nome, una guida per aggiornarlo da solo.\n\n#Dominio #Trasparenza #PMI",
      "formato": "video",
      "errore": null
@@ -1430,6 +1408,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Il modello AIDA, ovvero il percorso di chi sceglie un fornitore:\n\nAttenzione · ti trova su Google o sui social.\nInteresse · il sito spiega chiaro cosa fai.\nDesiderio · lavori, prezzi, persone vere.\nAzione · un bottone: scrivici.\n\nOgni passaggio perde qualcuno. Un buon sito non aggiunge magia: toglie gli ostacoli tra un passaggio e l'altro.\n\n#Marketing #SitiWeb #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R57",
+   "titolo": "Il primo dominio .it",
+   "tipo": "reel",
+   "quando": "2026-12-30 18:30",
+   "dueAt": "2026-12-30T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R57_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R57.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Il primo dominio .it della storia: quando nasce? Nel 1995, nel 1987 o nel 2001?\nRispondi nei commenti. Nel video la data, il nome del dominio e chi gestisce ancora oggi il registro del .it.\n#dominio #storiadelweb #curiosita #italia #sitiweb",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Il primo dominio .it della storia: quando nasce? Nel 1987, nel 1995 o nel 2001?\n\nScrivi la tua.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Il primo dominio .it della storia è cnr.it, registrato il 23 dicembre 1987.\n\nE il registro dei domini .it è ancora oggi gestito dal CNR, a Pisa, presso l'Istituto di Informatica e Telematica.\n\nUna piccola curiosità che dice una cosa grande: l'Italia c'era fin dall'inizio. Tanti siti delle nostre imprese, invece, sono rimasti a quell'epoca.\n\n#Domini #StoriaDelWeb #Italia",
      "formato": "video",
      "errore": null
     }
