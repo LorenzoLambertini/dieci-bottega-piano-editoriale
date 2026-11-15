@@ -697,10 +697,36 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6af8bb48918fe79d2e9eae6f",
-        "dueAt": "2026-11-15T10:00:00.000Z",
+        "id": "6afa0cfdee359588b54bf071",
+        "dueAt": "2026-11-16T17:30:00.000Z",
         "sentAt": null,
-        "text": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta ent",
+        "text": "Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6afa0cfc4f0276ab945c8c56",
+        "dueAt": "2026-12-02T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Vero: le microimprese che forniscono servizi sono esenti dag",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6af9aa0be86a5789a60e4284",
+        "dueAt": "2026-12-07T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Quattro domande da fare oggi a chi gestisce il tuo sito:\n\n1.",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -740,32 +766,6 @@
         "dueAt": "2026-12-04T17:30:00.000Z",
         "sentAt": null,
         "text": "Su Google Maps il nome dell'attività deve essere quello real",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6af3758c9b7b5eddae4fcb8d",
-        "dueAt": "2026-12-02T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6af063f6004e4879a7b4f832",
-        "dueAt": "2026-11-30T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Vero: le microimprese che forniscono servizi sono esenti dag",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -881,6 +881,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6af8bb48918fe79d2e9eae6f",
+        "dueAt": "2026-11-15T10:00:00.000Z",
+        "sentAt": "2026-11-15T10:00:43.777Z",
+        "text": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta ent",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6af61863b3f03c1403ea569f",
         "dueAt": "2026-11-13T17:30:00.000Z",
@@ -1257,26 +1270,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad3c5980a208cb32333dc11",
-        "dueAt": "2026-10-25T10:00:00.000Z",
-        "sentAt": "2026-10-25T10:03:29.430Z",
-        "text": "Il giorno dieci, cosa hai in mano?\nUn sito online, con un ca",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Sat, 14 Nov 2026 19:51:16 GMT 2888614",
-    "media/reel/R07.mp4": "200 Sat, 14 Nov 2026 19:51:16 GMT 3173777",
-    "index.html": "200 Sat, 14 Nov 2026 19:51:15 GMT 104461"
+    "media/reel/R02.mp4": "200 Sun, 15 Nov 2026 19:52:21 GMT 2888614",
+    "media/reel/R07.mp4": "200 Sun, 15 Nov 2026 19:52:21 GMT 3173777",
+    "index.html": "200 Sun, 15 Nov 2026 19:52:21 GMT 104461"
   }
 }

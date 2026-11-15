@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 15/11/2026, 20:50:21
+Ultimo controllo: 15/11/2026, 22:50:08
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -40,12 +40,12 @@ Ultimo controllo: 15/11/2026, 20:50:21
 
 ### linkedin
 
-- 16/11/26, 18:30 · 
+- 16/11/26, 18:30 · Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano,
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
 - 29/11/26, 11:00 · Con cosa costruiamo un sito, strato per strato: Design · Figma, palett
-- 02/12/26, 18:30 · 
+- 02/12/26, 18:30 · Vero: le microimprese che forniscono servizi sono esenti dagli obbligh
 - 04/12/26, 18:30 · Su Google Maps il nome dell'attività deve essere quello reale, senza p
 - 05/12/26, 11:00 · Perché un sito dovrebbe richiedere tre mesi? Spesso il tempo non va ne
 - 06/12/26, 11:00 · INP, Interaction to Next Paint, misura quanto il sito risponde quando 
