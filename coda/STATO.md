@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 14/11/2026, 22:30:32
+Ultimo controllo: 15/11/2026, 13:48:11
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -20,7 +20,6 @@ Ultimo controllo: 14/11/2026, 22:30:32
 | 2026-11-18 18:30 | S08 | Cosa c'è in 800 € | manca_video | manca_video | manca_video |
 | 2026-11-20 18:30 | S09 | Le 5 domande | manca_video | manca_video | manca_video |
 | 2026-11-21 11:00 | R26 | Mentre carica | programmato | programmato | programmato |
-| 2026-11-15 11:00 | R28 | Quando ci scrivi | da_programmare | da_programmare | programmato |
 | 2026-11-23 18:30 | S10 | Sito del lunedì: audit su richiesta | manca_video | manca_video | manca_video |
 | 2026-11-25 18:30 | S11 | Due idraulici | manca_video | manca_video | manca_video |
 | 2026-11-26 18:30 | R29 | Le voci nel menu | programmato | programmato | programmato |
@@ -32,15 +31,15 @@ Ultimo controllo: 14/11/2026, 22:30:32
 | 2026-12-04 18:30 | R36 | Il nome su Maps | da_programmare | da_programmare | programmato |
 | 2026-12-05 11:00 | R43 | Tre mesi | da_programmare | da_programmare | programmato |
 | 2026-12-06 11:00 | R37 | Cosa misura l’INP | da_programmare | da_programmare | programmato |
-| 2026-12-07 18:30 | R48 | Di chi e il sito | da_programmare | da_programmare | da_programmare |
+| 2026-12-07 18:30 | R48 | Di chi e il sito | da_programmare | da_programmare | programmato |
 | 2026-12-08 18:30 | R39 | Accessibilita e microimprese | da_programmare | da_programmare | da_programmare |
 | 2026-12-09 18:30 | R50 | La X del banner | da_programmare | da_programmare | da_programmare |
+| 2026-12-10 18:30 | R41 | Testo accessibile | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### linkedin
 
-- 15/11/26, 11:00 · Cosa succede quando scrivi a Dieci Bottega: 1. Risposta entro 24 ore. 
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
@@ -50,6 +49,7 @@ Ultimo controllo: 14/11/2026, 22:30:32
 - 04/12/26, 18:30 · Su Google Maps il nome dell'attività deve essere quello reale, senza p
 - 05/12/26, 11:00 · Perché un sito dovrebbe richiedere tre mesi? Spesso il tempo non va ne
 - 06/12/26, 11:00 · INP, Interaction to Next Paint, misura quanto il sito risponde quando 
+- 07/12/26, 18:30 · 
 
 
 ## Ultime sostituzioni automatiche

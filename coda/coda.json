@@ -2018,7 +2018,9 @@
         "linkedin": {
           "testo": "Quattro domande da fare oggi a chi gestisce il tuo sito:\n\n1. Il dominio è intestato a te?\n2. Hai accesso al registrar?\n3. Hai le credenziali dell'hosting?\n4. Potresti cambiare fornitore domani?\n\nSe il dominio è intestato all'agenzia, cambiare diventa difficile. Per questo, il giorno della consegna, diamo al cliente le chiavi di casa: credenziali, dominio a suo nome, una guida per aggiornarlo da solo.\n\n#Dominio #Trasparenza #PMI",
           "video": "media/reel/R48.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6af9aa0be86a5789a60e4284",
+          "programmatoIl": "2026-11-15T12:48:11.251Z"
         }
       }
     },
