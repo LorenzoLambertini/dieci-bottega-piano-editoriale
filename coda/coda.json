@@ -1414,8 +1414,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Attrazione",
-      "quando": "2026-11-16 18:30",
-      "dueAt": "2026-11-16T17:30:00.000Z",
+      "quando": "2026-11-30 18:30",
+      "dueAt": "2026-11-30T17:30:00.000Z",
       "nota": "Da girare: Lorenzo in camera + registrazione schermo da telefono: menu PDF vs menu HTML su trattoria fittizia. Quando il video è pronto va in media/strategia/S07.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1433,7 +1433,16 @@
           "video": "media/strategia/S07.mp4",
           "stato": "manca_video"
         }
-      }
+      },
+      "sostituzioni": [
+        {
+          "il": "2026-11-15T20:00:00.000Z",
+          "da": "2026-11-16 18:30",
+          "a": "2026-11-30 18:30",
+          "conContenuto": "R34",
+          "manuale": true
+        }
+      ]
     },
     {
       "id": "S04",
@@ -1813,8 +1822,8 @@
       "titolo": "Microimprese esenti",
       "formato": "Vero o falso?",
       "tipo": "reel",
-      "quando": "2026-11-30 18:30",
-      "dueAt": "2026-11-30T17:30:00.000Z",
+      "quando": "2026-12-02 18:30",
+      "dueAt": "2026-12-02T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Vero o falso: \"Le microimprese di servizi sono esenti dagli obblighi di accessibilità.\"\nVota nei commenti, poi guarda chi rientra davvero nell'esenzione e qual è il riferimento per tutti gli altri. Fonte: European Accessibility Act, D.Lgs. 82/2022.\n#accessibilita #eaa #verofalso #sitiweb #pmiitaliane",
@@ -1831,7 +1840,8 @@
           "video": "media/reel/R32.mp4",
           "stato": "programmato",
           "bufferId": "6af063f6004e4879a7b4f832",
-          "programmatoIl": "2026-11-08T11:58:46.622Z"
+          "programmatoIl": "2026-11-08T11:58:46.622Z",
+          "daAggiornare": true
         }
       }
     },
@@ -1867,8 +1877,8 @@
       "titolo": "AI Mode in italiano",
       "formato": "Quiz",
       "tipo": "reel",
-      "quando": "2026-12-02 18:30",
-      "dueAt": "2026-12-02T17:30:00.000Z",
+      "quando": "2026-11-16 18:30",
+      "dueAt": "2026-11-16T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Da quando AI Mode di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\nRispondi nei commenti. Nel video la data esatta, e con quante altre lingue è arrivato. Significa che i tuoi clienti fanno già domande all'AI di Google: il tuo sito è pronto a essere citato?\n#google #aimode #geo #intelligenzaartificiale #pmiitaliane",
@@ -1885,7 +1895,8 @@
           "video": "media/reel/R34.mp4",
           "stato": "programmato",
           "bufferId": "6af3758c9b7b5eddae4fcb8d",
-          "programmatoIl": "2026-11-10T19:50:36.910Z"
+          "programmatoIl": "2026-11-10T19:50:36.910Z",
+          "daAggiornare": true
         }
       }
     },
