@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-15T19:50+00:00",
+ "aggiornato": "2026-11-16T19:50+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -231,8 +231,8 @@
    "id": "S04",
    "titolo": "Sito del lunedì: l'agente immobiliare",
    "tipo": "reel",
-   "quando": "2026-11-17 18:30",
-   "dueAt": "2026-11-17T17:30:00.000Z",
+   "quando": "2026-12-07 18:30",
+   "dueAt": "2026-12-07T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -263,6 +263,13 @@
      "da": "2026-11-09 18:30",
      "a": "2026-11-17 18:30",
      "conContenuto": "R22"
+    },
+    {
+     "il": "2026-11-16T20:00:00.000Z",
+     "da": "2026-11-17 18:30",
+     "a": "2026-12-07 18:30",
+     "conContenuto": "R48",
+     "manuale": true
     }
    ]
   },
@@ -577,37 +584,6 @@
    }
   },
   {
-   "id": "R34",
-   "titolo": "AI Mode in italiano",
-   "tipo": "reel",
-   "quando": "2026-11-16 18:30",
-   "dueAt": "2026-11-16T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R34_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R34.mp4",
-   "durata": 29,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "Da quando AI Mode di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\nRispondi nei commenti. Nel video la data esatta, e con quante altre lingue è arrivato. Significa che i tuoi clienti fanno già domande all'AI di Google: il tuo sito è pronto a essere citato?\n#google #aimode #geo #intelligenzaartificiale #pmiitaliane",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "Da quando l'AI di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\n\nScrivi la tua. Intanto i tuoi clienti le fanno già domande: il tuo sito è pronto a essere citato?",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano, arrivato insieme ad altre 36 lingue in un colpo solo.\n\nVuol dire che una parte dei tuoi clienti non scorre più dieci link blu: legge una risposta scritta dall'AI, che cita poche fonti.\n\nEssere tra quelle fonti dipende da quanto il tuo sito è chiaro, aggiornato e concreto. Non da quante parole chiave contiene.\n\n#AIMode #GEO #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
    "id": "R36",
    "titolo": "Il nome su Maps",
    "tipo": "reel",
@@ -704,8 +680,8 @@
    "id": "R48",
    "titolo": "Di chi e il sito",
    "tipo": "reel",
-   "quando": "2026-12-07 18:30",
-   "dueAt": "2026-12-07T17:30:00.000Z",
+   "quando": "2026-11-17 18:30",
+   "dueAt": "2026-11-17T17:30:00.000Z",
    "slide": [],
    "poster": "img/R48_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R48.mp4",
@@ -1439,6 +1415,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Il primo dominio .it della storia è cnr.it, registrato il 23 dicembre 1987.\n\nE il registro dei domini .it è ancora oggi gestito dal CNR, a Pisa, presso l'Istituto di Informatica e Telematica.\n\nUna piccola curiosità che dice una cosa grande: l'Italia c'era fin dall'inizio. Tanti siti delle nostre imprese, invece, sono rimasti a quell'epoca.\n\n#Domini #StoriaDelWeb #Italia",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R78",
+   "titolo": "Metterci la faccia",
+   "tipo": "reel",
+   "quando": "2026-12-31 18:30",
+   "dueAt": "2026-12-31T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R78_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R78.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Foto stock o la tua faccia?\nLe foto decorative gli utenti le ignorano. Le foto di chi lavora davvero in azienda le guardano, con attenzione (fonte: Nielsen Norman Group).\nMetterci la faccia. Niente testimonial inventati.\n#fotografia #chisiamo #webdesign #pmiitaliane #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Foto stock o la tua faccia?\n\nLe persone guardano le foto di chi lavora davvero in azienda. Le foto da catalogo le saltano. Mettici la faccia.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Foto stock o la tua faccia?\n\nGli utenti ignorano le foto decorative. Guardano con attenzione le foto di chi lavora davvero in azienda. (Nielsen Norman Group)\n\nPer una piccola impresa è il vantaggio più sottovalutato: la fiducia passa dalle persone, e le persone ce le hai già.\n\nMetterci la faccia. Niente testimonial inventati.\n\n#Fiducia #WebDesign #PMI",
      "formato": "video",
      "errore": null
     }
