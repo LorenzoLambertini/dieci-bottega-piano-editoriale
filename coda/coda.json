@@ -1451,8 +1451,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Attrazione",
-      "quando": "2026-11-17 18:30",
-      "dueAt": "2026-11-17T17:30:00.000Z",
+      "quando": "2026-12-07 18:30",
+      "dueAt": "2026-12-07T17:30:00.000Z",
       "nota": "Da girare: Lorenzo in camera + green screen su sito fittizio «Casa Saragozza Immobiliare». Quando il video è pronto va in media/strategia/S04.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1477,6 +1477,13 @@
           "da": "2026-11-09 18:30",
           "a": "2026-11-17 18:30",
           "conContenuto": "R22"
+        },
+        {
+          "il": "2026-11-16T20:00:00.000Z",
+          "da": "2026-11-17 18:30",
+          "a": "2026-12-07 18:30",
+          "conContenuto": "R48",
+          "manuale": true
         }
       ]
     },
@@ -2011,8 +2018,8 @@
       "titolo": "Di chi e il sito",
       "formato": "Informativo",
       "tipo": "reel",
-      "quando": "2026-12-07 18:30",
-      "dueAt": "2026-12-07T17:30:00.000Z",
+      "quando": "2026-11-17 18:30",
+      "dueAt": "2026-11-17T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Di chi è il tuo sito?\nIl dominio è intestato a te? Hai l'accesso al registrar? Hai le credenziali dell'hosting? Puoi cambiare fornitore domani? Se il dominio è intestato all'agenzia, cambiare diventa difficile.\nDa noi, il giorno dieci ti consegniamo le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#dominio #sitiweb #pmiitaliane #trasparenza #bottegadigitale",
@@ -2029,7 +2036,8 @@
           "video": "media/reel/R48.mp4",
           "stato": "programmato",
           "bufferId": "6af9aa0be86a5789a60e4284",
-          "programmatoIl": "2026-11-15T12:48:11.251Z"
+          "programmatoIl": "2026-11-15T12:48:11.251Z",
+          "daAggiornare": true
         }
       }
     },
