@@ -697,10 +697,23 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6afb5e7f5c671a37dd56d560",
-        "dueAt": "2026-11-17T17:30:00.000Z",
+        "id": "6afcafce41283412cdcd6bb7",
+        "dueAt": "2026-12-02T17:30:00.000Z",
         "sentAt": null,
-        "text": "Quattro domande da fare oggi a chi gestisce il tuo sito:\n\n1.",
+        "text": "Banner dei cookie: quattro regole che ogni sito aziendale do",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6afcafcd41283412cdcd6b3e",
+        "dueAt": "2026-11-18T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Vero: le microimprese che forniscono servizi sono esenti dag",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -714,19 +727,6 @@
         "dueAt": "2026-12-08T17:30:00.000Z",
         "sentAt": null,
         "text": "Accessibilità: le microimprese di servizi sono esenti dall'E",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6afa0cfc4f0276ab945c8c56",
-        "dueAt": "2026-12-02T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Vero: le microimprese che forniscono servizi sono esenti dag",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -881,6 +881,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6afb5e7f5c671a37dd56d560",
+        "dueAt": "2026-11-17T17:30:00.000Z",
+        "sentAt": "2026-11-17T17:32:07.104Z",
+        "text": "Quattro domande da fare oggi a chi gestisce il tuo sito:\n\n1.",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6afa0cfdee359588b54bf071",
         "dueAt": "2026-11-16T17:30:00.000Z",
@@ -1257,26 +1270,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad3c599ae173d6e00cd1866",
-        "dueAt": "2026-10-25T10:00:00.000Z",
-        "sentAt": "2026-10-25T10:02:23.036Z",
-        "text": "Cosa consegniamo il giorno dieci di un progetto:\n\n1. Il sito",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Mon, 16 Nov 2026 19:52:12 GMT 2888614",
-    "media/reel/R07.mp4": "200 Mon, 16 Nov 2026 19:52:12 GMT 3173777",
-    "index.html": "200 Mon, 16 Nov 2026 19:52:12 GMT 104461"
+    "media/reel/R02.mp4": "200 Tue, 17 Nov 2026 19:51:22 GMT 2888614",
+    "media/reel/R07.mp4": "200 Tue, 17 Nov 2026 19:51:22 GMT 3173777",
+    "index.html": "200 Tue, 17 Nov 2026 19:51:22 GMT 104461"
   }
 }
