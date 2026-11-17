@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-16T19:50+00:00",
+ "aggiornato": "2026-11-17T19:49+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -277,8 +277,8 @@
    "id": "S08",
    "titolo": "Cosa c'è in 800 €",
    "tipo": "reel",
-   "quando": "2026-11-18 18:30",
-   "dueAt": "2026-11-18T17:30:00.000Z",
+   "quando": "2026-12-09 18:30",
+   "dueAt": "2026-12-09T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -556,8 +556,8 @@
    "id": "R32",
    "titolo": "Microimprese esenti",
    "tipo": "reel",
-   "quando": "2026-12-02 18:30",
-   "dueAt": "2026-12-02T17:30:00.000Z",
+   "quando": "2026-11-18 18:30",
+   "dueAt": "2026-11-18T17:30:00.000Z",
    "slide": [],
    "poster": "img/R32_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R32.mp4",
@@ -677,37 +677,6 @@
    }
   },
   {
-   "id": "R48",
-   "titolo": "Di chi e il sito",
-   "tipo": "reel",
-   "quando": "2026-11-17 18:30",
-   "dueAt": "2026-11-17T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R48_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R48.mp4",
-   "durata": 25,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "Di chi è il tuo sito?\nIl dominio è intestato a te? Hai l'accesso al registrar? Hai le credenziali dell'hosting? Puoi cambiare fornitore domani? Se il dominio è intestato all'agenzia, cambiare diventa difficile.\nDa noi, il giorno dieci ti consegniamo le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#dominio #sitiweb #pmiitaliane #trasparenza #bottegadigitale",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "Di chi è il tuo sito? Il dominio è intestato a te? Hai le credenziali?\n\nSe è tutto dell'agenzia, cambiare diventa difficile. Da noi il giorno dieci ti diamo le chiavi di casa.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Quattro domande da fare oggi a chi gestisce il tuo sito:\n\n1. Il dominio è intestato a te?\n2. Hai accesso al registrar?\n3. Hai le credenziali dell'hosting?\n4. Potresti cambiare fornitore domani?\n\nSe il dominio è intestato all'agenzia, cambiare diventa difficile. Per questo, il giorno della consegna, diamo al cliente le chiavi di casa: credenziali, dominio a suo nome, una guida per aggiornarlo da solo.\n\n#Dominio #Trasparenza #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
    "id": "R39",
    "titolo": "Accessibilita e microimprese",
    "tipo": "reel",
@@ -731,7 +700,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Accessibilità: le microimprese di servizi sono esenti dall'European Accessibility Act. Microimpresa significa meno di 10 dipendenti e fatturato o bilancio fino a 2 milioni.\n\nAttenzione però: l'esenzione riguarda i servizi, non i prodotti. Chi vende prodotti rientrati nella norma non è esente per il solo fatto di essere piccolo.\n\nPrima di dire \"non mi riguarda\", conviene verificare.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #EAA #PMI",
      "formato": "video",
      "errore": null
@@ -742,8 +711,8 @@
    "id": "R50",
    "titolo": "La X del banner",
    "tipo": "reel",
-   "quando": "2026-12-09 18:30",
-   "dueAt": "2026-12-09T17:30:00.000Z",
+   "quando": "2026-12-02 18:30",
+   "dueAt": "2026-12-02T17:30:00.000Z",
    "slide": [],
    "poster": "img/R50_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R50.mp4",
@@ -762,7 +731,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Banner dei cookie: quattro regole che ogni sito aziendale dovrebbe rispettare (Garante Privacy, linee guida 2021):\n\n1. Chiudere con la X equivale a rifiutare.\n2. Scorrere la pagina non è consenso.\n3. Niente cookie wall: il sito si usa anche senza accettare.\n4. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nIn più: i cookie tecnici non chiedono consenso.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
      "formato": "video",
      "errore": null
@@ -1446,6 +1415,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Foto stock o la tua faccia?\n\nGli utenti ignorano le foto decorative. Guardano con attenzione le foto di chi lavora davvero in azienda. (Nielsen Norman Group)\n\nPer una piccola impresa è il vantaggio più sottovalutato: la fiducia passa dalle persone, e le persone ce le hai già.\n\nMetterci la faccia. Niente testimonial inventati.\n\n#Fiducia #WebDesign #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R59",
+   "titolo": "Cosa significa QR",
+   "tipo": "reel",
+   "quando": "2027-01-01 18:30",
+   "dueAt": "2027-01-01T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R59_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R59.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "QR code: cosa significa QR? Quick Response, Quality Ranking o Quick Read?\nRispondi nei commenti. Nel video la risposta e per cosa è nato, nel 1994. Non te lo aspetti.\n#qrcode #curiosita #storiadeltech #pmiitaliane #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "QR code: cosa vuol dire QR? Quick Response, Quality Ranking o Quick Read?\n\nScrivi la tua. E per cosa è nato, nel 1994, non te lo aspetti.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "QR sta per Quick Response, risposta rapida.\n\nÈ nato nel 1994 in Giappone per un motivo molto concreto: tracciare i ricambi delle auto in fabbrica. (Denso Wave)\n\nOggi è sui menu dei ristoranti e sui biglietti da visita. Un buon promemoria: gli strumenti che durano nascono quasi sempre per risolvere un problema pratico, non per stupire.\n\n#QRCode #Curiosità #Innovazione",
      "formato": "video",
      "errore": null
     }
