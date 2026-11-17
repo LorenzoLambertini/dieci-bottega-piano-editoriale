@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 16/11/2026, 20:50:23
+Ultimo controllo: 17/11/2026, 01:48:17
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -40,7 +40,7 @@ Ultimo controllo: 16/11/2026, 20:50:23
 
 ### linkedin
 
-- 17/11/26, 18:30 · 
+- 17/11/26, 18:30 · Quattro domande da fare oggi a chi gestisce il tuo sito: 1. Il dominio
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
@@ -49,7 +49,7 @@ Ultimo controllo: 16/11/2026, 20:50:23
 - 04/12/26, 18:30 · Su Google Maps il nome dell'attività deve essere quello reale, senza p
 - 05/12/26, 11:00 · Perché un sito dovrebbe richiedere tre mesi? Spesso il tempo non va ne
 - 06/12/26, 11:00 · INP, Interaction to Next Paint, misura quanto il sito risponde quando 
-- 08/12/26, 18:30 · 
+- 08/12/26, 18:30 · Accessibilità: le microimprese di servizi sono esenti dall'European Ac
 
 
 ## Ultime sostituzioni automatiche
