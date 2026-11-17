@@ -1846,9 +1846,8 @@
           "testo": "Vero: le microimprese che forniscono servizi sono esenti dagli obblighi dell'European Accessibility Act. Microimpresa vuol dire meno di 10 dipendenti e fatturato o bilancio fino a 2 milioni di euro. (D.Lgs. 82/2022)\n\nPer tutti gli altri il riferimento tecnico è WCAG 2.1, livello AA.\n\nEsenti non significa che l'accessibilità non serva: un sito leggibile da tutti è un sito che vende a più persone.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #EAA #PMI",
           "video": "media/reel/R32.mp4",
           "stato": "programmato",
-          "bufferId": "6afa0cfc4f0276ab945c8c56",
-          "programmatoIl": "2026-11-15T19:50:20.661Z",
-          "daAggiornare": true
+          "bufferId": "6afcafcd41283412cdcd6b3e",
+          "programmatoIl": "2026-11-17T19:49:33.595Z"
         }
       }
     },
@@ -2089,7 +2088,9 @@
         "linkedin": {
           "testo": "Banner dei cookie: quattro regole che ogni sito aziendale dovrebbe rispettare (Garante Privacy, linee guida 2021):\n\n1. Chiudere con la X equivale a rifiutare.\n2. Scorrere la pagina non è consenso.\n3. Niente cookie wall: il sito si usa anche senza accettare.\n4. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nIn più: i cookie tecnici non chiedono consenso.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
           "video": "media/reel/R50.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6afcafce41283412cdcd6bb7",
+          "programmatoIl": "2026-11-17T19:49:34.139Z"
         }
       }
     },
