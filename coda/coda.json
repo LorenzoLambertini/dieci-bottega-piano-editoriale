@@ -1494,8 +1494,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Conversione",
-      "quando": "2026-11-18 18:30",
-      "dueAt": "2026-11-18T17:30:00.000Z",
+      "quando": "2026-12-09 18:30",
+      "dueAt": "2026-12-09T17:30:00.000Z",
       "nota": "Da girare: Apertura grafica «800 €» (motion) + Lorenzo o Tommaso in camera con le voci in sovrimpressione. Quando il video è pronto va in media/strategia/S08.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1829,8 +1829,8 @@
       "titolo": "Microimprese esenti",
       "formato": "Vero o falso?",
       "tipo": "reel",
-      "quando": "2026-12-02 18:30",
-      "dueAt": "2026-12-02T17:30:00.000Z",
+      "quando": "2026-11-18 18:30",
+      "dueAt": "2026-11-18T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Vero o falso: \"Le microimprese di servizi sono esenti dagli obblighi di accessibilità.\"\nVota nei commenti, poi guarda chi rientra davvero nell'esenzione e qual è il riferimento per tutti gli altri. Fonte: European Accessibility Act, D.Lgs. 82/2022.\n#accessibilita #eaa #verofalso #sitiweb #pmiitaliane",
@@ -1847,7 +1847,8 @@
           "video": "media/reel/R32.mp4",
           "stato": "programmato",
           "bufferId": "6afa0cfc4f0276ab945c8c56",
-          "programmatoIl": "2026-11-15T19:50:20.661Z"
+          "programmatoIl": "2026-11-15T19:50:20.661Z",
+          "daAggiornare": true
         }
       }
     },
@@ -2072,8 +2073,8 @@
       "titolo": "La X del banner",
       "formato": "Informativo",
       "tipo": "reel",
-      "quando": "2026-12-09 18:30",
-      "dueAt": "2026-12-09T17:30:00.000Z",
+      "quando": "2026-12-02 18:30",
+      "dueAt": "2026-12-02T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Se clicchi la X sul banner dei cookie, cosa succede? Equivale a rifiutare.\nE poi: scorrere la pagina non è consenso. Niente cookie wall, il sito si usa anche senza accettare. I cookie tecnici non chiedono consenso. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nFonte: Garante Privacy, linee guida cookie 2021. Informazione generale, non è una consulenza legale.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
