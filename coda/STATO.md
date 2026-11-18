@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 18/11/2026, 15:10:22
+Ultimo controllo: 18/11/2026, 20:50:27
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -12,7 +12,7 @@ Ultimo controllo: 18/11/2026, 15:10:22
 |---|---|---|---|---|---|
 | 2026-11-24 18:30 | S03 | Il passaparola non basta | manca_video | manca_video | manca_video |
 | 2026-12-01 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
-| 2026-11-19 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
+| 2026-12-17 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
 | 2026-12-03 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
 | 2026-11-22 11:00 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
 | 2026-11-30 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
@@ -26,21 +26,20 @@ Ultimo controllo: 18/11/2026, 15:10:22
 | 2026-11-27 18:30 | S12 | 10 giorni in 40 secondi | manca_video | manca_video | manca_video |
 | 2026-11-28 11:00 | R31 | Banner cookie in regola | da_programmare | da_programmare | programmato |
 | 2026-11-29 11:00 | R33 | Con cosa e fatto | da_programmare | da_programmare | programmato |
-| 2026-11-18 18:30 | R32 | Microimprese esenti | da_programmare | da_programmare | programmato |
 | 2026-12-04 18:30 | R36 | Il nome su Maps | da_programmare | da_programmare | programmato |
 | 2026-12-05 11:00 | R43 | Tre mesi | da_programmare | da_programmare | programmato |
 | 2026-12-06 11:00 | R37 | Cosa misura l’INP | da_programmare | da_programmare | programmato |
 | 2026-12-08 18:30 | R39 | Accessibilita e microimprese | da_programmare | da_programmare | programmato |
 | 2026-12-02 18:30 | R50 | La X del banner | da_programmare | da_programmare | programmato |
-| 2026-12-10 18:30 | R41 | Testo accessibile | da_programmare | da_programmare | da_programmare |
+| 2026-12-10 18:30 | R41 | Testo accessibile | da_programmare | da_programmare | programmato |
 | 2026-12-11 18:30 | R53 | Tre secondi | da_programmare | da_programmare | da_programmare |
 | 2026-12-12 11:00 | R42 | Google guarda il telefono | da_programmare | da_programmare | da_programmare |
+| 2026-12-13 11:00 | R55 | Basta Instagram | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### linkedin
 
-- 18/11/26, 18:30 · Vero: le microimprese che forniscono servizi sono esenti dagli obbligh
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
@@ -50,12 +49,13 @@ Ultimo controllo: 18/11/2026, 15:10:22
 - 05/12/26, 11:00 · Perché un sito dovrebbe richiedere tre mesi? Spesso il tempo non va ne
 - 06/12/26, 11:00 · INP, Interaction to Next Paint, misura quanto il sito risponde quando 
 - 08/12/26, 18:30 · Accessibilità: le microimprese di servizi sono esenti dall'European Ac
+- 10/12/26, 18:30 · 
 
 
 ## Ultime sostituzioni automatiche
 
-- 12/11/2026, 21:00 · Correzione manuale preventiva: S06 "WhatsApp, mail, DM" ancora senza video la sera prima. Scambiato con R40 "Un protocollo" (informativo, pilastro AI + mestiere, video con audio, già su Buffer per LinkedIn): R40 esce il 2026-11-13 18:30, S06 passa al 2026-12-03 18:30 (scadenza video 3/12 16:30). Sequenza: R27 quiz Maps → R38 informativo clienti (prossimità) → R24 quiz velocità → R40 informativo AI + mestiere → R21 A o B menu. Niente quiz di fila, quattro pilastri diversi in quattro giorni. Scartati R28 "Quando ci scrivi" (11:00, e prossimità subito dopo R38) e R33 (slot 11:00). Attenzione: IG e FB ancora scollegati su Buffer, R40 esce solo su LinkedIn
 - 14/11/2026, 21:00 · Correzione manuale preventiva: S01 "Sito del lunedì: il ristorante" ancora senza video la sera prima (terza volta rinviato). Scambiato con R28 "Quando ci scrivi" (informativo, pilastro prossimità, stesso slot 11:00, già su Buffer su tutti e tre i canali): R28 esce il 2026-11-15 11:00, S01 passa al 2026-11-22 11:00 (scadenza video 22/11 09:00). Sequenza: R38 informativo clienti → R24 quiz velocità → R40 informativo AI + mestiere → R21 A o B menu → R28 informativo prossimità. Niente doppioni di fila. Scartato R26 "Mentre carica" (velocità, ok ma meglio tenerlo per il 21/11). Attenzione 16/11 e 17/11: S07 e S04 senza video, servono sostituti 18:30 (candidati R32 o R34, oggi programmati solo su LinkedIn)
 - 15/11/2026, 21:00 · Correzione manuale preventiva: S07 "Sito del lunedì: il menu in PDF" ancora senza video la sera prima. Rotazione a tre: R34 "AI Mode in italiano" (quiz, pilastro AI + mestiere, già su Buffer per LinkedIn) esce il 2026-11-16 18:30; S07 passa a lunedì 2026-11-30 18:30 (resta un "Sito del lunedì", scadenza video 30/11 16:30); R32 "Microimprese esenti" (vero o falso) passa al 2026-12-02 18:30, così tra S07/S05 e S06 c'è un contenuto pronto e non tre video S di fila. Sequenza: R40 informativo AI + mestiere → R21 A o B menu → R28 informativo prossimità → R34 quiz AI → S04/sostituto. Niente doppioni di formato di fila. Scartati R36 "Il nome su Maps" (prossimità subito dopo R28) e R48 "Di chi è il sito" (informativo dopo informativo; candidato per il 17/11 se S04 non arriva). Attenzione: IG e FB ancora scollegati su Buffer, R34 esce solo su LinkedIn
 - 16/11/2026, 21:00 · Correzione manuale preventiva: S04 "Sito del lunedì: l'agente immobiliare" ancora senza video la sera prima (terzo rinvio). Scambiato con R48 "Di chi è il sito" (informativo, pilastro prezzo/trasparenza, già su Buffer per LinkedIn): R48 esce il 2026-11-17 18:30, S04 passa a lunedì 2026-12-07 18:30 (resta un "Sito del lunedì", scadenza video 7/12 16:30). Sequenza: R21 A o B menu → R28 informativo prossimità → R34 quiz AI + mestiere → R48 informativo prezzo/proprietà → S08/sostituto. Niente doppioni di formato o pilastro di fila; il pilastro prezzo mancava dal 15/10 (R05). Scartati R36 "Il nome su Maps" e R32 "Microimprese esenti" (quiz/vero o falso subito dopo il quiz R34). Per 18/11 (S08 senza video) il sostituto naturale è R32 "Microimprese esenti" (vero o falso, normativa, 18:30, già su Buffer per LinkedIn). Attenzione: IG e FB ancora scollegati su Buffer, R48 esce solo su LinkedIn
 - 17/11/2026, 21:00 · Correzione manuale preventiva: S08 "Cosa c'è in 800 €" ancora senza video la sera prima. Rotazione a tre: R32 "Microimprese esenti" (vero o falso, normativa/accessibilità, già su Buffer per LinkedIn) esce il 2026-11-18 18:30; S08 passa al 2026-12-09 18:30 (scadenza video 9/12 16:30); R50 "La X del banner" (informativo, pronto) passa al 2026-12-02 18:30, così tra S05 (1/12) e S06 (3/12) resta un contenuto pronto e non tre video S di fila. Sequenza: R28 informativo prossimità → R34 quiz AI → R48 informativo prezzo → R32 vero/falso normativa → S02/sostituto. Niente doppioni di formato o pilastro di fila. Scartati R36 "Il nome su Maps" (A o B, meglio tenerlo lontano da R27) e R39 (accessibilità, troppo simile a R32). Attenzione: IG e FB ancora scollegati su Buffer, R32 esce solo su LinkedIn. Per 19/11 (S02 senza video) il sostituto adatto è un informativo, non un altro quiz: candidato R53 "Tre secondi" (informativo, velocità, 18:30)
+- 18/11/2026, 21:00 · Correzione manuale preventiva: S02 "Il numero che non si clicca" ancora senza video la sera prima (quarto rinvio). Scambiato con R60 "La scheda Google" (informativo, pilastro prossimità, video con audio pronto): R60 esce il 2026-11-19 18:30, S02 passa al 2026-12-17 18:30 (scadenza video 17/12 16:30). Sequenza: R34 quiz AI → R48 informativo prezzo → R32 vero/falso normativa → R60 informativo prossimità → S09/sostituto → R26 A o B velocità. Niente doppioni di formato o pilastro di fila; prossimità assente dal 15/11 (R28). Scartato R53 "Tre secondi" (velocità, troppo vicino a R26 del 21/11). R60 parla del nome su Google come R36 (4/12): due settimane di distanza, ok. R60 non è ancora su Buffer: lo programma buffer-sync al prossimo giro. Per 20/11 (S09 senza video) il sostituto adatto è un quiz o vero/falso non sulla velocità, candidato R47 "Imprese che usano l'AI" (quiz, AI + mestiere). Attenzione: IG e FB ancora scollegati su Buffer, R60 esce solo su LinkedIn
