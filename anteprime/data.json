@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T19:49+00:00",
+ "aggiornato": "2026-11-18T19:50+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -67,8 +67,8 @@
    "id": "S02",
    "titolo": "Il numero che non si clicca",
    "tipo": "reel",
-   "quando": "2026-11-19 18:30",
-   "dueAt": "2026-11-19T17:30:00.000Z",
+   "quando": "2026-12-17 18:30",
+   "dueAt": "2026-12-17T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -553,37 +553,6 @@
    }
   },
   {
-   "id": "R32",
-   "titolo": "Microimprese esenti",
-   "tipo": "reel",
-   "quando": "2026-11-18 18:30",
-   "dueAt": "2026-11-18T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R32_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R32.mp4",
-   "durata": 29,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "Vero o falso: \"Le microimprese di servizi sono esenti dagli obblighi di accessibilità.\"\nVota nei commenti, poi guarda chi rientra davvero nell'esenzione e qual è il riferimento per tutti gli altri. Fonte: European Accessibility Act, D.Lgs. 82/2022.\n#accessibilita #eaa #verofalso #sitiweb #pmiitaliane",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "Vero o falso: \"Le microimprese di servizi sono esenti dagli obblighi di accessibilità.\"\n\nVota qui sotto, poi guarda chi rientra davvero nell'esenzione.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Vero: le microimprese che forniscono servizi sono esenti dagli obblighi dell'European Accessibility Act. Microimpresa vuol dire meno di 10 dipendenti e fatturato o bilancio fino a 2 milioni di euro. (D.Lgs. 82/2022)\n\nPer tutti gli altri il riferimento tecnico è WCAG 2.1, livello AA.\n\nEsenti non significa che l'accessibilità non serva: un sito leggibile da tutti è un sito che vende a più persone.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #EAA #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
    "id": "R36",
    "titolo": "Il nome su Maps",
    "tipo": "reel",
@@ -762,7 +731,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Il testo grigio chiaro su fondo bianco è elegante sul monitor del designer e illeggibile per molti utenti.\n\nIl riferimento è WCAG 2.1, livello AA, che fissa un contrasto minimo. E dal 28 giugno 2025 per molti servizi digitali, e-commerce compreso, non è più una buona pratica: è un obbligo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #WCAG",
      "formato": "video",
      "errore": null
@@ -959,8 +928,8 @@
    "id": "R60",
    "titolo": "La scheda Google",
    "tipo": "reel",
-   "quando": "2026-12-17 18:30",
-   "dueAt": "2026-12-17T17:30:00.000Z",
+   "quando": "2026-11-19 18:30",
+   "dueAt": "2026-11-19T17:30:00.000Z",
    "slide": [],
    "poster": "img/R60_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R60.mp4",
@@ -1446,6 +1415,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "QR sta per Quick Response, risposta rapida.\n\nÈ nato nel 1994 in Giappone per un motivo molto concreto: tracciare i ricambi delle auto in fabbrica. (Denso Wave)\n\nOggi è sui menu dei ristoranti e sui biglietti da visita. Un buon promemoria: gli strumenti che durano nascono quasi sempre per risolvere un problema pratico, non per stupire.\n\n#QRCode #Curiosità #Innovazione",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R80",
+   "titolo": "I tre numeri di Google",
+   "tipo": "reel",
+   "quando": "2027-01-02 11:00",
+   "dueAt": "2027-01-02T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R80_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R80.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Google misura il tuo sito con tre numeri.\nLCP, entro 2,5 secondi: quanto ci mette a comparire il contenuto principale. INP, entro 200 millisecondi: quanto risponde quando tocchi. CLS, entro 0,1: quanto si sposta mentre carica.\nSi chiamano Core Web Vitals. Noi li chiamiamo performance vere.\n#corewebvitals #seo #velocita #sitiweb #webdesign",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Google misura il tuo sito con tre numeri: quanto ci mette a comparire, quanto risponde quando tocchi, quanto si sposta mentre carica.\n\nNoi li chiamiamo performance vere.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Google misura l'esperienza su un sito con tre numeri, i Core Web Vitals:\n\nLCP ≤ 2,5 s · quanto ci mette a comparire il contenuto principale.\nINP ≤ 200 ms · quanto risponde quando tocchi.\nCLS ≤ 0,1 · quanto si sposta mentre carica.\n\nFonte: web.dev, soglie \"buone\".\n\nSono misurati sui dispositivi reali dei visitatori. Noi li chiamiamo performance vere.\n\n#CoreWebVitals #SEO #Performance",
      "formato": "video",
      "errore": null
     }
