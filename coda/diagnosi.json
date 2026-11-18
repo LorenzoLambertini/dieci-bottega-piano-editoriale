@@ -697,10 +697,10 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6afcafce41283412cdcd6bb7",
-        "dueAt": "2026-12-02T17:30:00.000Z",
+        "id": "6afe3391a588bd6687a4822c",
+        "dueAt": "2026-12-10T17:30:00.000Z",
         "sentAt": null,
-        "text": "Banner dei cookie: quattro regole che ogni sito aziendale do",
+        "text": "Il testo grigio chiaro su fondo bianco è elegante sul monito",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -710,10 +710,10 @@
         "via": "buffer"
       },
       {
-        "id": "6afcafcd41283412cdcd6b3e",
-        "dueAt": "2026-11-18T17:30:00.000Z",
+        "id": "6afcafce41283412cdcd6bb7",
+        "dueAt": "2026-12-02T17:30:00.000Z",
         "sentAt": null,
-        "text": "Vero: le microimprese che forniscono servizi sono esenti dag",
+        "text": "Banner dei cookie: quattro regole che ogni sito aziendale do",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -881,6 +881,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6afcafcd41283412cdcd6b3e",
+        "dueAt": "2026-11-18T17:30:00.000Z",
+        "sentAt": "2026-11-18T17:31:58.232Z",
+        "text": "Vero: le microimprese che forniscono servizi sono esenti dag",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6afb5e7f5c671a37dd56d560",
         "dueAt": "2026-11-17T17:30:00.000Z",
@@ -1257,26 +1270,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad49443ae173d6e00f57246",
-        "dueAt": "2026-10-31T10:00:00.000Z",
-        "sentAt": "2026-10-31T10:04:34.566Z",
-        "text": "Che forma ha lo sguardo su una pagina web? Una Z, una F o un",
-        "channelService": "instagram",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
-    "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Tue, 17 Nov 2026 19:51:22 GMT 2888614",
-    "media/reel/R07.mp4": "200 Tue, 17 Nov 2026 19:51:22 GMT 3173777",
-    "index.html": "200 Tue, 17 Nov 2026 19:51:22 GMT 104461"
+    "media/reel/R06b.mp4": "503  54887",
+    "media/reel/R02.mp4": "200 Wed, 18 Nov 2026 19:52:23 GMT 2888614",
+    "media/reel/R07.mp4": "200 Wed, 18 Nov 2026 19:52:23 GMT 3173777",
+    "index.html": "200 Wed, 18 Nov 2026 19:52:23 GMT 104461"
   }
 }
