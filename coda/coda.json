@@ -2115,9 +2115,7 @@
         "linkedin": {
           "testo": "Il testo grigio chiaro su fondo bianco è elegante sul monitor del designer e illeggibile per molti utenti.\n\nIl riferimento è WCAG 2.1, livello AA, che fissa un contrasto minimo. E dal 28 giugno 2025 per molti servizi digitali, e-commerce compreso, non è più una buona pratica: è un obbligo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #WCAG",
           "video": "media/reel/R41.mp4",
-          "stato": "programmato",
-          "bufferId": "6aff07c8fd08883b6471957d",
-          "programmatoIl": "2026-11-19T14:29:28.844Z"
+          "stato": "da_programmare"
         }
       }
     },
@@ -2292,7 +2290,9 @@
         "linkedin": {
           "testo": "Quattro regole del Profilo dell'Attività di Google che molte PMI ignorano:\n\n1. Il nome reale, senza parole chiave aggiunte.\n2. Categorie: le più specifiche possibili.\n3. Orari aggiornati, anche quelli stagionali.\n4. Un profilo per ogni sede, mai doppioni.\n\nSono gratis, richiedono un'ora, e decidono se compari su Maps quando qualcuno cerca quello che fai, vicino a te.\n\nFonte: linee guida di Google\n\n#GoogleBusiness #SEOLocale #PMI",
           "video": "media/reel/R60.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6aff53176eef0cb67e4d6926",
+          "programmatoIl": "2026-11-19T19:50:47.564Z"
         }
       }
     },
