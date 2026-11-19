@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-18T19:50+00:00",
+ "aggiornato": "2026-11-19T19:50+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -308,8 +308,8 @@
    "id": "S09",
    "titolo": "Le 5 domande",
    "tipo": "reel",
-   "quando": "2026-11-20 18:30",
-   "dueAt": "2026-11-20T17:30:00.000Z",
+   "quando": "2026-12-11 18:30",
+   "dueAt": "2026-12-11T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -739,37 +739,6 @@
    }
   },
   {
-   "id": "R53",
-   "titolo": "Tre secondi",
-   "tipo": "reel",
-   "quando": "2026-12-11 18:30",
-   "dueAt": "2026-12-11T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R53_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R53.mp4",
-   "durata": 25,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "Quanto aspetti che un sito si apra? Due secondi, forse tre.\nIl 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi (fonte: Google). Per questo da noi: mobile-first, codice pulito, performance vere.\nOgni millisecondo è una scelta consapevole.\n#velocita #mobilefirst #sitiweb #webdesign #pmiitaliane",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "Quanto aspetti che un sito si apra? Due secondi, forse tre. Poi chiudi.\n\nLo fanno anche i tuoi clienti: il 53% abbandona un sito che ci mette più di 3 secondi da telefono.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "da_programmare",
-     "testo": "Il 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi a caricare. (Google)\n\nPer questo, in ogni progetto, tre scelte non sono negoziabili:\npensato prima per il telefono,\ncodice pulito, senza plugin superflui,\nperformance misurate sui telefoni reali, non sul computer.\n\nOgni millisecondo è una scelta consapevole.\n\n#Performance #MobileFirst #WebDesign",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
    "id": "R42",
    "titolo": "Google guarda il telefono",
    "tipo": "reel",
@@ -928,8 +897,8 @@
    "id": "R60",
    "titolo": "La scheda Google",
    "tipo": "reel",
-   "quando": "2026-11-19 18:30",
-   "dueAt": "2026-11-19T17:30:00.000Z",
+   "quando": "2026-11-20 18:30",
+   "dueAt": "2026-11-20T17:30:00.000Z",
    "slide": [],
    "poster": "img/R60_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R60.mp4",
@@ -1446,6 +1415,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Google misura l'esperienza su un sito con tre numeri, i Core Web Vitals:\n\nLCP ≤ 2,5 s · quanto ci mette a comparire il contenuto principale.\nINP ≤ 200 ms · quanto risponde quando tocchi.\nCLS ≤ 0,1 · quanto si sposta mentre carica.\n\nFonte: web.dev, soglie \"buone\".\n\nSono misurati sui dispositivi reali dei visitatori. Noi li chiamiamo performance vere.\n\n#CoreWebVitals #SEO #Performance",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R62",
+   "titolo": "Piu voci nel menu",
+   "tipo": "reel",
+   "quando": "2027-01-03 11:00",
+   "dueAt": "2027-01-03T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R62_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R62.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Vero o falso: \"Più voci metti nel menu, più è facile scegliere.\"\nVota nei commenti, poi guarda la risposta. Indizio: c'è una legge della psicologia degli anni '50 che ne parla.\n#ux #menu #verofalso #webdesign #sitiweb",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Vero o falso: \"Più voci metti nel menu, più è facile scegliere.\"\n\nVota qui sotto.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Falso. Più scelte significano più tempo per decidere: è la legge di Hick-Hyman, formulata negli anni '50 e ancora valida.\n\nUn menu con quindici voci non dà più possibilità al cliente. Gli dà più fatica.\n\nPer una landing page la regola è ancora più netta: una pagina, un obiettivo.\n\n#UX #Menu #LandingPage",
      "formato": "video",
      "errore": null
     }
