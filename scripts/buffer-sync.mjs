@@ -185,7 +185,8 @@ async function main() {
   const MUT = `mutation($input: CreatePostInput!) { createPost(input: $input) { __typename ... on PostActionSuccess { post { id dueAt } } ... on MutationError { message } } }`;
   let creati = 0, cambiato = false;
 
-  for (const item of coda.contenuti) {
+  // in ordine di data: lo slot liberato per un contenuto vicino non deve finire a uno più lontano che viene prima nel file
+  for (const item of [...coda.contenuti].sort((a, b) => String(a.dueAt).localeCompare(String(b.dueAt)))) {
     for (const [servizio, c] of Object.entries(item.canali)) {
       if (c.stato !== "da_programmare") continue;
       const canale = canali[servizio];
