@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-19T19:50+00:00",
+ "aggiornato": "2026-11-20T19:48+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -731,7 +731,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "programmato",
+     "stato": "da_programmare",
      "testo": "Il testo grigio chiaro su fondo bianco è elegante sul monitor del designer e illeggibile per molti utenti.\n\nIl riferimento è WCAG 2.1, livello AA, che fissa un contrasto minimo. E dal 28 giugno 2025 per molti servizi digitali, e-commerce compreso, non è più una buona pratica: è un obbligo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #WCAG",
      "formato": "video",
      "errore": null
@@ -888,37 +888,6 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Il titolo è la parte del sito che leggono tutti. Il resto, spesso no.\n\nSi legge in alto, da sinistra (Nielsen Norman Group). Quindi le prime parole devono dire chi sei e cosa fai. \"Benvenuti nel sito della ditta Rossi\" spreca la posizione più preziosa della pagina. \"Idraulico a Bologna. Pronto intervento.\" la usa.\n\nRileggi il titolo della tua homepage: le prime tre parole dicono cosa fai?\n\n#Copywriting #Homepage #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "R60",
-   "titolo": "La scheda Google",
-   "tipo": "reel",
-   "quando": "2026-11-20 18:30",
-   "dueAt": "2026-11-20T17:30:00.000Z",
-   "slide": [],
-   "poster": "img/R60_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R60.mp4",
-   "durata": 26,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "Il tuo nome su Google è così? \"La tua bottega - siti web Bologna economici migliori offerta\".\nLe regole per il Profilo dell'Attività: il nome reale, senza parole chiave aggiunte. Categorie, le più specifiche possibili. Orari aggiornati, anche quelli stagionali. Un profilo per ogni sede.\nDa noi, Google dal primo giorno. Fonte: linee guida di Google.\n#googlebusiness #googlemaps #seolocale #pmiitaliane #bologna",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "Il nome della tua attività su Google è così: \"La tua bottega - siti web Bologna economici migliori offerta\"? Allora va sistemato.\n\nNome vero, categorie precise, orari aggiornati, un profilo per sede.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "da_programmare",
-     "testo": "Quattro regole del Profilo dell'Attività di Google che molte PMI ignorano:\n\n1. Il nome reale, senza parole chiave aggiunte.\n2. Categorie: le più specifiche possibili.\n3. Orari aggiornati, anche quelli stagionali.\n4. Un profilo per ogni sede, mai doppioni.\n\nSono gratis, richiedono un'ora, e decidono se compari su Maps quando qualcuno cerca quello che fai, vicino a te.\n\nFonte: linee guida di Google\n\n#GoogleBusiness #SEOLocale #PMI",
      "formato": "video",
      "errore": null
     }
@@ -1446,6 +1415,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Falso. Più scelte significano più tempo per decidere: è la legge di Hick-Hyman, formulata negli anni '50 e ancora valida.\n\nUn menu con quindici voci non dà più possibilità al cliente. Gli dà più fatica.\n\nPer una landing page la regola è ancora più netta: una pagina, un obiettivo.\n\n#UX #Menu #LandingPage",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R83",
+   "titolo": "Perche su Maps",
+   "tipo": "reel",
+   "quando": "2027-01-04 18:30",
+   "dueAt": "2027-01-04T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R83_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R83.mp4",
+   "durata": 26,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Perché su Maps compaiono loro e non tu?\nGoogle guarda tre cose: pertinenza, quanto il profilo risponde a ciò che si cerca; distanza, quanto sei lontano da chi cerca; prominenza, quanto sei conosciuto: link, recensioni, valutazioni. E rispondi alle recensioni: mostra che tieni al parere dei clienti.\nDa noi, il giorno dieci, Google Business Profile collegato.\n#googlemaps #seolocale #googlebusiness #pmiitaliane #bologna",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Perché su Maps compaiono gli altri e non tu?\n\nGoogle guarda tre cose: quanto il profilo risponde a ciò che si cerca, quanto sei vicino, quanto sei conosciuto. E rispondere alle recensioni aiuta.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Perché su Google Maps compaiono i concorrenti e non tu?\n\nGoogle usa tre criteri:\nPertinenza · quanto il profilo risponde a ciò che si cerca.\nDistanza · quanto sei vicino a chi cerca.\nProminenza · quanto sei conosciuto: link, recensioni, valutazioni.\n\nLa distanza non la cambi. Gli altri due sì. E rispondere alle recensioni mostra che tieni al parere dei clienti.\n\nFonte: Google, guida del Profilo dell'Attività\n\n#GoogleMaps #SEOLocale #PMI",
      "formato": "video",
      "errore": null
     }
