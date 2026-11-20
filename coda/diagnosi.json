@@ -697,10 +697,10 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6aff53176eef0cb67e4d6926",
-        "dueAt": "2026-11-20T17:30:00.000Z",
+        "id": "6b00d232d9cbb430a1029521",
+        "dueAt": "2026-12-10T17:30:00.000Z",
         "sentAt": null,
-        "text": "Quattro regole del Profilo dell'Attività di Google che molte",
+        "text": "Il testo grigio chiaro su fondo bianco è elegante sul monito",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -881,6 +881,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6aff53176eef0cb67e4d6926",
+        "dueAt": "2026-11-20T17:30:00.000Z",
+        "sentAt": "2026-11-20T17:31:14.528Z",
+        "text": "Quattro regole del Profilo dell'Attività di Google che molte",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6afcafcd41283412cdcd6b3e",
         "dueAt": "2026-11-18T17:30:00.000Z",
@@ -1257,26 +1270,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad49443ae173d6e00f5727a",
-        "dueAt": "2026-10-31T10:00:00.000Z",
-        "sentAt": "2026-10-31T10:02:38.511Z",
-        "text": "Che forma ha lo sguardo su una pagina web? Una Z, una F o un",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
-    "media/reel/R06b.mp4": "503  54887",
-    "media/reel/R02.mp4": "200 Thu, 19 Nov 2026 19:52:58 GMT 2888614",
-    "media/reel/R07.mp4": "200 Thu, 19 Nov 2026 19:52:57 GMT 3173777",
-    "index.html": "200 Thu, 19 Nov 2026 19:52:58 GMT 104461"
+    "media/reel/R06b.mp4": "404  5254",
+    "media/reel/R02.mp4": "200 Fri, 20 Nov 2026 19:51:10 GMT 2888614",
+    "media/reel/R07.mp4": "200 Fri, 20 Nov 2026 19:51:10 GMT 3173777",
+    "index.html": "200 Fri, 20 Nov 2026 19:51:10 GMT 104461"
   }
 }

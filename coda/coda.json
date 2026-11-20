@@ -2115,7 +2115,9 @@
         "linkedin": {
           "testo": "Il testo grigio chiaro su fondo bianco è elegante sul monitor del designer e illeggibile per molti utenti.\n\nIl riferimento è WCAG 2.1, livello AA, che fissa un contrasto minimo. E dal 28 giugno 2025 per molti servizi digitali, e-commerce compreso, non è più una buona pratica: è un obbligo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #WCAG",
           "video": "media/reel/R41.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6b00d232d9cbb430a1029521",
+          "programmatoIl": "2026-11-20T23:05:22.520Z"
         }
       }
     },

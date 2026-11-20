@@ -1,17 +1,6 @@
 {
   "linkedin": [
     {
-      "id": "6aff53176eef0cb67e4d6926",
-      "dueAt": "2026-11-20T17:30:00.000Z",
-      "text": "Quattro regole del Profilo dell'Attività di Google che molte PMI ignorano:\n\n1. Il nome reale, senza parole chiave aggiunte.\n2. Categorie: le più specifiche possibili.\n3. Orari aggiornati, anche quelli stagionali.\n4. Un profilo per ogni sede, mai doppioni.\n\nSono gratis, richiedono un'ora, e decidono se compari su Maps quando qualcuno cerca quello che fai, vicino a te.\n\nFonte: linee guida di Google\n\n#GoogleBusiness #SEOLocale #PMI",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R60.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6ae798335604f9d85b850cc7",
       "dueAt": "2026-11-21T10:00:00.000Z",
       "text": "Quando la pagina si sposta mentre carica e il bottone ti scappa sotto il dito, non è sfortuna. È una metrica precisa: CLS, Cumulative Layout Shift, uno dei tre Core Web Vitals di Google.\n\nUn valore buono è sotto 0,1. Si ottiene con accorgimenti semplici: dimensioni fissate per immagini e banner, font caricati bene, niente contenuti che spuntano dall'alto.\n\nFonte: web.dev\n\n#CoreWebVitals #UX #Performance",

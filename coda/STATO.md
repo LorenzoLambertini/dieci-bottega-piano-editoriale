@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 20/11/2026, 15:06:09
+Ultimo controllo: 21/11/2026, 00:05:22
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -31,7 +31,7 @@ Ultimo controllo: 20/11/2026, 15:06:09
 | 2026-12-06 11:00 | R37 | Cosa misura l’INP | da_programmare | da_programmare | programmato |
 | 2026-12-08 18:30 | R39 | Accessibilita e microimprese | da_programmare | da_programmare | programmato |
 | 2026-12-02 18:30 | R50 | La X del banner | da_programmare | da_programmare | programmato |
-| 2026-12-10 18:30 | R41 | Testo accessibile | da_programmare | da_programmare | da_programmare |
+| 2026-12-10 18:30 | R41 | Testo accessibile | da_programmare | da_programmare | programmato |
 | 2027-01-27 18:30 | R53 | Tre secondi | da_programmare | da_programmare | da_programmare |
 | 2026-12-12 11:00 | R42 | Google guarda il telefono | da_programmare | da_programmare | da_programmare |
 | 2026-12-13 11:00 | R55 | Basta Instagram | da_programmare | da_programmare | da_programmare |
@@ -40,7 +40,6 @@ Ultimo controllo: 20/11/2026, 15:06:09
 
 ### linkedin
 
-- 20/11/26, 18:30 · Quattro regole del Profilo dell'Attività di Google che molte PMI ignor
 - 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
@@ -50,6 +49,7 @@ Ultimo controllo: 20/11/2026, 15:06:09
 - 05/12/26, 11:00 · Perché un sito dovrebbe richiedere tre mesi? Spesso il tempo non va ne
 - 06/12/26, 11:00 · INP, Interaction to Next Paint, misura quanto il sito risponde quando 
 - 08/12/26, 18:30 · Accessibilità: le microimprese di servizi sono esenti dall'European Ac
+- 10/12/26, 18:30 · 
 
 
 ## Ultime sostituzioni automatiche
