@@ -1363,8 +1363,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Attrazione",
-      "quando": "2026-11-22 11:00",
-      "dueAt": "2026-11-22T10:00:00.000Z",
+      "quando": "2026-11-29 11:00",
+      "dueAt": "2026-11-29T10:00:00.000Z",
       "nota": "Da girare: Lorenzo in camera + registrazione schermo del sito fittizio «Osteria del Portico» (da creare, niente siti reali). Quando il video è pronto va in media/strategia/S01.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1403,6 +1403,13 @@
           "da": "2026-11-15 11:00",
           "a": "2026-11-22 11:00",
           "conContenuto": "R28",
+          "manuale": true
+        },
+        {
+          "il": "2026-11-21T20:00:00.000Z",
+          "da": "2026-11-22 11:00",
+          "a": "2026-11-29 11:00",
+          "conContenuto": "R33",
           "manuale": true
         }
       ]
@@ -1802,8 +1809,8 @@
       "titolo": "Con cosa e fatto",
       "formato": "Informativo",
       "tipo": "reel",
-      "quando": "2026-11-29 11:00",
-      "dueAt": "2026-11-29T10:00:00.000Z",
+      "quando": "2026-11-22 11:00",
+      "dueAt": "2026-11-22T10:00:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Con cosa è fatto un nostro sito?\nDesign: Figma, palette, tipografia. Codice: Next.js, TypeScript, Tailwind. Movimento: Framer Motion. Dati: Supabase. Email: Resend. E l'AI come compagna di lavoro, Claude.\nIl codice lo scriviamo a mano. Sempre.\n#webdevelopment #nextjs #webdesign #bottegadigitale #sitiweb",
@@ -1820,7 +1827,8 @@
           "video": "media/reel/R33.mp4",
           "stato": "programmato",
           "bufferId": "6aef0fbdaf7e526d431beae6",
-          "programmatoIl": "2026-11-07T11:47:10.041Z"
+          "programmatoIl": "2026-11-07T11:47:10.041Z",
+          "daAggiornare": true
         }
       }
     },
