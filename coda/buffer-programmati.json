@@ -23,17 +23,6 @@
       ]
     },
     {
-      "id": "6aef0fbdaf7e526d431beae6",
-      "dueAt": "2026-11-29T10:00:00.000Z",
-      "text": "Con cosa costruiamo un sito, strato per strato:\n\nDesign · Figma, palette, tipografia.\nCodice · Next.js, TypeScript, Tailwind.\nMovimento · Framer Motion.\nDati · Supabase.\nEmail · Resend.\nAI co-working · Claude.\n\nStrumenti moderni, scelti perché rendono il sito veloce e facile da mantenere. Ma il codice lo scriviamo a mano, e lo rileggiamo riga per riga.\n\n#WebDevelopment #NextJS #WebDesign",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R33.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6afcafce41283412cdcd6bb7",
       "dueAt": "2026-12-02T17:30:00.000Z",
       "text": "Banner dei cookie: quattro regole che ogni sito aziendale dovrebbe rispettare (Garante Privacy, linee guida 2021):\n\n1. Chiudere con la X equivale a rifiutare.\n2. Scorrere la pagina non è consenso.\n3. Niente cookie wall: il sito si usa anche senza accettare.\n4. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nIn più: i cookie tecnici non chiedono consenso.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
@@ -95,6 +84,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R41.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6b019d2b846b0ee9070e9c08",
+      "dueAt": "2026-12-12T10:00:00.000Z",
+      "text": "Vero. Si chiama mobile-first indexing: Google usa la versione mobile di un sito per indicizzarlo e posizionarlo. (Google Search Central)\n\nSe il sito da telefono è una versione ridotta, lenta o con contenuti nascosti, per Google quello è il tuo sito.\n\nIl controllo più utile che puoi fare oggi dura un minuto: apri il tuo sito dal telefono e cerca quello che cercherebbe un cliente.\n\n#SEO #MobileFirst #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R42.mp4",
           "tipo": "video/mp4"
         }
       ]
