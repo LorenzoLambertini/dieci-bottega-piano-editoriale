@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-20T19:48+00:00",
+ "aggiornato": "2026-11-21T19:49+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -137,8 +137,8 @@
    "id": "S01",
    "titolo": "Sito del lunedì: il ristorante",
    "tipo": "reel",
-   "quando": "2026-11-22 11:00",
-   "dueAt": "2026-11-22T10:00:00.000Z",
+   "quando": "2026-11-29 11:00",
+   "dueAt": "2026-11-29T10:00:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -183,6 +183,13 @@
      "da": "2026-11-15 11:00",
      "a": "2026-11-22 11:00",
      "conContenuto": "R28",
+     "manuale": true
+    },
+    {
+     "il": "2026-11-21T20:00:00.000Z",
+     "da": "2026-11-22 11:00",
+     "a": "2026-11-29 11:00",
+     "conContenuto": "R33",
      "manuale": true
     }
    ]
@@ -330,37 +337,6 @@
     "linkedin": {
      "stato": "manca_video",
      "testo": "Cinque domande, sessanta volte a settimana. Un minuto ciascuna. Fanno un'ora alla settimana, ogni settimana.\n\n\"Siete aperti a pranzo?\" \"Quanto costa?\" \"Dove parcheggio?\"\n\nDue interventi semplici:\n1. Le risposte scritte bene sul sito, in alto, dove si vedono.\n2. Un assistente che risponde alle domande semplici e passa a te quelle difficili.\n\nL'AI non decide per te. Ti restituisce il lunedì mattina.\n\nContenuto realizzato con il supporto dell'AI, rivisto da noi.\n\n#Automazioni #IntelligenzaArtificiale #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "R26",
-   "titolo": "Mentre carica",
-   "tipo": "reel",
-   "quando": "2026-11-21 11:00",
-   "dueAt": "2026-11-21T10:00:00.000Z",
-   "slide": [],
-   "poster": "img/R26_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R26.mp4",
-   "durata": 30,
-   "canali": {
-    "instagram": {
-     "stato": "programmato",
-     "testo": "Mentre la pagina carica, quale va meglio? A o B nei commenti.\nQuando il bottone salta proprio mentre stai per toccarlo, non è sfortuna: è una misura precisa, ed è uno dei tre Core Web Vitals di Google. Te la spieghiamo nel video.\n#corewebvitals #ux #webdesign #sitiweb #pmiitaliane",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "programmato",
-     "testo": "Hai mai provato a toccare un bottone che si sposta proprio mentre la pagina carica? Due versioni, quale va meglio, A o B?",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Quando la pagina si sposta mentre carica e il bottone ti scappa sotto il dito, non è sfortuna. È una metrica precisa: CLS, Cumulative Layout Shift, uno dei tre Core Web Vitals di Google.\n\nUn valore buono è sotto 0,1. Si ottiene con accorgimenti semplici: dimensioni fissate per immagini e banner, font caricati bene, niente contenuti che spuntano dall'alto.\n\nFonte: web.dev\n\n#CoreWebVitals #UX #Performance",
      "formato": "video",
      "errore": null
     }
@@ -525,8 +501,8 @@
    "id": "R33",
    "titolo": "Con cosa e fatto",
    "tipo": "reel",
-   "quando": "2026-11-29 11:00",
-   "dueAt": "2026-11-29T10:00:00.000Z",
+   "quando": "2026-11-22 11:00",
+   "dueAt": "2026-11-22T10:00:00.000Z",
    "slide": [],
    "poster": "img/R33_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R33.mp4",
@@ -731,7 +707,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Il testo grigio chiaro su fondo bianco è elegante sul monitor del designer e illeggibile per molti utenti.\n\nIl riferimento è WCAG 2.1, livello AA, che fissa un contrasto minimo. E dal 28 giugno 2025 per molti servizi digitali, e-commerce compreso, non è più una buona pratica: è un obbligo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #WCAG",
      "formato": "video",
      "errore": null
@@ -762,7 +738,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Vero. Si chiama mobile-first indexing: Google usa la versione mobile di un sito per indicizzarlo e posizionarlo. (Google Search Central)\n\nSe il sito da telefono è una versione ridotta, lenta o con contenuti nascosti, per Google quello è il tuo sito.\n\nIl controllo più utile che puoi fare oggi dura un minuto: apri il tuo sito dal telefono e cerca quello che cercherebbe un cliente.\n\n#SEO #MobileFirst #PMI",
      "formato": "video",
      "errore": null
@@ -1446,6 +1422,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Perché su Google Maps compaiono i concorrenti e non tu?\n\nGoogle usa tre criteri:\nPertinenza · quanto il profilo risponde a ciò che si cerca.\nDistanza · quanto sei vicino a chi cerca.\nProminenza · quanto sei conosciuto: link, recensioni, valutazioni.\n\nLa distanza non la cambi. Gli altri due sì. E rispondere alle recensioni mostra che tieni al parere dei clienti.\n\nFonte: Google, guida del Profilo dell'Attività\n\n#GoogleMaps #SEOLocale #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R64",
+   "titolo": "50 millisecondi",
+   "tipo": "reel",
+   "quando": "2027-01-05 18:30",
+   "dueAt": "2027-01-05T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R64_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R64.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Quanto ci mette qualcuno a giudicare il tuo sito? 50 millisecondi, 5 secondi o 30 secondi?\nRispondi nei commenti. Nel video la risposta, e cosa succede al giudizio dopo mezzo secondo. Fonte: Lindgaard et al.\n#webdesign #primaimpressione #ux #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Quanto ci mette una persona a giudicare il tuo sito? 50 millisecondi, 5 secondi o 30 secondi?\n\nScrivi la tua, la risposta sorprende.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Bastano 50 millisecondi per farsi un'opinione su un sito. Meno di un battito di ciglia.\n\nE dopo mezzo secondo quel giudizio resta quasi uguale. (Lindgaard et al., 2006)\n\nVuol dire che la prima impressione non la fanno i testi, che nessuno ha ancora letto. La fanno ordine, spazio, colori, qualità delle immagini.\n\n#PrimaImpressione #WebDesign #UX",
      "formato": "video",
      "errore": null
     }
