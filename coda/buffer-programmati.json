@@ -1,17 +1,6 @@
 {
   "linkedin": [
     {
-      "id": "6ae798335604f9d85b850cc7",
-      "dueAt": "2026-11-21T10:00:00.000Z",
-      "text": "Quando la pagina si sposta mentre carica e il bottone ti scappa sotto il dito, non è sfortuna. È una metrica precisa: CLS, Cumulative Layout Shift, uno dei tre Core Web Vitals di Google.\n\nUn valore buono è sotto 0,1. Si ottiene con accorgimenti semplici: dimensioni fissate per immagini e banner, font caricati bene, niente contenuti che spuntano dall'alto.\n\nFonte: web.dev\n\n#CoreWebVitals #UX #Performance",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R26.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6aebb3cb50fc4a0253ecba9e",
       "dueAt": "2026-11-26T17:30:00.000Z",
       "text": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli anni '50 ed è ancora una delle più utili nel web design.\n\nIl tempo di decisione cresce in modo logaritmico: raddoppiare le voci non raddoppia l'attesa, ma la aumenta sempre.\n\nSu un sito aziendale significa una cosa semplice: ogni voce di menu deve giustificare il suo posto. Se non porta a una decisione, toglila.\n\n#UX #Menu #WebDesign",
@@ -95,6 +84,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R39.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6b00d232d9cbb430a1029521",
+      "dueAt": "2026-12-10T17:30:00.000Z",
+      "text": "Il testo grigio chiaro su fondo bianco è elegante sul monitor del designer e illeggibile per molti utenti.\n\nIl riferimento è WCAG 2.1, livello AA, che fissa un contrasto minimo. E dal 28 giugno 2025 per molti servizi digitali, e-commerce compreso, non è più una buona pratica: è un obbligo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #WCAG",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R41.mp4",
           "tipo": "video/mp4"
         }
       ]

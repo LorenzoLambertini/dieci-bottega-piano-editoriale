@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 21/11/2026, 00:05:22
+Ultimo controllo: 21/11/2026, 14:31:24
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -19,7 +19,6 @@ Ultimo controllo: 21/11/2026, 00:05:22
 | 2026-12-07 18:30 | S04 | Sito del lunedì: l'agente immobiliare | manca_video | manca_video | manca_video |
 | 2026-12-09 18:30 | S08 | Cosa c'è in 800 € | manca_video | manca_video | manca_video |
 | 2026-12-11 18:30 | S09 | Le 5 domande | manca_video | manca_video | manca_video |
-| 2026-11-21 11:00 | R26 | Mentre carica | programmato | programmato | programmato |
 | 2026-11-23 18:30 | S10 | Sito del lunedì: audit su richiesta | manca_video | manca_video | manca_video |
 | 2026-11-25 18:30 | S11 | Due idraulici | manca_video | manca_video | manca_video |
 | 2026-11-26 18:30 | R29 | Le voci nel menu | programmato | programmato | programmato |
@@ -33,14 +32,14 @@ Ultimo controllo: 21/11/2026, 00:05:22
 | 2026-12-02 18:30 | R50 | La X del banner | da_programmare | da_programmare | programmato |
 | 2026-12-10 18:30 | R41 | Testo accessibile | da_programmare | da_programmare | programmato |
 | 2027-01-27 18:30 | R53 | Tre secondi | da_programmare | da_programmare | da_programmare |
-| 2026-12-12 11:00 | R42 | Google guarda il telefono | da_programmare | da_programmare | da_programmare |
+| 2026-12-12 11:00 | R42 | Google guarda il telefono | da_programmare | da_programmare | programmato |
 | 2026-12-13 11:00 | R55 | Basta Instagram | da_programmare | da_programmare | da_programmare |
+| 2026-12-14 18:30 | R44 | Banner cookie dopo sei mesi | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### linkedin
 
-- 21/11/26, 11:00 · Quando la pagina si sposta mentre carica e il bottone ti scappa sotto 
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
 - 29/11/26, 11:00 · Con cosa costruiamo un sito, strato per strato: Design · Figma, palett
@@ -49,7 +48,8 @@ Ultimo controllo: 21/11/2026, 00:05:22
 - 05/12/26, 11:00 · Perché un sito dovrebbe richiedere tre mesi? Spesso il tempo non va ne
 - 06/12/26, 11:00 · INP, Interaction to Next Paint, misura quanto il sito risponde quando 
 - 08/12/26, 18:30 · Accessibilità: le microimprese di servizi sono esenti dall'European Ac
-- 10/12/26, 18:30 · 
+- 10/12/26, 18:30 · Il testo grigio chiaro su fondo bianco è elegante sul monitor del desi
+- 12/12/26, 11:00 · 
 
 
 ## Ultime sostituzioni automatiche

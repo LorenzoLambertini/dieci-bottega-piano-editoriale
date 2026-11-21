@@ -2167,7 +2167,9 @@
         "linkedin": {
           "testo": "Vero. Si chiama mobile-first indexing: Google usa la versione mobile di un sito per indicizzarlo e posizionarlo. (Google Search Central)\n\nSe il sito da telefono è una versione ridotta, lenta o con contenuti nascosti, per Google quello è il tuo sito.\n\nIl controllo più utile che puoi fare oggi dura un minuto: apri il tuo sito dal telefono e cerca quello che cercherebbe un cliente.\n\n#SEO #MobileFirst #PMI",
           "video": "media/reel/R42.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6b019d2b846b0ee9070e9c08",
+          "programmatoIl": "2026-11-21T13:31:24.094Z"
         }
       }
     },
