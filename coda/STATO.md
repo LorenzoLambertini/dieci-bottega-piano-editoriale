@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 21/11/2026, 20:48:56
+Ultimo controllo: 21/11/2026, 23:11:26
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -40,7 +40,7 @@ Ultimo controllo: 21/11/2026, 20:48:56
 
 ### linkedin
 
-- 22/11/26, 11:00 · 
+- 22/11/26, 11:00 · Con cosa costruiamo un sito, strato per strato: Design · Figma, palett
 - 26/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
 - 02/12/26, 18:30 · Banner dei cookie: quattro regole che ogni sito aziendale dovrebbe ris
