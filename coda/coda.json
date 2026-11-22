@@ -1738,26 +1738,19 @@
         "instagram": {
           "testo": "Più voci metti nel menu... decidi prima, nessuna differenza o decidi più tardi?\nRispondi nei commenti. La risposta è nella legge di Hick-Hyman, e c'è un dettaglio che sorprende su quanto cresce il tempo.\n#ux #menu #webdesign #sitiweb #pmiitaliane",
           "video": "media/reel/R29.mp4",
-          "stato": "programmato",
-          "bufferId": "6aebb3ca196569598525f72d",
-          "programmatoIl": "2026-11-04T22:38:02.558Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "facebook": {
           "testo": "Più voci metti nel menu del tuo sito... decidi prima, nessuna differenza o decidi più tardi?\n\nScrivi la tua nei commenti.",
           "video": "media/reel/R29.mp4",
-          "stato": "programmato",
-          "bufferId": "6aebb3ca022b8f16d7d5d2d4",
-          "programmatoIl": "2026-11-04T22:38:03.040Z",
-          "daAggiornare": true
+          "stato": "da_programmare"
         },
         "linkedin": {
           "testo": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli anni '50 ed è ancora una delle più utili nel web design.\n\nIl tempo di decisione cresce in modo logaritmico: raddoppiare le voci non raddoppia l'attesa, ma la aumenta sempre.\n\nSu un sito aziendale significa una cosa semplice: ogni voce di menu deve giustificare il suo posto. Se non porta a una decisione, toglila.\n\n#UX #Menu #WebDesign",
           "video": "media/reel/R29.mp4",
           "stato": "programmato",
-          "bufferId": "6aebb3cb50fc4a0253ecba9e",
-          "programmatoIl": "2026-11-04T22:38:03.642Z",
-          "daAggiornare": true
+          "bufferId": "6b034787cc364169c17e78df",
+          "programmatoIl": "2026-11-22T19:50:31.877Z"
         }
       }
     },
@@ -2213,9 +2206,7 @@
         "linkedin": {
           "testo": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle imprese italiane con almeno 10 addetti ha un sito, mentre il 59% usa i social. (Istat)\n\nInstagram è un profilo: le regole le decide la piattaforma, e chi ti cerca su Google non ti trova lì. Il sito è casa tua: trovato su Google, aggiornabile da te, con i tuoi contenuti e i tuoi contatti.\n\nI social portano persone. Il sito le fa diventare clienti.\n\n#Instagram #SitiWeb #PMI",
           "video": "media/reel/R55.mp4",
-          "stato": "programmato",
-          "bufferId": "6b02ed4c846b0ee9078a9eef",
-          "programmatoIl": "2026-11-22T13:25:32.727Z"
+          "stato": "da_programmare"
         }
       }
     },
@@ -2417,7 +2408,9 @@
         "linkedin": {
           "testo": "In un anno le imprese italiane con almeno 10 addetti che usano l'intelligenza artificiale sono passate dall'8,2% al 16,4%. (Istat, Imprese e ICT 2025)\n\nRaddoppiare in dodici mesi è un segnale chiaro: non è più una sperimentazione.\n\nIl nostro approccio resta lo stesso dal primo giorno. AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano: gli diamo un martello migliore.\n\n#IntelligenzaArtificiale #Istat #PMI",
           "video": "media/reel/R65.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6b034788d864a01105eeacf7",
+          "programmatoIl": "2026-11-22T19:50:32.401Z"
         }
       }
     },
