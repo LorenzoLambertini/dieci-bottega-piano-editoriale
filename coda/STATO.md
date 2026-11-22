@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 22/11/2026, 20:50:32
+Ultimo controllo: 22/11/2026, 23:28:24
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -40,8 +40,8 @@ Ultimo controllo: 22/11/2026, 20:50:32
 
 ### linkedin
 
-- 23/11/26, 18:30 · 
-- 26/11/26, 18:30 · 
+- 23/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
+- 26/11/26, 18:30 · In un anno le imprese italiane con almeno 10 addetti che usano l'intel
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
 - 02/12/26, 18:30 · Banner dei cookie: quattro regole che ogni sito aziendale dovrebbe ris
 - 04/12/26, 18:30 · Su Google Maps il nome dell'attività deve essere quello reale, senza p
