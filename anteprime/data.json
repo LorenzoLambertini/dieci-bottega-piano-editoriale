@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-21T19:49+00:00",
+ "aggiornato": "2026-11-22T19:50+00:00",
  "contenuti": [
   {
    "id": "S03",
@@ -346,8 +346,8 @@
    "id": "S10",
    "titolo": "Sito del lunedì: audit su richiesta",
    "tipo": "reel",
-   "quando": "2026-11-23 18:30",
-   "dueAt": "2026-11-23T17:30:00.000Z",
+   "quando": "2026-12-21 18:30",
+   "dueAt": "2026-12-21T17:30:00.000Z",
    "slide": [],
    "poster": null,
    "video": null,
@@ -371,7 +371,16 @@
      "formato": "video",
      "errore": null
     }
-   }
+   },
+   "sostituzioni": [
+    {
+     "il": "2026-11-22T20:00:00.000Z",
+     "da": "2026-11-23 18:30",
+     "a": "2026-12-21 18:30",
+     "conContenuto": "R29",
+     "manuale": true
+    }
+   ]
   },
   {
    "id": "S11",
@@ -408,8 +417,8 @@
    "id": "R29",
    "titolo": "Le voci nel menu",
    "tipo": "reel",
-   "quando": "2026-11-26 18:30",
-   "dueAt": "2026-11-26T17:30:00.000Z",
+   "quando": "2026-11-23 18:30",
+   "dueAt": "2026-11-23T17:30:00.000Z",
    "slide": [],
    "poster": "img/R29_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R29.mp4",
@@ -492,37 +501,6 @@
     "linkedin": {
      "stato": "programmato",
      "testo": "Un banner cookie in regola deve permettere di chiudere o rifiutare con la stessa facilità con cui si accetta. Chiudere con la X equivale a rifiutare.\n\nE bloccare il sito finché l'utente non accetta (il cosiddetto cookie wall) non è ammesso. (Garante Privacy, linee guida 2021)\n\nMolti siti aziendali usano ancora banner con il solo \"Accetta tutto\". È uno dei controlli che facciamo prima di mettere online un sito.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "R33",
-   "titolo": "Con cosa e fatto",
-   "tipo": "reel",
-   "quando": "2026-11-22 11:00",
-   "dueAt": "2026-11-22T10:00:00.000Z",
-   "slide": [],
-   "poster": "img/R33_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R33.mp4",
-   "durata": 25,
-   "canali": {
-    "instagram": {
-     "stato": "da_programmare",
-     "testo": "Con cosa è fatto un nostro sito?\nDesign: Figma, palette, tipografia. Codice: Next.js, TypeScript, Tailwind. Movimento: Framer Motion. Dati: Supabase. Email: Resend. E l'AI come compagna di lavoro, Claude.\nIl codice lo scriviamo a mano. Sempre.\n#webdevelopment #nextjs #webdesign #bottegadigitale #sitiweb",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "da_programmare",
-     "testo": "Con cosa è fatto un nostro sito?\n\nDesign su Figma, codice Next.js scritto a mano, dati su Supabase, email con Resend. L'AI ci aiuta, il codice lo scriviamo noi. Sempre.",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "programmato",
-     "testo": "Con cosa costruiamo un sito, strato per strato:\n\nDesign · Figma, palette, tipografia.\nCodice · Next.js, TypeScript, Tailwind.\nMovimento · Framer Motion.\nDati · Supabase.\nEmail · Resend.\nAI co-working · Claude.\n\nStrumenti moderni, scelti perché rendono il sito veloce e facile da mantenere. Ma il codice lo scriviamo a mano, e lo rileggiamo riga per riga.\n\n#WebDevelopment #NextJS #WebDesign",
      "formato": "video",
      "errore": null
     }
@@ -769,7 +747,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle imprese italiane con almeno 10 addetti ha un sito, mentre il 59% usa i social. (Istat)\n\nInstagram è un profilo: le regole le decide la piattaforma, e chi ti cerca su Google non ti trova lì. Il sito è casa tua: trovato su Google, aggiornabile da te, con i tuoi contenuti e i tuoi contatti.\n\nI social portano persone. Il sito le fa diventare clienti.\n\n#Instagram #SitiWeb #PMI",
      "formato": "video",
      "errore": null
@@ -966,8 +944,8 @@
    "id": "R65",
    "titolo": "AI nelle imprese",
    "tipo": "reel",
-   "quando": "2026-12-21 18:30",
-   "dueAt": "2026-12-21T17:30:00.000Z",
+   "quando": "2026-11-26 18:30",
+   "dueAt": "2026-11-26T17:30:00.000Z",
    "slide": [],
    "poster": "img/R65_poster.jpg",
    "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R65.mp4",
@@ -1453,6 +1431,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Bastano 50 millisecondi per farsi un'opinione su un sito. Meno di un battito di ciglia.\n\nE dopo mezzo secondo quel giudizio resta quasi uguale. (Lindgaard et al., 2006)\n\nVuol dire che la prima impressione non la fanno i testi, che nessuno ha ancora letto. La fanno ordine, spazio, colori, qualità delle immagini.\n\n#PrimaImpressione #WebDesign #UX",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R85",
+   "titolo": "Come leggono il sito",
+   "tipo": "reel",
+   "quando": "2027-01-06 18:30",
+   "dueAt": "2027-01-06T17:30:00.000Z",
+   "slide": [],
+   "poster": "img/R85_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R85.mp4",
+   "durata": 25,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Come leggono il tuo sito?\nNon leggono parola per parola. Due passate in alto, poi giù a sinistra. Le prime parole decidono quasi tutto (fonte: Nielsen Norman Group, eyetracking).\nPer questo pesiamo ogni parola. Soprattutto le prime.\n#copywriting #ux #webdesign #sitiweb #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Come leggono il tuo sito? Non parola per parola: due occhiate in alto, poi giù a sinistra.\n\nPer questo pesiamo ogni parola, soprattutto le prime.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Come leggono davvero un sito i tuoi clienti?\n\nNon parola per parola. Due passate in alto, poi giù lungo il margine sinistro. Le prime parole di ogni riga decidono quasi tutto. (Nielsen Norman Group, eyetracking)\n\nPer questo pesiamo ogni parola di un sito. Soprattutto le prime.\n\n#Copywriting #UX #WebDesign",
      "formato": "video",
      "errore": null
     }
