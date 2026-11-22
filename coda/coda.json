@@ -2201,7 +2201,9 @@
         "linkedin": {
           "testo": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle imprese italiane con almeno 10 addetti ha un sito, mentre il 59% usa i social. (Istat)\n\nInstagram è un profilo: le regole le decide la piattaforma, e chi ti cerca su Google non ti trova lì. Il sito è casa tua: trovato su Google, aggiornabile da te, con i tuoi contenuti e i tuoi contatti.\n\nI social portano persone. Il sito le fa diventare clienti.\n\n#Instagram #SitiWeb #PMI",
           "video": "media/reel/R55.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6b02ed4c846b0ee9078a9eef",
+          "programmatoIl": "2026-11-22T13:25:32.727Z"
         }
       }
     },

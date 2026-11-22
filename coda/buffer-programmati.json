@@ -1,17 +1,6 @@
 {
   "linkedin": [
     {
-      "id": "6b01f5a80247969092fa176f",
-      "dueAt": "2026-11-22T10:00:00.000Z",
-      "text": "Con cosa costruiamo un sito, strato per strato:\n\nDesign · Figma, palette, tipografia.\nCodice · Next.js, TypeScript, Tailwind.\nMovimento · Framer Motion.\nDati · Supabase.\nEmail · Resend.\nAI co-working · Claude.\n\nStrumenti moderni, scelti perché rendono il sito veloce e facile da mantenere. Ma il codice lo scriviamo a mano, e lo rileggiamo riga per riga.\n\n#WebDevelopment #NextJS #WebDesign",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R33.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6aebb3cb50fc4a0253ecba9e",
       "dueAt": "2026-11-26T17:30:00.000Z",
       "text": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli anni '50 ed è ancora una delle più utili nel web design.\n\nIl tempo di decisione cresce in modo logaritmico: raddoppiare le voci non raddoppia l'attesa, ma la aumenta sempre.\n\nSu un sito aziendale significa una cosa semplice: ogni voce di menu deve giustificare il suo posto. Se non porta a una decisione, toglila.\n\n#UX #Menu #WebDesign",
