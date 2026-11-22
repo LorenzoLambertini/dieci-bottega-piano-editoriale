@@ -1642,8 +1642,8 @@
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Conversione",
-      "quando": "2026-11-23 18:30",
-      "dueAt": "2026-11-23T17:30:00.000Z",
+      "quando": "2026-12-21 18:30",
+      "dueAt": "2026-12-21T17:30:00.000Z",
       "nota": "Da girare: SOLO con un sito vero ricevuto via commento SITO e permesso scritto del titolare. Se non arriva, sostituire con un altro audit fittizio. Quando il video è pronto va in media/strategia/S10.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
@@ -1661,7 +1661,16 @@
           "video": "media/strategia/S10.mp4",
           "stato": "manca_video"
         }
-      }
+      },
+      "sostituzioni": [
+        {
+          "il": "2026-11-22T20:00:00.000Z",
+          "da": "2026-11-23 18:30",
+          "a": "2026-12-21 18:30",
+          "conContenuto": "R29",
+          "manuale": true
+        }
+      ]
     },
     {
       "id": "R27",
@@ -1723,29 +1732,32 @@
       "titolo": "Le voci nel menu",
       "formato": "Quiz",
       "tipo": "reel",
-      "quando": "2026-11-26 18:30",
-      "dueAt": "2026-11-26T17:30:00.000Z",
+      "quando": "2026-11-23 18:30",
+      "dueAt": "2026-11-23T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "Più voci metti nel menu... decidi prima, nessuna differenza o decidi più tardi?\nRispondi nei commenti. La risposta è nella legge di Hick-Hyman, e c'è un dettaglio che sorprende su quanto cresce il tempo.\n#ux #menu #webdesign #sitiweb #pmiitaliane",
           "video": "media/reel/R29.mp4",
           "stato": "programmato",
           "bufferId": "6aebb3ca196569598525f72d",
-          "programmatoIl": "2026-11-04T22:38:02.558Z"
+          "programmatoIl": "2026-11-04T22:38:02.558Z",
+          "daAggiornare": true
         },
         "facebook": {
           "testo": "Più voci metti nel menu del tuo sito... decidi prima, nessuna differenza o decidi più tardi?\n\nScrivi la tua nei commenti.",
           "video": "media/reel/R29.mp4",
           "stato": "programmato",
           "bufferId": "6aebb3ca022b8f16d7d5d2d4",
-          "programmatoIl": "2026-11-04T22:38:03.040Z"
+          "programmatoIl": "2026-11-04T22:38:03.040Z",
+          "daAggiornare": true
         },
         "linkedin": {
           "testo": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli anni '50 ed è ancora una delle più utili nel web design.\n\nIl tempo di decisione cresce in modo logaritmico: raddoppiare le voci non raddoppia l'attesa, ma la aumenta sempre.\n\nSu un sito aziendale significa una cosa semplice: ogni voce di menu deve giustificare il suo posto. Se non porta a una decisione, toglila.\n\n#UX #Menu #WebDesign",
           "video": "media/reel/R29.mp4",
           "stato": "programmato",
           "bufferId": "6aebb3cb50fc4a0253ecba9e",
-          "programmatoIl": "2026-11-04T22:38:03.642Z"
+          "programmatoIl": "2026-11-04T22:38:03.642Z",
+          "daAggiornare": true
         }
       }
     },
@@ -2389,8 +2401,8 @@
       "titolo": "AI nelle imprese",
       "formato": "Informativo",
       "tipo": "reel",
-      "quando": "2026-12-21 18:30",
-      "dueAt": "2026-12-21T17:30:00.000Z",
+      "quando": "2026-11-26 18:30",
+      "dueAt": "2026-11-26T17:30:00.000Z",
       "canali": {
         "instagram": {
           "testo": "L'AI nelle imprese italiane, in un anno: dall'8,2% al 16,4% delle imprese con almeno 10 addetti (fonte: Istat).\nDa noi, da sempre: AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano, gli diamo un martello migliore.\n#intelligenzaartificiale #istat #pmiitaliane #artigianato #bottegadigitale",
