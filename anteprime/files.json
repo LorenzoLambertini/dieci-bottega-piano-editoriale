@@ -1,6 +1,5 @@
 {
  "data.json": "anteprime/data.json",
- "img/R29_poster.jpg": "anteprime/img/R29_poster.jpg",
  "img/R31_poster.jpg": "anteprime/img/R31_poster.jpg",
  "img/R36_poster.jpg": "anteprime/img/R36_poster.jpg",
  "img/R37_poster.jpg": "anteprime/img/R37_poster.jpg",
@@ -12,7 +11,6 @@
  "img/R46_poster.jpg": "anteprime/img/R46_poster.jpg",
  "img/R47_poster.jpg": "anteprime/img/R47_poster.jpg",
  "img/R49_poster.jpg": "anteprime/img/R49_poster.jpg",
- "img/R50_poster.jpg": "anteprime/img/R50_poster.jpg",
  "img/R51_poster.jpg": "anteprime/img/R51_poster.jpg",
  "img/R52_poster.jpg": "anteprime/img/R52_poster.jpg",
  "img/R54_poster.jpg": "anteprime/img/R54_poster.jpg",
@@ -25,6 +23,7 @@
  "img/R63_poster.jpg": "anteprime/img/R63_poster.jpg",
  "img/R64_poster.jpg": "anteprime/img/R64_poster.jpg",
  "img/R65_poster.jpg": "anteprime/img/R65_poster.jpg",
+ "img/R66_poster.jpg": "anteprime/img/R66_poster.jpg",
  "img/R68_poster.jpg": "anteprime/img/R68_poster.jpg",
  "img/R70_poster.jpg": "anteprime/img/R70_poster.jpg",
  "img/R73_poster.jpg": "anteprime/img/R73_poster.jpg",
@@ -32,5 +31,6 @@
  "img/R78_poster.jpg": "anteprime/img/R78_poster.jpg",
  "img/R80_poster.jpg": "anteprime/img/R80_poster.jpg",
  "img/R83_poster.jpg": "anteprime/img/R83_poster.jpg",
- "img/R85_poster.jpg": "anteprime/img/R85_poster.jpg"
+ "img/R85_poster.jpg": "anteprime/img/R85_poster.jpg",
+ "img/R88_poster.jpg": "anteprime/img/R88_poster.jpg"
 }
