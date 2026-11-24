@@ -729,10 +729,10 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6b034788d864a01105eeacf7",
-        "dueAt": "2026-11-26T17:30:00.000Z",
+        "id": "6b050258f0d7b1e0dea9f7e2",
+        "dueAt": "2026-12-13T10:00:00.000Z",
         "sentAt": null,
-        "text": "In un anno le imprese italiane con almeno 10 addetti che usa",
+        "text": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle im",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -742,10 +742,10 @@
         "via": "buffer"
       },
       {
-        "id": "6b034787cc364169c17e78df",
-        "dueAt": "2026-11-23T17:30:00.000Z",
+        "id": "6b034788d864a01105eeacf7",
+        "dueAt": "2026-11-26T17:30:00.000Z",
         "sentAt": null,
-        "text": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è",
+        "text": "In un anno le imprese italiane con almeno 10 addetti che usa",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -861,6 +861,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6b034787cc364169c17e78df",
+        "dueAt": "2026-11-23T17:30:00.000Z",
+        "sentAt": "2026-11-23T17:31:45.919Z",
+        "text": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6b01f5a80247969092fa176f",
         "dueAt": "2026-11-22T10:00:00.000Z",
@@ -1237,26 +1250,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ad5f65e2720e98a091b866c",
-        "dueAt": "2026-11-01T10:00:00.000Z",
-        "sentAt": "2026-11-01T10:01:54.207Z",
-        "text": "Non solo siti. Facciamo anche CRM su misura e automazioni pe",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Sun, 22 Nov 2026 19:52:11 GMT 2888614",
-    "media/reel/R07.mp4": "200 Sun, 22 Nov 2026 19:52:12 GMT 3173777",
-    "index.html": "200 Sun, 22 Nov 2026 19:52:11 GMT 104461"
+    "media/reel/R02.mp4": "200 Mon, 23 Nov 2026 16:06:52 GMT 2888614",
+    "media/reel/R07.mp4": "200 Mon, 23 Nov 2026 16:06:52 GMT 3173777",
+    "index.html": "200 Mon, 23 Nov 2026 16:06:52 GMT 104461"
   }
 }

@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 23/11/2026, 17:05:56
+Ultimo controllo: 24/11/2026, 04:19:53
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -21,7 +21,6 @@ Ultimo controllo: 23/11/2026, 17:05:56
 | 2026-12-11 18:30 | S09 | Le 5 domande | manca_video | manca_video | manca_video |
 | 2026-12-21 18:30 | S10 | Sito del lunedì: audit su richiesta | manca_video | manca_video | manca_video |
 | 2026-11-25 18:30 | S11 | Due idraulici | manca_video | manca_video | manca_video |
-| 2026-11-23 18:30 | R29 | Le voci nel menu | da_programmare | da_programmare | programmato |
 | 2026-11-27 18:30 | S12 | 10 giorni in 40 secondi | manca_video | manca_video | manca_video |
 | 2026-11-28 11:00 | R31 | Banner cookie in regola | da_programmare | da_programmare | programmato |
 | 2026-12-04 18:30 | R36 | Il nome su Maps | da_programmare | da_programmare | programmato |
@@ -32,15 +31,15 @@ Ultimo controllo: 23/11/2026, 17:05:56
 | 2026-12-10 18:30 | R41 | Testo accessibile | da_programmare | da_programmare | programmato |
 | 2027-01-27 18:30 | R53 | Tre secondi | da_programmare | da_programmare | da_programmare |
 | 2026-12-12 11:00 | R42 | Google guarda il telefono | da_programmare | da_programmare | programmato |
-| 2026-12-13 11:00 | R55 | Basta Instagram | da_programmare | da_programmare | da_programmare |
+| 2026-12-13 11:00 | R55 | Basta Instagram | da_programmare | da_programmare | programmato |
 | 2026-12-14 18:30 | R44 | Banner cookie dopo sei mesi | da_programmare | da_programmare | da_programmare |
 | 2026-12-15 18:30 | R58 | Accessibilita | da_programmare | da_programmare | da_programmare |
+| 2026-12-16 18:30 | R46 | Quale titolo | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### linkedin
 
-- 23/11/26, 18:30 · Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli ann
 - 26/11/26, 18:30 · In un anno le imprese italiane con almeno 10 addetti che usano l'intel
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
 - 02/12/26, 18:30 · Banner dei cookie: quattro regole che ogni sito aziendale dovrebbe ris
@@ -50,6 +49,7 @@ Ultimo controllo: 23/11/2026, 17:05:56
 - 08/12/26, 18:30 · Accessibilità: le microimprese di servizi sono esenti dall'European Ac
 - 10/12/26, 18:30 · Il testo grigio chiaro su fondo bianco è elegante sul monitor del desi
 - 12/12/26, 11:00 · Vero. Si chiama mobile-first indexing: Google usa la versione mobile d
+- 13/12/26, 11:00 · 
 
 
 ## Ultime sostituzioni automatiche
