@@ -1206,124 +1206,112 @@
       }
     },
     {
-      "id": "S03",
-      "titolo": "Il passaparola non basta",
-      "formato": "Mito vs realtà",
+      "id": "R27",
+      "titolo": "Il ranking locale",
+      "formato": "Quiz",
       "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Consapevolezza",
-      "quando": "2026-11-24 18:30",
-      "dueAt": "2026-11-24T17:30:00.000Z",
-      "nota": "Da girare: Lorenzo o Tommaso in camera + mani su tastiera/telefono con ricerca Google di un nome fittizio. Quando il video è pronto va in media/strategia/S03.mp4 e lo stato passa a da_programmare.",
+      "quando": "2026-11-10 18:30",
+      "dueAt": "2026-11-10T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "«Lavoro bene, mi basta il passaparola.»\nIl passaparola porta il tuo nome. Poi chi lo riceve ti cerca su Google. Se trova un sito vecchio, o niente, il consiglio si raffredda. Il sito non sostituisce il passaparola: lo conferma.\nVero o falso? Scrivilo nei commenti.\n#passaparola #pmiitaliane #sitiweb #artigiani #bologna",
-          "video": "media/strategia/S03.mp4",
-          "stato": "manca_video"
+          "testo": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
+          "video": "media/reel/R27.mp4",
+          "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "\"Lavoro bene, mi basta il passaparola.\" Vero o falso?\n\nIl passaparola porta il tuo nome. Ma poi chi lo riceve ti cerca su Google. Cosa trova?",
-          "video": "media/strategia/S03.mp4",
-          "stato": "manca_video"
+          "testo": "Quale di questi NON conta per comparire su Google Maps: la distanza, il colore del logo o la pertinenza?\n\nSembra facile. Rispondi qui sotto.",
+          "video": "media/reel/R27.mp4",
+          "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "\"Il passaparola non è una strategia. È fortuna con un nome più elegante.\"\n\nIl passaparola funziona: porta il tuo nome. Poi chi lo riceve fa una cosa sola, ti cerca su Google. Se trova un sito del 2015, o niente, il consiglio dell'amico si raffredda.\n\nIl sito non sostituisce il passaparola. Lo conferma.\n\nChi ti consigliano deve trovarti in tre secondi.\n\n#Passaparola #PMI #SitiWeb",
-          "video": "media/strategia/S03.mp4",
-          "stato": "manca_video"
+          "testo": "Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il profilo risponde alla ricerca), distanza da chi cerca, prominenza (quanto sei conosciuto: link, recensioni, valutazioni).\n\nLe recensioni contano: più sono, e più sono positive, più possono aiutare. Rispondere mostra che l'attività è viva. (Google, guida del Profilo dell'Attività)\n\nIl colore del logo, invece, non conta. Ma quanti profili vediamo curati nel logo e lasciati vuoti negli orari?\n\n#GoogleMaps #SEOLocale #PMI",
+          "video": "media/reel/R27.mp4",
+          "stato": "programmato",
+          "bufferId": "6af223ffb3dd86936aa3af79",
+          "programmatoIl": "2026-11-09T19:50:23.732Z"
         }
       }
     },
     {
-      "id": "S05",
-      "titolo": "Il cliente delle 22",
-      "formato": "Viaggio del cliente perso",
+      "id": "R38",
+      "titolo": "Ti riconosci",
+      "formato": "Informativo",
       "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Attrazione",
-      "quando": "2026-12-01 18:30",
-      "dueAt": "2026-12-01T17:30:00.000Z",
-      "nota": "Da girare: Riprese telefono in mano di sera (luce calda) + Lorenzo in camera. Due siti fittizi di fisioterapisti. Quando il video è pronto va in media/strategia/S05.mp4 e lo stato passa a da_programmare.",
+      "quando": "2026-11-11 18:30",
+      "dueAt": "2026-11-11T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Sono le dieci di sera, cerchi un fisioterapista. Ne trovi due.\nIl primo ha un sito del 2015: numero non cliccabile, niente orari. Il secondo dice cosa fa e ha un bottone: prenota. Magari il primo era più bravo. Il cliente non lo saprà mai.\nSe conosci qualcuno bravissimo con un sito così, mandagli questo video.\n#fisioterapia #sitiweb #prenotazioni #pmiitaliane #bologna",
-          "video": "media/strategia/S05.mp4",
-          "stato": "manca_video"
+          "testo": "Ti riconosci?\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" \"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" \"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\"\nQualunque sia il punto di partenza: il sito che ti serve, fatto bene.\n#sitiweb #pmiitaliane #ristoranti #personaltrainer #bologna",
+          "video": "media/reel/R38.mp4",
+          "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Sono le dieci di sera, cerchi un fisioterapista. Trovi due siti: uno del 2015, uno chiaro con il bottone \"prenota\".\n\nChi chiami? Se conosci qualcuno bravissimo con un sito vecchio, mandagli questo video.",
-          "video": "media/strategia/S05.mp4",
-          "stato": "manca_video"
+          "testo": "Ti riconosci?\n\n\"Il mio sito è del 2014.\" \"Lavoro su WhatsApp, mi serve un sito pulito.\" \"Sono solo su Instagram, ma chi mi cerca su Google non mi trova.\"\n\nDa qualunque punto parti, c'è il sito che ti serve. Scrivici.",
+          "video": "media/reel/R38.mp4",
+          "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "Sono le dieci di sera. Una persona cerca un fisioterapista per il giorno dopo.\n\nTrova due siti. Il primo è del 2015: numero non cliccabile, niente orari. Il secondo dice cosa fa e ha un bottone: prenota.\n\nForse il primo era più bravo. Il cliente non lo saprà mai.\n\nOnline non vince il più bravo. Vince chi si fa capire in tre secondi.\n\n#Sanità #SitiWeb #PMI",
-          "video": "media/strategia/S05.mp4",
-          "stato": "manca_video"
+          "testo": "Tre frasi che sentiamo ogni settimana:\n\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" (ristorante)\n\"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" (agente immobiliare)\n\"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\" (personal trainer)\n\nPunti di partenza diversi, stesso bisogno: un sito che lavori per chi lo possiede.\n\n#PMI #WebDesign #Bologna",
+          "video": "media/reel/R38.mp4",
+          "stato": "programmato",
+          "bufferId": "6af3758ce021f9ae4259f42b",
+          "programmatoIl": "2026-11-10T19:50:36.226Z"
         }
       }
     },
     {
-      "id": "S02",
-      "titolo": "Il numero che non si clicca",
-      "formato": "Test dal telefono",
+      "id": "R24",
+      "titolo": "Il tempo LCP",
+      "formato": "Quiz",
       "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Attrazione",
-      "quando": "2026-12-17 18:30",
-      "dueAt": "2026-12-17T17:30:00.000Z",
-      "nota": "Da girare: Lorenzo in camera + 2 registrazioni schermo da iPhone (numero testo / numero cliccabile) su sito fittizio. Quando il video è pronto va in media/strategia/S02.mp4 e lo stato passa a da_programmare.",
+      "quando": "2026-11-12 18:30",
+      "dueAt": "2026-11-12T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\nSe è solo testo, chi ti cerca deve copiarlo, uscire, incollarlo. Cinque passaggi invece di uno. Molti si fermano prima.\nProva sul tuo adesso e scrivimi com'è andata.\n#sitiweb #ux #mobile #pmiitaliane #bologna",
-          "video": "media/strategia/S02.mp4",
-          "stato": "manca_video"
+          "testo": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
+          "video": "media/reel/R24.mp4",
+          "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\n\nSe è solo testo, il cliente deve copiarlo e incollarlo. Cinque passaggi invece di uno. Prova adesso e dimmi com'è andata.",
-          "video": "media/strategia/S02.mp4",
-          "stato": "manca_video"
+          "testo": "Per Google, il contenuto principale della pagina deve comparire entro quanto? 2,5, 5 o 10 secondi?\n\nScrivi la tua risposta nei commenti.",
+          "video": "media/reel/R24.mp4",
+          "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "Un test da 10 secondi per il sito della tua attività: aprilo da telefono e tocca il numero.\n\nSe parte la chiamata, bene. Se è solo testo, il cliente deve selezionarlo, copiarlo, uscire, aprire il telefono, incollarlo. Cinque passaggi invece di uno.\n\nÈ una riga di codice. Ed è uno dei motivi più frequenti per cui un sito \"ha visite ma nessuno chiama\".\n\n#UX #Mobile #PMI",
-          "video": "media/strategia/S02.mp4",
-          "stato": "manca_video"
+          "testo": "Per Google il contenuto principale di una pagina deve comparire entro 2,5 secondi. La misura si chiama LCP, Largest Contentful Paint, ed è uno dei tre Core Web Vitals.\n\nIl dettaglio che pochi conoscono: non basta riuscirci una volta. Deve succedere nel 75% delle visite reali, misurate sui telefoni di chi naviga davvero.\n\nPer questo un sito veloce sul computer dell'agenzia non è ancora un sito veloce.\n\nFonte: web.dev\n\n#CoreWebVitals #SEO #Performance",
+          "video": "media/reel/R24.mp4",
+          "stato": "programmato",
+          "bufferId": "6af4c6c8b933477d281deed3",
+          "programmatoIl": "2026-11-11T19:49:28.507Z"
         }
       }
     },
     {
-      "id": "S06",
-      "titolo": "WhatsApp, mail, DM",
-      "formato": "Smetti di…",
+      "id": "R40",
+      "titolo": "Un protocollo",
+      "formato": "Informativo",
       "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Consapevolezza",
-      "quando": "2026-12-03 18:30",
-      "dueAt": "2026-12-03T17:30:00.000Z",
-      "nota": "Da girare: Animazione notifiche (possiamo farla in motion) + Lorenzo o Tommaso in camera. Quando il video è pronto va in media/strategia/S06.mp4 e lo stato passa a da_programmare.",
+      "quando": "2026-11-13 18:30",
+      "dueAt": "2026-11-13T17:30:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "WhatsApp, mail, Instagram, una telefonata. Quattro richieste oggi: quante ne ricordi venerdì?\nUna finisce sotto il gruppo di famiglia, una in spam, un messaggio letto e dimenticato. Un cliente perso non fa rumore. La soluzione non è lavorare di più: è un solo posto dove arriva tutto.\nRispondi sinceramente nei commenti: quante richieste hai perso questo mese?\n#crm #agenteimmobiliare #clienti #pmiitaliane #automazioni",
-          "video": "media/strategia/S06.mp4",
-          "stato": "manca_video"
+          "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\nSpaziature. Microcopy: massimo tre parole, niente esclamativi. Performance. Accessibilità, con contrasto AA. Ogni sito passa questi controlli prima di andare online. Tutto curato.\n#dettagli #webdesign #bottegadigitale #ux #sitiweb",
+          "video": "media/reel/R40.mp4",
+          "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "WhatsApp, mail, Instagram, una telefonata. Quattro richieste oggi: quante ne ricordi venerdì?\n\nUn cliente perso non fa rumore. Quante richieste ti sono sfuggite questo mese? Rispondi sinceramente.",
-          "video": "media/strategia/S06.mp4",
-          "stato": "manca_video"
+          "testo": "\"È tutto nei dettagli\" non è uno slogan. È il nostro controllo prima di mettere online ogni sito: spaziature, testi dei bottoni, velocità, accessibilità.",
+          "video": "media/reel/R40.mp4",
+          "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "WhatsApp, email, messaggi su Instagram, una telefonata. Quattro richieste in un giorno.\n\nUna finisce sotto il gruppo di famiglia. Una in spam. Un messaggio letto e dimenticato.\n\nLo vediamo spesso negli studi e nelle agenzie immobiliari: le richieste arrivano, il problema è dove finiscono. E un cliente perso non fa rumore.\n\nLa soluzione non è lavorare di più. È un posto solo dove arriva tutto, con un promemoria se non hai risposto.\n\n#CRM #Lead #PMI",
-          "video": "media/strategia/S06.mp4",
-          "stato": "manca_video"
+          "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\nPrima di andare online, ogni sito passa quattro controlli:\nSpaziature, coerenti in ogni pagina.\nMicrocopy: massimo tre parole per bottone, niente esclamativi.\nPerformance, misurate sui telefoni.\nAccessibilità, con contrasto almeno AA.\n\nNessuno di questi punti compare in un preventivo. Tutti insieme decidono se un sito funziona.\n\n#Dettagli #WebDesign #Qualità",
+          "video": "media/reel/R40.mp4",
+          "stato": "programmato",
+          "bufferId": "6af61863b3f03c1403ea569f",
+          "programmatoIl": "2026-11-12T19:49:55.162Z"
         }
-      },
-      "sostituzioni": [
-        {
-          "il": "2026-11-12T19:48:46.217703Z",
-          "da": "2026-11-13 18:30",
-          "a": "2026-12-03 18:30",
-          "conContenuto": "R40"
-        }
-      ]
+      }
     },
     {
       "id": "R21",
@@ -1353,6 +1341,363 @@
           "stato": "programmato",
           "bufferId": "6ae115a42f35d654faeed7f2",
           "programmatoIl": "2026-10-27T21:20:36.625Z"
+        }
+      }
+    },
+    {
+      "id": "R28",
+      "titolo": "Quando ci scrivi",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-11-15 11:00",
+      "dueAt": "2026-11-15T10:00:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, con un piano d'azione. Poi una prima call gratuita, trenta minuti. Senza impegno, senza preventivi gonfiati: capisci se siamo i giusti per te.\nScrivici da diecibottega.it o su WhatsApp.\n#bottegadigitale #sitiweb #pmiitaliane #bologna #webdesign",
+          "video": "media/reel/R28.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Cosa succede quando ci scrivi?\n\nTi rispondiamo entro 24 ore con un piano d'azione. Poi una call gratuita di trenta minuti, senza impegno e senza preventivi gonfiati.\n\nScrivici: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=R28",
+          "video": "media/reel/R28.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta entro 24 ore.\n2. Un piano d'azione, non un preventivo generico.\n3. Una prima call gratuita di trenta minuti.\n\nSenza impegno e senza preventivi gonfiati. In mezz'ora capisci se siamo le persone giuste per il tuo progetto, e se non lo siamo te lo diciamo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=R28\n\n#PMI #WebDesign #Bologna",
+          "video": "media/reel/R28.mp4",
+          "stato": "programmato",
+          "bufferId": "6af8bb48918fe79d2e9eae6f",
+          "programmatoIl": "2026-11-14T19:49:28.913Z"
+        }
+      }
+    },
+    {
+      "id": "R34",
+      "titolo": "AI Mode in italiano",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2026-11-16 18:30",
+      "dueAt": "2026-11-16T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Da quando AI Mode di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\nRispondi nei commenti. Nel video la data esatta, e con quante altre lingue è arrivato. Significa che i tuoi clienti fanno già domande all'AI di Google: il tuo sito è pronto a essere citato?\n#google #aimode #geo #intelligenzaartificiale #pmiitaliane",
+          "video": "media/reel/R34.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Da quando l'AI di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\n\nScrivi la tua. Intanto i tuoi clienti le fanno già domande: il tuo sito è pronto a essere citato?",
+          "video": "media/reel/R34.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano, arrivato insieme ad altre 36 lingue in un colpo solo.\n\nVuol dire che una parte dei tuoi clienti non scorre più dieci link blu: legge una risposta scritta dall'AI, che cita poche fonti.\n\nEssere tra quelle fonti dipende da quanto il tuo sito è chiaro, aggiornato e concreto. Non da quante parole chiave contiene.\n\n#AIMode #GEO #PMI",
+          "video": "media/reel/R34.mp4",
+          "stato": "programmato",
+          "bufferId": "6afa0cfdee359588b54bf071",
+          "programmatoIl": "2026-11-15T19:50:21.238Z"
+        }
+      }
+    },
+    {
+      "id": "R48",
+      "titolo": "Di chi e il sito",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-11-17 18:30",
+      "dueAt": "2026-11-17T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Di chi è il tuo sito?\nIl dominio è intestato a te? Hai l'accesso al registrar? Hai le credenziali dell'hosting? Puoi cambiare fornitore domani? Se il dominio è intestato all'agenzia, cambiare diventa difficile.\nDa noi, il giorno dieci ti consegniamo le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#dominio #sitiweb #pmiitaliane #trasparenza #bottegadigitale",
+          "video": "media/reel/R48.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Di chi è il tuo sito? Il dominio è intestato a te? Hai le credenziali?\n\nSe è tutto dell'agenzia, cambiare diventa difficile. Da noi il giorno dieci ti diamo le chiavi di casa.",
+          "video": "media/reel/R48.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Quattro domande da fare oggi a chi gestisce il tuo sito:\n\n1. Il dominio è intestato a te?\n2. Hai accesso al registrar?\n3. Hai le credenziali dell'hosting?\n4. Potresti cambiare fornitore domani?\n\nSe il dominio è intestato all'agenzia, cambiare diventa difficile. Per questo, il giorno della consegna, diamo al cliente le chiavi di casa: credenziali, dominio a suo nome, una guida per aggiornarlo da solo.\n\n#Dominio #Trasparenza #PMI",
+          "video": "media/reel/R48.mp4",
+          "stato": "programmato",
+          "bufferId": "6afb5e7f5c671a37dd56d560",
+          "programmatoIl": "2026-11-16T19:50:23.363Z"
+        }
+      }
+    },
+    {
+      "id": "R32",
+      "titolo": "Microimprese esenti",
+      "formato": "Vero o falso?",
+      "tipo": "reel",
+      "quando": "2026-11-18 18:30",
+      "dueAt": "2026-11-18T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Vero o falso: \"Le microimprese di servizi sono esenti dagli obblighi di accessibilità.\"\nVota nei commenti, poi guarda chi rientra davvero nell'esenzione e qual è il riferimento per tutti gli altri. Fonte: European Accessibility Act, D.Lgs. 82/2022.\n#accessibilita #eaa #verofalso #sitiweb #pmiitaliane",
+          "video": "media/reel/R32.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Vero o falso: \"Le microimprese di servizi sono esenti dagli obblighi di accessibilità.\"\n\nVota qui sotto, poi guarda chi rientra davvero nell'esenzione.",
+          "video": "media/reel/R32.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Vero: le microimprese che forniscono servizi sono esenti dagli obblighi dell'European Accessibility Act. Microimpresa vuol dire meno di 10 dipendenti e fatturato o bilancio fino a 2 milioni di euro. (D.Lgs. 82/2022)\n\nPer tutti gli altri il riferimento tecnico è WCAG 2.1, livello AA.\n\nEsenti non significa che l'accessibilità non serva: un sito leggibile da tutti è un sito che vende a più persone.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #EAA #PMI",
+          "video": "media/reel/R32.mp4",
+          "stato": "programmato",
+          "bufferId": "6afcafcd41283412cdcd6b3e",
+          "programmatoIl": "2026-11-17T19:49:33.595Z"
+        }
+      }
+    },
+    {
+      "id": "R60",
+      "titolo": "La scheda Google",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-11-20 18:30",
+      "dueAt": "2026-11-20T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Il tuo nome su Google è così? \"La tua bottega - siti web Bologna economici migliori offerta\".\nLe regole per il Profilo dell'Attività: il nome reale, senza parole chiave aggiunte. Categorie, le più specifiche possibili. Orari aggiornati, anche quelli stagionali. Un profilo per ogni sede.\nDa noi, Google dal primo giorno. Fonte: linee guida di Google.\n#googlebusiness #googlemaps #seolocale #pmiitaliane #bologna",
+          "video": "media/reel/R60.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Il nome della tua attività su Google è così: \"La tua bottega - siti web Bologna economici migliori offerta\"? Allora va sistemato.\n\nNome vero, categorie precise, orari aggiornati, un profilo per sede.",
+          "video": "media/reel/R60.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Quattro regole del Profilo dell'Attività di Google che molte PMI ignorano:\n\n1. Il nome reale, senza parole chiave aggiunte.\n2. Categorie: le più specifiche possibili.\n3. Orari aggiornati, anche quelli stagionali.\n4. Un profilo per ogni sede, mai doppioni.\n\nSono gratis, richiedono un'ora, e decidono se compari su Maps quando qualcuno cerca quello che fai, vicino a te.\n\nFonte: linee guida di Google\n\n#GoogleBusiness #SEOLocale #PMI",
+          "video": "media/reel/R60.mp4",
+          "stato": "programmato",
+          "bufferId": "6aff53176eef0cb67e4d6926",
+          "programmatoIl": "2026-11-19T19:50:47.564Z"
+        }
+      }
+    },
+    {
+      "id": "R26",
+      "titolo": "Mentre carica",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2026-11-21 11:00",
+      "dueAt": "2026-11-21T10:00:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Mentre la pagina carica, quale va meglio? A o B nei commenti.\nQuando il bottone salta proprio mentre stai per toccarlo, non è sfortuna: è una misura precisa, ed è uno dei tre Core Web Vitals di Google. Te la spieghiamo nel video.\n#corewebvitals #ux #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R26.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae728221ee172cd6df4edbb",
+          "programmatoIl": "2026-11-01T11:53:06.835Z"
+        },
+        "facebook": {
+          "testo": "Hai mai provato a toccare un bottone che si sposta proprio mentre la pagina carica? Due versioni, quale va meglio, A o B?",
+          "video": "media/reel/R26.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae72823cf3a3112f3f5a996",
+          "programmatoIl": "2026-11-01T11:53:07.276Z"
+        },
+        "linkedin": {
+          "testo": "Quando la pagina si sposta mentre carica e il bottone ti scappa sotto il dito, non è sfortuna. È una metrica precisa: CLS, Cumulative Layout Shift, uno dei tre Core Web Vitals di Google.\n\nUn valore buono è sotto 0,1. Si ottiene con accorgimenti semplici: dimensioni fissate per immagini e banner, font caricati bene, niente contenuti che spuntano dall'alto.\n\nFonte: web.dev\n\n#CoreWebVitals #UX #Performance",
+          "video": "media/reel/R26.mp4",
+          "stato": "programmato",
+          "bufferId": "6ae728231ee172cd6df4edf1",
+          "programmatoIl": "2026-11-01T11:53:07.758Z"
+        }
+      }
+    },
+    {
+      "id": "R33",
+      "titolo": "Con cosa e fatto",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-11-22 11:00",
+      "dueAt": "2026-11-22T10:00:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Con cosa è fatto un nostro sito?\nDesign: Figma, palette, tipografia. Codice: Next.js, TypeScript, Tailwind. Movimento: Framer Motion. Dati: Supabase. Email: Resend. E l'AI come compagna di lavoro, Claude.\nIl codice lo scriviamo a mano. Sempre.\n#webdevelopment #nextjs #webdesign #bottegadigitale #sitiweb",
+          "video": "media/reel/R33.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Con cosa è fatto un nostro sito?\n\nDesign su Figma, codice Next.js scritto a mano, dati su Supabase, email con Resend. L'AI ci aiuta, il codice lo scriviamo noi. Sempre.",
+          "video": "media/reel/R33.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Con cosa costruiamo un sito, strato per strato:\n\nDesign · Figma, palette, tipografia.\nCodice · Next.js, TypeScript, Tailwind.\nMovimento · Framer Motion.\nDati · Supabase.\nEmail · Resend.\nAI co-working · Claude.\n\nStrumenti moderni, scelti perché rendono il sito veloce e facile da mantenere. Ma il codice lo scriviamo a mano, e lo rileggiamo riga per riga.\n\n#WebDevelopment #NextJS #WebDesign",
+          "video": "media/reel/R33.mp4",
+          "stato": "programmato",
+          "bufferId": "6b01f5a80247969092fa176f",
+          "programmatoIl": "2026-11-21T19:48:56.129Z"
+        }
+      }
+    },
+    {
+      "id": "R29",
+      "titolo": "Le voci nel menu",
+      "formato": "Quiz",
+      "tipo": "reel",
+      "quando": "2026-11-23 18:30",
+      "dueAt": "2026-11-23T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Più voci metti nel menu... decidi prima, nessuna differenza o decidi più tardi?\nRispondi nei commenti. La risposta è nella legge di Hick-Hyman, e c'è un dettaglio che sorprende su quanto cresce il tempo.\n#ux #menu #webdesign #sitiweb #pmiitaliane",
+          "video": "media/reel/R29.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Più voci metti nel menu del tuo sito... decidi prima, nessuna differenza o decidi più tardi?\n\nScrivi la tua nei commenti.",
+          "video": "media/reel/R29.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli anni '50 ed è ancora una delle più utili nel web design.\n\nIl tempo di decisione cresce in modo logaritmico: raddoppiare le voci non raddoppia l'attesa, ma la aumenta sempre.\n\nSu un sito aziendale significa una cosa semplice: ogni voce di menu deve giustificare il suo posto. Se non porta a una decisione, toglila.\n\n#UX #Menu #WebDesign",
+          "video": "media/reel/R29.mp4",
+          "stato": "programmato",
+          "bufferId": "6b034787cc364169c17e78df",
+          "programmatoIl": "2026-11-22T19:50:31.877Z"
+        }
+      }
+    },
+    {
+      "id": "R50",
+      "titolo": "La X del banner",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-11-24 18:30",
+      "dueAt": "2026-11-24T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Se clicchi la X sul banner dei cookie, cosa succede? Equivale a rifiutare.\nE poi: scorrere la pagina non è consenso. Niente cookie wall, il sito si usa anche senza accettare. I cookie tecnici non chiedono consenso. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nFonte: Garante Privacy, linee guida cookie 2021. Informazione generale, non è una consulenza legale.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R50.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Se clicchi la X sul banner dei cookie, rifiuti. E scorrere la pagina non vale come consenso.\n\nQuattro regole semplici che molti siti ancora non rispettano: le trovi nel video.",
+          "video": "media/reel/R50.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Banner dei cookie: quattro regole che ogni sito aziendale dovrebbe rispettare (Garante Privacy, linee guida 2021):\n\n1. Chiudere con la X equivale a rifiutare.\n2. Scorrere la pagina non è consenso.\n3. Niente cookie wall: il sito si usa anche senza accettare.\n4. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nIn più: i cookie tecnici non chiedono consenso.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
+          "video": "media/reel/R50.mp4",
+          "stato": "programmato",
+          "bufferId": "6b05b3e1e95029ef22a0ed54",
+          "programmatoIl": "2026-11-24T15:57:21.279Z"
+        }
+      }
+    },
+    {
+      "id": "S11",
+      "titolo": "Due idraulici",
+      "formato": "Mito vs realtà / confronto",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Consapevolezza",
+      "quando": "2026-11-25 18:30",
+      "dueAt": "2026-11-25T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + split screen di due siti fittizi (da creare). Niente nomi di ditte reali. Quando il video è pronto va in media/strategia/S11.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Due idraulici, stessa via. Tu chi chiameresti?\nA: «Benvenuti nel sito della ditta», foto stock, numero in fondo. B: cosa fa e dove in una riga, la faccia del titolare, il bottone per chiamare in alto. In emergenza, da telefono, si decide in tre secondi.\nA o B nei commenti.\n#idraulico #artigiani #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S11.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Due idraulici, stessa via. Uno ha \"Benvenuti nel sito della ditta\" e il numero in fondo. L'altro ha la sua faccia e il bottone per chiamare in alto.\n\nIn emergenza, tu chi chiami? A o B?",
+          "video": "media/strategia/S11.mp4",
+          "stato": "manca_video"
+        },
+        "linkedin": {
+          "testo": "Due idraulici, stessa via, stesso mestiere. Magari stessa bravura.\n\nIl primo sito: \"Benvenuti nel sito della ditta\", foto stock, numero in fondo.\nIl secondo: \"Idraulico a Bologna, pronto intervento\", la faccia del titolare, il bottone per chiamare in alto.\n\nIn emergenza, da telefono, si decide in tre secondi.\n\nIl sito non ti rende più bravo. Ti fa sembrare bravo quanto sei.\n\n#Artigiani #SitiWeb #PMI",
+          "video": "media/strategia/S11.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
+      "id": "R65",
+      "titolo": "AI nelle imprese",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2026-11-26 18:30",
+      "dueAt": "2026-11-26T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "L'AI nelle imprese italiane, in un anno: dall'8,2% al 16,4% delle imprese con almeno 10 addetti (fonte: Istat).\nDa noi, da sempre: AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano, gli diamo un martello migliore.\n#intelligenzaartificiale #istat #pmiitaliane #artigianato #bottegadigitale",
+          "video": "media/reel/R65.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "In un anno le imprese italiane che usano l'intelligenza artificiale sono raddoppiate: dall'8,2% al 16,4%.\n\nDa noi l'AI è uno strumento, il mestiere resta il metodo.",
+          "video": "media/reel/R65.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "In un anno le imprese italiane con almeno 10 addetti che usano l'intelligenza artificiale sono passate dall'8,2% al 16,4%. (Istat, Imprese e ICT 2025)\n\nRaddoppiare in dodici mesi è un segnale chiaro: non è più una sperimentazione.\n\nIl nostro approccio resta lo stesso dal primo giorno. AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano: gli diamo un martello migliore.\n\n#IntelligenzaArtificiale #Istat #PMI",
+          "video": "media/reel/R65.mp4",
+          "stato": "programmato",
+          "bufferId": "6b034788d864a01105eeacf7",
+          "programmatoIl": "2026-11-22T19:50:32.401Z"
+        }
+      }
+    },
+    {
+      "id": "S12",
+      "titolo": "10 giorni in 40 secondi",
+      "formato": "Bottega aperta",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Conversione",
+      "quando": "2026-11-27 18:30",
+      "dueAt": "2026-11-27T17:30:00.000Z",
+      "nota": "Da girare: Registrare lo schermo durante un progetto reale (es. prossimo cliente o rifacimento Villa Pet Sitter) giorno per giorno, serve il permesso del cliente. Quando il video è pronto va in media/strategia/S12.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti.\nBrief, struttura e testi, design, prima versione al cliente, correzioni e test da telefono. Giorno dieci: online. Veloci, non frettolosi.\nVuoi il tuo? Scrivici oggi, partiamo lunedì.\n#processo #sitiweb #bottegadigitale #bologna #pmiitaliane",
+          "video": "media/strategia/S12.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti, uno dopo l'altro.\n\nVuoi il tuo? Scrivici oggi, partiamo lunedì: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=S12",
+          "video": "media/strategia/S12.mp4",
+          "stato": "manca_video"
+        },
+        "linkedin": {
+          "testo": "Dieci giorni di un progetto reale, in quaranta secondi:\n\nGiorno 1 · brief, mezz'ora per capire il mestiere.\nGiorni 2–3 · struttura e testi.\nGiorni 4–6 · design, dettaglio per dettaglio.\nGiorno 7 · prima versione al cliente.\nGiorni 8–9 · correzioni e test da telefono.\nGiorno 10 · online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=S12\n\n#Processo #WebDesign #PMI",
+          "video": "media/strategia/S12.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
+      "id": "R31",
+      "titolo": "Banner cookie in regola",
+      "formato": "A o B?",
+      "tipo": "reel",
+      "quando": "2026-11-28 11:00",
+      "dueAt": "2026-11-28T10:00:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quale banner cookie è in regola? A o B nei commenti.\nUn indizio: per chiudere serve un comando preciso. E nel video c'è una pratica che molti siti usano ancora e che non è ammessa. Fonte: Garante Privacy, linee guida 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
+          "video": "media/reel/R31.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Due banner dei cookie: uno ha solo \"Accetta tutto\", l'altro ha anche \"Rifiuta\". Quale è in regola, A o B?",
+          "video": "media/reel/R31.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Un banner cookie in regola deve permettere di chiudere o rifiutare con la stessa facilità con cui si accetta. Chiudere con la X equivale a rifiutare.\n\nE bloccare il sito finché l'utente non accetta (il cosiddetto cookie wall) non è ammesso. (Garante Privacy, linee guida 2021)\n\nMolti siti aziendali usano ancora banner con il solo \"Accetta tutto\". È uno dei controlli che facciamo prima di mettere online un sito.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
+          "video": "media/reel/R31.mp4",
+          "stato": "programmato",
+          "bufferId": "6aee4fb4af7e526d43e50cad",
+          "programmatoIl": "2026-11-06T22:07:48.629Z"
         }
       }
     },
@@ -1452,497 +1797,104 @@
       ]
     },
     {
-      "id": "S04",
-      "titolo": "Sito del lunedì: l'agente immobiliare",
-      "formato": "Audit lampo",
+      "id": "S05",
+      "titolo": "Il cliente delle 22",
+      "formato": "Viaggio del cliente perso",
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Attrazione",
-      "quando": "2026-12-07 18:30",
-      "dueAt": "2026-12-07T17:30:00.000Z",
-      "nota": "Da girare: Lorenzo in camera + green screen su sito fittizio «Casa Saragozza Immobiliare». Quando il video è pronto va in media/strategia/S04.mp4 e lo stato passa a da_programmare.",
+      "quando": "2026-12-01 18:30",
+      "dueAt": "2026-12-01T17:30:00.000Z",
+      "nota": "Da girare: Riprese telefono in mano di sera (luce calda) + Lorenzo in camera. Due siti fittizi di fisioterapisti. Quando il video è pronto va in media/strategia/S05.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
-          "video": "media/strategia/S04.mp4",
+          "testo": "Sono le dieci di sera, cerchi un fisioterapista. Ne trovi due.\nIl primo ha un sito del 2015: numero non cliccabile, niente orari. Il secondo dice cosa fa e ha un bottone: prenota. Magari il primo era più bravo. Il cliente non lo saprà mai.\nSe conosci qualcuno bravissimo con un sito così, mandagli questo video.\n#fisioterapia #sitiweb #prenotazioni #pmiitaliane #bologna",
+          "video": "media/strategia/S05.mp4",
           "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Sito del lunedì: l'agente immobiliare.\n\nTre cose devono stare in alto: la tua faccia e il tuo nome, la zona in cui lavori, WhatsApp a un tocco. Nella casa ci si fida di una persona.\n\nSei un agente? Scrivi SITO nei commenti.",
-          "video": "media/strategia/S04.mp4",
+          "testo": "Sono le dieci di sera, cerchi un fisioterapista. Trovi due siti: uno del 2015, uno chiaro con il bottone \"prenota\".\n\nChi chiami? Se conosci qualcuno bravissimo con un sito vecchio, mandagli questo video.",
+          "video": "media/strategia/S05.mp4",
           "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Il sito di un agente immobiliare (fittizio), in trenta secondi.\n\n1. In alto c'è solo il logo dell'agenzia. Nessuna faccia, nessun nome.\n2. \"Soluzioni immobiliari\": in che zona? Vendita, affitto, valutazioni?\n3. Il contatto è un modulo con dieci campi, in fondo alla pagina.\n\nNella casa le persone si fidano di una persona, non di un marchio senza volto.\n\nSi sistema così: foto e nome in alto, zona e servizio in una riga, WhatsApp a un tocco.\n\n#Immobiliare #AgentiImmobiliari #PMI",
-          "video": "media/strategia/S04.mp4",
+          "testo": "Sono le dieci di sera. Una persona cerca un fisioterapista per il giorno dopo.\n\nTrova due siti. Il primo è del 2015: numero non cliccabile, niente orari. Il secondo dice cosa fa e ha un bottone: prenota.\n\nForse il primo era più bravo. Il cliente non lo saprà mai.\n\nOnline non vince il più bravo. Vince chi si fa capire in tre secondi.\n\n#Sanità #SitiWeb #PMI",
+          "video": "media/strategia/S05.mp4",
+          "stato": "manca_video"
+        }
+      }
+    },
+    {
+      "id": "S03",
+      "titolo": "Il passaparola non basta",
+      "formato": "Mito vs realtà",
+      "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Consapevolezza",
+      "quando": "2026-12-02 18:30",
+      "dueAt": "2026-12-02T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo o Tommaso in camera + mani su tastiera/telefono con ricerca Google di un nome fittizio. Quando il video è pronto va in media/strategia/S03.mp4 e lo stato passa a da_programmare.",
+      "canali": {
+        "instagram": {
+          "testo": "«Lavoro bene, mi basta il passaparola.»\nIl passaparola porta il tuo nome. Poi chi lo riceve ti cerca su Google. Se trova un sito vecchio, o niente, il consiglio si raffredda. Il sito non sostituisce il passaparola: lo conferma.\nVero o falso? Scrivilo nei commenti.\n#passaparola #pmiitaliane #sitiweb #artigiani #bologna",
+          "video": "media/strategia/S03.mp4",
+          "stato": "manca_video"
+        },
+        "facebook": {
+          "testo": "\"Lavoro bene, mi basta il passaparola.\" Vero o falso?\n\nIl passaparola porta il tuo nome. Ma poi chi lo riceve ti cerca su Google. Cosa trova?",
+          "video": "media/strategia/S03.mp4",
+          "stato": "manca_video"
+        },
+        "linkedin": {
+          "testo": "\"Il passaparola non è una strategia. È fortuna con un nome più elegante.\"\n\nIl passaparola funziona: porta il tuo nome. Poi chi lo riceve fa una cosa sola, ti cerca su Google. Se trova un sito del 2015, o niente, il consiglio dell'amico si raffredda.\n\nIl sito non sostituisce il passaparola. Lo conferma.\n\nChi ti consigliano deve trovarti in tre secondi.\n\n#Passaparola #PMI #SitiWeb",
+          "video": "media/strategia/S03.mp4",
           "stato": "manca_video"
         }
       },
       "sostituzioni": [
         {
-          "il": "2026-11-08T19:48:41.525Z",
-          "da": "2026-11-09 18:30",
-          "a": "2026-11-17 18:30",
-          "conContenuto": "R22"
-        },
-        {
-          "il": "2026-11-16T20:00:00.000Z",
-          "da": "2026-11-17 18:30",
-          "a": "2026-12-07 18:30",
-          "conContenuto": "R48",
-          "manuale": true
+          "il": "2026-11-24T15:57:19.735Z",
+          "da": "2026-11-24 18:30",
+          "a": "2026-12-02 18:30",
+          "conContenuto": "R50"
         }
       ]
     },
     {
-      "id": "S08",
-      "titolo": "Cosa c'è in 800 €",
-      "formato": "Prezzo scomposto",
-      "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Conversione",
-      "quando": "2026-12-09 18:30",
-      "dueAt": "2026-12-09T17:30:00.000Z",
-      "nota": "Da girare: Apertura grafica «800 €» (motion) + Lorenzo o Tommaso in camera con le voci in sovrimpressione. Quando il video è pronto va in media/strategia/S08.mp4 e lo stato passa a da_programmare.",
-      "canali": {
-        "instagram": {
-          "testo": "800 €, una landing page. Ecco cosa c'è dentro, voce per voce.\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un form testato che ti arriva davvero. Le basi per farti trovare su Google. Una revisione, consegna in circa sette giorni. Da 800 a 1.000 €, IVA esclusa.\nIl listino completo è sul sito. Link in bio.\n#prezzi #landingpage #sitiweb #pmiitaliane #bottegadigitale",
-          "video": "media/strategia/S08.mp4",
-          "stato": "manca_video"
-        },
-        "facebook": {
-          "testo": "Cosa c'è dentro una landing page da 800 €?\n\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un modulo che ti arriva davvero. Le basi per Google. Una revisione, consegna in circa sette giorni. Da 800 a 1.000 €.\n\nListino completo: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=S08",
-          "video": "media/strategia/S08.mp4",
-          "stato": "manca_video"
-        },
-        "linkedin": {
-          "testo": "800 € per una landing page. Ecco cosa c'è dentro, voce per voce:\n\n— una pagina su misura per il mestiere del cliente, non un template generico;\n— funziona da telefono, perché è lì che ti cercano;\n— un modulo testato che arriva davvero;\n— le basi per farsi trovare su Google;\n— una revisione, consegna in circa sette giorni. Da 800 a 1.000 €, IVA esclusa.\n\nCosa non c'è: riunioni inutili, preventivi gonfiati, tre mesi di attesa.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=S08\n\n#Prezzi #LandingPage #PMI",
-          "video": "media/strategia/S08.mp4",
-          "stato": "manca_video"
-        }
-      }
-    },
-    {
-      "id": "R24",
-      "titolo": "Il tempo LCP",
-      "formato": "Quiz",
-      "tipo": "reel",
-      "quando": "2026-11-12 18:30",
-      "dueAt": "2026-11-12T17:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Per Google, il contenuto principale della pagina deve comparire entro... 2,5, 5 o 10 secondi?\nRispondi nei commenti. Nel video come si chiama questa misura e perché non basta riuscirci una volta sola. Fonte: web.dev, Core Web Vitals.\n#corewebvitals #seo #velocita #sitiweb #pmiitaliane",
-          "video": "media/reel/R24.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Per Google, il contenuto principale della pagina deve comparire entro quanto? 2,5, 5 o 10 secondi?\n\nScrivi la tua risposta nei commenti.",
-          "video": "media/reel/R24.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Per Google il contenuto principale di una pagina deve comparire entro 2,5 secondi. La misura si chiama LCP, Largest Contentful Paint, ed è uno dei tre Core Web Vitals.\n\nIl dettaglio che pochi conoscono: non basta riuscirci una volta. Deve succedere nel 75% delle visite reali, misurate sui telefoni di chi naviga davvero.\n\nPer questo un sito veloce sul computer dell'agenzia non è ancora un sito veloce.\n\nFonte: web.dev\n\n#CoreWebVitals #SEO #Performance",
-          "video": "media/reel/R24.mp4",
-          "stato": "programmato",
-          "bufferId": "6af4c6c8b933477d281deed3",
-          "programmatoIl": "2026-11-11T19:49:28.507Z"
-        }
-      }
-    },
-    {
-      "id": "S09",
-      "titolo": "Le 5 domande",
-      "formato": "Checklist / AI pratica",
+      "id": "S06",
+      "titolo": "WhatsApp, mail, DM",
+      "formato": "Smetti di…",
       "tipo": "reel",
       "serie": "Strategia Reels",
       "obiettivo": "Consapevolezza",
-      "quando": "2026-12-11 18:30",
-      "dueAt": "2026-12-11T17:30:00.000Z",
-      "nota": "Da girare: Lorenzo in camera + schermo con FAQ e demo risposta automatica (attività fittizia). Contenuto AI-assisted: dichiararlo. Quando il video è pronto va in media/strategia/S09.mp4 e lo stato passa a da_programmare.",
+      "quando": "2026-12-03 18:30",
+      "dueAt": "2026-12-03T17:30:00.000Z",
+      "nota": "Da girare: Animazione notifiche (possiamo farla in motion) + Lorenzo o Tommaso in camera. Quando il video è pronto va in media/strategia/S06.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Siete aperti a pranzo? Quanto costa? Dove parcheggio? C'è posto sabato?\nSe rispondi a mano alle stesse domande ogni giorno, conta quanto tempo ci passi. Le risposte scritte bene sul sito e un assistente per le domande semplici ti restituiscono ore. Quelle difficili arrivano comunque a te.\nScrivi nei commenti la domanda che ti fanno più spesso.\n#automazioni #intelligenzaartificiale #pmiitaliane #ristoranti #bottegadigitale",
-          "video": "media/strategia/S09.mp4",
+          "testo": "WhatsApp, mail, Instagram, una telefonata. Quattro richieste oggi: quante ne ricordi venerdì?\nUna finisce sotto il gruppo di famiglia, una in spam, un messaggio letto e dimenticato. Un cliente perso non fa rumore. La soluzione non è lavorare di più: è un solo posto dove arriva tutto.\nRispondi sinceramente nei commenti: quante richieste hai perso questo mese?\n#crm #agenteimmobiliare #clienti #pmiitaliane #automazioni",
+          "video": "media/strategia/S06.mp4",
           "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Siete aperti a pranzo? Quanto costa? Dove parcheggio? C'è posto sabato?\n\nSe rispondi alle stesse domande ogni giorno, conta quanto tempo ci passi. Qual è la domanda che ti fanno più spesso?",
-          "video": "media/strategia/S09.mp4",
+          "testo": "WhatsApp, mail, Instagram, una telefonata. Quattro richieste oggi: quante ne ricordi venerdì?\n\nUn cliente perso non fa rumore. Quante richieste ti sono sfuggite questo mese? Rispondi sinceramente.",
+          "video": "media/strategia/S06.mp4",
           "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Cinque domande, sessanta volte a settimana. Un minuto ciascuna. Fanno un'ora alla settimana, ogni settimana.\n\n\"Siete aperti a pranzo?\" \"Quanto costa?\" \"Dove parcheggio?\"\n\nDue interventi semplici:\n1. Le risposte scritte bene sul sito, in alto, dove si vedono.\n2. Un assistente che risponde alle domande semplici e passa a te quelle difficili.\n\nL'AI non decide per te. Ti restituisce il lunedì mattina.\n\nContenuto realizzato con il supporto dell'AI, rivisto da noi.\n\n#Automazioni #IntelligenzaArtificiale #PMI",
-          "video": "media/strategia/S09.mp4",
-          "stato": "manca_video"
-        }
-      }
-    },
-    {
-      "id": "R26",
-      "titolo": "Mentre carica",
-      "formato": "A o B?",
-      "tipo": "reel",
-      "quando": "2026-11-21 11:00",
-      "dueAt": "2026-11-21T10:00:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Mentre la pagina carica, quale va meglio? A o B nei commenti.\nQuando il bottone salta proprio mentre stai per toccarlo, non è sfortuna: è una misura precisa, ed è uno dei tre Core Web Vitals di Google. Te la spieghiamo nel video.\n#corewebvitals #ux #webdesign #sitiweb #pmiitaliane",
-          "video": "media/reel/R26.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae728221ee172cd6df4edbb",
-          "programmatoIl": "2026-11-01T11:53:06.835Z"
-        },
-        "facebook": {
-          "testo": "Hai mai provato a toccare un bottone che si sposta proprio mentre la pagina carica? Due versioni, quale va meglio, A o B?",
-          "video": "media/reel/R26.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae72823cf3a3112f3f5a996",
-          "programmatoIl": "2026-11-01T11:53:07.276Z"
-        },
-        "linkedin": {
-          "testo": "Quando la pagina si sposta mentre carica e il bottone ti scappa sotto il dito, non è sfortuna. È una metrica precisa: CLS, Cumulative Layout Shift, uno dei tre Core Web Vitals di Google.\n\nUn valore buono è sotto 0,1. Si ottiene con accorgimenti semplici: dimensioni fissate per immagini e banner, font caricati bene, niente contenuti che spuntano dall'alto.\n\nFonte: web.dev\n\n#CoreWebVitals #UX #Performance",
-          "video": "media/reel/R26.mp4",
-          "stato": "programmato",
-          "bufferId": "6ae728231ee172cd6df4edf1",
-          "programmatoIl": "2026-11-01T11:53:07.758Z"
-        }
-      }
-    },
-    {
-      "id": "R28",
-      "titolo": "Quando ci scrivi",
-      "formato": "Informativo",
-      "tipo": "reel",
-      "quando": "2026-11-15 11:00",
-      "dueAt": "2026-11-15T10:00:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Cosa succede quando ci scrivi?\nTi rispondiamo entro 24 ore, con un piano d'azione. Poi una prima call gratuita, trenta minuti. Senza impegno, senza preventivi gonfiati: capisci se siamo i giusti per te.\nScrivici da diecibottega.it o su WhatsApp.\n#bottegadigitale #sitiweb #pmiitaliane #bologna #webdesign",
-          "video": "media/reel/R28.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Cosa succede quando ci scrivi?\n\nTi rispondiamo entro 24 ore con un piano d'azione. Poi una call gratuita di trenta minuti, senza impegno e senza preventivi gonfiati.\n\nScrivici: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=R28",
-          "video": "media/reel/R28.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Cosa succede quando scrivi a Dieci Bottega:\n\n1. Risposta entro 24 ore.\n2. Un piano d'azione, non un preventivo generico.\n3. Una prima call gratuita di trenta minuti.\n\nSenza impegno e senza preventivi gonfiati. In mezz'ora capisci se siamo le persone giuste per il tuo progetto, e se non lo siamo te lo diciamo.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=R28\n\n#PMI #WebDesign #Bologna",
-          "video": "media/reel/R28.mp4",
-          "stato": "programmato",
-          "bufferId": "6af8bb48918fe79d2e9eae6f",
-          "programmatoIl": "2026-11-14T19:49:28.913Z"
-        }
-      }
-    },
-    {
-      "id": "S10",
-      "titolo": "Sito del lunedì: audit su richiesta",
-      "formato": "Audit su richiesta",
-      "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Conversione",
-      "quando": "2026-12-21 18:30",
-      "dueAt": "2026-12-21T17:30:00.000Z",
-      "nota": "Da girare: SOLO con un sito vero ricevuto via commento SITO e permesso scritto del titolare. Se non arriva, sostituire con un altro audit fittizio. Quando il video è pronto va in media/strategia/S10.mp4 e lo stato passa a da_programmare.",
-      "canali": {
-        "instagram": {
-          "testo": "«Ho un sito ma non mi scrive nessuno.» Ok, guardiamo perché.\nOggi un sito vero, mandato da chi ha commentato SITO, con il suo permesso. Tre cose che bloccano le richieste e come si sistemano.\nVuoi che guardiamo il tuo? Commenta SITO.\n#audit #sitiweb #pmiitaliane #bologna #bottegadigitale",
-          "video": "media/strategia/S10.mp4",
-          "stato": "manca_video"
-        },
-        "facebook": {
-          "testo": "\"Ho un sito ma non mi scrive nessuno.\" Oggi guardiamo un sito vero che ci è stato mandato, con il permesso del titolare.\n\nVuoi che guardiamo il tuo? Scrivi SITO nei commenti.",
-          "video": "media/strategia/S10.mp4",
-          "stato": "manca_video"
-        },
-        "linkedin": {
-          "testo": "\"Ho un sito ma non mi scrive nessuno.\"\n\nOggi guardiamo un sito reale, con il permesso del titolare, e i tre motivi più comuni per cui le richieste non arrivano:\n1. in alto non è chiaro cosa fa l'attività;\n2. il contatto è solo in fondo alla pagina;\n3. il modulo chiede troppi campi.\n\nOgnuno si sistema in poche ore. Insieme fanno la differenza tra un sito vetrina e un sito che lavora.\n\n#Audit #SitiWeb #PMI",
-          "video": "media/strategia/S10.mp4",
+          "testo": "WhatsApp, email, messaggi su Instagram, una telefonata. Quattro richieste in un giorno.\n\nUna finisce sotto il gruppo di famiglia. Una in spam. Un messaggio letto e dimenticato.\n\nLo vediamo spesso negli studi e nelle agenzie immobiliari: le richieste arrivano, il problema è dove finiscono. E un cliente perso non fa rumore.\n\nLa soluzione non è lavorare di più. È un posto solo dove arriva tutto, con un promemoria se non hai risposto.\n\n#CRM #Lead #PMI",
+          "video": "media/strategia/S06.mp4",
           "stato": "manca_video"
         }
       },
       "sostituzioni": [
         {
-          "il": "2026-11-22T20:00:00.000Z",
-          "da": "2026-11-23 18:30",
-          "a": "2026-12-21 18:30",
-          "conContenuto": "R29",
-          "manuale": true
+          "il": "2026-11-12T19:48:46.217703Z",
+          "da": "2026-11-13 18:30",
+          "a": "2026-12-03 18:30",
+          "conContenuto": "R40"
         }
       ]
-    },
-    {
-      "id": "R27",
-      "titolo": "Il ranking locale",
-      "formato": "Quiz",
-      "tipo": "reel",
-      "quando": "2026-11-10 18:30",
-      "dueAt": "2026-11-10T17:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Quale di questi NON è un fattore del ranking locale di Google? La distanza, il colore del logo o la pertinenza?\nSembra facile. Rispondi nei commenti, poi guarda cosa dice Google sulle recensioni. Fonte: guida al Profilo dell'Attività.\n#googlemaps #seolocale #pmiitaliane #recensioni #bologna",
-          "video": "media/reel/R27.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Quale di questi NON conta per comparire su Google Maps: la distanza, il colore del logo o la pertinenza?\n\nSembra facile. Rispondi qui sotto.",
-          "video": "media/reel/R27.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Google Maps decide chi mostrare con tre criteri: pertinenza (quanto il profilo risponde alla ricerca), distanza da chi cerca, prominenza (quanto sei conosciuto: link, recensioni, valutazioni).\n\nLe recensioni contano: più sono, e più sono positive, più possono aiutare. Rispondere mostra che l'attività è viva. (Google, guida del Profilo dell'Attività)\n\nIl colore del logo, invece, non conta. Ma quanti profili vediamo curati nel logo e lasciati vuoti negli orari?\n\n#GoogleMaps #SEOLocale #PMI",
-          "video": "media/reel/R27.mp4",
-          "stato": "programmato",
-          "bufferId": "6af223ffb3dd86936aa3af79",
-          "programmatoIl": "2026-11-09T19:50:23.732Z"
-        }
-      }
-    },
-    {
-      "id": "S11",
-      "titolo": "Due idraulici",
-      "formato": "Mito vs realtà / confronto",
-      "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Consapevolezza",
-      "quando": "2026-11-25 18:30",
-      "dueAt": "2026-11-25T17:30:00.000Z",
-      "nota": "Da girare: Lorenzo in camera + split screen di due siti fittizi (da creare). Niente nomi di ditte reali. Quando il video è pronto va in media/strategia/S11.mp4 e lo stato passa a da_programmare.",
-      "canali": {
-        "instagram": {
-          "testo": "Due idraulici, stessa via. Tu chi chiameresti?\nA: «Benvenuti nel sito della ditta», foto stock, numero in fondo. B: cosa fa e dove in una riga, la faccia del titolare, il bottone per chiamare in alto. In emergenza, da telefono, si decide in tre secondi.\nA o B nei commenti.\n#idraulico #artigiani #sitiweb #bologna #pmiitaliane",
-          "video": "media/strategia/S11.mp4",
-          "stato": "manca_video"
-        },
-        "facebook": {
-          "testo": "Due idraulici, stessa via. Uno ha \"Benvenuti nel sito della ditta\" e il numero in fondo. L'altro ha la sua faccia e il bottone per chiamare in alto.\n\nIn emergenza, tu chi chiami? A o B?",
-          "video": "media/strategia/S11.mp4",
-          "stato": "manca_video"
-        },
-        "linkedin": {
-          "testo": "Due idraulici, stessa via, stesso mestiere. Magari stessa bravura.\n\nIl primo sito: \"Benvenuti nel sito della ditta\", foto stock, numero in fondo.\nIl secondo: \"Idraulico a Bologna, pronto intervento\", la faccia del titolare, il bottone per chiamare in alto.\n\nIn emergenza, da telefono, si decide in tre secondi.\n\nIl sito non ti rende più bravo. Ti fa sembrare bravo quanto sei.\n\n#Artigiani #SitiWeb #PMI",
-          "video": "media/strategia/S11.mp4",
-          "stato": "manca_video"
-        }
-      }
-    },
-    {
-      "id": "R29",
-      "titolo": "Le voci nel menu",
-      "formato": "Quiz",
-      "tipo": "reel",
-      "quando": "2026-11-23 18:30",
-      "dueAt": "2026-11-23T17:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Più voci metti nel menu... decidi prima, nessuna differenza o decidi più tardi?\nRispondi nei commenti. La risposta è nella legge di Hick-Hyman, e c'è un dettaglio che sorprende su quanto cresce il tempo.\n#ux #menu #webdesign #sitiweb #pmiitaliane",
-          "video": "media/reel/R29.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Più voci metti nel menu del tuo sito... decidi prima, nessuna differenza o decidi più tardi?\n\nScrivi la tua nei commenti.",
-          "video": "media/reel/R29.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Più scelte, più tempo per decidere. La legge di Hick-Hyman è degli anni '50 ed è ancora una delle più utili nel web design.\n\nIl tempo di decisione cresce in modo logaritmico: raddoppiare le voci non raddoppia l'attesa, ma la aumenta sempre.\n\nSu un sito aziendale significa una cosa semplice: ogni voce di menu deve giustificare il suo posto. Se non porta a una decisione, toglila.\n\n#UX #Menu #WebDesign",
-          "video": "media/reel/R29.mp4",
-          "stato": "programmato",
-          "bufferId": "6b034787cc364169c17e78df",
-          "programmatoIl": "2026-11-22T19:50:31.877Z"
-        }
-      }
-    },
-    {
-      "id": "S12",
-      "titolo": "10 giorni in 40 secondi",
-      "formato": "Bottega aperta",
-      "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Conversione",
-      "quando": "2026-11-27 18:30",
-      "dueAt": "2026-11-27T17:30:00.000Z",
-      "nota": "Da girare: Registrare lo schermo durante un progetto reale (es. prossimo cliente o rifacimento Villa Pet Sitter) giorno per giorno, serve il permesso del cliente. Quando il video è pronto va in media/strategia/S12.mp4 e lo stato passa a da_programmare.",
-      "canali": {
-        "instagram": {
-          "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti.\nBrief, struttura e testi, design, prima versione al cliente, correzioni e test da telefono. Giorno dieci: online. Veloci, non frettolosi.\nVuoi il tuo? Scrivici oggi, partiamo lunedì.\n#processo #sitiweb #bottegadigitale #bologna #pmiitaliane",
-          "video": "media/strategia/S12.mp4",
-          "stato": "manca_video"
-        },
-        "facebook": {
-          "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti, uno dopo l'altro.\n\nVuoi il tuo? Scrivici oggi, partiamo lunedì: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=S12",
-          "video": "media/strategia/S12.mp4",
-          "stato": "manca_video"
-        },
-        "linkedin": {
-          "testo": "Dieci giorni di un progetto reale, in quaranta secondi:\n\nGiorno 1 · brief, mezz'ora per capire il mestiere.\nGiorni 2–3 · struttura e testi.\nGiorni 4–6 · design, dettaglio per dettaglio.\nGiorno 7 · prima versione al cliente.\nGiorni 8–9 · correzioni e test da telefono.\nGiorno 10 · online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=S12\n\n#Processo #WebDesign #PMI",
-          "video": "media/strategia/S12.mp4",
-          "stato": "manca_video"
-        }
-      }
-    },
-    {
-      "id": "R31",
-      "titolo": "Banner cookie in regola",
-      "formato": "A o B?",
-      "tipo": "reel",
-      "quando": "2026-11-28 11:00",
-      "dueAt": "2026-11-28T10:00:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Quale banner cookie è in regola? A o B nei commenti.\nUn indizio: per chiudere serve un comando preciso. E nel video c'è una pratica che molti siti usano ancora e che non è ammessa. Fonte: Garante Privacy, linee guida 2021.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
-          "video": "media/reel/R31.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Due banner dei cookie: uno ha solo \"Accetta tutto\", l'altro ha anche \"Rifiuta\". Quale è in regola, A o B?",
-          "video": "media/reel/R31.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Un banner cookie in regola deve permettere di chiudere o rifiutare con la stessa facilità con cui si accetta. Chiudere con la X equivale a rifiutare.\n\nE bloccare il sito finché l'utente non accetta (il cosiddetto cookie wall) non è ammesso. (Garante Privacy, linee guida 2021)\n\nMolti siti aziendali usano ancora banner con il solo \"Accetta tutto\". È uno dei controlli che facciamo prima di mettere online un sito.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
-          "video": "media/reel/R31.mp4",
-          "stato": "programmato",
-          "bufferId": "6aee4fb4af7e526d43e50cad",
-          "programmatoIl": "2026-11-06T22:07:48.629Z"
-        }
-      }
-    },
-    {
-      "id": "R33",
-      "titolo": "Con cosa e fatto",
-      "formato": "Informativo",
-      "tipo": "reel",
-      "quando": "2026-11-22 11:00",
-      "dueAt": "2026-11-22T10:00:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Con cosa è fatto un nostro sito?\nDesign: Figma, palette, tipografia. Codice: Next.js, TypeScript, Tailwind. Movimento: Framer Motion. Dati: Supabase. Email: Resend. E l'AI come compagna di lavoro, Claude.\nIl codice lo scriviamo a mano. Sempre.\n#webdevelopment #nextjs #webdesign #bottegadigitale #sitiweb",
-          "video": "media/reel/R33.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Con cosa è fatto un nostro sito?\n\nDesign su Figma, codice Next.js scritto a mano, dati su Supabase, email con Resend. L'AI ci aiuta, il codice lo scriviamo noi. Sempre.",
-          "video": "media/reel/R33.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Con cosa costruiamo un sito, strato per strato:\n\nDesign · Figma, palette, tipografia.\nCodice · Next.js, TypeScript, Tailwind.\nMovimento · Framer Motion.\nDati · Supabase.\nEmail · Resend.\nAI co-working · Claude.\n\nStrumenti moderni, scelti perché rendono il sito veloce e facile da mantenere. Ma il codice lo scriviamo a mano, e lo rileggiamo riga per riga.\n\n#WebDevelopment #NextJS #WebDesign",
-          "video": "media/reel/R33.mp4",
-          "stato": "programmato",
-          "bufferId": "6b01f5a80247969092fa176f",
-          "programmatoIl": "2026-11-21T19:48:56.129Z"
-        }
-      }
-    },
-    {
-      "id": "R32",
-      "titolo": "Microimprese esenti",
-      "formato": "Vero o falso?",
-      "tipo": "reel",
-      "quando": "2026-11-18 18:30",
-      "dueAt": "2026-11-18T17:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Vero o falso: \"Le microimprese di servizi sono esenti dagli obblighi di accessibilità.\"\nVota nei commenti, poi guarda chi rientra davvero nell'esenzione e qual è il riferimento per tutti gli altri. Fonte: European Accessibility Act, D.Lgs. 82/2022.\n#accessibilita #eaa #verofalso #sitiweb #pmiitaliane",
-          "video": "media/reel/R32.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Vero o falso: \"Le microimprese di servizi sono esenti dagli obblighi di accessibilità.\"\n\nVota qui sotto, poi guarda chi rientra davvero nell'esenzione.",
-          "video": "media/reel/R32.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Vero: le microimprese che forniscono servizi sono esenti dagli obblighi dell'European Accessibility Act. Microimpresa vuol dire meno di 10 dipendenti e fatturato o bilancio fino a 2 milioni di euro. (D.Lgs. 82/2022)\n\nPer tutti gli altri il riferimento tecnico è WCAG 2.1, livello AA.\n\nEsenti non significa che l'accessibilità non serva: un sito leggibile da tutti è un sito che vende a più persone.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #EAA #PMI",
-          "video": "media/reel/R32.mp4",
-          "stato": "programmato",
-          "bufferId": "6afcafcd41283412cdcd6b3e",
-          "programmatoIl": "2026-11-17T19:49:33.595Z"
-        }
-      }
-    },
-    {
-      "id": "R38",
-      "titolo": "Ti riconosci",
-      "formato": "Informativo",
-      "tipo": "reel",
-      "quando": "2026-11-11 18:30",
-      "dueAt": "2026-11-11T17:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Ti riconosci?\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" \"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" \"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\"\nQualunque sia il punto di partenza: il sito che ti serve, fatto bene.\n#sitiweb #pmiitaliane #ristoranti #personaltrainer #bologna",
-          "video": "media/reel/R38.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Ti riconosci?\n\n\"Il mio sito è del 2014.\" \"Lavoro su WhatsApp, mi serve un sito pulito.\" \"Sono solo su Instagram, ma chi mi cerca su Google non mi trova.\"\n\nDa qualunque punto parti, c'è il sito che ti serve. Scrivici.",
-          "video": "media/reel/R38.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Tre frasi che sentiamo ogni settimana:\n\n\"Il mio sito è del 2014, mi vergogno a darlo ai clienti.\" (ristorante)\n\"Lavoro con WhatsApp, mi serve un sito personale, pulito, che converta.\" (agente immobiliare)\n\"Sono su Instagram e basta, mi serve un sito per chi mi cerca su Google.\" (personal trainer)\n\nPunti di partenza diversi, stesso bisogno: un sito che lavori per chi lo possiede.\n\n#PMI #WebDesign #Bologna",
-          "video": "media/reel/R38.mp4",
-          "stato": "programmato",
-          "bufferId": "6af3758ce021f9ae4259f42b",
-          "programmatoIl": "2026-11-10T19:50:36.226Z"
-        }
-      }
-    },
-    {
-      "id": "R34",
-      "titolo": "AI Mode in italiano",
-      "formato": "Quiz",
-      "tipo": "reel",
-      "quando": "2026-11-16 18:30",
-      "dueAt": "2026-11-16T17:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "Da quando AI Mode di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\nRispondi nei commenti. Nel video la data esatta, e con quante altre lingue è arrivato. Significa che i tuoi clienti fanno già domande all'AI di Google: il tuo sito è pronto a essere citato?\n#google #aimode #geo #intelligenzaartificiale #pmiitaliane",
-          "video": "media/reel/R34.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "Da quando l'AI di Google parla italiano? Dal 2023, da inizio 2024 o da ottobre 2025?\n\nScrivi la tua. Intanto i tuoi clienti le fanno già domande: il tuo sito è pronto a essere citato?",
-          "video": "media/reel/R34.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "Dall'8 ottobre 2025 AI Mode di Google è disponibile anche in italiano, arrivato insieme ad altre 36 lingue in un colpo solo.\n\nVuol dire che una parte dei tuoi clienti non scorre più dieci link blu: legge una risposta scritta dall'AI, che cita poche fonti.\n\nEssere tra quelle fonti dipende da quanto il tuo sito è chiaro, aggiornato e concreto. Non da quante parole chiave contiene.\n\n#AIMode #GEO #PMI",
-          "video": "media/reel/R34.mp4",
-          "stato": "programmato",
-          "bufferId": "6afa0cfdee359588b54bf071",
-          "programmatoIl": "2026-11-15T19:50:21.238Z"
-        }
-      }
-    },
-    {
-      "id": "R40",
-      "titolo": "Un protocollo",
-      "formato": "Informativo",
-      "tipo": "reel",
-      "quando": "2026-11-13 18:30",
-      "dueAt": "2026-11-13T17:30:00.000Z",
-      "canali": {
-        "instagram": {
-          "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\nSpaziature. Microcopy: massimo tre parole, niente esclamativi. Performance. Accessibilità, con contrasto AA. Ogni sito passa questi controlli prima di andare online. Tutto curato.\n#dettagli #webdesign #bottegadigitale #ux #sitiweb",
-          "video": "media/reel/R40.mp4",
-          "stato": "da_programmare"
-        },
-        "facebook": {
-          "testo": "\"È tutto nei dettagli\" non è uno slogan. È il nostro controllo prima di mettere online ogni sito: spaziature, testi dei bottoni, velocità, accessibilità.",
-          "video": "media/reel/R40.mp4",
-          "stato": "da_programmare"
-        },
-        "linkedin": {
-          "testo": "\"È tutto nei dettagli\" non è una tagline. È un protocollo.\n\nPrima di andare online, ogni sito passa quattro controlli:\nSpaziature, coerenti in ogni pagina.\nMicrocopy: massimo tre parole per bottone, niente esclamativi.\nPerformance, misurate sui telefoni.\nAccessibilità, con contrasto almeno AA.\n\nNessuno di questi punti compare in un preventivo. Tutti insieme decidono se un sito funziona.\n\n#Dettagli #WebDesign #Qualità",
-          "video": "media/reel/R40.mp4",
-          "stato": "programmato",
-          "bufferId": "6af61863b3f03c1403ea569f",
-          "programmatoIl": "2026-11-12T19:49:55.162Z"
-        }
-      }
     },
     {
       "id": "R36",
@@ -2026,31 +1978,47 @@
       }
     },
     {
-      "id": "R48",
-      "titolo": "Di chi e il sito",
-      "formato": "Informativo",
+      "id": "S04",
+      "titolo": "Sito del lunedì: l'agente immobiliare",
+      "formato": "Audit lampo",
       "tipo": "reel",
-      "quando": "2026-11-17 18:30",
-      "dueAt": "2026-11-17T17:30:00.000Z",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
+      "quando": "2026-12-07 18:30",
+      "dueAt": "2026-12-07T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + green screen su sito fittizio «Casa Saragozza Immobiliare». Quando il video è pronto va in media/strategia/S04.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Di chi è il tuo sito?\nIl dominio è intestato a te? Hai l'accesso al registrar? Hai le credenziali dell'hosting? Puoi cambiare fornitore domani? Se il dominio è intestato all'agenzia, cambiare diventa difficile.\nDa noi, il giorno dieci ti consegniamo le chiavi di casa: credenziali, dominio a tuo nome, una guida per aggiornarlo da solo.\n#dominio #sitiweb #pmiitaliane #trasparenza #bottegadigitale",
-          "video": "media/reel/R48.mp4",
-          "stato": "da_programmare"
+          "testo": "Sito del lunedì: l'agente immobiliare.\nTre cose che devono stare in alto: chi sei (una faccia, un nome), cosa fai e in che zona, come contattarti con un tocco. Nella casa ci si fida di una persona.\nSei un agente? Commenta SITO e lunedì prossimo guardo il tuo.\n#agenteimmobiliare #immobiliare #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Di chi è il tuo sito? Il dominio è intestato a te? Hai le credenziali?\n\nSe è tutto dell'agenzia, cambiare diventa difficile. Da noi il giorno dieci ti diamo le chiavi di casa.",
-          "video": "media/reel/R48.mp4",
-          "stato": "da_programmare"
+          "testo": "Sito del lunedì: l'agente immobiliare.\n\nTre cose devono stare in alto: la tua faccia e il tuo nome, la zona in cui lavori, WhatsApp a un tocco. Nella casa ci si fida di una persona.\n\nSei un agente? Scrivi SITO nei commenti.",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Quattro domande da fare oggi a chi gestisce il tuo sito:\n\n1. Il dominio è intestato a te?\n2. Hai accesso al registrar?\n3. Hai le credenziali dell'hosting?\n4. Potresti cambiare fornitore domani?\n\nSe il dominio è intestato all'agenzia, cambiare diventa difficile. Per questo, il giorno della consegna, diamo al cliente le chiavi di casa: credenziali, dominio a suo nome, una guida per aggiornarlo da solo.\n\n#Dominio #Trasparenza #PMI",
-          "video": "media/reel/R48.mp4",
-          "stato": "programmato",
-          "bufferId": "6afb5e7f5c671a37dd56d560",
-          "programmatoIl": "2026-11-16T19:50:23.363Z"
+          "testo": "Il sito di un agente immobiliare (fittizio), in trenta secondi.\n\n1. In alto c'è solo il logo dell'agenzia. Nessuna faccia, nessun nome.\n2. \"Soluzioni immobiliari\": in che zona? Vendita, affitto, valutazioni?\n3. Il contatto è un modulo con dieci campi, in fondo alla pagina.\n\nNella casa le persone si fidano di una persona, non di un marchio senza volto.\n\nSi sistema così: foto e nome in alto, zona e servizio in una riga, WhatsApp a un tocco.\n\n#Immobiliare #AgentiImmobiliari #PMI",
+          "video": "media/strategia/S04.mp4",
+          "stato": "manca_video"
         }
-      }
+      },
+      "sostituzioni": [
+        {
+          "il": "2026-11-08T19:48:41.525Z",
+          "da": "2026-11-09 18:30",
+          "a": "2026-11-17 18:30",
+          "conContenuto": "R22"
+        },
+        {
+          "il": "2026-11-16T20:00:00.000Z",
+          "da": "2026-11-17 18:30",
+          "a": "2026-12-07 18:30",
+          "conContenuto": "R48",
+          "manuale": true
+        }
+      ]
     },
     {
       "id": "R39",
@@ -2080,29 +2048,30 @@
       }
     },
     {
-      "id": "R50",
-      "titolo": "La X del banner",
-      "formato": "Informativo",
+      "id": "S08",
+      "titolo": "Cosa c'è in 800 €",
+      "formato": "Prezzo scomposto",
       "tipo": "reel",
-      "quando": "2026-12-02 18:30",
-      "dueAt": "2026-12-02T17:30:00.000Z",
+      "serie": "Strategia Reels",
+      "obiettivo": "Conversione",
+      "quando": "2026-12-09 18:30",
+      "dueAt": "2026-12-09T17:30:00.000Z",
+      "nota": "Da girare: Apertura grafica «800 €» (motion) + Lorenzo o Tommaso in camera con le voci in sovrimpressione. Quando il video è pronto va in media/strategia/S08.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Se clicchi la X sul banner dei cookie, cosa succede? Equivale a rifiutare.\nE poi: scorrere la pagina non è consenso. Niente cookie wall, il sito si usa anche senza accettare. I cookie tecnici non chiedono consenso. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nFonte: Garante Privacy, linee guida cookie 2021. Informazione generale, non è una consulenza legale.\n#cookie #privacy #gdpr #sitiweb #pmiitaliane",
-          "video": "media/reel/R50.mp4",
-          "stato": "da_programmare"
+          "testo": "800 €, una landing page. Ecco cosa c'è dentro, voce per voce.\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un form testato che ti arriva davvero. Le basi per farti trovare su Google. Una revisione, consegna in circa sette giorni. Da 800 a 1.000 €, IVA esclusa.\nIl listino completo è sul sito. Link in bio.\n#prezzi #landingpage #sitiweb #pmiitaliane #bottegadigitale",
+          "video": "media/strategia/S08.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Se clicchi la X sul banner dei cookie, rifiuti. E scorrere la pagina non vale come consenso.\n\nQuattro regole semplici che molti siti ancora non rispettano: le trovi nel video.",
-          "video": "media/reel/R50.mp4",
-          "stato": "da_programmare"
+          "testo": "Cosa c'è dentro una landing page da 800 €?\n\nUna pagina su misura per il tuo mestiere, che funziona da telefono. Un modulo che ti arriva davvero. Le basi per Google. Una revisione, consegna in circa sette giorni. Da 800 a 1.000 €.\n\nListino completo: https://diecibottega.it/servizi?utm_source=facebook&utm_medium=reel&utm_campaign=S08",
+          "video": "media/strategia/S08.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Banner dei cookie: quattro regole che ogni sito aziendale dovrebbe rispettare (Garante Privacy, linee guida 2021):\n\n1. Chiudere con la X equivale a rifiutare.\n2. Scorrere la pagina non è consenso.\n3. Niente cookie wall: il sito si usa anche senza accettare.\n4. Il banner non va riproposto prima di sei mesi, se nulla cambia.\nIn più: i cookie tecnici non chiedono consenso.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
-          "video": "media/reel/R50.mp4",
-          "stato": "programmato",
-          "bufferId": "6afcafce41283412cdcd6bb7",
-          "programmatoIl": "2026-11-17T19:49:34.139Z"
+          "testo": "800 € per una landing page. Ecco cosa c'è dentro, voce per voce:\n\n— una pagina su misura per il mestiere del cliente, non un template generico;\n— funziona da telefono, perché è lì che ti cercano;\n— un modulo testato che arriva davvero;\n— le basi per farsi trovare su Google;\n— una revisione, consegna in circa sette giorni. Da 800 a 1.000 €, IVA esclusa.\n\nCosa non c'è: riunioni inutili, preventivi gonfiati, tre mesi di attesa.\n\nhttps://diecibottega.it/servizi?utm_source=linkedin&utm_medium=reel&utm_campaign=S08\n\n#Prezzi #LandingPage #PMI",
+          "video": "media/strategia/S08.mp4",
+          "stato": "manca_video"
         }
       }
     },
@@ -2134,27 +2103,30 @@
       }
     },
     {
-      "id": "R53",
-      "titolo": "Tre secondi",
-      "formato": "Informativo",
+      "id": "S09",
+      "titolo": "Le 5 domande",
+      "formato": "Checklist / AI pratica",
       "tipo": "reel",
-      "quando": "2027-01-27 18:30",
-      "dueAt": "2027-01-27T17:30:00.000Z",
+      "serie": "Strategia Reels",
+      "obiettivo": "Consapevolezza",
+      "quando": "2026-12-11 18:30",
+      "dueAt": "2026-12-11T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + schermo con FAQ e demo risposta automatica (attività fittizia). Contenuto AI-assisted: dichiararlo. Quando il video è pronto va in media/strategia/S09.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Quanto aspetti che un sito si apra? Due secondi, forse tre.\nIl 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi (fonte: Google). Per questo da noi: mobile-first, codice pulito, performance vere.\nOgni millisecondo è una scelta consapevole.\n#velocita #mobilefirst #sitiweb #webdesign #pmiitaliane",
-          "video": "media/reel/R53.mp4",
-          "stato": "da_programmare"
+          "testo": "Siete aperti a pranzo? Quanto costa? Dove parcheggio? C'è posto sabato?\nSe rispondi a mano alle stesse domande ogni giorno, conta quanto tempo ci passi. Le risposte scritte bene sul sito e un assistente per le domande semplici ti restituiscono ore. Quelle difficili arrivano comunque a te.\nScrivi nei commenti la domanda che ti fanno più spesso.\n#automazioni #intelligenzaartificiale #pmiitaliane #ristoranti #bottegadigitale",
+          "video": "media/strategia/S09.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Quanto aspetti che un sito si apra? Due secondi, forse tre. Poi chiudi.\n\nLo fanno anche i tuoi clienti: il 53% abbandona un sito che ci mette più di 3 secondi da telefono.",
-          "video": "media/reel/R53.mp4",
-          "stato": "da_programmare"
+          "testo": "Siete aperti a pranzo? Quanto costa? Dove parcheggio? C'è posto sabato?\n\nSe rispondi alle stesse domande ogni giorno, conta quanto tempo ci passi. Qual è la domanda che ti fanno più spesso?",
+          "video": "media/strategia/S09.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Il 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi a caricare. (Google)\n\nPer questo, in ogni progetto, tre scelte non sono negoziabili:\npensato prima per il telefono,\ncodice pulito, senza plugin superflui,\nperformance misurate sui telefoni reali, non sul computer.\n\nOgni millisecondo è una scelta consapevole.\n\n#Performance #MobileFirst #WebDesign",
-          "video": "media/reel/R53.mp4",
-          "stato": "da_programmare"
+          "testo": "Cinque domande, sessanta volte a settimana. Un minuto ciascuna. Fanno un'ora alla settimana, ogni settimana.\n\n\"Siete aperti a pranzo?\" \"Quanto costa?\" \"Dove parcheggio?\"\n\nDue interventi semplici:\n1. Le risposte scritte bene sul sito, in alto, dove si vedono.\n2. Un assistente che risponde alle domande semplici e passa a te quelle difficili.\n\nL'AI non decide per te. Ti restituisce il lunedì mattina.\n\nContenuto realizzato con il supporto dell'AI, rivisto da noi.\n\n#Automazioni #IntelligenzaArtificiale #PMI",
+          "video": "media/strategia/S09.mp4",
+          "stato": "manca_video"
         }
       }
     },
@@ -2288,29 +2260,30 @@
       }
     },
     {
-      "id": "R60",
-      "titolo": "La scheda Google",
-      "formato": "Informativo",
+      "id": "S02",
+      "titolo": "Il numero che non si clicca",
+      "formato": "Test dal telefono",
       "tipo": "reel",
-      "quando": "2026-11-20 18:30",
-      "dueAt": "2026-11-20T17:30:00.000Z",
+      "serie": "Strategia Reels",
+      "obiettivo": "Attrazione",
+      "quando": "2026-12-17 18:30",
+      "dueAt": "2026-12-17T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + 2 registrazioni schermo da iPhone (numero testo / numero cliccabile) su sito fittizio. Quando il video è pronto va in media/strategia/S02.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Il tuo nome su Google è così? \"La tua bottega - siti web Bologna economici migliori offerta\".\nLe regole per il Profilo dell'Attività: il nome reale, senza parole chiave aggiunte. Categorie, le più specifiche possibili. Orari aggiornati, anche quelli stagionali. Un profilo per ogni sede.\nDa noi, Google dal primo giorno. Fonte: linee guida di Google.\n#googlebusiness #googlemaps #seolocale #pmiitaliane #bologna",
-          "video": "media/reel/R60.mp4",
-          "stato": "da_programmare"
+          "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\nSe è solo testo, chi ti cerca deve copiarlo, uscire, incollarlo. Cinque passaggi invece di uno. Molti si fermano prima.\nProva sul tuo adesso e scrivimi com'è andata.\n#sitiweb #ux #mobile #pmiitaliane #bologna",
+          "video": "media/strategia/S02.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Il nome della tua attività su Google è così: \"La tua bottega - siti web Bologna economici migliori offerta\"? Allora va sistemato.\n\nNome vero, categorie precise, orari aggiornati, un profilo per sede.",
-          "video": "media/reel/R60.mp4",
-          "stato": "da_programmare"
+          "testo": "Tocca il numero di telefono sul tuo sito, da telefono. Parte la chiamata?\n\nSe è solo testo, il cliente deve copiarlo e incollarlo. Cinque passaggi invece di uno. Prova adesso e dimmi com'è andata.",
+          "video": "media/strategia/S02.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Quattro regole del Profilo dell'Attività di Google che molte PMI ignorano:\n\n1. Il nome reale, senza parole chiave aggiunte.\n2. Categorie: le più specifiche possibili.\n3. Orari aggiornati, anche quelli stagionali.\n4. Un profilo per ogni sede, mai doppioni.\n\nSono gratis, richiedono un'ora, e decidono se compari su Maps quando qualcuno cerca quello che fai, vicino a te.\n\nFonte: linee guida di Google\n\n#GoogleBusiness #SEOLocale #PMI",
-          "video": "media/reel/R60.mp4",
-          "stato": "programmato",
-          "bufferId": "6aff53176eef0cb67e4d6926",
-          "programmatoIl": "2026-11-19T19:50:47.564Z"
+          "testo": "Un test da 10 secondi per il sito della tua attività: aprilo da telefono e tocca il numero.\n\nSe parte la chiamata, bene. Se è solo testo, il cliente deve selezionarlo, copiarlo, uscire, aprire il telefono, incollarlo. Cinque passaggi invece di uno.\n\nÈ una riga di codice. Ed è uno dei motivi più frequenti per cui un sito \"ha visite ma nessuno chiama\".\n\n#UX #Mobile #PMI",
+          "video": "media/strategia/S02.mp4",
+          "stato": "manca_video"
         }
       }
     },
@@ -2390,31 +2363,41 @@
       }
     },
     {
-      "id": "R65",
-      "titolo": "AI nelle imprese",
-      "formato": "Informativo",
+      "id": "S10",
+      "titolo": "Sito del lunedì: audit su richiesta",
+      "formato": "Audit su richiesta",
       "tipo": "reel",
-      "quando": "2026-11-26 18:30",
-      "dueAt": "2026-11-26T17:30:00.000Z",
+      "serie": "Strategia Reels",
+      "obiettivo": "Conversione",
+      "quando": "2026-12-21 18:30",
+      "dueAt": "2026-12-21T17:30:00.000Z",
+      "nota": "Da girare: SOLO con un sito vero ricevuto via commento SITO e permesso scritto del titolare. Se non arriva, sostituire con un altro audit fittizio. Quando il video è pronto va in media/strategia/S10.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "L'AI nelle imprese italiane, in un anno: dall'8,2% al 16,4% delle imprese con almeno 10 addetti (fonte: Istat).\nDa noi, da sempre: AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano, gli diamo un martello migliore.\n#intelligenzaartificiale #istat #pmiitaliane #artigianato #bottegadigitale",
-          "video": "media/reel/R65.mp4",
-          "stato": "da_programmare"
+          "testo": "«Ho un sito ma non mi scrive nessuno.» Ok, guardiamo perché.\nOggi un sito vero, mandato da chi ha commentato SITO, con il suo permesso. Tre cose che bloccano le richieste e come si sistemano.\nVuoi che guardiamo il tuo? Commenta SITO.\n#audit #sitiweb #pmiitaliane #bologna #bottegadigitale",
+          "video": "media/strategia/S10.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "In un anno le imprese italiane che usano l'intelligenza artificiale sono raddoppiate: dall'8,2% al 16,4%.\n\nDa noi l'AI è uno strumento, il mestiere resta il metodo.",
-          "video": "media/reel/R65.mp4",
-          "stato": "da_programmare"
+          "testo": "\"Ho un sito ma non mi scrive nessuno.\" Oggi guardiamo un sito vero che ci è stato mandato, con il permesso del titolare.\n\nVuoi che guardiamo il tuo? Scrivi SITO nei commenti.",
+          "video": "media/strategia/S10.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "In un anno le imprese italiane con almeno 10 addetti che usano l'intelligenza artificiale sono passate dall'8,2% al 16,4%. (Istat, Imprese e ICT 2025)\n\nRaddoppiare in dodici mesi è un segnale chiaro: non è più una sperimentazione.\n\nIl nostro approccio resta lo stesso dal primo giorno. AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano: gli diamo un martello migliore.\n\n#IntelligenzaArtificiale #Istat #PMI",
-          "video": "media/reel/R65.mp4",
-          "stato": "programmato",
-          "bufferId": "6b034788d864a01105eeacf7",
-          "programmatoIl": "2026-11-22T19:50:32.401Z"
+          "testo": "\"Ho un sito ma non mi scrive nessuno.\"\n\nOggi guardiamo un sito reale, con il permesso del titolare, e i tre motivi più comuni per cui le richieste non arrivano:\n1. in alto non è chiaro cosa fa l'attività;\n2. il contatto è solo in fondo alla pagina;\n3. il modulo chiede troppi campi.\n\nOgnuno si sistema in poche ore. Insieme fanno la differenza tra un sito vetrina e un sito che lavora.\n\n#Audit #SitiWeb #PMI",
+          "video": "media/strategia/S10.mp4",
+          "stato": "manca_video"
         }
-      }
+      },
+      "sostituzioni": [
+        {
+          "il": "2026-11-22T20:00:00.000Z",
+          "da": "2026-11-23 18:30",
+          "a": "2026-12-21 18:30",
+          "conContenuto": "R29",
+          "manuale": true
+        }
+      ]
     },
     {
       "id": "R51",
@@ -3312,6 +3295,31 @@
         "linkedin": {
           "testo": "Il testo alternativo descrive un'immagine a chi non può vederla. Lo leggono gli screen reader, e lo usa anche Google.\n\nEppure, nei siti più visitati al mondo, il 16,2% delle immagini in home page non ce l'ha. (WebAIM Million)\n\nScriverlo richiede pochi secondi per immagine. È accessibilità che si fa con il buon senso.\n\n#Accessibilità #AltText #WebDesign",
           "video": "media/reel/R94.mp4",
+          "stato": "da_programmare"
+        }
+      }
+    },
+    {
+      "id": "R53",
+      "titolo": "Tre secondi",
+      "formato": "Informativo",
+      "tipo": "reel",
+      "quando": "2027-01-27 18:30",
+      "dueAt": "2027-01-27T17:30:00.000Z",
+      "canali": {
+        "instagram": {
+          "testo": "Quanto aspetti che un sito si apra? Due secondi, forse tre.\nIl 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi (fonte: Google). Per questo da noi: mobile-first, codice pulito, performance vere.\nOgni millisecondo è una scelta consapevole.\n#velocita #mobilefirst #sitiweb #webdesign #pmiitaliane",
+          "video": "media/reel/R53.mp4",
+          "stato": "da_programmare"
+        },
+        "facebook": {
+          "testo": "Quanto aspetti che un sito si apra? Due secondi, forse tre. Poi chiudi.\n\nLo fanno anche i tuoi clienti: il 53% abbandona un sito che ci mette più di 3 secondi da telefono.",
+          "video": "media/reel/R53.mp4",
+          "stato": "da_programmare"
+        },
+        "linkedin": {
+          "testo": "Il 53% delle visite da mobile viene abbandonato se il sito ci mette più di 3 secondi a caricare. (Google)\n\nPer questo, in ogni progetto, tre scelte non sono negoziabili:\npensato prima per il telefono,\ncodice pulito, senza plugin superflui,\nperformance misurate sui telefoni reali, non sul computer.\n\nOgni millisecondo è una scelta consapevole.\n\n#Performance #MobileFirst #WebDesign",
+          "video": "media/reel/R53.mp4",
           "stato": "da_programmare"
         }
       }
