@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 25/11/2026, 02:25:42
+Ultimo controllo: 25/11/2026, 16:44:18
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -10,7 +10,7 @@ Ultimo controllo: 25/11/2026, 02:25:42
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-11-25 18:30 | S11 | Due idraulici | manca_video | manca_video | manca_video |
+| 2026-11-25 18:30 | R36 | Il nome su Maps | da_programmare | da_programmare | programmato |
 | 2026-11-26 18:30 | R65 | AI nelle imprese | da_programmare | da_programmare | programmato |
 | 2026-11-27 18:30 | S12 | 10 giorni in 40 secondi | manca_video | manca_video | manca_video |
 | 2026-11-28 11:00 | R31 | Banner cookie in regola | da_programmare | da_programmare | programmato |
@@ -19,7 +19,7 @@ Ultimo controllo: 25/11/2026, 02:25:42
 | 2026-12-01 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
 | 2026-12-02 18:30 | S03 | Il passaparola non basta | manca_video | manca_video | manca_video |
 | 2026-12-03 18:30 | S06 | WhatsApp, mail, DM | manca_video | manca_video | manca_video |
-| 2026-12-04 18:30 | R36 | Il nome su Maps | da_programmare | da_programmare | programmato |
+| 2026-12-04 18:30 | S11 | Due idraulici | manca_video | manca_video | manca_video |
 | 2026-12-05 11:00 | R43 | Tre mesi | da_programmare | da_programmare | programmato |
 | 2026-12-06 11:00 | R37 | Cosa misura l’INP | da_programmare | da_programmare | programmato |
 | 2026-12-07 18:30 | S04 | Sito del lunedì: l'agente immobiliare | manca_video | manca_video | manca_video |
@@ -40,22 +40,22 @@ Ultimo controllo: 25/11/2026, 02:25:42
 
 ### linkedin
 
+- 25/11/26, 18:30 · 
 - 26/11/26, 18:30 · In un anno le imprese italiane con almeno 10 addetti che usano l'intel
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
-- 04/12/26, 18:30 · Su Google Maps il nome dell'attività deve essere quello reale, senza p
 - 05/12/26, 11:00 · Perché un sito dovrebbe richiedere tre mesi? Spesso il tempo non va ne
 - 06/12/26, 11:00 · INP, Interaction to Next Paint, misura quanto il sito risponde quando 
 - 08/12/26, 18:30 · Accessibilità: le microimprese di servizi sono esenti dall'European Ac
 - 10/12/26, 18:30 · Il testo grigio chiaro su fondo bianco è elegante sul monitor del desi
 - 12/12/26, 11:00 · Vero. Si chiama mobile-first indexing: Google usa la versione mobile d
 - 13/12/26, 11:00 · Basta Instagram per un'attività? Nel 2025 il 76,5% delle imprese itali
-- 14/12/26, 18:30 · 
+- 14/12/26, 18:30 · Se un utente ha rifiutato i cookie, il banner non va riproposto prima 
 
 
 ## Ultime sostituzioni automatiche
 
-- 19/11/2026, 21:00 · Controllo serale: R60 "La scheda Google" (19/11 18:30) NON è uscito. buffer-sync liberava uno slot LinkedIn per R60 togliendo R41 (10/12), ma poi programmava i contenuti in ordine di file e non di data: lo slot tornava a R41 e R60 restava fuori (è successo alle 00:24 e alle 15:29). Slot di stasera vuoto. Corretto scripts/buffer-sync.mjs: ora programma in ordine di data
 - 19/11/2026, 21:00 · Correzione manuale preventiva: S09 "Le 5 domande" ancora senza video la sera prima. R60 "La scheda Google" (informativo, prossimità, pronto, non uscito stasera) esce il 2026-11-20 18:30; S09 passa al 2026-12-11 18:30 (scadenza video 11/12 16:30); R53 "Tre secondi" (informativo velocità) passa al 2027-01-27 18:30 (primo giorno libero). Sequenza: R32 vero/falso normativa → (19/11 vuoto) → R60 informativo prossimità → R26 A o B velocità → S01/sostituto. Intorno all'11/12: R41 A o B → S09 checklist AI → R42 vero/falso; S09 tenuto lontano da R63 "Cinque domande" (19/12). Attenzione: IG e FB ancora scollegati su Buffer, R60 esce solo su LinkedIn
 - 21/11/2026, 21:00 · Correzione manuale preventiva: S01 "Sito del lunedì: il ristorante" ancora senza video la sera prima (quarto rinvio). Scambiato con R33 "Con cosa è fatto" (informativo, pilastro AI + mestiere, stesso slot 11:00, già su Buffer per LinkedIn): R33 esce il 2026-11-22 11:00, S01 passa al 2026-11-29 11:00 (scadenza video 29/11 09:00). Sequenza: R32 vero/falso normativa → R60 informativo prossimità → R26 A o B velocità → R33 informativo AI + mestiere → S10/sostituto. Scartato R31 "Banner cookie in regola" (A o B subito dopo l'A o B R26). Per 23/11 (S10 senza video) serve un sostituto 18:30 che non sia informativo: candidato R29 "Le voci nel menu" (quiz, oggi al 26/11). Attenzione: IG e FB ancora scollegati su Buffer, R33 esce solo su LinkedIn
 - 22/11/2026, 21:00 · Correzione manuale preventiva: S10 "Sito del lunedì: audit su richiesta" ancora senza video la sera prima. Rotazione a tre: R29 "Le voci nel menu" (quiz, UX/Hick-Hyman, già su Buffer su tutti e tre i canali, daAggiornare) esce il 2026-11-23 18:30; S10 passa a lunedì 2026-12-21 18:30 (resta un "Sito del lunedì", scadenza video 21/12 16:30); R65 "AI nelle imprese" (informativo, AI + mestiere, pronto) passa al 2026-11-26 18:30, così si allontana anche da R47 "Imprese che usano l'AI" (18/12). Sequenza: R60 informativo prossimità → R26 A o B velocità → R33 informativo AI + mestiere → R29 quiz UX → S03/sostituto. Niente doppioni di formato di fila. Scartato R31 "Banner cookie in regola" (A o B subito dopo l'A o B R26 di due giorni fa, e slot 11:00). Per 24/11 (S03 senza video) serve un sostituto 18:30 non quiz: candidato R50 "La X del banner" (informativo, 2/12). Attenzione: IG e FB ancora scollegati su Buffer, R33 è uscito solo su LinkedIn
 - 24/11/2026, 16:57:19 · S03 "Il passaparola non basta" (mancava il materiale) spostato al 2026-12-02 18:30; al suo posto il 2026-11-24 18:30 esce R50 "La X del banner"
+- 25/11/2026, 16:44:16 · S11 "Due idraulici" (mancava il materiale) spostato al 2026-12-04 18:30; al suo posto il 2026-11-25 18:30 esce R36 "Il nome su Maps"

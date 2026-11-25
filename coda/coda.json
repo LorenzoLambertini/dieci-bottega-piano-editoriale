@@ -1592,30 +1592,29 @@
       }
     },
     {
-      "id": "S11",
-      "titolo": "Due idraulici",
-      "formato": "Mito vs realtà / confronto",
+      "id": "R36",
+      "titolo": "Il nome su Maps",
+      "formato": "A o B?",
       "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Consapevolezza",
       "quando": "2026-11-25 18:30",
       "dueAt": "2026-11-25T17:30:00.000Z",
-      "nota": "Da girare: Lorenzo in camera + split screen di due siti fittizi (da creare). Niente nomi di ditte reali. Quando il video è pronto va in media/strategia/S11.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Due idraulici, stessa via. Tu chi chiameresti?\nA: «Benvenuti nel sito della ditta», foto stock, numero in fondo. B: cosa fa e dove in una riga, la faccia del titolare, il bottone per chiamare in alto. In emergenza, da telefono, si decide in tre secondi.\nA o B nei commenti.\n#idraulico #artigiani #sitiweb #bologna #pmiitaliane",
-          "video": "media/strategia/S11.mp4",
-          "stato": "manca_video"
+          "testo": "Su Google Maps, quale nome va bene per la tua attività? A o B nei commenti.\nAggiungere parole chiave al nome sembra furbo. Guarda cosa dicono le linee guida di Google, e come scegliere le categorie giuste.\n#googlemaps #seolocale #googlebusiness #pmiitaliane #bologna",
+          "video": "media/reel/R36.mp4",
+          "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Due idraulici, stessa via. Uno ha \"Benvenuti nel sito della ditta\" e il numero in fondo. L'altro ha la sua faccia e il bottone per chiamare in alto.\n\nIn emergenza, tu chi chiami? A o B?",
-          "video": "media/strategia/S11.mp4",
-          "stato": "manca_video"
+          "testo": "Su Google Maps, che nome va dato alla tua attività: quello vero, o quello con \"siti web Bologna economici\" aggiunto? A o B?",
+          "video": "media/reel/R36.mp4",
+          "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "Due idraulici, stessa via, stesso mestiere. Magari stessa bravura.\n\nIl primo sito: \"Benvenuti nel sito della ditta\", foto stock, numero in fondo.\nIl secondo: \"Idraulico a Bologna, pronto intervento\", la faccia del titolare, il bottone per chiamare in alto.\n\nIn emergenza, da telefono, si decide in tre secondi.\n\nIl sito non ti rende più bravo. Ti fa sembrare bravo quanto sei.\n\n#Artigiani #SitiWeb #PMI",
-          "video": "media/strategia/S11.mp4",
-          "stato": "manca_video"
+          "testo": "Su Google Maps il nome dell'attività deve essere quello reale, senza parole chiave aggiunte. Aggiungere \"siti web Bologna economici\" al nome è contro le linee guida di Google e può portare alla sospensione del profilo.\n\nDove mettere invece le parole giuste? Nelle categorie: le più specifiche possibili, non le più numerose.\n\nÈ una delle prime cose che sistemiamo quando colleghiamo il Profilo dell'Attività di un cliente.\n\n#GoogleMaps #SEOLocale #PMI",
+          "video": "media/reel/R36.mp4",
+          "stato": "programmato",
+          "bufferId": "6b070252304332fdc8e04e4c",
+          "programmatoIl": "2026-11-25T15:44:18.694Z"
         }
       }
     },
@@ -1897,31 +1896,40 @@
       ]
     },
     {
-      "id": "R36",
-      "titolo": "Il nome su Maps",
-      "formato": "A o B?",
+      "id": "S11",
+      "titolo": "Due idraulici",
+      "formato": "Mito vs realtà / confronto",
       "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Consapevolezza",
       "quando": "2026-12-04 18:30",
       "dueAt": "2026-12-04T17:30:00.000Z",
+      "nota": "Da girare: Lorenzo in camera + split screen di due siti fittizi (da creare). Niente nomi di ditte reali. Quando il video è pronto va in media/strategia/S11.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Su Google Maps, quale nome va bene per la tua attività? A o B nei commenti.\nAggiungere parole chiave al nome sembra furbo. Guarda cosa dicono le linee guida di Google, e come scegliere le categorie giuste.\n#googlemaps #seolocale #googlebusiness #pmiitaliane #bologna",
-          "video": "media/reel/R36.mp4",
-          "stato": "da_programmare"
+          "testo": "Due idraulici, stessa via. Tu chi chiameresti?\nA: «Benvenuti nel sito della ditta», foto stock, numero in fondo. B: cosa fa e dove in una riga, la faccia del titolare, il bottone per chiamare in alto. In emergenza, da telefono, si decide in tre secondi.\nA o B nei commenti.\n#idraulico #artigiani #sitiweb #bologna #pmiitaliane",
+          "video": "media/strategia/S11.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Su Google Maps, che nome va dato alla tua attività: quello vero, o quello con \"siti web Bologna economici\" aggiunto? A o B?",
-          "video": "media/reel/R36.mp4",
-          "stato": "da_programmare"
+          "testo": "Due idraulici, stessa via. Uno ha \"Benvenuti nel sito della ditta\" e il numero in fondo. L'altro ha la sua faccia e il bottone per chiamare in alto.\n\nIn emergenza, tu chi chiami? A o B?",
+          "video": "media/strategia/S11.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Su Google Maps il nome dell'attività deve essere quello reale, senza parole chiave aggiunte. Aggiungere \"siti web Bologna economici\" al nome è contro le linee guida di Google e può portare alla sospensione del profilo.\n\nDove mettere invece le parole giuste? Nelle categorie: le più specifiche possibili, non le più numerose.\n\nÈ una delle prime cose che sistemiamo quando colleghiamo il Profilo dell'Attività di un cliente.\n\n#GoogleMaps #SEOLocale #PMI",
-          "video": "media/reel/R36.mp4",
-          "stato": "programmato",
-          "bufferId": "6af618636f87535976fd1c5b",
-          "programmatoIl": "2026-11-12T19:49:55.716Z"
+          "testo": "Due idraulici, stessa via, stesso mestiere. Magari stessa bravura.\n\nIl primo sito: \"Benvenuti nel sito della ditta\", foto stock, numero in fondo.\nIl secondo: \"Idraulico a Bologna, pronto intervento\", la faccia del titolare, il bottone per chiamare in alto.\n\nIn emergenza, da telefono, si decide in tre secondi.\n\nIl sito non ti rende più bravo. Ti fa sembrare bravo quanto sei.\n\n#Artigiani #SitiWeb #PMI",
+          "video": "media/strategia/S11.mp4",
+          "stato": "manca_video"
         }
-      }
+      },
+      "sostituzioni": [
+        {
+          "il": "2026-11-25T15:44:16.790Z",
+          "da": "2026-11-25 18:30",
+          "a": "2026-12-04 18:30",
+          "conContenuto": "R36"
+        }
+      ]
     },
     {
       "id": "R43",
