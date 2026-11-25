@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 24/11/2026, 16:57:21
+Ultimo controllo: 25/11/2026, 02:25:42
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -10,7 +10,6 @@ Ultimo controllo: 24/11/2026, 16:57:21
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-11-24 18:30 | R50 | La X del banner | da_programmare | da_programmare | programmato |
 | 2026-11-25 18:30 | S11 | Due idraulici | manca_video | manca_video | manca_video |
 | 2026-11-26 18:30 | R65 | AI nelle imprese | da_programmare | da_programmare | programmato |
 | 2026-11-27 18:30 | S12 | 10 giorni in 40 secondi | manca_video | manca_video | manca_video |
@@ -30,17 +29,17 @@ Ultimo controllo: 24/11/2026, 16:57:21
 | 2026-12-11 18:30 | S09 | Le 5 domande | manca_video | manca_video | manca_video |
 | 2026-12-12 11:00 | R42 | Google guarda il telefono | da_programmare | da_programmare | programmato |
 | 2026-12-13 11:00 | R55 | Basta Instagram | da_programmare | da_programmare | programmato |
-| 2026-12-14 18:30 | R44 | Banner cookie dopo sei mesi | da_programmare | da_programmare | da_programmare |
+| 2026-12-14 18:30 | R44 | Banner cookie dopo sei mesi | da_programmare | da_programmare | programmato |
 | 2026-12-15 18:30 | R58 | Accessibilita | da_programmare | da_programmare | da_programmare |
 | 2026-12-16 18:30 | R46 | Quale titolo | da_programmare | da_programmare | da_programmare |
 | 2026-12-17 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
 | 2026-12-18 18:30 | R47 | Imprese che usano l’AI | da_programmare | da_programmare | da_programmare |
+| 2026-12-19 11:00 | R63 | Cinque domande | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### linkedin
 
-- 24/11/26, 18:30 · 
 - 26/11/26, 18:30 · In un anno le imprese italiane con almeno 10 addetti che usano l'intel
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
 - 04/12/26, 18:30 · Su Google Maps il nome dell'attività deve essere quello reale, senza p
@@ -50,6 +49,7 @@ Ultimo controllo: 24/11/2026, 16:57:21
 - 10/12/26, 18:30 · Il testo grigio chiaro su fondo bianco è elegante sul monitor del desi
 - 12/12/26, 11:00 · Vero. Si chiama mobile-first indexing: Google usa la versione mobile d
 - 13/12/26, 11:00 · Basta Instagram per un'attività? Nel 2025 il 76,5% delle imprese itali
+- 14/12/26, 18:30 · 
 
 
 ## Ultime sostituzioni automatiche
