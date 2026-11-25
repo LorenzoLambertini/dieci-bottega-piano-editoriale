@@ -1,37 +1,6 @@
 {
- "aggiornato": "2026-11-24T19:49+00:00",
+ "aggiornato": "2026-11-25T19:50+00:00",
  "contenuti": [
-  {
-   "id": "S11",
-   "titolo": "Due idraulici",
-   "tipo": "reel",
-   "quando": "2026-11-25 18:30",
-   "dueAt": "2026-11-25T17:30:00.000Z",
-   "slide": [],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "manca_video",
-     "testo": "Due idraulici, stessa via. Tu chi chiameresti?\nA: «Benvenuti nel sito della ditta», foto stock, numero in fondo. B: cosa fa e dove in una riga, la faccia del titolare, il bottone per chiamare in alto. In emergenza, da telefono, si decide in tre secondi.\nA o B nei commenti.\n#idraulico #artigiani #sitiweb #bologna #pmiitaliane",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "manca_video",
-     "testo": "Due idraulici, stessa via. Uno ha \"Benvenuti nel sito della ditta\" e il numero in fondo. L'altro ha la sua faccia e il bottone per chiamare in alto.\n\nIn emergenza, tu chi chiami? A o B?",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "manca_video",
-     "testo": "Due idraulici, stessa via, stesso mestiere. Magari stessa bravura.\n\nIl primo sito: \"Benvenuti nel sito della ditta\", foto stock, numero in fondo.\nIl secondo: \"Idraulico a Bologna, pronto intervento\", la faccia del titolare, il bottone per chiamare in alto.\n\nIn emergenza, da telefono, si decide in tre secondi.\n\nIl sito non ti rende più bravo. Ti fa sembrare bravo quanto sei.\n\n#Artigiani #SitiWeb #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
   {
    "id": "R65",
    "titolo": "AI nelle imprese",
@@ -336,35 +305,43 @@
    ]
   },
   {
-   "id": "R36",
-   "titolo": "Il nome su Maps",
+   "id": "S11",
+   "titolo": "Due idraulici",
    "tipo": "reel",
    "quando": "2026-12-04 18:30",
    "dueAt": "2026-12-04T17:30:00.000Z",
    "slide": [],
-   "poster": "img/R36_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R36.mp4",
-   "durata": 30,
+   "poster": null,
+   "video": null,
+   "durata": null,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
-     "testo": "Su Google Maps, quale nome va bene per la tua attività? A o B nei commenti.\nAggiungere parole chiave al nome sembra furbo. Guarda cosa dicono le linee guida di Google, e come scegliere le categorie giuste.\n#googlemaps #seolocale #googlebusiness #pmiitaliane #bologna",
+     "stato": "manca_video",
+     "testo": "Due idraulici, stessa via. Tu chi chiameresti?\nA: «Benvenuti nel sito della ditta», foto stock, numero in fondo. B: cosa fa e dove in una riga, la faccia del titolare, il bottone per chiamare in alto. In emergenza, da telefono, si decide in tre secondi.\nA o B nei commenti.\n#idraulico #artigiani #sitiweb #bologna #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
-     "testo": "Su Google Maps, che nome va dato alla tua attività: quello vero, o quello con \"siti web Bologna economici\" aggiunto? A o B?",
+     "stato": "manca_video",
+     "testo": "Due idraulici, stessa via. Uno ha \"Benvenuti nel sito della ditta\" e il numero in fondo. L'altro ha la sua faccia e il bottone per chiamare in alto.\n\nIn emergenza, tu chi chiami? A o B?",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "programmato",
-     "testo": "Su Google Maps il nome dell'attività deve essere quello reale, senza parole chiave aggiunte. Aggiungere \"siti web Bologna economici\" al nome è contro le linee guida di Google e può portare alla sospensione del profilo.\n\nDove mettere invece le parole giuste? Nelle categorie: le più specifiche possibili, non le più numerose.\n\nÈ una delle prime cose che sistemiamo quando colleghiamo il Profilo dell'Attività di un cliente.\n\n#GoogleMaps #SEOLocale #PMI",
+     "stato": "manca_video",
+     "testo": "Due idraulici, stessa via, stesso mestiere. Magari stessa bravura.\n\nIl primo sito: \"Benvenuti nel sito della ditta\", foto stock, numero in fondo.\nIl secondo: \"Idraulico a Bologna, pronto intervento\", la faccia del titolare, il bottone per chiamare in alto.\n\nIn emergenza, da telefono, si decide in tre secondi.\n\nIl sito non ti rende più bravo. Ti fa sembrare bravo quanto sei.\n\n#Artigiani #SitiWeb #PMI",
      "formato": "video",
      "errore": null
     }
-   }
+   },
+   "sostituzioni": [
+    {
+     "il": "2026-11-25T15:44:16.790Z",
+     "da": "2026-11-25 18:30",
+     "a": "2026-12-04 18:30",
+     "conContenuto": "R36"
+    }
+   ]
   },
   {
    "id": "R43",
@@ -684,7 +661,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Se un utente ha rifiutato i cookie, il banner non va riproposto prima di sei mesi, salvo cambiamenti nel trattamento. (Garante Privacy, FAQ cookie 2021)\n\nRiproporlo apposta a ogni visita per strappare un sì è considerato illecito.\n\nÈ uno di quei dettagli che i plugin gratuiti spesso sbagliano di default.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
      "formato": "video",
      "errore": null
@@ -1470,6 +1447,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Il 57% del tempo su una pagina si passa nella parte visibile senza scorrere. (Nielsen Norman Group)\n\nLì servono tre cose:\nChi sei · in una riga.\nCosa fai · senza gergo.\nCome contattarti · con un tocco.\n\nIl primo schermo lavora più di tutto il resto della pagina. Merita la stessa cura.\n\n#Homepage #UX #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R67",
+   "titolo": "Credibilita e design",
+   "tipo": "reel",
+   "quando": "2027-01-09 11:00",
+   "dueAt": "2027-01-09T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R67_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R67.mp4",
+   "durata": 29,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Quante persone giudicano la credibilità di un sito anche dal design? Una su dieci, quasi la metà o tutti?\nRispondi nei commenti. Nel video il dato, e in quale settore sale ancora. Fonte: Stanford Web Credibility Project.\n#webdesign #credibilita #sitiweb #pmiitaliane #bottegadigitale",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Quante persone giudicano un sito affidabile anche dal design? Una su dieci, quasi la metà o tutti?\n\nScrivi la tua.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Il 46,1% delle persone giudica la credibilità di un sito anche dal suo design. Per i siti di finanza si arriva al 54,6%. (Stanford Web Credibility Project)\n\nQuasi una persona su due decide se fidarsi prima di leggere cosa offri.\n\nIl design non è decorazione. È la prima prova di serietà.\n\n#WebDesign #Credibilità #PMI",
      "formato": "video",
      "errore": null
     }
