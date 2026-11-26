@@ -1646,30 +1646,30 @@
       }
     },
     {
-      "id": "S12",
-      "titolo": "10 giorni in 40 secondi",
-      "formato": "Bottega aperta",
+      "id": "R43",
+      "titolo": "Tre mesi",
+      "formato": "Informativo",
       "tipo": "reel",
-      "serie": "Strategia Reels",
-      "obiettivo": "Conversione",
       "quando": "2026-11-27 18:30",
       "dueAt": "2026-11-27T17:30:00.000Z",
-      "nota": "Da girare: Registrare lo schermo durante un progetto reale (es. prossimo cliente o rifacimento Villa Pet Sitter) giorno per giorno, serve il permesso del cliente. Quando il video è pronto va in media/strategia/S12.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti.\nBrief, struttura e testi, design, prima versione al cliente, correzioni e test da telefono. Giorno dieci: online. Veloci, non frettolosi.\nVuoi il tuo? Scrivici oggi, partiamo lunedì.\n#processo #sitiweb #bottegadigitale #bologna #pmiitaliane",
-          "video": "media/strategia/S12.mp4",
-          "stato": "manca_video"
+          "testo": "Tre mesi per un sito? Dieci giorni, non tre mesi.\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. La velocità non è una scorciatoia, è metodo.\n#velocita #metodo #sitiweb #bottegadigitale #pmiitaliane",
+          "video": "media/reel/R43.mp4",
+          "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti, uno dopo l'altro.\n\nVuoi il tuo? Scrivici oggi, partiamo lunedì: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=S12",
-          "video": "media/strategia/S12.mp4",
-          "stato": "manca_video"
+          "testo": "Tre mesi per un sito? Dieci giorni, non tre mesi.\n\nConsegnare in dieci giorni vuol dire: il tuo tempo conta quanto il nostro.",
+          "video": "media/reel/R43.mp4",
+          "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "Dieci giorni di un progetto reale, in quaranta secondi:\n\nGiorno 1 · brief, mezz'ora per capire il mestiere.\nGiorni 2–3 · struttura e testi.\nGiorni 4–6 · design, dettaglio per dettaglio.\nGiorno 7 · prima versione al cliente.\nGiorni 8–9 · correzioni e test da telefono.\nGiorno 10 · online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=S12\n\n#Processo #WebDesign #PMI",
-          "video": "media/strategia/S12.mp4",
-          "stato": "manca_video"
+          "testo": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il tempo non va nel lavoro, va nelle attese: riunioni, approvazioni, passaggi di mano.\n\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. Non è una scorciatoia: è un metodo, con un calendario preciso e due round di revisione.\n\nVeloci, non frettolosi.\n\n#Metodo #PMI #WebDesign",
+          "video": "media/reel/R43.mp4",
+          "stato": "programmato",
+          "bufferId": "6af7915c78196a0a97261e08",
+          "programmatoIl": "2026-11-13T22:38:20.489Z",
+          "daAggiornare": true
         }
       }
     },
@@ -1932,29 +1932,30 @@
       ]
     },
     {
-      "id": "R43",
-      "titolo": "Tre mesi",
+      "id": "R55",
+      "titolo": "Basta Instagram",
       "formato": "Informativo",
       "tipo": "reel",
       "quando": "2026-12-05 11:00",
       "dueAt": "2026-12-05T10:00:00.000Z",
       "canali": {
         "instagram": {
-          "testo": "Tre mesi per un sito? Dieci giorni, non tre mesi.\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. La velocità non è una scorciatoia, è metodo.\n#velocita #metodo #sitiweb #bottegadigitale #pmiitaliane",
-          "video": "media/reel/R43.mp4",
+          "testo": "Basta Instagram?\nNel 2025 il 76,5% delle imprese italiane ha un sito, il 59% usa i social (fonte: Istat). Instagram è un profilo. Il sito è casa tua: un sito che ti fa prendere sul serio, trovato su Google, aggiornabile da te.\n#instagram #sitiweb #pmiitaliane #istat #bologna",
+          "video": "media/reel/R55.mp4",
           "stato": "da_programmare"
         },
         "facebook": {
-          "testo": "Tre mesi per un sito? Dieci giorni, non tre mesi.\n\nConsegnare in dieci giorni vuol dire: il tuo tempo conta quanto il nostro.",
-          "video": "media/reel/R43.mp4",
+          "testo": "Basta Instagram per un'attività?\n\nInstagram è un profilo, il sito è casa tua. Chi ti cerca su Google deve trovarti lì, non solo sui social.",
+          "video": "media/reel/R55.mp4",
           "stato": "da_programmare"
         },
         "linkedin": {
-          "testo": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il tempo non va nel lavoro, va nelle attese: riunioni, approvazioni, passaggi di mano.\n\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. Non è una scorciatoia: è un metodo, con un calendario preciso e due round di revisione.\n\nVeloci, non frettolosi.\n\n#Metodo #PMI #WebDesign",
-          "video": "media/reel/R43.mp4",
+          "testo": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle imprese italiane con almeno 10 addetti ha un sito, mentre il 59% usa i social. (Istat)\n\nInstagram è un profilo: le regole le decide la piattaforma, e chi ti cerca su Google non ti trova lì. Il sito è casa tua: trovato su Google, aggiornabile da te, con i tuoi contenuti e i tuoi contatti.\n\nI social portano persone. Il sito le fa diventare clienti.\n\n#Instagram #SitiWeb #PMI",
+          "video": "media/reel/R55.mp4",
           "stato": "programmato",
-          "bufferId": "6af7915c78196a0a97261e08",
-          "programmatoIl": "2026-11-13T22:38:20.489Z"
+          "bufferId": "6b050258f0d7b1e0dea9f7e2",
+          "programmatoIl": "2026-11-24T03:19:53.133Z",
+          "daAggiornare": true
         }
       }
     },
@@ -2166,29 +2167,30 @@
       }
     },
     {
-      "id": "R55",
-      "titolo": "Basta Instagram",
-      "formato": "Informativo",
+      "id": "S12",
+      "titolo": "10 giorni in 40 secondi",
+      "formato": "Bottega aperta",
       "tipo": "reel",
+      "serie": "Strategia Reels",
+      "obiettivo": "Conversione",
       "quando": "2026-12-13 11:00",
       "dueAt": "2026-12-13T10:00:00.000Z",
+      "nota": "Da girare: Registrare lo schermo durante un progetto reale (es. prossimo cliente o rifacimento Villa Pet Sitter) giorno per giorno, serve il permesso del cliente. Quando il video è pronto va in media/strategia/S12.mp4 e lo stato passa a da_programmare.",
       "canali": {
         "instagram": {
-          "testo": "Basta Instagram?\nNel 2025 il 76,5% delle imprese italiane ha un sito, il 59% usa i social (fonte: Istat). Instagram è un profilo. Il sito è casa tua: un sito che ti fa prendere sul serio, trovato su Google, aggiornabile da te.\n#instagram #sitiweb #pmiitaliane #istat #bologna",
-          "video": "media/reel/R55.mp4",
-          "stato": "da_programmare"
+          "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti.\nBrief, struttura e testi, design, prima versione al cliente, correzioni e test da telefono. Giorno dieci: online. Veloci, non frettolosi.\nVuoi il tuo? Scrivici oggi, partiamo lunedì.\n#processo #sitiweb #bottegadigitale #bologna #pmiitaliane",
+          "video": "media/strategia/S12.mp4",
+          "stato": "manca_video"
         },
         "facebook": {
-          "testo": "Basta Instagram per un'attività?\n\nInstagram è un profilo, il sito è casa tua. Chi ti cerca su Google deve trovarti lì, non solo sui social.",
-          "video": "media/reel/R55.mp4",
-          "stato": "da_programmare"
+          "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti, uno dopo l'altro.\n\nVuoi il tuo? Scrivici oggi, partiamo lunedì: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=S12",
+          "video": "media/strategia/S12.mp4",
+          "stato": "manca_video"
         },
         "linkedin": {
-          "testo": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle imprese italiane con almeno 10 addetti ha un sito, mentre il 59% usa i social. (Istat)\n\nInstagram è un profilo: le regole le decide la piattaforma, e chi ti cerca su Google non ti trova lì. Il sito è casa tua: trovato su Google, aggiornabile da te, con i tuoi contenuti e i tuoi contatti.\n\nI social portano persone. Il sito le fa diventare clienti.\n\n#Instagram #SitiWeb #PMI",
-          "video": "media/reel/R55.mp4",
-          "stato": "programmato",
-          "bufferId": "6b050258f0d7b1e0dea9f7e2",
-          "programmatoIl": "2026-11-24T03:19:53.133Z"
+          "testo": "Dieci giorni di un progetto reale, in quaranta secondi:\n\nGiorno 1 · brief, mezz'ora per capire il mestiere.\nGiorni 2–3 · struttura e testi.\nGiorni 4–6 · design, dettaglio per dettaglio.\nGiorno 7 · prima versione al cliente.\nGiorni 8–9 · correzioni e test da telefono.\nGiorno 10 · online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=S12\n\n#Processo #WebDesign #PMI",
+          "video": "media/strategia/S12.mp4",
+          "stato": "manca_video"
         }
       }
     },
