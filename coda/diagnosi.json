@@ -729,6 +729,19 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6b0784859f6dda31ccaee1a3",
+        "dueAt": "2026-12-15T17:30:00.000Z",
+        "sentAt": null,
+        "text": "European Accessibility Act: dal 28 giugno 2025 valgono obbli",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6b063915c4ff71faa8249f6e",
         "dueAt": "2026-12-14T17:30:00.000Z",
         "sentAt": null,
@@ -833,19 +846,6 @@
         "via": "buffer"
       },
       {
-        "id": "6af618636f87535976fd1c5b",
-        "dueAt": "2026-12-04T17:30:00.000Z",
-        "sentAt": null,
-        "text": "Su Google Maps il nome dell'attività deve essere quello real",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6aee4fb4af7e526d43e50cad",
         "dueAt": "2026-11-28T10:00:00.000Z",
         "sentAt": null,
@@ -861,6 +861,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6b070252304332fdc8e04e4c",
+        "dueAt": "2026-11-25T17:30:00.000Z",
+        "sentAt": "2026-11-25T17:30:39.819Z",
+        "text": "Su Google Maps il nome dell'attività deve essere quello real",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6b05b3e1e95029ef22a0ed54",
         "dueAt": "2026-11-24T17:30:00.000Z",
@@ -1237,26 +1250,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ada7334793513d242f2829c",
-        "dueAt": "2026-11-07T10:00:00.000Z",
-        "sentAt": "2026-11-07T10:02:36.619Z",
-        "text": "Il 76,5% delle imprese italiane con almeno 10 addetti ha un ",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Tue, 24 Nov 2026 19:51:44 GMT 2888614",
-    "media/reel/R07.mp4": "200 Tue, 24 Nov 2026 19:51:44 GMT 3173777",
-    "index.html": "200 Tue, 24 Nov 2026 19:51:43 GMT 104461"
+    "media/reel/R02.mp4": "200 Wed, 25 Nov 2026 19:51:46 GMT 2888614",
+    "media/reel/R07.mp4": "200 Wed, 25 Nov 2026 19:51:47 GMT 3173777",
+    "index.html": "200 Wed, 25 Nov 2026 19:51:46 GMT 104461"
   }
 }

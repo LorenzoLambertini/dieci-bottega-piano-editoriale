@@ -2240,7 +2240,9 @@
         "linkedin": {
           "testo": "European Accessibility Act: dal 28 giugno 2025 valgono obblighi di accessibilità per molti servizi digitali rivolti ai consumatori. In Italia, D.Lgs. 82/2022.\n\nRiguarda anche l'e-commerce. Il riferimento tecnico è WCAG 2.1, livello AA. Le microimprese di servizi (meno di 10 dipendenti, fatturato o bilancio fino a 2 milioni) sono esenti.\n\nSe vendi online e non sei sicuro di rientrare nell'esenzione, è il momento di verificarlo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #EAA",
           "video": "media/reel/R58.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6b0784859f6dda31ccaee1a3",
+          "programmatoIl": "2026-11-26T00:59:49.546Z"
         }
       }
     },
