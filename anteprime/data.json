@@ -1,63 +1,32 @@
 {
- "aggiornato": "2026-11-25T19:50+00:00",
+ "aggiornato": "2026-11-26T19:50+00:00",
  "contenuti": [
   {
-   "id": "R65",
-   "titolo": "AI nelle imprese",
+   "id": "R43",
+   "titolo": "Tre mesi",
    "tipo": "reel",
-   "quando": "2026-11-26 18:30",
-   "dueAt": "2026-11-26T17:30:00.000Z",
+   "quando": "2026-11-27 18:30",
+   "dueAt": "2026-11-27T17:30:00.000Z",
    "slide": [],
-   "poster": "img/R65_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R65.mp4",
-   "durata": 25,
+   "poster": "img/R43_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R43.mp4",
+   "durata": 24,
    "canali": {
     "instagram": {
      "stato": "da_programmare",
-     "testo": "L'AI nelle imprese italiane, in un anno: dall'8,2% al 16,4% delle imprese con almeno 10 addetti (fonte: Istat).\nDa noi, da sempre: AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano, gli diamo un martello migliore.\n#intelligenzaartificiale #istat #pmiitaliane #artigianato #bottegadigitale",
+     "testo": "Tre mesi per un sito? Dieci giorni, non tre mesi.\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. La velocità non è una scorciatoia, è metodo.\n#velocita #metodo #sitiweb #bottegadigitale #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
      "stato": "da_programmare",
-     "testo": "In un anno le imprese italiane che usano l'intelligenza artificiale sono raddoppiate: dall'8,2% al 16,4%.\n\nDa noi l'AI è uno strumento, il mestiere resta il metodo.",
+     "testo": "Tre mesi per un sito? Dieci giorni, non tre mesi.\n\nConsegnare in dieci giorni vuol dire: il tuo tempo conta quanto il nostro.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
      "stato": "programmato",
-     "testo": "In un anno le imprese italiane con almeno 10 addetti che usano l'intelligenza artificiale sono passate dall'8,2% al 16,4%. (Istat, Imprese e ICT 2025)\n\nRaddoppiare in dodici mesi è un segnale chiaro: non è più una sperimentazione.\n\nIl nostro approccio resta lo stesso dal primo giorno. AI come strumento, mestiere come metodo. Non sostituiamo l'artigiano: gli diamo un martello migliore.\n\n#IntelligenzaArtificiale #Istat #PMI",
-     "formato": "video",
-     "errore": null
-    }
-   }
-  },
-  {
-   "id": "S12",
-   "titolo": "10 giorni in 40 secondi",
-   "tipo": "reel",
-   "quando": "2026-11-27 18:30",
-   "dueAt": "2026-11-27T17:30:00.000Z",
-   "slide": [],
-   "poster": null,
-   "video": null,
-   "durata": null,
-   "canali": {
-    "instagram": {
-     "stato": "manca_video",
-     "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti.\nBrief, struttura e testi, design, prima versione al cliente, correzioni e test da telefono. Giorno dieci: online. Veloci, non frettolosi.\nVuoi il tuo? Scrivici oggi, partiamo lunedì.\n#processo #sitiweb #bottegadigitale #bologna #pmiitaliane",
-     "formato": "video",
-     "errore": null
-    },
-    "facebook": {
-     "stato": "manca_video",
-     "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti, uno dopo l'altro.\n\nVuoi il tuo? Scrivici oggi, partiamo lunedì: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=S12",
-     "formato": "video",
-     "errore": null
-    },
-    "linkedin": {
-     "stato": "manca_video",
-     "testo": "Dieci giorni di un progetto reale, in quaranta secondi:\n\nGiorno 1 · brief, mezz'ora per capire il mestiere.\nGiorni 2–3 · struttura e testi.\nGiorni 4–6 · design, dettaglio per dettaglio.\nGiorno 7 · prima versione al cliente.\nGiorni 8–9 · correzioni e test da telefono.\nGiorno 10 · online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=S12\n\n#Processo #WebDesign #PMI",
+     "testo": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il tempo non va nel lavoro, va nelle attese: riunioni, approvazioni, passaggi di mano.\n\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. Non è una scorciatoia: è un metodo, con un calendario preciso e due round di revisione.\n\nVeloci, non frettolosi.\n\n#Metodo #PMI #WebDesign",
      "formato": "video",
      "errore": null
     }
@@ -344,31 +313,31 @@
    ]
   },
   {
-   "id": "R43",
-   "titolo": "Tre mesi",
+   "id": "R55",
+   "titolo": "Basta Instagram",
    "tipo": "reel",
    "quando": "2026-12-05 11:00",
    "dueAt": "2026-12-05T10:00:00.000Z",
    "slide": [],
-   "poster": "img/R43_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R43.mp4",
-   "durata": 24,
+   "poster": "img/R55_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R55.mp4",
+   "durata": 25,
    "canali": {
     "instagram": {
      "stato": "da_programmare",
-     "testo": "Tre mesi per un sito? Dieci giorni, non tre mesi.\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. La velocità non è una scorciatoia, è metodo.\n#velocita #metodo #sitiweb #bottegadigitale #pmiitaliane",
+     "testo": "Basta Instagram?\nNel 2025 il 76,5% delle imprese italiane ha un sito, il 59% usa i social (fonte: Istat). Instagram è un profilo. Il sito è casa tua: un sito che ti fa prendere sul serio, trovato su Google, aggiornabile da te.\n#instagram #sitiweb #pmiitaliane #istat #bologna",
      "formato": "video",
      "errore": null
     },
     "facebook": {
      "stato": "da_programmare",
-     "testo": "Tre mesi per un sito? Dieci giorni, non tre mesi.\n\nConsegnare in dieci giorni vuol dire: il tuo tempo conta quanto il nostro.",
+     "testo": "Basta Instagram per un'attività?\n\nInstagram è un profilo, il sito è casa tua. Chi ti cerca su Google deve trovarti lì, non solo sui social.",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
      "stato": "programmato",
-     "testo": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il tempo non va nel lavoro, va nelle attese: riunioni, approvazioni, passaggi di mano.\n\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. Non è una scorciatoia: è un metodo, con un calendario preciso e due round di revisione.\n\nVeloci, non frettolosi.\n\n#Metodo #PMI #WebDesign",
+     "testo": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle imprese italiane con almeno 10 addetti ha un sito, mentre il 59% usa i social. (Istat)\n\nInstagram è un profilo: le regole le decide la piattaforma, e chi ti cerca su Google non ti trova lì. Il sito è casa tua: trovato su Google, aggiornabile da te, con i tuoi contenuti e i tuoi contatti.\n\nI social portano persone. Il sito le fa diventare clienti.\n\n#Instagram #SitiWeb #PMI",
      "formato": "video",
      "errore": null
     }
@@ -607,31 +576,31 @@
    }
   },
   {
-   "id": "R55",
-   "titolo": "Basta Instagram",
+   "id": "S12",
+   "titolo": "10 giorni in 40 secondi",
    "tipo": "reel",
    "quando": "2026-12-13 11:00",
    "dueAt": "2026-12-13T10:00:00.000Z",
    "slide": [],
-   "poster": "img/R55_poster.jpg",
-   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R55.mp4",
-   "durata": 25,
+   "poster": null,
+   "video": null,
+   "durata": null,
    "canali": {
     "instagram": {
-     "stato": "da_programmare",
-     "testo": "Basta Instagram?\nNel 2025 il 76,5% delle imprese italiane ha un sito, il 59% usa i social (fonte: Istat). Instagram è un profilo. Il sito è casa tua: un sito che ti fa prendere sul serio, trovato su Google, aggiornabile da te.\n#instagram #sitiweb #pmiitaliane #istat #bologna",
+     "stato": "manca_video",
+     "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti.\nBrief, struttura e testi, design, prima versione al cliente, correzioni e test da telefono. Giorno dieci: online. Veloci, non frettolosi.\nVuoi il tuo? Scrivici oggi, partiamo lunedì.\n#processo #sitiweb #bottegadigitale #bologna #pmiitaliane",
      "formato": "video",
      "errore": null
     },
     "facebook": {
-     "stato": "da_programmare",
-     "testo": "Basta Instagram per un'attività?\n\nInstagram è un profilo, il sito è casa tua. Chi ti cerca su Google deve trovarti lì, non solo sui social.",
+     "stato": "manca_video",
+     "testo": "Un sito vero, costruito in dieci giorni. Eccoli tutti, uno dopo l'altro.\n\nVuoi il tuo? Scrivici oggi, partiamo lunedì: https://diecibottega.it/inizia-progetto?utm_source=facebook&utm_medium=reel&utm_campaign=S12",
      "formato": "video",
      "errore": null
     },
     "linkedin": {
-     "stato": "programmato",
-     "testo": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle imprese italiane con almeno 10 addetti ha un sito, mentre il 59% usa i social. (Istat)\n\nInstagram è un profilo: le regole le decide la piattaforma, e chi ti cerca su Google non ti trova lì. Il sito è casa tua: trovato su Google, aggiornabile da te, con i tuoi contenuti e i tuoi contatti.\n\nI social portano persone. Il sito le fa diventare clienti.\n\n#Instagram #SitiWeb #PMI",
+     "stato": "manca_video",
+     "testo": "Dieci giorni di un progetto reale, in quaranta secondi:\n\nGiorno 1 · brief, mezz'ora per capire il mestiere.\nGiorni 2–3 · struttura e testi.\nGiorni 4–6 · design, dettaglio per dettaglio.\nGiorno 7 · prima versione al cliente.\nGiorni 8–9 · correzioni e test da telefono.\nGiorno 10 · online.\n\nVeloci, non frettolosi.\n\nhttps://diecibottega.it/inizia-progetto?utm_source=linkedin&utm_medium=reel&utm_campaign=S12\n\n#Processo #WebDesign #PMI",
      "formato": "video",
      "errore": null
     }
@@ -692,7 +661,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "European Accessibility Act: dal 28 giugno 2025 valgono obblighi di accessibilità per molti servizi digitali rivolti ai consumatori. In Italia, D.Lgs. 82/2022.\n\nRiguarda anche l'e-commerce. Il riferimento tecnico è WCAG 2.1, livello AA. Le microimprese di servizi (meno di 10 dipendenti, fatturato o bilancio fino a 2 milioni) sono esenti.\n\nSe vendi online e non sei sicuro di rientrare nell'esenzione, è il momento di verificarlo.\n\nInformazione generale, non è una consulenza legale.\n\n#Accessibilità #Ecommerce #EAA",
      "formato": "video",
      "errore": null
@@ -723,7 +692,7 @@
      "errore": null
     },
     "linkedin": {
-     "stato": "da_programmare",
+     "stato": "programmato",
      "testo": "Il titolo è la parte del sito che leggono tutti. Il resto, spesso no.\n\nSi legge in alto, da sinistra (Nielsen Norman Group). Quindi le prime parole devono dire chi sei e cosa fai. \"Benvenuti nel sito della ditta Rossi\" spreca la posizione più preziosa della pagina. \"Idraulico a Bologna. Pronto intervento.\" la usa.\n\nRileggi il titolo della tua homepage: le prime tre parole dicono cosa fai?\n\n#Copywriting #Homepage #PMI",
      "formato": "video",
      "errore": null
@@ -1478,6 +1447,37 @@
     "linkedin": {
      "stato": "da_programmare",
      "testo": "Il 46,1% delle persone giudica la credibilità di un sito anche dal suo design. Per i siti di finanza si arriva al 54,6%. (Stanford Web Credibility Project)\n\nQuasi una persona su due decide se fidarsi prima di leggere cosa offri.\n\nIl design non è decorazione. È la prima prova di serietà.\n\n#WebDesign #Credibilità #PMI",
+     "formato": "video",
+     "errore": null
+    }
+   }
+  },
+  {
+   "id": "R90",
+   "titolo": "Troppe scelte",
+   "tipo": "reel",
+   "quando": "2027-01-10 11:00",
+   "dueAt": "2027-01-10T10:00:00.000Z",
+   "slide": [],
+   "poster": "img/R90_poster.jpg",
+   "video": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R90.mp4",
+   "durata": 24,
+   "canali": {
+    "instagram": {
+     "stato": "da_programmare",
+     "testo": "Troppe scelte? Un menu con quindici voci lascia indecisi. Un bottone solo, \"Scrivici\", fa decidere.\nPiù scelte, più tempo per decidere: lo dice la legge di Hick-Hyman, anni '50. Per questo la nostra landing page è una pagina con un obiettivo: farti contattare.\n#landingpage #ux #webdesign #sitiweb #pmiitaliane",
+     "formato": "video",
+     "errore": null
+    },
+    "facebook": {
+     "stato": "da_programmare",
+     "testo": "Troppe scelte? Un menu con quindici voci ti lascia indeciso, un bottone solo ti fa decidere.\n\nPer questo la nostra landing page ha un solo obiettivo: farti contattare.",
+     "formato": "video",
+     "errore": null
+    },
+    "linkedin": {
+     "stato": "da_programmare",
+     "testo": "Più scelte, più tempo per decidere (legge di Hick-Hyman, anni '50).\n\nÈ il motivo per cui una landing page funziona: una pagina, un obiettivo, un bottone. Niente menu con quindici voci, niente distrazioni.\n\nQuando l'obiettivo è farsi contattare, ogni elemento che non porta lì è un ostacolo.\n\n#LandingPage #UX #PMI",
      "formato": "video",
      "errore": null
     }
