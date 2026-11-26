@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 26/11/2026, 01:59:49
+Ultimo controllo: 26/11/2026, 16:25:04
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -49,7 +49,7 @@ Ultimo controllo: 26/11/2026, 01:59:49
 - 12/12/26, 11:00 · Vero. Si chiama mobile-first indexing: Google usa la versione mobile d
 - 13/12/26, 11:00 · Basta Instagram per un'attività? Nel 2025 il 76,5% delle imprese itali
 - 14/12/26, 18:30 · Se un utente ha rifiutato i cookie, il banner non va riproposto prima 
-- 15/12/26, 18:30 · 
+- 15/12/26, 18:30 · European Accessibility Act: dal 28 giugno 2025 valgono obblighi di acc
 
 
 ## Ultime sostituzioni automatiche
