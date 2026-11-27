@@ -1,12 +1,34 @@
 {
   "linkedin": [
     {
+      "id": "6b088d80f0a96d0f2186ec78",
+      "dueAt": "2026-11-27T17:30:00.000Z",
+      "text": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il tempo non va nel lavoro, va nelle attese: riunioni, approvazioni, passaggi di mano.\n\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. Non è una scorciatoia: è un metodo, con un calendario preciso e due round di revisione.\n\nVeloci, non frettolosi.\n\n#Metodo #PMI #WebDesign",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R43.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
       "id": "6aee4fb4af7e526d43e50cad",
       "dueAt": "2026-11-28T10:00:00.000Z",
       "text": "Un banner cookie in regola deve permettere di chiudere o rifiutare con la stessa facilità con cui si accetta. Chiudere con la X equivale a rifiutare.\n\nE bloccare il sito finché l'utente non accetta (il cosiddetto cookie wall) non è ammesso. (Garante Privacy, linee guida 2021)\n\nMolti siti aziendali usano ancora banner con il solo \"Accetta tutto\". È uno dei controlli che facciamo prima di mettere online un sito.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R31.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6b088d803accdac92cf6a9df",
+      "dueAt": "2026-12-05T10:00:00.000Z",
+      "text": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle imprese italiane con almeno 10 addetti ha un sito, mentre il 59% usa i social. (Istat)\n\nInstagram è un profilo: le regole le decide la piattaforma, e chi ti cerca su Google non ti trova lì. Il sito è casa tua: trovato su Google, aggiornabile da te, con i tuoi contenuti e i tuoi contatti.\n\nI social portano persone. Il sito le fa diventare clienti.\n\n#Instagram #SitiWeb #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R55.mp4",
           "tipo": "video/mp4"
         }
       ]
@@ -73,6 +95,17 @@
       "assets": [
         {
           "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R58.mp4",
+          "tipo": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "6b088d813accdac92cf6aa1d",
+      "dueAt": "2026-12-16T17:30:00.000Z",
+      "text": "Il titolo è la parte del sito che leggono tutti. Il resto, spesso no.\n\nSi legge in alto, da sinistra (Nielsen Norman Group). Quindi le prime parole devono dire chi sei e cosa fai. \"Benvenuti nel sito della ditta Rossi\" spreca la posizione più preziosa della pagina. \"Idraulico a Bologna. Pronto intervento.\" la usa.\n\nRileggi il titolo della tua homepage: le prime tre parole dicono cosa fai?\n\n#Copywriting #Homepage #PMI",
+      "assets": [
+        {
+          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R46.mp4",
           "tipo": "video/mp4"
         }
       ]

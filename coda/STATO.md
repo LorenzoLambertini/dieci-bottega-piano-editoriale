@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 26/11/2026, 20:50:25
+Ultimo controllo: 27/11/2026, 02:00:25
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -40,16 +40,16 @@ Ultimo controllo: 26/11/2026, 20:50:25
 
 ### linkedin
 
-- 27/11/26, 18:30 · 
+- 27/11/26, 18:30 · Perché un sito dovrebbe richiedere tre mesi? Spesso il tempo non va ne
 - 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
-- 05/12/26, 11:00 · 
+- 05/12/26, 11:00 · Basta Instagram per un'attività? Nel 2025 il 76,5% delle imprese itali
 - 06/12/26, 11:00 · INP, Interaction to Next Paint, misura quanto il sito risponde quando 
 - 08/12/26, 18:30 · Accessibilità: le microimprese di servizi sono esenti dall'European Ac
 - 10/12/26, 18:30 · Il testo grigio chiaro su fondo bianco è elegante sul monitor del desi
 - 12/12/26, 11:00 · Vero. Si chiama mobile-first indexing: Google usa la versione mobile d
 - 14/12/26, 18:30 · Se un utente ha rifiutato i cookie, il banner non va riproposto prima 
 - 15/12/26, 18:30 · European Accessibility Act: dal 28 giugno 2025 valgono obblighi di acc
-- 16/12/26, 18:30 · 
+- 16/12/26, 18:30 · Il titolo è la parte del sito che leggono tutti. Il resto, spesso no. 
 
 
 ## Ultime sostituzioni automatiche

@@ -729,6 +729,45 @@
     "needs_approval": [],
     "scheduled": [
       {
+        "id": "6b088d813accdac92cf6aa1d",
+        "dueAt": "2026-12-16T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Il titolo è la parte del sito che leggono tutti. Il resto, s",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6b088d80f0a96d0f2186ec78",
+        "dueAt": "2026-11-27T17:30:00.000Z",
+        "sentAt": null,
+        "text": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il temp",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
+        "id": "6b088d803accdac92cf6a9df",
+        "dueAt": "2026-12-05T10:00:00.000Z",
+        "sentAt": null,
+        "text": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle im",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "scheduled",
+        "via": "buffer"
+      },
+      {
         "id": "6b0784859f6dda31ccaee1a3",
         "dueAt": "2026-12-15T17:30:00.000Z",
         "sentAt": null,
@@ -746,32 +785,6 @@
         "dueAt": "2026-12-14T17:30:00.000Z",
         "sentAt": null,
         "text": "Se un utente ha rifiutato i cookie, il banner non va ripropo",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6b050258f0d7b1e0dea9f7e2",
-        "dueAt": "2026-12-13T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Basta Instagram per un'attività?\n\nNel 2025 il 76,5% delle im",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
-        "id": "6b034788d864a01105eeacf7",
-        "dueAt": "2026-11-26T17:30:00.000Z",
-        "sentAt": null,
-        "text": "In un anno le imprese italiane con almeno 10 addetti che usa",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -833,19 +846,6 @@
         "via": "buffer"
       },
       {
-        "id": "6af7915c78196a0a97261e08",
-        "dueAt": "2026-12-05T10:00:00.000Z",
-        "sentAt": null,
-        "text": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il temp",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "scheduled",
-        "via": "buffer"
-      },
-      {
         "id": "6aee4fb4af7e526d43e50cad",
         "dueAt": "2026-11-28T10:00:00.000Z",
         "sentAt": null,
@@ -879,6 +879,19 @@
         "dueAt": "2026-11-24T17:30:00.000Z",
         "sentAt": "2026-11-24T17:30:34.834Z",
         "text": "Banner dei cookie: quattro regole che ogni sito aziendale do",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
+      {
+        "id": "6b034788d864a01105eeacf7",
+        "dueAt": "2026-11-26T17:30:00.000Z",
+        "sentAt": "2026-11-26T17:32:27.105Z",
+        "text": "In un anno le imprese italiane con almeno 10 addetti che usa",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -1237,26 +1250,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ae115a42f35d654faeed7f2",
-        "dueAt": "2026-11-14T10:00:00.000Z",
-        "sentAt": "2026-11-14T10:01:44.853Z",
-        "text": "Più voci metti nel menu, più tempo serve per decidere dove c",
-        "channelService": "linkedin",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Wed, 25 Nov 2026 19:51:46 GMT 2888614",
-    "media/reel/R07.mp4": "200 Wed, 25 Nov 2026 19:51:47 GMT 3173777",
-    "index.html": "200 Wed, 25 Nov 2026 19:51:46 GMT 104461"
+    "media/reel/R02.mp4": "200 Thu, 26 Nov 2026 19:52:35 GMT 2888614",
+    "media/reel/R07.mp4": "200 Thu, 26 Nov 2026 19:52:35 GMT 3173777",
+    "index.html": "200 Thu, 26 Nov 2026 19:52:35 GMT 104461"
   }
 }
