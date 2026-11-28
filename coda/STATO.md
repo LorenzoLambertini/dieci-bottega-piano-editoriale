@@ -1,6 +1,6 @@
 # Stato coda social
 
-Ultimo controllo: 28/11/2026, 01:32:36
+Ultimo controllo: 28/11/2026, 15:17:54
 
 | Canale | Programmati su Buffer | Slot liberi |
 |---|---|---|
@@ -10,7 +10,6 @@ Ultimo controllo: 28/11/2026, 01:32:36
 
 | Quando | ID | Titolo | Instagram | Facebook | LinkedIn |
 |---|---|---|---|---|---|
-| 2026-11-28 11:00 | R31 | Banner cookie in regola | da_programmare | da_programmare | programmato |
 | 2026-11-29 11:00 | S01 | Sito del lunedì: il ristorante | manca_video | manca_video | manca_video |
 | 2026-11-30 18:30 | S07 | Sito del lunedì: il menu in PDF | manca_video | manca_video | manca_video |
 | 2026-12-01 18:30 | S05 | Il cliente delle 22 | manca_video | manca_video | manca_video |
@@ -31,16 +30,16 @@ Ultimo controllo: 28/11/2026, 01:32:36
 | 2026-12-16 18:30 | R46 | Quale titolo | da_programmare | da_programmare | programmato |
 | 2026-12-17 18:30 | S02 | Il numero che non si clicca | manca_video | manca_video | manca_video |
 | 2026-12-18 18:30 | R47 | Imprese che usano l’AI | da_programmare | da_programmare | programmato |
-| 2026-12-19 11:00 | R63 | Cinque domande | da_programmare | da_programmare | da_programmare |
+| 2026-12-19 11:00 | R63 | Cinque domande | da_programmare | da_programmare | programmato |
 | 2026-12-20 11:00 | R49 | Chi risponde entro un’ora | da_programmare | da_programmare | da_programmare |
 | 2026-12-21 18:30 | S10 | Sito del lunedì: audit su richiesta | manca_video | manca_video | manca_video |
 | 2026-12-22 18:30 | R51 | La versione da telefono | da_programmare | da_programmare | da_programmare |
+| 2026-12-23 18:30 | R68 | Il giorno undici | da_programmare | da_programmare | da_programmare |
 
 ## Cosa c'è su Buffer adesso
 
 ### linkedin
 
-- 28/11/26, 11:00 · Un banner cookie in regola deve permettere di chiudere o rifiutare con
 - 05/12/26, 11:00 · Basta Instagram per un'attività? Nel 2025 il 76,5% delle imprese itali
 - 06/12/26, 11:00 · INP, Interaction to Next Paint, misura quanto il sito risponde quando 
 - 08/12/26, 18:30 · Accessibilità: le microimprese di servizi sono esenti dall'European Ac
@@ -49,7 +48,8 @@ Ultimo controllo: 28/11/2026, 01:32:36
 - 14/12/26, 18:30 · Se un utente ha rifiutato i cookie, il banner non va riproposto prima 
 - 15/12/26, 18:30 · European Accessibility Act: dal 28 giugno 2025 valgono obblighi di acc
 - 16/12/26, 18:30 · Il titolo è la parte del sito che leggono tutti. Il resto, spesso no. 
-- 18/12/26, 18:30 · 
+- 18/12/26, 18:30 · Nel 2025 il 16,4% delle imprese italiane con almeno 10 addetti usa l'i
+- 19/12/26, 11:00 · 
 
 
 ## Ultime sostituzioni automatiche

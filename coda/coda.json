@@ -2349,7 +2349,9 @@
         "linkedin": {
           "testo": "Cinque domande da fare a un'agenzia prima di firmare:\n\n1. Chi lavora davvero al progetto?\n2. A chi è intestato il dominio?\n3. Con quale tecnologia, e perché?\n4. Quando si pensa a Google?\n5. Cosa succede dopo il lancio?\n\nLe nostre risposte: Lorenzo e Tommaso. A te. Next.js, codice scritto a mano. Dal primo giorno. Supporto post-lancio, incluso.\n\nPrezzi pubblici, tempi reali, limiti chiari.\n\n#PMI #Consigli #WebDesign",
           "video": "media/reel/R63.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6b0ae291b8ec87c6cecf7900",
+          "programmatoIl": "2026-11-28T14:17:53.992Z"
         }
       }
     },
