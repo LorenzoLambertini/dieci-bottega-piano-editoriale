@@ -2322,7 +2322,9 @@
         "linkedin": {
           "testo": "Nel 2025 il 16,4% delle imprese italiane con almeno 10 addetti usa l'intelligenza artificiale. Il doppio del 2024. (Istat, Imprese e ICT)\n\nMa la media nasconde una frattura: nelle grandi imprese siamo al 53,1%, nelle PMI al 15,7%.\n\nNon è una questione di budget. Molte automazioni utili a una piccola attività costano meno di un abbonamento software.\n\n#IntelligenzaArtificiale #Istat #PMI",
           "video": "media/reel/R47.mp4",
-          "stato": "da_programmare"
+          "stato": "programmato",
+          "bufferId": "6b0a21242a2e4f66cae6caba",
+          "programmatoIl": "2026-11-28T00:32:36.168Z"
         }
       }
     },

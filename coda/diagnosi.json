@@ -729,10 +729,10 @@
     "needs_approval": [],
     "scheduled": [
       {
-        "id": "6b088d813accdac92cf6aa1d",
-        "dueAt": "2026-12-16T17:30:00.000Z",
+        "id": "6b0a21242a2e4f66cae6caba",
+        "dueAt": "2026-12-18T17:30:00.000Z",
         "sentAt": null,
-        "text": "Il titolo è la parte del sito che leggono tutti. Il resto, s",
+        "text": "Nel 2025 il 16,4% delle imprese italiane con almeno 10 addet",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -742,10 +742,10 @@
         "via": "buffer"
       },
       {
-        "id": "6b088d80f0a96d0f2186ec78",
-        "dueAt": "2026-11-27T17:30:00.000Z",
+        "id": "6b088d813accdac92cf6aa1d",
+        "dueAt": "2026-12-16T17:30:00.000Z",
         "sentAt": null,
-        "text": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il temp",
+        "text": "Il titolo è la parte del sito che leggono tutti. Il resto, s",
         "channelService": "linkedin",
         "error": null,
         "notificationStatus": null,
@@ -861,6 +861,19 @@
     ],
     "sending": [],
     "sent": [
+      {
+        "id": "6b088d80f0a96d0f2186ec78",
+        "dueAt": "2026-11-27T17:30:00.000Z",
+        "sentAt": "2026-11-27T17:31:01.300Z",
+        "text": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il temp",
+        "channelService": "linkedin",
+        "error": null,
+        "notificationStatus": null,
+        "schedulingType": "automatic",
+        "shareMode": "customScheduled",
+        "status": "sent",
+        "via": "buffer"
+      },
       {
         "id": "6b070252304332fdc8e04e4c",
         "dueAt": "2026-11-25T17:30:00.000Z",
@@ -1237,26 +1250,13 @@
         "shareMode": "customScheduled",
         "status": "sent",
         "via": "buffer"
-      },
-      {
-        "id": "6ae3a39b98c11c76e3762f81",
-        "dueAt": "2026-10-30T17:30:00.000Z",
-        "sentAt": "2026-10-30T17:31:01.289Z",
-        "text": "Perché si chiama Dieci Bottega?\n\nDieci: i giorni dal brief a",
-        "channelService": "facebook",
-        "error": null,
-        "notificationStatus": null,
-        "schedulingType": "automatic",
-        "shareMode": "customScheduled",
-        "status": "sent",
-        "via": "buffer"
       }
     ]
   },
   "link": {
     "media/reel/R06b.mp4": "404  5254",
-    "media/reel/R02.mp4": "200 Thu, 26 Nov 2026 19:52:35 GMT 2888614",
-    "media/reel/R07.mp4": "200 Thu, 26 Nov 2026 19:52:35 GMT 3173777",
-    "index.html": "200 Thu, 26 Nov 2026 19:52:35 GMT 104461"
+    "media/reel/R02.mp4": "200 Fri, 27 Nov 2026 15:12:47 GMT 2888614",
+    "media/reel/R07.mp4": "200 Fri, 27 Nov 2026 15:12:47 GMT 3173777",
+    "index.html": "200 Fri, 27 Nov 2026 15:12:46 GMT 104461"
   }
 }

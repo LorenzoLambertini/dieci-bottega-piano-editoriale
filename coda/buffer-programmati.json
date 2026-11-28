@@ -1,17 +1,6 @@
 {
   "linkedin": [
     {
-      "id": "6b088d80f0a96d0f2186ec78",
-      "dueAt": "2026-11-27T17:30:00.000Z",
-      "text": "Perché un sito dovrebbe richiedere tre mesi?\n\nSpesso il tempo non va nel lavoro, va nelle attese: riunioni, approvazioni, passaggi di mano.\n\nConsegnare in dieci giorni è dire al cliente: il tuo tempo conta quanto il nostro. Non è una scorciatoia: è un metodo, con un calendario preciso e due round di revisione.\n\nVeloci, non frettolosi.\n\n#Metodo #PMI #WebDesign",
-      "assets": [
-        {
-          "src": "https://lorenzolambertini.github.io/dieci-bottega-piano-editoriale/media/reel/R43.mp4",
-          "tipo": "video/mp4"
-        }
-      ]
-    },
-    {
       "id": "6aee4fb4af7e526d43e50cad",
       "dueAt": "2026-11-28T10:00:00.000Z",
       "text": "Un banner cookie in regola deve permettere di chiudere o rifiutare con la stessa facilità con cui si accetta. Chiudere con la X equivale a rifiutare.\n\nE bloccare il sito finché l'utente non accetta (il cosiddetto cookie wall) non è ammesso. (Garante Privacy, linee guida 2021)\n\nMolti siti aziendali usano ancora banner con il solo \"Accetta tutto\". È uno dei controlli che facciamo prima di mettere online un sito.\n\nInformazione generale, non è una consulenza legale.\n\n#GDPR #Cookie #PMI",

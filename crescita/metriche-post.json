@@ -1,11 +1,27 @@
 [
   {
     "canale": "linkedin",
+    "bufferId": "6b088d80f0a96d0f2186ec78",
+    "contenuto": "R43",
+    "titolo": "Tre mesi",
+    "uscito": "2026-11-27T17:31:01.300Z",
+    "aggiornato": "2026-11-26T19:50:24.469Z",
+    "metriche": {
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "reach": 0,
+      "shares": 0
+    }
+  },
+  {
+    "canale": "linkedin",
     "bufferId": "6b070252304332fdc8e04e4c",
     "contenuto": "R36",
     "titolo": "Il nome su Maps",
     "uscito": "2026-11-25T17:30:39.819Z",
-    "aggiornato": "2026-11-26T17:24:07.810Z",
+    "aggiornato": "2026-11-27T17:24:18.580Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -21,7 +37,7 @@
     "contenuto": "R50",
     "titolo": "La X del banner",
     "uscito": "2026-11-24T17:30:34.834Z",
-    "aggiornato": "2026-11-26T17:24:07.869Z",
+    "aggiornato": "2026-11-27T17:24:18.612Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -37,7 +53,7 @@
     "contenuto": "R65",
     "titolo": "AI nelle imprese",
     "uscito": "2026-11-26T17:32:27.105Z",
-    "aggiornato": "2026-11-22T19:50:32.308Z",
+    "aggiornato": "2026-11-27T17:24:18.644Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -53,7 +69,7 @@
     "contenuto": "R29",
     "titolo": "Le voci nel menu",
     "uscito": "2026-11-23T17:31:45.919Z",
-    "aggiornato": "2026-11-26T17:24:07.905Z",
+    "aggiornato": "2026-11-27T17:24:18.584Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -69,7 +85,7 @@
     "contenuto": "R33",
     "titolo": "Con cosa e fatto",
     "uscito": "2026-11-22T10:00:53.427Z",
-    "aggiornato": "2026-11-26T17:24:07.864Z",
+    "aggiornato": "2026-11-27T17:24:18.593Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -85,7 +101,7 @@
     "contenuto": "R60",
     "titolo": "La scheda Google",
     "uscito": "2026-11-20T17:31:14.528Z",
-    "aggiornato": "2026-11-26T17:24:07.838Z",
+    "aggiornato": "2026-11-27T17:24:18.639Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -101,7 +117,7 @@
     "contenuto": "R32",
     "titolo": "Microimprese esenti",
     "uscito": "2026-11-18T17:31:58.232Z",
-    "aggiornato": "2026-11-26T17:24:07.861Z",
+    "aggiornato": "2026-11-27T17:24:18.621Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -117,7 +133,7 @@
     "contenuto": "R48",
     "titolo": "Di chi e il sito",
     "uscito": "2026-11-17T17:32:07.104Z",
-    "aggiornato": "2026-11-26T17:24:07.848Z",
+    "aggiornato": "2026-11-27T17:24:18.655Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -133,7 +149,7 @@
     "contenuto": "R34",
     "titolo": "AI Mode in italiano",
     "uscito": "2026-11-16T17:31:48.820Z",
-    "aggiornato": "2026-11-26T17:24:07.852Z",
+    "aggiornato": "2026-11-27T17:24:18.652Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -149,7 +165,7 @@
     "contenuto": "R28",
     "titolo": "Quando ci scrivi",
     "uscito": "2026-11-15T10:00:43.777Z",
-    "aggiornato": "2026-11-26T17:24:07.901Z",
+    "aggiornato": "2026-11-27T17:24:18.685Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -165,7 +181,7 @@
     "contenuto": "R40",
     "titolo": "Un protocollo",
     "uscito": "2026-11-13T17:31:27.108Z",
-    "aggiornato": "2026-11-26T17:24:07.871Z",
+    "aggiornato": "2026-11-27T17:24:18.663Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -181,7 +197,7 @@
     "contenuto": "R24",
     "titolo": "Il tempo LCP",
     "uscito": "2026-11-12T17:31:23.600Z",
-    "aggiornato": "2026-11-26T20:37:19.337Z",
+    "aggiornato": "2026-11-27T19:33:49.797Z",
     "metriche": {
       "reactions": 1,
       "comments": 0,
@@ -200,7 +216,7 @@
     "contenuto": "R38",
     "titolo": "Ti riconosci",
     "uscito": "2026-11-11T17:31:44.006Z",
-    "aggiornato": "2026-11-26T17:24:07.867Z",
+    "aggiornato": "2026-11-27T17:24:18.671Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -216,7 +232,7 @@
     "contenuto": "R27",
     "titolo": "Il ranking locale",
     "uscito": "2026-11-10T17:31:44.193Z",
-    "aggiornato": "2026-11-26T17:24:07.831Z",
+    "aggiornato": "2026-11-27T17:24:18.653Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -232,7 +248,7 @@
     "contenuto": "R22",
     "titolo": "La X accetta i cookie",
     "uscito": "2026-11-09T17:31:45.833Z",
-    "aggiornato": "2026-11-26T17:24:07.824Z",
+    "aggiornato": "2026-11-27T17:24:18.670Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -248,7 +264,7 @@
     "contenuto": "R25",
     "titolo": "Solo un effetto",
     "uscito": "2026-11-08T10:00:59.992Z",
-    "aggiornato": "2026-11-26T17:24:07.912Z",
+    "aggiornato": "2026-11-27T17:24:18.643Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -264,7 +280,7 @@
     "contenuto": "R11",
     "titolo": "La foto del chi siamo",
     "uscito": "2026-11-06T17:31:36.485Z",
-    "aggiornato": "2026-11-26T17:24:07.851Z",
+    "aggiornato": "2026-11-27T17:24:18.683Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -280,7 +296,7 @@
     "contenuto": "R12",
     "titolo": "Solo qualche visita persa",
     "uscito": "2026-11-04T17:31:45.278Z",
-    "aggiornato": "2026-11-26T17:24:07.877Z",
+    "aggiornato": "2026-11-27T17:24:18.641Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -296,7 +312,7 @@
     "contenuto": "R20",
     "titolo": "Chi c’e dietro",
     "uscito": "2026-11-03T17:31:27.271Z",
-    "aggiornato": "2026-11-26T17:24:07.859Z",
+    "aggiornato": "2026-11-27T17:24:18.661Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -312,7 +328,7 @@
     "contenuto": null,
     "titolo": "Quando la pagina si sposta mentre carica e il bottone ti sca",
     "uscito": "2026-11-21T10:02:41.489Z",
-    "aggiornato": "2026-11-26T17:24:07.865Z",
+    "aggiornato": "2026-11-27T17:24:18.648Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -328,7 +344,7 @@
     "contenuto": "R09",
     "titolo": "La X dei cookie",
     "uscito": "2026-11-02T17:31:58.482Z",
-    "aggiornato": "2026-11-26T17:24:07.872Z",
+    "aggiornato": "2026-11-27T17:24:18.625Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -344,7 +360,7 @@
     "contenuto": "R23",
     "titolo": "Perche Bottega",
     "uscito": "2026-10-30T17:31:08.121Z",
-    "aggiornato": "2026-11-26T20:37:19.337Z",
+    "aggiornato": "2026-11-27T19:33:49.797Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -360,7 +376,7 @@
     "contenuto": "R21",
     "titolo": "Quale menu",
     "uscito": "2026-11-14T10:01:44.853Z",
-    "aggiornato": "2026-11-26T17:24:07.904Z",
+    "aggiornato": "2026-11-27T17:24:18.650Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -376,7 +392,7 @@
     "contenuto": "R19",
     "titolo": "Quante imprese hanno un sito",
     "uscito": "2026-11-07T10:02:36.619Z",
-    "aggiornato": "2026-11-26T20:37:19.337Z",
+    "aggiornato": "2026-11-27T19:33:49.797Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -392,7 +408,7 @@
     "contenuto": "R18",
     "titolo": "Non solo siti",
     "uscito": "2026-11-01T10:01:43.666Z",
-    "aggiornato": "2026-11-26T20:37:19.337Z",
+    "aggiornato": "2026-11-27T19:33:49.797Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -408,7 +424,7 @@
     "contenuto": "R17",
     "titolo": "Lo sguardo a F",
     "uscito": "2026-10-31T10:02:34.210Z",
-    "aggiornato": "2026-11-26T20:37:19.337Z",
+    "aggiornato": "2026-11-27T19:33:49.797Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -424,7 +440,7 @@
     "contenuto": "R15",
     "titolo": "Il giorno dieci",
     "uscito": "2026-10-25T10:02:23.036Z",
-    "aggiornato": "2026-11-26T17:24:07.842Z",
+    "aggiornato": "2026-11-27T17:24:18.675Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -440,7 +456,7 @@
     "contenuto": "R14",
     "titolo": "Rispondere entro un’ora",
     "uscito": "2026-10-24T09:02:02.965Z",
-    "aggiornato": "2026-11-26T17:24:07.879Z",
+    "aggiornato": "2026-11-27T17:24:18.677Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -456,7 +472,7 @@
     "contenuto": "R13",
     "titolo": "A volte diciamo di no",
     "uscito": "2026-10-21T16:32:02.889Z",
-    "aggiornato": "2026-11-26T17:24:07.880Z",
+    "aggiornato": "2026-11-27T17:24:18.640Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -472,7 +488,7 @@
     "contenuto": "R16",
     "titolo": "Quale testo si legge",
     "uscito": "2026-10-18T09:00:54.413Z",
-    "aggiornato": "2026-11-26T17:24:07.892Z",
+    "aggiornato": "2026-11-27T17:24:18.632Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -488,7 +504,7 @@
     "contenuto": "R06",
     "titolo": "Quale homepage",
     "uscito": "2026-10-29T17:31:41.408Z",
-    "aggiornato": "2026-11-26T17:24:07.887Z",
+    "aggiornato": "2026-11-27T17:24:18.614Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -504,7 +520,7 @@
     "contenuto": "R08",
     "titolo": "Da zero a online",
     "uscito": "2026-10-22T16:31:50.675Z",
-    "aggiornato": "2026-11-26T17:24:07.845Z",
+    "aggiornato": "2026-11-27T17:24:18.686Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -520,7 +536,7 @@
     "contenuto": "R04",
     "titolo": "Tre secondi su mobile",
     "uscito": "2026-10-20T16:31:54.189Z",
-    "aggiornato": "2026-11-26T17:24:07.853Z",
+    "aggiornato": "2026-11-27T17:24:18.667Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -536,7 +552,7 @@
     "contenuto": "R05",
     "titolo": "Quanto costa un sito",
     "uscito": "2026-10-15T16:31:16.984Z",
-    "aggiornato": "2026-11-26T17:24:07.847Z",
+    "aggiornato": "2026-11-27T17:24:18.659Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -552,7 +568,7 @@
     "contenuto": "C01",
     "titolo": "Prova con il pollice · analisi gratuita",
     "uscito": "2026-10-14T10:30:36.048Z",
-    "aggiornato": "2026-11-26T17:24:07.910Z",
+    "aggiornato": "2026-11-27T17:24:18.634Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -571,7 +587,7 @@
     "contenuto": "R07",
     "titolo": "Cosa significa GEO",
     "uscito": "2026-10-27T17:31:48.619Z",
-    "aggiornato": "2026-11-26T17:24:07.917Z",
+    "aggiornato": "2026-11-27T17:24:18.656Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -587,7 +603,7 @@
     "contenuto": "P11",
     "titolo": "Dieci Anni",
     "uscito": "2026-10-26T11:31:15.432Z",
-    "aggiornato": "2026-11-26T17:24:07.834Z",
+    "aggiornato": "2026-11-27T17:24:18.607Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -702,7 +718,7 @@
     "contenuto": "R03",
     "titolo": "Il bottone",
     "uscito": "2026-10-13T16:30:59.887Z",
-    "aggiornato": "2026-11-26T17:24:07.876Z",
+    "aggiornato": "2026-11-27T17:24:18.741Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -734,7 +750,7 @@
     "contenuto": "P09",
     "titolo": "CRM",
     "uscito": "2026-10-19T10:30:46.908Z",
-    "aggiornato": "2026-11-26T17:24:07.914Z",
+    "aggiornato": "2026-11-27T17:24:18.627Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
@@ -750,7 +766,7 @@
     "contenuto": "P08",
     "titolo": "AI Mestiere",
     "uscito": "2026-10-16T10:30:53.580Z",
-    "aggiornato": "2026-11-26T17:24:07.919Z",
+    "aggiornato": "2026-11-27T17:24:18.646Z",
     "metriche": {
       "reactions": 0,
       "comments": 0,
